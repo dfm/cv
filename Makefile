@@ -1,4 +1,4 @@
-LATEX       = TEXINPUTS=..:${TEXINPUTS} pdflatex
+LATEX       = pdflatex
 BASH        = bash -c
 ECHO        = echo
 RM          = rm -rf
