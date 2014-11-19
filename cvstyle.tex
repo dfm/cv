@@ -1,0 +1,75 @@
+\usepackage{color}
+\usepackage{fancyheadings}
+\usepackage{hyperref}
+\usepackage{ifthen}
+
+% Date formatting.
+\usepackage[yyyymmdd]{datetime}
+\renewcommand{\dateseparator}{-}
+
+% Link formatting.
+\definecolor{linkcolor}{rgb}{0,0,0.4}
+\hypersetup{%
+    colorlinks=true,        % false: boxed links; true: colored links
+    linkcolor=linkcolor,    % color of internal links
+    citecolor=linkcolor,    % color of links to bibliography
+    filecolor=linkcolor,    % color of file links
+    urlcolor=linkcolor      % color of external links
+}
+
+% Text formatting.
+\newcommand{\foreign}[1]{\textit{#1}}
+\newcommand{\etal}{\foreign{et~al}}
+\newcommand{\project}[1]{\textsl{#1}}
+\definecolor{grey}{rgb}{0.5,0.5,0.5}
+\newcommand{\deemph}[1]{\textcolor{grey}{\footnotesize{#1}}}
+
+% literature links--use doi if you can
+  \newcommand{\doi}[2]{\emph{\href{http://dx.doi.org/#1}{{#2}}}}
+  \newcommand{\ads}[2]{\href{http://adsabs.harvard.edu/abs/#1}{{#2}}}
+  \newcommand{\isbn}[1]{{\footnotesize(\textsc{isbn:}{#1})}}
+  \newcommand{\arxiv}[1]{{\href{http://arxiv.org/abs/#1}{arXiv:{#1}}}}
+
+% Section headings.
+\newcommand{\cvheading}[1]{\addvspace{1ex}\pagebreak[2]\par\textbf{#1}\nopagebreak\vspace{-0.4em}}
+
+% Set up the custom unordered list.
+\newcounter{refpubnum}
+\newcommand{\cvlist}{%
+    \rightmargin=0in
+    \leftmargin=0.15in
+    \topsep=0ex
+    \partopsep=0pt
+    \itemsep=0.2ex
+    \parsep=0pt
+    \itemindent=-1.0\leftmargin
+    \listparindent=0.0\leftmargin
+    \settowidth{\labelsep}{~}
+    \usecounter{refpubnum}
+}
+
+% Margins and spaces.
+\raggedright
+\setlength{\oddsidemargin}{0in}
+\setlength{\topmargin}{0in}
+\setlength{\headsep}{0.20in}
+\setlength{\headheight}{0.25in}
+\setlength{\textheight}{9.00in}
+\addtolength{\topmargin}{-\headsep}
+\addtolength{\topmargin}{-\headheight}
+\setlength{\textwidth}{6.50in}
+\setlength{\parindent}{0in}
+\setlength{\parskip}{1ex}
+
+% Headings and footings.
+\renewcommand{\headrulewidth}{0pt}
+\pagestyle{fancy}
+\lhead{\deemph{Daniel Foreman-Mackey}}
+\chead{\deemph{Curriculum Vitae}}
+\rhead{\deemph{\thepage}}
+\cfoot{\deemph{Last updated: \today}}
+
+% Journal names.
+\newcommand{\aj}{AJ}
+\newcommand{\apj}{ApJ}
+\newcommand{\pasp}{PASP}
