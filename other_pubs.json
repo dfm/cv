@@ -1,0 +1,60 @@
+[
+  {
+    "arxiv": null,
+    "authors": [
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Hogg, David W.",
+      "Wang, Dun",
+      "Foreman-Mackey, Daniel",
+      "Janzing, Dominik",
+      "Simon-Gabriel, Carl-Johann",
+      "Peters, Jonas"
+    ],
+    "doctype": "article",
+    "doi": "10.1073/pnas.1511656113",
+    "pub": "PNAS",
+    "page": 27,
+    "pubdate": "2016-04-00",
+    "title": "Modeling confounding by half-sibling regression",
+    "volume": "113",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1505.03036",
+    "authors": [
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Hogg, David W.",
+      "Wang, Dun",
+      "Foreman-Mackey, Daniel",
+      "Janzing, Dominik",
+      "Simon-Gabriel, Carl-Johann",
+      "Peters, Jonas"
+    ],
+    "doctype": "article",
+    "doi": null,
+    "pub": "ICML",
+    "page": 2218,
+    "pubdate": "2015-05-00",
+    "title": "Removing systematic errors for exoplanet search via latent causes",
+    "volume": "37",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1403.6015",
+    "authors": [
+      "Ambikasaran, Sivaram",
+      "Foreman-Mackey, Daniel",
+      "Greengard, Leslie",
+      "Hogg, David W.",
+      "O'Neil, Michael"
+    ],
+    "doctype": "article",
+    "doi": "10.1109/TPAMI.2015.2448083",
+    "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "page": 252,
+    "pubdate": "2016-02-00",
+    "title": "Fast Direct Methods for Gaussian Processes",
+    "volume": "38",
+    "year": "2016"
+  }
+]
