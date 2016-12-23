@@ -62,7 +62,7 @@ log = logging.getLogger(__name__)
 utf82latex={
 34:"''", 	# character "
 35:'\\#', 	# character #
-36:'\\$', 	# character $
+#  36:'\\$', 	# character $
 37:'\\%', 	# character %
 38:'\\&', 	# character &
 95:'\\_', 	# character _

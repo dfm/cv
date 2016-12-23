@@ -2,6 +2,21 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "doctype": "article",
+    "doi": "10.21105/joss.00024",
+    "pub": "The Journal of Open Source Software",
+    "page": 2,
+    "pubdate": "2016-06-00",
+    "title": "corner.py: Scatterplot matrices in Python",
+    "volume": "1",
+    "year": "2016",
+    "citations": 15
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Sch{\\\"o}lkopf, Bernhard",
       "Hogg, David W.",
       "Wang, Dun",
@@ -17,7 +32,8 @@
     "pubdate": "2016-04-00",
     "title": "Modeling confounding by half-sibling regression",
     "volume": "113",
-    "year": "2016"
+    "year": "2016",
+    "citations": 1
   },
   {
     "arxiv": "1505.03036",
@@ -37,7 +53,8 @@
     "pubdate": "2015-05-00",
     "title": "Removing systematic errors for exoplanet search via latent causes",
     "volume": "37",
-    "year": "2015"
+    "year": "2015",
+    "citations": 2
   },
   {
     "arxiv": "1403.6015",
@@ -55,6 +72,7 @@
     "pubdate": "2016-02-00",
     "title": "Fast Direct Methods for Gaussian Processes",
     "volume": "38",
-    "year": "2016"
+    "year": "2016",
+    "citations": 0
   }
 ]

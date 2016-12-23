@@ -4,6 +4,7 @@
 from __future__ import division, print_function
 
 import json
+from datetime import date
 from operator import itemgetter
 
 __all__ = ["format_pub"]
@@ -54,6 +55,9 @@ def format_pub(pub):
     if pub["arxiv"] is not None:
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
+    if pub["citations"] > 1:
+        fmt += " [{0} citations]".format(pub["citations"])
+
     pub["fmt"] = fmt
     return pub
 
@@ -65,9 +69,26 @@ if __name__ == "__main__":
         other_pubs = json.load(f)
     for p in other_pubs:
         for p1 in pubs:
-            if p["arxiv"] == p1["arxiv"] or p["title"] == p1["title"]:
+            if (p1["arxiv"] is not None and p["arxiv"] == p1["arxiv"]) or \
+                    p["title"] == p1["title"]:
+                p["citations"] = max(p["citations"], p1["citations"])
                 pubs.remove(p1)
     pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
+    pubs = [p for p in pubs if p["doctype"] in ["article", "eprint"]]
+
+    # Compute citation stats
+    npapers = len(pubs)
+    nfirst = sum(1 for p in pubs if "Foreman-Mackey" in p["authors"][0])
+    cites = sorted((p["citations"] for p in pubs), reverse=True)
+    ncitations = sum(cites)
+    hindex = sum(c >= i for i, c in enumerate(cites))
+
+    summary = ("{1} / first author: {2} / citations: {3} / h-index: {4} ({0})"
+               .format(date.today(), npapers, nfirst, ncitations, hindex))
+    with open("pubs_summary.tex", "w") as f:
+        f.write(summary)
+
+    # Format the publications
     pubs = list(map(format_pub, pubs))
 
     ref = [p["fmt"] for p in pubs if p["doctype"] == "article"]
