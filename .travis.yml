@@ -1,0 +1,24 @@
+sudo: false
+
+language: c
+
+addons:
+    apt:
+        packages:
+            - texlive-latex-recommended
+            - texlive-latex-extra
+            - texlive-fonts-recommended
+            - texlive-fonts-extra
+
+script:
+    - make
+
+after_success: |
+    if [ -n "$GITHUB_API_KEY" ]; then
+        git checkout --orphan pdf
+        git rm -rf .
+        git add -f cv_pubs.pdf
+        git -c user.name='travis' -c user.email='travis' commit -m init
+        git push -q -f https://dfm:$GITHUB_API_KEY@github.com/dfm/cv pdf
+    fi
+
