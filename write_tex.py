@@ -19,8 +19,9 @@ JOURNAL_MAP = {
     "American Astronomical Society Meeting Abstracts": "AAS",
 }
 
-def format_pub(pub):
-    fmt = "\\item "
+def format_pub(args):
+    ind, pub = args
+    fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     n = [i for i in range(len(pub["authors"]))
          if "Foreman-Mackey, D" in pub["authors"][i]][0]
     pub["authors"][n] = "\\textbf{Foreman-Mackey, Daniel}"
@@ -58,8 +59,7 @@ def format_pub(pub):
     if pub["citations"] > 1:
         fmt += " [{0} citations]".format(pub["citations"])
 
-    pub["fmt"] = fmt
-    return pub
+    return fmt
 
 
 if __name__ == "__main__":
@@ -75,24 +75,24 @@ if __name__ == "__main__":
                 pubs.remove(p1)
     pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
     pubs = [p for p in pubs if p["doctype"] in ["article", "eprint"]]
+    ref = [p for p in pubs if p["doctype"] == "article"]
+    unref = [p for p in pubs if p["doctype"] == "eprint"]
 
     # Compute citation stats
-    npapers = len(pubs)
+    npapers = len(ref)
     nfirst = sum(1 for p in pubs if "Foreman-Mackey" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
 
-    summary = ("{1} / first author: {2} / citations: {3} / h-index: {4} ({0})"
+    summary = (("refereed: {1} / first author: {2} / citations: {3} / "
+               "h-index: {4} ({0})")
                .format(date.today(), npapers, nfirst, ncitations, hindex))
     with open("pubs_summary.tex", "w") as f:
         f.write(summary)
 
-    # Format the publications
-    pubs = list(map(format_pub, pubs))
-
-    ref = [p["fmt"] for p in pubs if p["doctype"] == "article"]
-    unref = [p["fmt"] for p in pubs if p["doctype"] == "eprint"]
+    ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
+    unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
     with open("pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
     with open("pubs_unref.tex", "w") as f:

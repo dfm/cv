@@ -14,8 +14,10 @@ all: ${ALL_FILES}
 
 %.pdf: %.tex cvstyle.tex pubs_ref.tex pubs_unref.tex pubs.json other_pubs.json
 	${LATEX} $<
+	${LATEX} $<
 
-cv_pubs.pdf: cv.tex pubs_*.tex cvstyle.tex
+cv_pubs.pdf: cv.tex pubs_*.tex cvstyle.tex pubs.json other_pubs.json
+	${LATEX} -jobname=cv_pubs "\def\withpubs{}\input{cv}"
 	${LATEX} -jobname=cv_pubs "\def\withpubs{}\input{cv}"
 
 clean:
