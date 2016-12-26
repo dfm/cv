@@ -18,7 +18,7 @@ after_success: |
         cd $TRAVIS_BUILD_DIR
         git checkout --orphan $TRAVIS_BRANCH-pdf
         git rm -rf .
-        git add -f cv_pubs.pdf
+        git add -f cv_pubs.pdf cv.pdf pubs.pdf
         git -c user.name='travis' -c user.email='travis' commit -m "current pdf"
         git push -q -f https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG $TRAVIS_BRANCH-pdf
     fi
