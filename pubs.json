@@ -1,5 +1,69 @@
 [
   {
+    "arxiv": "1702.05488",
+    "authors": [
+      "Luger, Rodrigo",
+      "Kruse, Ethan",
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Saunders, Nicholas"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2017-02-00",
+    "title": "An update to the EVEREST K2 pipeline: Short cadence, saturated stars, and Kepler-like photometry down to Kp = 15",
+    "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Hogg, David W.",
+      "Foreman-Mackey, Daniel",
+      "Rix, Hans-Walter"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2017-01-00",
+    "title": "The Joker: A custom Monte Carlo sampler for binary-star and exoplanet radial velocity data",
+    "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": "1601.05413",
+    "authors": [
+      "Hogg, David W.",
+      "Casey, Andrew R.",
+      "Ness, Melissa",
+      "Rix, Hans-Walter",
+      "Foreman-Mackey, Daniel",
+      "Hasselquist, Sten",
+      "Ho, Anna Y. Q.",
+      "Holtzman, Jon A.",
+      "Majewski, Steven R.",
+      "Martell, Sarah L.",
+      "M{\\'e}sz{\\'a}ros, Szabolcs",
+      "Nidever, David L.",
+      "Shetrone, Matthew"
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/833/2/262",
+    "page": 262,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2016-12-00",
+    "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
+    "volume": "833",
+    "year": "2016"
+  },
+  {
     "arxiv": "1607.08237",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -149,7 +213,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 11,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -157,6 +221,23 @@
     "pubdate": "2016-12-00",
     "title": "Campaign 9 of the K2 Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Aigrain, Susanne",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "misc",
+    "doi": "10.1017/S1743921316002738",
+    "page": 191,
+    "pub": null,
+    "pubdate": "2016-10-00",
+    "title": "Stellar rotation period inference with Gaussian processes",
+    "volume": "29A",
     "year": "2016"
   },
   {
@@ -188,7 +269,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 5,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -292,7 +373,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 20,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -403,33 +484,6 @@
     "year": "2016"
   },
   {
-    "arxiv": "1601.05413",
-    "authors": [
-      "Hogg, David W.",
-      "Casey, Andrew R.",
-      "Ness, Melissa",
-      "Rix, Hans-Walter",
-      "Foreman-Mackey, Daniel",
-      "Hasselquist, Sten",
-      "Ho, Anna Y. Q.",
-      "Holtzman, Jon A.",
-      "Majewski, Steven R.",
-      "Martell, Sarah L.",
-      "Meszaros, Szabolcs",
-      "NIdever, David L.",
-      "Shetrone, Matthew"
-    ],
-    "citations": 6,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2016-01-00",
-    "title": "Chemical tagging can work: Identification of stellar phase-space structures purely by chemical-abundance similarity",
-    "volume": null,
-    "year": "2016"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Angus, Ruth",
@@ -475,7 +529,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 27,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -497,7 +551,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -603,7 +657,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 12,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -623,7 +677,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 45,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -641,7 +695,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -844,7 +898,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 39,
+    "citations": 41,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -868,7 +922,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 18,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -955,7 +1009,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 900,
+    "citations": 963,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
