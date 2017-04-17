@@ -1,5 +1,102 @@
 [
   {
+    "arxiv": "1610.07602",
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Hogg, David W.",
+      "Foreman-Mackey, Daniel",
+      "Rix, Hans-Walter"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa5e50",
+    "page": 20,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-03-00",
+    "title": "The Joker: A Custom Monte Carlo Sampler for Binary-star and Exoplanet Radial Velocity Data",
+    "volume": "837",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1703.09710",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Ambikasaran, Sivaram"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2017-03-00",
+    "title": "Fast and scalable Gaussian process modeling with applications to astronomical time series",
+    "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": "1703.04166",
+    "authors": [
+      "Luger, Rodrigo",
+      "Sestovic, Marko",
+      "Kruse, Ethan",
+      "Grimm, Simon L.",
+      "Demory, Brice-Olivier",
+      "Agol, Eric",
+      "Bolmont, Emeline",
+      "Fabrycky, Daniel",
+      "Fernandes, Catarina S.",
+      "Van Grootel, Val{\\'e}rie",
+      "Burgasser, Adam",
+      "Gillon, Micha{\\\"e}l",
+      "Ingalls, James G.",
+      "Jehin, Emmanu{\\\"e}l",
+      "Raymond, Sean N.",
+      "Selsis, Franck",
+      "Triaud, Amaury H. M. J.",
+      "Barclay, Thomas",
+      "Barentsen, Geert",
+      "Delrez, Laetitia",
+      "de Wit, Julien",
+      "Foreman-Mackey, Daniel",
+      "Holdsworth, Daniel L.",
+      "Leconte, J{\\'e}r{\\'e}my",
+      "Lederer, Susan",
+      "Turbet, Martin",
+      "Almleaky, Yaseen",
+      "Benkhaldoun, Zouhair",
+      "Magain, Pierre",
+      "Morris, Brett",
+      "Heng, Kevin",
+      "Queloz, Didier"
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2017-03-00",
+    "title": "A terrestrial-sized exoplanet at the snow line of TRAPPIST-1",
+    "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2017-02-00",
+    "title": "corner: Corner plots",
+    "volume": null,
+    "year": "2017"
+  },
+  {
     "arxiv": "1702.05488",
     "authors": [
       "Luger, Rodrigo",
@@ -8,7 +105,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -35,52 +132,6 @@
     "title": "The Joker: A custom Monte Carlo sampler for binary-star and exoplanet radial velocity data",
     "volume": null,
     "year": "2017"
-  },
-  {
-    "arxiv": "1601.05413",
-    "authors": [
-      "Hogg, David W.",
-      "Casey, Andrew R.",
-      "Ness, Melissa",
-      "Rix, Hans-Walter",
-      "Foreman-Mackey, Daniel",
-      "Hasselquist, Sten",
-      "Ho, Anna Y. Q.",
-      "Holtzman, Jon A.",
-      "Majewski, Steven R.",
-      "Martell, Sarah L.",
-      "M{\\'e}sz{\\'a}ros, Szabolcs",
-      "Nidever, David L.",
-      "Shetrone, Matthew"
-    ],
-    "citations": 7,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/833/2/262",
-    "page": 262,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2016-12-00",
-    "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
-    "volume": "833",
-    "year": "2016"
-  },
-  {
-    "arxiv": "1607.08237",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Morton, Timothy D.",
-      "Hogg, David W.",
-      "Agol, Eric",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.3847/0004-6256/152/6/206",
-    "page": 206,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2016-12-00",
-    "title": "The Population of Long-period Transiting Exoplanets",
-    "volume": "152",
-    "year": "2016"
   },
   {
     "arxiv": "1512.09142",
@@ -213,7 +264,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 14,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -224,6 +275,52 @@
     "year": "2016"
   },
   {
+    "arxiv": "1601.05413",
+    "authors": [
+      "Hogg, David W.",
+      "Casey, Andrew R.",
+      "Ness, Melissa",
+      "Rix, Hans-Walter",
+      "Foreman-Mackey, Daniel",
+      "Hasselquist, Sten",
+      "Ho, Anna Y. Q.",
+      "Holtzman, Jon A.",
+      "Majewski, Steven R.",
+      "Martell, Sarah L.",
+      "M{\\'e}sz{\\'a}ros, Szabolcs",
+      "Nidever, David L.",
+      "Shetrone, Matthew"
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/833/2/262",
+    "page": 262,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2016-12-00",
+    "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
+    "volume": "833",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1607.08237",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Morton, Timothy D.",
+      "Hogg, David W.",
+      "Agol, Eric",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 5,
+    "doctype": "article",
+    "doi": "10.3847/0004-6256/152/6/206",
+    "page": 206,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2016-12-00",
+    "title": "The Population of Long-period Transiting Exoplanets",
+    "volume": "152",
+    "year": "2016"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Angus, Ruth",
@@ -231,31 +328,13 @@
       "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
-    "doctype": "misc",
+    "doctype": "article",
     "doi": "10.1017/S1743921316002738",
     "page": 191,
-    "pub": null,
+    "pub": "IAU Focus Meeting",
     "pubdate": "2016-10-00",
     "title": "Stellar rotation period inference with Gaussian processes",
     "volume": "29A",
-    "year": "2016"
-  },
-  {
-    "arxiv": "1610.07602",
-    "authors": [
-      "Price-Whelan, Adrian M.",
-      "Hogg, David W.",
-      "Foreman-Mackey, Daniel",
-      "Rix, Hans-Walter"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2016-10-00",
-    "title": "The Joker: A custom Monte Carlo sampler for binary-star and exoplanet radial velocity data",
-    "volume": null,
     "year": "2016"
   },
   {
@@ -269,7 +348,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 7,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -287,7 +366,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -295,22 +374,6 @@
     "pubdate": "2016-09-00",
     "title": "A Causal, Data-driven Approach to Modeling the Kepler Data",
     "volume": "128",
-    "year": "2016"
-  },
-  {
-    "arxiv": "1606.03757",
-    "authors": [
-      "Brewer, Brendon J.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2016-06-00",
-    "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
-    "volume": null,
     "year": "2016"
   },
   {
@@ -373,7 +436,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 23,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -381,6 +444,22 @@
     "pubdate": "2016-06-00",
     "title": "State of the Field: Extreme Precision Radial Velocities",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1606.03757",
+    "authors": [
+      "Brewer, Brendon J.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2016-06-00",
+    "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
+    "volume": null,
     "year": "2016"
   },
   {
@@ -445,7 +524,7 @@
     "doctype": "inproceedings",
     "doi": "10.5281/zenodo.56793",
     "page": 35,
-    "pub": null,
+    "pub": "Python in Astronomy 2016",
     "pubdate": "2016-03-00",
     "title": "Python in Astronomy 2016 Unproceedings",
     "volume": null,
@@ -460,7 +539,7 @@
     "doctype": "inproceedings",
     "doi": "10.5281/zenodo.49590",
     "page": 16,
-    "pub": null,
+    "pub": "Python in Astronomy 2016",
     "pubdate": "2016-03-00",
     "title": "Tools for probabilistic data analysis in Python",
     "volume": null,
@@ -473,7 +552,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 9,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -506,7 +585,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -514,51 +593,6 @@
     "pubdate": "2015-11-00",
     "title": "George: Gaussian Process regression",
     "volume": null,
-    "year": "2015"
-  },
-  {
-    "arxiv": "1503.07866",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "Johnson, John Asher",
-      "Hogg, David W.",
-      "Bowler, Brendan P.",
-      "Latham, David W.",
-      "Bieryla, Allyson",
-      "Mann, Andrew W."
-    ],
-    "citations": 31,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/809/1/25",
-    "page": 25,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-08-00",
-    "title": "Stellar and Planetary Properties of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a Planet Receiving Earth-like Insolation",
-    "volume": "809",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1505.01845",
-    "authors": [
-      "Barclay, Thomas",
-      "Quintana, Elisa V.",
-      "Adams, Fred C.",
-      "Ciardi, David R.",
-      "Huber, Daniel",
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Caldwell, Douglas"
-    ],
-    "citations": 14,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/809/1/7",
-    "page": 7,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-08-00",
-    "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
-    "volume": "809",
     "year": "2015"
   },
   {
@@ -585,7 +619,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "abstract",
     "doi": null,
     "page": 2258396,
@@ -635,6 +669,69 @@
     "year": "2015"
   },
   {
+    "arxiv": "1503.07866",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "Johnson, John Asher",
+      "Hogg, David W.",
+      "Bowler, Brendan P.",
+      "Latham, David W.",
+      "Bieryla, Allyson",
+      "Mann, Andrew W."
+    ],
+    "citations": 31,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/809/1/25",
+    "page": 25,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-08-00",
+    "title": "Stellar and Planetary Properties of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a Planet Receiving Earth-like Insolation",
+    "volume": "809",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1505.01845",
+    "authors": [
+      "Barclay, Thomas",
+      "Quintana, Elisa V.",
+      "Adams, Fred C.",
+      "Ciardi, David R.",
+      "Huber, Daniel",
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Caldwell, Douglas"
+    ],
+    "citations": 15,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/809/1/7",
+    "page": 7,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-08-00",
+    "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
+    "volume": "809",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.06965",
+    "authors": [
+      "Angus, Ruth",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel",
+      "McQuillan, Amy"
+    ],
+    "citations": 24,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stv423",
+    "page": 1787,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2015-06-00",
+    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
+    "volume": "450",
+    "year": "2015"
+  },
+  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -657,7 +754,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -677,7 +774,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 47,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -685,24 +782,6 @@
     "pubdate": "2015-06-00",
     "title": "A Systematic Search for Transiting Planets in the K2 Data",
     "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.06965",
-    "authors": [
-      "Angus, Ruth",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "McQuillan, Amy"
-    ],
-    "citations": 22,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stv423",
-    "page": 1787,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2015-06-00",
-    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
-    "volume": "450",
     "year": "2015"
   },
   {
@@ -753,7 +832,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -761,24 +840,6 @@
     "pubdate": "2015-02-00",
     "title": "Radial Velocity Observations and Light Curve Noise Modeling Confirm that Kepler-91b is a Giant Planet Orbiting a Giant Star",
     "volume": "800",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard",
-      "Wang, Dun"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 105,
-    "pub": "American Astronomical Society Meeting Abstracts",
-    "pubdate": "2015-01-00",
-    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
-    "volume": "225",
     "year": "2015"
   },
   {
@@ -817,6 +878,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Wang, Dun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 105,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2015-01-00",
+    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
@@ -836,7 +915,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 72,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -864,7 +943,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 24,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -898,7 +977,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -991,7 +1070,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -1009,7 +1088,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 963,
+    "citations": 1006,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1032,7 +1111,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 7,
+    "citations": 10,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1062,7 +1141,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 18,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
