@@ -71,7 +71,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 1,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -264,7 +264,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -291,7 +291,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 7,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -310,7 +310,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -348,7 +348,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 11,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -436,7 +436,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -721,7 +721,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -832,7 +832,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -943,7 +943,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 26,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -977,7 +977,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 42,
+    "citations": 45,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1088,7 +1088,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1006,
+    "citations": 1045,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1141,7 +1141,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
