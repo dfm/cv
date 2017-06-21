@@ -16,6 +16,7 @@ def get_papers(author):
         author=author,
         fl=["id", "title", "author", "doi", "year", "pubdate", "pub",
             "volume", "page", "identifier", "doctype", "citation_count"],
+        max_pages=100,
     ))
     dicts = []
     for paper in papers:

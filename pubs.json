@@ -1,37 +1,49 @@
 [
   {
-    "arxiv": "1610.07602",
+    "arxiv": "1706.05865",
     "authors": [
-      "Price-Whelan, Adrian M.",
-      "Hogg, David W.",
+      "Grunblatt, Samuel K.",
+      "Huber, Daniel",
+      "Gaidos, Eric",
+      "Lopez, Eric",
+      "Howard, Andrew",
+      "Isaacson, Howard",
+      "Vanderburg, Andrew",
+      "Nofi, Larissa",
+      "Yu, Jie",
+      "North, Thomas S. H.",
+      "Chaplin, William",
       "Foreman-Mackey, Daniel",
-      "Rix, Hans-Walter"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa5e50",
-    "page": 20,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-03-00",
-    "title": "The Joker: A Custom Monte Carlo Sampler for Binary-star and Exoplanet Radial Velocity Data",
-    "volume": "837",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1703.09710",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Ambikasaran, Sivaram"
+      "Petigura, Erik",
+      "Ansdell, Megan",
+      "Weiss, Lauren"
     ],
     "citations": 0,
     "doctype": "eprint",
     "doi": null,
     "page": null,
     "pub": "ArXiv e-prints",
-    "pubdate": "2017-03-00",
-    "title": "Fast and scalable Gaussian process modeling with applications to astronomical time series",
+    "pubdate": "2017-06-00",
+    "title": "Seeing double with K2: Testing re-inflation with two remarkably similar planets around red giant branch stars",
+    "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": "1706.05459",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel",
+      "Rajpaul, Vinesh"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2017-06-00",
+    "title": "Inferring probabilistic stellar rotation periods using Gaussian processes",
     "volume": null,
     "year": "2017"
   },
@@ -57,6 +69,7 @@
       "Triaud, Amaury H. M. J.",
       "Barclay, Thomas",
       "Barentsen, Geert",
+      "Howell, Steve B.",
       "Delrez, Laetitia",
       "de Wit, Julien",
       "Foreman-Mackey, Daniel",
@@ -67,17 +80,87 @@
       "Almleaky, Yaseen",
       "Benkhaldoun, Zouhair",
       "Magain, Pierre",
-      "Morris, Brett",
+      "Morris, Brett M.",
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 3,
+    "citations": 6,
+    "doctype": "article",
+    "doi": "10.1038/s41550-017-0129",
+    "page": 129,
+    "pub": "Nature Astronomy",
+    "pubdate": "2017-06-00",
+    "title": "A seven-planet resonant chain in TRAPPIST-1",
+    "volume": "1",
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, D.",
+      "Hogg, D. W.",
+      "Morton, T. D."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": 50064,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2017-05-00",
+    "title": "VizieR Online Data Catalog: A catalog of exoplanet physical parameters (Foreman-Mackey+, 2014)",
+    "volume": "179",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2017-05-00",
+    "title": "Long Term Photometric Variability in Kepler Full Frame Images: Magnetic Cycles of Sun-Like Stars",
+    "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": "1610.07602",
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Hogg, David W.",
+      "Foreman-Mackey, Daniel",
+      "Rix, Hans-Walter"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa5e50",
+    "page": 20,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-03-00",
+    "title": "The Joker: A Custom Monte Carlo Sampler for Binary-star and Exoplanet Radial Velocity Data",
+    "volume": "837",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1703.09710",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Ambikasaran, Sivaram"
+    ],
+    "citations": 0,
     "doctype": "eprint",
     "doi": null,
     "page": null,
     "pub": "ArXiv e-prints",
     "pubdate": "2017-03-00",
-    "title": "A terrestrial-sized exoplanet at the snow line of TRAPPIST-1",
+    "title": "Fast and scalable Gaussian process modeling with applications to astronomical time series",
     "volume": null,
     "year": "2017"
   },
@@ -264,7 +347,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 19,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -291,7 +374,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 9,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -310,7 +393,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -348,7 +431,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 14,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -436,7 +519,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -447,12 +530,27 @@
     "year": "2016"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "misc",
+    "doi": "10.21105/joss.00024",
+    "page": 24,
+    "pub": null,
+    "pubdate": "2016-06-00",
+    "title": "corner.py: Scatterplot matrices in Python",
+    "volume": "2016",
+    "year": "2016"
+  },
+  {
     "arxiv": "1606.03757",
     "authors": [
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -681,7 +779,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -754,7 +852,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -774,7 +872,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -832,7 +930,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -915,7 +1013,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -943,7 +1041,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 28,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -977,7 +1075,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1088,7 +1186,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1045,
+    "citations": 1106,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

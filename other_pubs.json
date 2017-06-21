@@ -12,7 +12,8 @@
     "title": "corner.py: Scatterplot matrices in Python",
     "volume": "1",
     "year": "2016",
-    "citations": 42
+    "citations": 54,
+    "citation_url": "https://scholar.google.com/scholar?cites=1835087844145558435"
   },
   {
     "arxiv": null,
@@ -33,7 +34,8 @@
     "title": "Modeling confounding by half-sibling regression",
     "volume": "113",
     "year": "2016",
-    "citations": 1
+    "citations": 1,
+    "citation_url": "https://scholar.google.com/scholar?cites=2429561747341807338"
   },
   {
     "arxiv": "1505.03036",
@@ -54,7 +56,8 @@
     "title": "Removing systematic errors for exoplanet search via latent causes",
     "volume": "37",
     "year": "2015",
-    "citations": 2
+    "citations": 2,
+    "citation_url": "https://scholar.google.com/scholar?cites=11768165421845046384"
   },
   {
     "arxiv": "1403.6015",
