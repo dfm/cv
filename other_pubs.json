@@ -12,8 +12,8 @@
     "title": "corner.py: Scatterplot matrices in Python",
     "volume": "1",
     "year": "2016",
-    "citations": 54,
-    "citation_url": "https://scholar.google.com/scholar?cites=1835087844145558435"
+    "citations": 60,
+    "url": "https://scholar.google.com/scholar?cites=1835087844145558435"
   },
   {
     "arxiv": null,
@@ -35,7 +35,7 @@
     "volume": "113",
     "year": "2016",
     "citations": 1,
-    "citation_url": "https://scholar.google.com/scholar?cites=2429561747341807338"
+    "url": "https://scholar.google.com/scholar?cites=2429561747341807338"
   },
   {
     "arxiv": "1505.03036",
@@ -57,7 +57,7 @@
     "volume": "37",
     "year": "2015",
     "citations": 2,
-    "citation_url": "https://scholar.google.com/scholar?cites=11768165421845046384"
+    "url": "https://scholar.google.com/scholar?cites=11768165421845046384"
   },
   {
     "arxiv": "1403.6015",
@@ -76,6 +76,7 @@
     "title": "Fast Direct Methods for Gaussian Processes",
     "volume": "38",
     "year": "2016",
-    "citations": 0
+    "citations": 52,
+    "url": "https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489"
   }
 ]

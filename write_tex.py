@@ -57,7 +57,8 @@ def format_pub(args):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if pub["citations"] > 1:
-        fmt += " [{0} citations]".format(pub["citations"])
+        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(pub["url"],
+                                                          pub["citations"])
 
     return fmt
 

@@ -15,7 +15,8 @@ def get_papers(author):
     papers = list(ads.SearchQuery(
         author=author,
         fl=["id", "title", "author", "doi", "year", "pubdate", "pub",
-            "volume", "page", "identifier", "doctype", "citation_count"],
+            "volume", "page", "identifier", "doctype", "citation_count",
+            "bibcode"],
         max_pages=100,
     ))
     dicts = []
@@ -49,6 +50,7 @@ def get_papers(author):
             page=page,
             arxiv=aid[0] if len(aid) else None,
             citations=paper.citation_count,
+            url="http://adsabs.harvard.edu/abs/" + paper.bibcode,
         ))
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 

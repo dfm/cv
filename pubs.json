@@ -25,6 +25,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2017-06-00",
     "title": "Seeing double with K2: Testing re-inflation with two remarkably similar planets around red giant branch stars",
+    "url": "http://adsabs.harvard.edu/abs/2017arXiv170605865G",
     "volume": null,
     "year": "2017"
   },
@@ -44,6 +45,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2017-06-00",
     "title": "Inferring probabilistic stellar rotation periods using Gaussian processes",
+    "url": "http://adsabs.harvard.edu/abs/2017arXiv170605459A",
     "volume": null,
     "year": "2017"
   },
@@ -91,6 +93,7 @@
     "pub": "Nature Astronomy",
     "pubdate": "2017-06-00",
     "title": "A seven-planet resonant chain in TRAPPIST-1",
+    "url": "http://adsabs.harvard.edu/abs/2017NatAs...1E.129L",
     "volume": "1",
     "year": "2017"
   },
@@ -108,6 +111,7 @@
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2017-05-00",
     "title": "VizieR Online Data Catalog: A catalog of exoplanet physical parameters (Foreman-Mackey+, 2014)",
+    "url": "http://adsabs.harvard.edu/abs/2017yCat..17950064F",
     "volume": "179",
     "year": "2017"
   },
@@ -125,6 +129,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2017-05-00",
     "title": "Long Term Photometric Variability in Kepler Full Frame Images: Magnetic Cycles of Sun-Like Stars",
+    "url": "http://adsabs.harvard.edu/abs/2017arXiv170507928M",
     "volume": null,
     "year": "2017"
   },
@@ -143,6 +148,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2017-03-00",
     "title": "The Joker: A Custom Monte Carlo Sampler for Binary-star and Exoplanet Radial Velocity Data",
+    "url": "http://adsabs.harvard.edu/abs/2017ApJ...837...20P",
     "volume": "837",
     "year": "2017"
   },
@@ -161,6 +167,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2017-03-00",
     "title": "Fast and scalable Gaussian process modeling with applications to astronomical time series",
+    "url": "http://adsabs.harvard.edu/abs/2017arXiv170309710F",
     "volume": null,
     "year": "2017"
   },
@@ -176,6 +183,7 @@
     "pub": "Astrophysics Source Code Library",
     "pubdate": "2017-02-00",
     "title": "corner: Corner plots",
+    "url": "http://adsabs.harvard.edu/abs/2017ascl.soft02002F",
     "volume": null,
     "year": "2017"
   },
@@ -195,6 +203,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2017-02-00",
     "title": "An update to the EVEREST K2 pipeline: Short cadence, saturated stars, and Kepler-like photometry down to Kp = 15",
+    "url": "http://adsabs.harvard.edu/abs/2017arXiv170205488L",
     "volume": null,
     "year": "2017"
   },
@@ -213,6 +222,7 @@
     "pub": "Astrophysics Source Code Library",
     "pubdate": "2017-01-00",
     "title": "The Joker: A custom Monte Carlo sampler for binary-star and exoplanet radial velocity data",
+    "url": "http://adsabs.harvard.edu/abs/2017ascl.soft01001P",
     "volume": null,
     "year": "2017"
   },
@@ -354,6 +364,7 @@
     "pub": "Publications of the Astronomical Society of the Pacific",
     "pubdate": "2016-12-00",
     "title": "Campaign 9 of the K2 Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
+    "url": "http://adsabs.harvard.edu/abs/2016PASP..128l4401H",
     "volume": "128",
     "year": "2016"
   },
@@ -381,6 +392,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2016-12-00",
     "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
+    "url": "http://adsabs.harvard.edu/abs/2016ApJ...833..262H",
     "volume": "833",
     "year": "2016"
   },
@@ -400,6 +412,7 @@
     "pub": "The Astronomical Journal",
     "pubdate": "2016-12-00",
     "title": "The Population of Long-period Transiting Exoplanets",
+    "url": "http://adsabs.harvard.edu/abs/2016AJ....152..206F",
     "volume": "152",
     "year": "2016"
   },
@@ -417,6 +430,7 @@
     "pub": "IAU Focus Meeting",
     "pubdate": "2016-10-00",
     "title": "Stellar rotation period inference with Gaussian processes",
+    "url": "http://adsabs.harvard.edu/abs/2016IAUFM..29A.191A",
     "volume": "29A",
     "year": "2016"
   },
@@ -438,6 +452,7 @@
     "pub": "The Astronomical Journal",
     "pubdate": "2016-10-00",
     "title": "EVEREST: Pixel Level Decorrelation of K2 Light Curves",
+    "url": "http://adsabs.harvard.edu/abs/2016AJ....152..100L",
     "volume": "152",
     "year": "2016"
   },
@@ -456,6 +471,7 @@
     "pub": "Publications of the Astronomical Society of the Pacific",
     "pubdate": "2016-09-00",
     "title": "A Causal, Data-driven Approach to Modeling the Kepler Data",
+    "url": "http://adsabs.harvard.edu/abs/2016PASP..128i4503W",
     "volume": "128",
     "year": "2016"
   },
@@ -526,6 +542,7 @@
     "pub": "Publications of the Astronomical Society of the Pacific",
     "pubdate": "2016-06-00",
     "title": "State of the Field: Extreme Precision Radial Velocities",
+    "url": "http://adsabs.harvard.edu/abs/2016PASP..128f6001F",
     "volume": "128",
     "year": "2016"
   },
@@ -541,6 +558,7 @@
     "pub": null,
     "pubdate": "2016-06-00",
     "title": "corner.py: Scatterplot matrices in Python",
+    "url": "http://adsabs.harvard.edu/abs/2016JOSS.2016...24F",
     "volume": "2016",
     "year": "2016"
   },
@@ -557,6 +575,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2016-06-00",
     "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
+    "url": "http://adsabs.harvard.edu/abs/2016arXiv160603757B",
     "volume": null,
     "year": "2016"
   },
@@ -625,6 +644,7 @@
     "pub": "Python in Astronomy 2016",
     "pubdate": "2016-03-00",
     "title": "Python in Astronomy 2016 Unproceedings",
+    "url": "http://adsabs.harvard.edu/abs/2016pyas.confE..35R",
     "volume": null,
     "year": "2016"
   },
@@ -640,6 +660,7 @@
     "pub": "Python in Astronomy 2016",
     "pubdate": "2016-03-00",
     "title": "Tools for probabilistic data analysis in Python",
+    "url": "http://adsabs.harvard.edu/abs/2016pyas.confE..16F",
     "volume": null,
     "year": "2016"
   },
@@ -657,6 +678,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2016-02-00",
     "title": "Systematics-insensitive Periodic Signal Search with K2",
+    "url": "http://adsabs.harvard.edu/abs/2016ApJ...818..109A",
     "volume": "818",
     "year": "2016"
   },
@@ -675,6 +697,7 @@
     "pub": "American Astronomical Society Meeting Abstracts",
     "pubdate": "2016-01-00",
     "title": "Stellar ages from stellar rotation",
+    "url": "http://adsabs.harvard.edu/abs/2016AAS...22710504A",
     "volume": "227",
     "year": "2016"
   },
@@ -690,6 +713,7 @@
     "pub": "Astrophysics Source Code Library",
     "pubdate": "2015-11-00",
     "title": "George: Gaussian Process regression",
+    "url": "http://adsabs.harvard.edu/abs/2015ascl.soft11015F",
     "volume": null,
     "year": "2015"
   },
@@ -707,6 +731,7 @@
     "pub": "IAU General Assembly",
     "pubdate": "2015-08-00",
     "title": "The search for single exoplanet transits in the Kepler light curves",
+    "url": "http://adsabs.harvard.edu/abs/2015IAUGA..2258352F",
     "volume": "22",
     "year": "2015"
   },
@@ -724,6 +749,7 @@
     "pub": "IAU General Assembly",
     "pubdate": "2015-08-00",
     "title": "Probabilistic stellar rotation periods with Gaussian processes",
+    "url": "http://adsabs.harvard.edu/abs/2015IAUGA..2258396A",
     "volume": "22",
     "year": "2015"
   },
@@ -741,6 +767,7 @@
     "pub": "IAU General Assembly",
     "pubdate": "2015-08-00",
     "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
+    "url": "http://adsabs.harvard.edu/abs/2015IAUGA..2258432A",
     "volume": "22",
     "year": "2015"
   },
@@ -763,6 +790,7 @@
     "pub": "IAU General Assembly",
     "pubdate": "2015-08-00",
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: An Application of Importance Sampling",
+    "url": "http://adsabs.harvard.edu/abs/2015IAUGA..2256208B",
     "volume": "22",
     "year": "2015"
   },
@@ -786,6 +814,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2015-08-00",
     "title": "Stellar and Planetary Properties of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a Planet Receiving Earth-like Insolation",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809...25M",
     "volume": "809",
     "year": "2015"
   },
@@ -808,6 +837,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2015-08-00",
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809....7B",
     "volume": "809",
     "year": "2015"
   },
@@ -826,6 +856,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2015-06-00",
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
     "year": "2015"
   },
@@ -859,6 +890,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...806..198W",
     "volume": "806",
     "year": "2015"
   },
@@ -879,6 +911,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2015-06-00",
     "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -900,6 +933,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2015-05-00",
     "title": "Removing systematic errors for exoplanet search via latent causes",
+    "url": "http://adsabs.harvard.edu/abs/2015arXiv150503036S",
     "volume": null,
     "year": "2015"
   },
@@ -915,6 +949,7 @@
     "pub": "Astrophysics Source Code Library",
     "pubdate": "2015-02-00",
     "title": "ketu: Exoplanet candidate search code",
+    "url": "http://adsabs.harvard.edu/abs/2015ascl.soft02020F",
     "volume": null,
     "year": "2015"
   },
@@ -937,6 +972,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2015-02-00",
     "title": "Radial Velocity Observations and Light Curve Noise Modeling Confirm that Kepler-91b is a Giant Planet Orbiting a Giant Star",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...800...46B",
     "volume": "800",
     "year": "2015"
   },
@@ -955,6 +991,7 @@
     "pub": "American Astronomical Society Meeting Abstracts",
     "pubdate": "2015-01-00",
     "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
+    "url": "http://adsabs.harvard.edu/abs/2015AAS...22525808W",
     "volume": "225",
     "year": "2015"
   },
@@ -970,6 +1007,7 @@
     "pub": "American Astronomical Society Meeting Abstracts",
     "pubdate": "2015-01-00",
     "title": "Licenses in the wild",
+    "url": "http://adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
     "year": "2015"
   },
@@ -988,6 +1026,7 @@
     "pub": "American Astronomical Society Meeting Abstracts",
     "pubdate": "2015-01-00",
     "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
+    "url": "http://adsabs.harvard.edu/abs/2015AAS...22510501F",
     "volume": "225",
     "year": "2015"
   },
@@ -1003,6 +1042,7 @@
     "pub": "Ph.D. Thesis",
     "pubdate": "2015-00-00",
     "title": "Methods for the detection and characterization of exoplanets and their population",
+    "url": "http://adsabs.harvard.edu/abs/2015PhDT........44F",
     "volume": null,
     "year": "2015"
   },
@@ -1020,6 +1060,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2014-11-00",
     "title": "Exoplanet Population Inference and the Abundance of Earth Analogs from Noisy, Incomplete Catalogs",
+    "url": "http://adsabs.harvard.edu/abs/2014ApJ...795...64F",
     "volume": "795",
     "year": "2014"
   },
@@ -1048,6 +1089,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2014-08-00",
     "title": "Large Eccentricity, Low Mutual Inclination: The Three-dimensional Architecture of a Hierarchical System of Giant Planets",
+    "url": "http://adsabs.harvard.edu/abs/2014ApJ...791...89D",
     "volume": "791",
     "year": "2014"
   },
@@ -1063,6 +1105,7 @@
     "pub": "Astrophysics Source Code Library",
     "pubdate": "2014-07-00",
     "title": "Exopop: Exoplanet population inference",
+    "url": "http://adsabs.harvard.edu/abs/2014ascl.soft07008F",
     "volume": null,
     "year": "2014"
   },
@@ -1082,6 +1125,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2014-03-00",
     "title": "Fast Direct Methods for Gaussian Processes",
+    "url": "http://adsabs.harvard.edu/abs/2014arXiv1403.6015A",
     "volume": null,
     "year": "2014"
   },
@@ -1106,6 +1150,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2013-12-00",
     "title": "A New Approach to Detailed Structural Decomposition from the SPLASH and PHAT Surveys: Kicked-up Disk Stars in the Andromeda Galaxy?",
+    "url": "http://adsabs.harvard.edu/abs/2013ApJ...779..103D",
     "volume": "779",
     "year": "2013"
   },
@@ -1132,6 +1177,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
+    "url": "http://adsabs.harvard.edu/abs/2013arXiv1309.0653H",
     "volume": null,
     "year": "2013"
   },
@@ -1158,6 +1204,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
+    "url": "http://adsabs.harvard.edu/abs/2013arXiv1309.0654M",
     "volume": null,
     "year": "2013"
   },
@@ -1175,6 +1222,7 @@
     "pub": "The Astronomical Journal",
     "pubdate": "2013-07-00",
     "title": "Probabilistic Catalogs for Crowded Stellar Fields",
+    "url": "http://adsabs.harvard.edu/abs/2013AJ....146....7B",
     "volume": "146",
     "year": "2013"
   },
@@ -1193,6 +1241,7 @@
     "pub": "Publications of the Astronomical Society of the Pacific",
     "pubdate": "2013-03-00",
     "title": "emcee: The MCMC Hammer",
+    "url": "http://adsabs.harvard.edu/abs/2013PASP..125..306F",
     "volume": "125",
     "year": "2013"
   },
@@ -1216,6 +1265,7 @@
     "pub": "Astrophysics Source Code Library",
     "pubdate": "2013-03-00",
     "title": "emcee: The MCMC Hammer",
+    "url": "http://adsabs.harvard.edu/abs/2013ascl.soft03002F",
     "volume": null,
     "year": "2013"
   },
@@ -1246,6 +1296,7 @@
     "pub": "The Astrophysical Journal",
     "pubdate": "2013-01-00",
     "title": "The Panchromatic Hubble Andromeda Treasury. IV. A Probabilistic Approach to Inferring the High-mass Stellar Initial Mass Function and Other Power-law Functions",
+    "url": "http://adsabs.harvard.edu/abs/2013ApJ...762..123W",
     "volume": "762",
     "year": "2013"
   },
@@ -1271,6 +1322,7 @@
     "pub": "American Astronomical Society Meeting Abstracts #221",
     "pubdate": "2013-01-00",
     "title": "The PHAT and SPLASH Surveys: Rigorous Structural Decomposition of the Andromeda Galaxy",
+    "url": "http://adsabs.harvard.edu/abs/2013AAS...22114609D",
     "volume": "221",
     "year": "2013"
   },
@@ -1286,6 +1338,7 @@
     "pub": "Masters Thesis",
     "pubdate": "2010-11-00",
     "title": "A Fully Self-Consistent Constraint on the Mass of M31 {\\&} the Local Group",
+    "url": "http://adsabs.harvard.edu/abs/2010MsT.........10F",
     "volume": null,
     "year": "2010"
   }
