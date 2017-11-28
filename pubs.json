@@ -1,5 +1,42 @@
 [
   {
+    "arxiv": "1703.09710",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Ambikasaran, Sivaram",
+      "Angus, Ruth"
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/aa9332",
+    "page": 220,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Fast and Scalable Gaussian Process Modeling with Applications to Astronomical Time Series",
+    "url": "http://adsabs.harvard.edu/abs/2017AJ....154..220F",
+    "volume": "154",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1710.11136",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aa96b5",
+    "page": 7,
+    "pub": "Notes of the American Astronomical Society",
+    "pubdate": "2017-12-00",
+    "title": "Linear Models for Systematics and Nuisances",
+    "url": "http://adsabs.harvard.edu/abs/2017RNAAS...1....7L",
+    "volume": "1",
+    "year": "2017"
+  },
+  {
     "arxiv": "1710.06068",
     "authors": [
       "Hogg, David W.",
@@ -24,7 +61,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -41,7 +78,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -279,7 +316,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -327,7 +364,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 13,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -363,7 +400,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -382,7 +419,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -391,25 +428,6 @@
     "title": "The Joker: A Custom Monte Carlo Sampler for Binary-star and Exoplanet Radial Velocity Data",
     "url": "http://adsabs.harvard.edu/abs/2017ApJ...837...20P",
     "volume": "837",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1703.09710",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Agol, Eric",
-      "Ambikasaran, Sivaram",
-      "Angus, Ruth"
-    ],
-    "citations": 6,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2017-03-00",
-    "title": "Fast and scalable Gaussian process modeling with applications to astronomical time series",
-    "url": "http://adsabs.harvard.edu/abs/2017arXiv170309710F",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -437,7 +455,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -646,7 +664,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -686,7 +704,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 31,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -705,7 +723,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -776,7 +794,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 40,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -792,11 +810,11 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 72,
-    "doctype": "misc",
+    "citations": 88,
+    "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
-    "pub": null,
+    "pub": "The Journal of Open Source Software",
     "pubdate": "2016-06-00",
     "title": "corner.py: Scatterplot matrices in Python",
     "url": "http://adsabs.harvard.edu/abs/2016JOSS.2016...24F",
@@ -947,7 +965,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1090,7 +1108,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -1145,7 +1163,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1165,7 +1183,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 62,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1415,7 +1433,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 24,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -1506,7 +1524,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1312,
+    "citations": 1369,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1530,7 +1548,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "software",
     "doi": null,
     "page": null,
