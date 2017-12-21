@@ -34,9 +34,9 @@ def get_papers(author):
                 aid.append(t)
         try:
             page = int(paper.page[0])
-        except ValueError:
+        except (ValueError, TypeError):
             page = None
-            if paper.page[0].startswith("arXiv:"):
+            if paper.page is not None and paper.page[0].startswith("arXiv:"):
                 aid.append(":".join(paper.page[0].split(":")[1:]))
         dicts.append(dict(
             doctype=paper.doctype,
