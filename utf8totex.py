@@ -713,6 +713,7 @@ utf82latex={
 0x223D: r'\ensuremath{\backsim}',
 #
 0x2248: r'\ensuremath{\approx}',
+0x2500: r'--',
 #
 0x2260: r'\ensuremath{\neq}',
 0x2261: r'\ensuremath{\equiv}',

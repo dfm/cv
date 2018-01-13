@@ -11,6 +11,7 @@ from utf8totex import utf8totex
 
 __all__ = ["get_papers"]
 
+
 def get_papers(author):
     papers = list(ads.SearchQuery(
         author=author,
@@ -53,6 +54,7 @@ def get_papers(author):
             url="http://adsabs.harvard.edu/abs/" + paper.bibcode,
         ))
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
+
 
 if __name__ == "__main__":
     papers = get_papers("Foreman-Mackey")
