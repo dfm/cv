@@ -8,7 +8,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 7,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -112,7 +112,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -398,7 +398,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -435,7 +435,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -455,7 +455,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 8,
+    "citations": 11,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -471,13 +471,13 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": null,
     "page": null,
     "pub": "Astrophysics Source Code Library",
     "pubdate": "2017-02-00",
-    "title": "corner: Corner plots",
+    "title": "corner.py: Corner plots",
     "url": "http://adsabs.harvard.edu/abs/2017ascl.soft02002F",
     "volume": null,
     "year": "2017"
@@ -632,7 +632,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -680,7 +680,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 13,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -720,7 +720,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 38,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -827,7 +827,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -843,7 +843,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 102,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -881,7 +881,7 @@
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": 53155,
-    "pub": null,
+    "pub": "Zenodo Software Release",
     "pubdate": "2016-05-00",
     "title": "corner.py: corner.py v2.0.0",
     "url": "http://adsabs.harvard.edu/abs/2016zndo.soft53155F",
@@ -994,11 +994,11 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": 45906,
-    "pub": null,
+    "pub": "Zenodo Software Release",
     "pubdate": "2016-02-00",
     "title": "corner.py: corner.py v1.0.2",
     "url": "http://adsabs.harvard.edu/abs/2016zndo.soft45906F",
@@ -1047,7 +1047,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1148,7 +1148,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 38,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1190,7 +1190,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 34,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -1210,7 +1210,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 75,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1265,7 +1265,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1326,7 +1326,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -1474,7 +1474,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -1499,9 +1499,9 @@
     ],
     "citations": 40,
     "doctype": "software",
-    "doi": "DOI:10.5281/zenodo.11020OTHER: https://github.com/dfm/triangle.py/tree/v0.1.1",
+    "doi": "10.5281/zenodo.11020",
     "page": 11020,
-    "pub": null,
+    "pub": "Zenodo Software Release",
     "pubdate": "2014-07-00",
     "title": "triangle.py: triangle.py v0.1.1",
     "url": "http://adsabs.harvard.edu/abs/2014zndo.soft11020F",
@@ -1538,9 +1538,9 @@
     ],
     "citations": 2,
     "doctype": "software",
-    "doi": "DOI:10.5281/zenodo.10598OTHER: https://github.com/dfm/triangle.py/tree/v0.1",
+    "doi": "10.5281/zenodo.10598",
     "page": 10598,
-    "pub": null,
+    "pub": "Zenodo Software Release",
     "pubdate": "2014-06-00",
     "title": "triangle.py: triangle.py v0.1",
     "url": "http://adsabs.harvard.edu/abs/2014zndo.soft10598F",
@@ -1652,7 +1652,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1452,
+    "citations": 1489,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1676,7 +1676,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": null,
     "page": null,
