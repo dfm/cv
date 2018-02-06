@@ -20,6 +20,22 @@
     "year": "2018"
   },
   {
+    "arxiv": "1801.10156",
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2018-01-00",
+    "title": "Scalable backpropagation for Gaussian Processes using celerite",
+    "url": "http://adsabs.harvard.edu/abs/2018arXiv180110156F",
+    "volume": null,
+    "year": "2018"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel"
@@ -398,7 +414,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -660,7 +676,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -843,7 +859,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1652,7 +1668,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1489,
+    "citations": 1499,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1707,7 +1723,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,

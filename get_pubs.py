@@ -50,7 +50,8 @@ def get_papers(author):
             volume=paper.volume,
             page=page,
             arxiv=aid[0] if len(aid) else None,
-            citations=paper.citation_count,
+            citations=(paper.citation_count
+                       if paper.citation_count is not None else 0),
             url="http://adsabs.harvard.edu/abs/" + paper.bibcode,
         ))
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
