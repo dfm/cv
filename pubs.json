@@ -8,7 +8,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -128,7 +128,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -173,6 +173,23 @@
     "title": "A pixel-level model for event discovery in time-domain imaging",
     "url": "http://adsabs.harvard.edu/abs/2017arXiv171002428W",
     "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.21105/joss.00357",
+    "page": 357,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2017-09-00",
+    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
+    "url": "http://adsabs.harvard.edu/abs/2017JOSS....2..357P",
+    "volume": "2",
     "year": "2017"
   },
   {
@@ -414,7 +431,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -451,7 +468,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -736,7 +753,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 41,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -764,6 +781,22 @@
     "title": "A Causal, Data-driven Approach to Modeling the Kepler Data",
     "url": "http://adsabs.harvard.edu/abs/2016PASP..128i4503W",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.21105/joss.00024",
+    "page": 24,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2016-06-00",
+    "title": "corner.py: Scatterplot matrices in Python",
+    "url": "http://adsabs.harvard.edu/abs/2016JOSS....1...24F",
+    "volume": "1",
     "year": "2016"
   },
   {
@@ -859,7 +892,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 107,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -893,7 +926,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": 53155,
@@ -1010,7 +1043,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": 45906,
@@ -1164,7 +1197,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 40,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1281,7 +1314,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 60,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1490,7 +1523,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -1668,7 +1701,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1499,
+    "citations": 1534,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1692,7 +1725,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1723,7 +1756,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 25,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
