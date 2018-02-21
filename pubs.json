@@ -219,23 +219,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Price-Whelan, Adrian M.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.21105/joss.00357",
-    "page": 357,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2017-09-00",
-    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
-    "url": "http://adsabs.harvard.edu/abs/2017JOSS.2017..357P",
-    "volume": "2017",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Agol, Eric",
       "Ambikasaran, Sivaram",
@@ -788,7 +771,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -885,22 +868,6 @@
     "title": "State of the Field: Extreme Precision Radial Velocities",
     "url": "http://adsabs.harvard.edu/abs/2016PASP..128f6001F",
     "volume": "128",
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 110,
-    "doctype": "article",
-    "doi": "10.21105/joss.00024",
-    "page": 24,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2016-06-00",
-    "title": "corner.py: Scatterplot matrices in Python",
-    "url": "http://adsabs.harvard.edu/abs/2016JOSS.2016...24F",
-    "volume": "2016",
     "year": "2016"
   },
   {
@@ -1701,7 +1668,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1534,
+    "citations": 1535,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
