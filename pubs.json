@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "1801.10156",
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
@@ -24,7 +24,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -33,22 +33,6 @@
     "title": "Inferring probabilistic stellar rotation periods using Gaussian processes",
     "url": "http://adsabs.harvard.edu/abs/2018MNRAS.474.2094A",
     "volume": "474",
-    "year": "2018"
-  },
-  {
-    "arxiv": "1801.10156",
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2018-01-00",
-    "title": "Scalable backpropagation for Gaussian Processes using celerite",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180110156F",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -74,7 +58,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -107,7 +91,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -205,6 +189,23 @@
     "pubdate": "2017-09-00",
     "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
     "url": "http://adsabs.harvard.edu/abs/2017JOSS....2..357P",
+    "volume": "2",
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.21105/joss.00357",
+    "page": 17,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2017-09-00",
+    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
+    "url": "http://adsabs.harvard.edu/abs/2017JOSS....2...17P",
     "volume": "2",
     "year": "2017"
   },
@@ -430,7 +431,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -467,7 +468,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -664,7 +665,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -712,7 +713,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -752,7 +753,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 45,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -783,11 +784,43 @@
     "year": "2016"
   },
   {
+    "arxiv": "1608.06919",
+    "authors": [
+      "Barnes, Rory",
+      "Deitrick, Russell",
+      "Luger, Rodrigo",
+      "Driscoll, Peter E.",
+      "Quinn, Thomas R.",
+      "Fleming, David P.",
+      "Guyer, Benjamin",
+      "McDonald, Diego V.",
+      "Meadows, Victoria S.",
+      "Arney, Giada",
+      "Crisp, David",
+      "Domagal-Goldman, Shawn D.",
+      "Foreman-Mackey, Daniel",
+      "Kaib, Nathan A.",
+      "Lincowski, Andrew",
+      "Lustig-Yaeger, Jacob",
+      "Schwieterman, Eddie"
+    ],
+    "citations": 23,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2016-08-00",
+    "title": "The Habitability of Proxima Centauri b I: Evolutionary Scenarios",
+    "url": "http://adsabs.harvard.edu/abs/2016arXiv160806919B",
+    "volume": null,
+    "year": "2016"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 113,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -875,7 +908,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 50,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1026,7 +1059,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": 45906,
@@ -1529,7 +1562,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": 11020,
@@ -1593,7 +1626,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 28,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -1665,7 +1698,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 20,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -1684,7 +1717,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1553,
+    "citations": 1589,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

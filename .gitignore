@@ -9,3 +9,4 @@
 *.dvi
 *.ps
 *.eps
+__pycache__
