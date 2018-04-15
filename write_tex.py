@@ -19,6 +19,7 @@ JOURNAL_MAP = {
     "American Astronomical Society Meeting Abstracts": "AAS",
 }
 
+
 def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
@@ -68,6 +69,8 @@ if __name__ == "__main__":
         pubs = json.load(f)
     with open("other_pubs.json", "r") as f:
         other_pubs = json.load(f)
+    with open("select_pubs.json", "r") as f:
+        select_pubs = json.load(f)
     for p in other_pubs:
         for p1 in pubs:
             if (p1["arxiv"] is not None and p["arxiv"] == p1["arxiv"]) or \
@@ -98,3 +101,18 @@ if __name__ == "__main__":
         f.write("\n\n".join(ref))
     with open("pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
+
+    # Choose the selected publications
+    selected = []
+    for s in select_pubs:
+        k = s["key"]
+        v = s["value"]
+        for doc in pubs:
+            if doc[k] == v:
+                selected.append(doc)
+                break
+    selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
+    selected = list(map(format_pub, zip(range(len(selected), 0, -1),
+                                        selected)))
+    with open("pubs_select.tex", "w") as f:
+        f.write("\n\n".join(selected))

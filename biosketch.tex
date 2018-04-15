@@ -1,0 +1,66 @@
+% The formatting of this CV is based on @davidwhogg's layout.
+
+\documentclass[12pt,letterpaper]{article}
+
+\input{cvstyle}
+
+\begin{document}\thispagestyle{empty}\sloppy\sloppypar\raggedbottom
+
+\textbf{\Large Daniel Foreman-Mackey} \hfill
+\textsf{\small foreman.mackey@gmail.com, http://dfm.io} \\[0.5ex]
+Associate Research Scientist, Center for Computational Astronomy, Flatiron Institute\\[0.5ex]
+
+\cvheading{Professional preparation}
+\begin{list}{}{\cvlist}
+\item
+2017--, Associate Research Scientist, Flatiron Institute.
+\item
+2015--2017, Sagan Postdoctoral Fellow, University of Washington.
+\item
+PhD 2015, Department of Physics, New York University. Advisor: Hogg
+\item
+MSc 2010, Department of Physics, Queen's University, Canada. Advisor: Widrow
+\item
+BSc 2008, Department of Physics, McGill University, Canada.
+\end{list}
+
+\cvheading{Selected publications}
+\begin{list}{}{\cvlist}
+\input{pubs_select}
+\end{list}
+
+\cvheading{Popular open-source software}
+\begin{list}{}{\cvlist}
+
+\item {\bf emcee} ---
+    MCMC sampling in Python. Popular in astronomy;
+    the paper has over 1000 citations.
+    \url{emcee.readthedocs.io}
+
+\item {\bf george} ---
+    Blazingly fast Gaussian processes for regression. Implemented in C++ and
+    Python bindings. Joint work with applied mathematicians at NYU.
+    \url{george.readthedocs.io}
+
+\item {\bf celerite} ---
+    Scalable computations for Gaussian process regression for one-dimensional
+    problems.
+    \url{celerite.readthedocs.io}
+
+\item {\bf corner.py} ---
+    Simple corner plots (or scatterplot matrices) in Python.
+    \url{corner.readthedocs.io}
+
+\end{list}
+
+%\cvheading{Honors}
+%\begin{list}{}{\cvlist}
+%\item Kavli Fellow, 2015.
+%\item Sagan Postdoctoral Fellowship, 2015--present.
+%\item James Arthur Graduate Fellowship, 2014.
+%\item Horizon Fellowship in the Natural \& Physical Sciences, 2012.
+%\item Henry M. MacCracken Fellowship, 2010.
+%\item NSERC Undergraduate Summer Research Award, 2007.
+%\end{list}
+
+\end{document}
