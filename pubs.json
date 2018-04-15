@@ -58,7 +58,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -128,7 +128,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 15,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -145,7 +145,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -164,7 +164,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -189,23 +189,6 @@
     "pubdate": "2017-09-00",
     "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
     "url": "http://adsabs.harvard.edu/abs/2017JOSS....2..357P",
-    "volume": "2",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Price-Whelan, Adrian M.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.21105/joss.00357",
-    "page": 17,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2017-09-00",
-    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
-    "url": "http://adsabs.harvard.edu/abs/2017JOSS....2...17P",
     "volume": "2",
     "year": "2017"
   },
@@ -431,7 +414,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 32,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -468,7 +451,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -488,7 +471,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 13,
+    "citations": 15,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -665,7 +648,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -693,7 +676,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -753,7 +736,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 44,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -804,7 +787,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 23,
+    "citations": 26,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -820,7 +803,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 119,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -908,7 +891,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -942,7 +925,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": 53155,
@@ -1255,7 +1238,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 37,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -1275,7 +1258,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1309,7 +1292,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -1330,7 +1313,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1391,7 +1374,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -1510,7 +1493,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 88,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -1539,7 +1522,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -1717,7 +1700,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1589,
+    "citations": 1649,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
