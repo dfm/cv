@@ -91,7 +91,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -181,7 +181,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -451,7 +451,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 8,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -648,7 +648,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -676,7 +676,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -696,7 +696,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -736,7 +736,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -803,7 +803,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 128,
+    "citations": 132,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -891,7 +891,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 53,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1258,7 +1258,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 84,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1374,7 +1374,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -1493,7 +1493,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 91,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -1681,7 +1681,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -1700,7 +1700,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1649,
+    "citations": 1672,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
