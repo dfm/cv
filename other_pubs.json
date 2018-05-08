@@ -1,24 +1,5 @@
 [
   {
-    "arxiv": "1202.3665",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Lang, Dustin",
-      "Goodman, Jonathan"
-    ],
-    "citations": 2110,
-    "doctype": "article",
-    "doi": "10.1086/670067",
-    "page": 306,
-    "pub": "Publications of the Astronomical Society of the Pacific",
-    "pubdate": "2013-03-00",
-    "title": "emcee: The MCMC Hammer",
-    "url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5396917606956542495,8799994429331699241",
-    "volume": "125",
-    "year": "2013"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel"
