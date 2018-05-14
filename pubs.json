@@ -24,7 +24,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -76,7 +76,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -109,7 +109,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -696,7 +696,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -803,7 +803,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 138,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -891,7 +891,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 56,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1258,7 +1258,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1493,7 +1493,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -1700,7 +1700,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1722,
+    "citations": 1736,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1724,7 +1724,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "software",
     "doi": null,
     "page": null,
