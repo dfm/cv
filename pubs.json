@@ -1,5 +1,44 @@
 [
   {
+    "arxiv": "1805.04519",
+    "authors": [
+      "Ness, Melissa K.",
+      "Silva Aguirre, Victor",
+      "Lund, Mikkel N.",
+      "Cantiello, Matteo",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Angus, Ruth"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2018-05-00",
+    "title": "Inference of stellar parameters from brightness variations",
+    "url": "http://adsabs.harvard.edu/abs/2018arXiv180504519N",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": "1710.06068",
+    "authors": [
+      "Hogg, David W.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.3847/1538-4365/aab76e",
+    "page": 11,
+    "pub": "The Astrophysical Journal Supplement Series",
+    "pubdate": "2018-05-00",
+    "title": "Data Analysis Recipes: Using Markov Chain Monte Carlo",
+    "url": "http://adsabs.harvard.edu/abs/2018ApJS..236...11H",
+    "volume": "236",
+    "year": "2018"
+  },
+  {
     "arxiv": "1801.10156",
     "authors": [
       "Foreman-Mackey, Daniel"
@@ -137,23 +176,6 @@
     "title": "Fast and Scalable Gaussian Process Modeling with Applications to Astronomical Time Series",
     "url": "http://adsabs.harvard.edu/abs/2017AJ....154..220F",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1710.06068",
-    "authors": [
-      "Hogg, David W.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2017-10-00",
-    "title": "Data analysis recipes: Using Markov Chain Monte Carlo",
-    "url": "http://adsabs.harvard.edu/abs/2017arXiv171006068H",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -648,7 +670,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -755,7 +777,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -803,7 +825,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -820,7 +842,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1292,7 +1314,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 20,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -1700,7 +1722,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1736,
+    "citations": 1754,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
