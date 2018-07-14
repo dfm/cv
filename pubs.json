@@ -1,5 +1,31 @@
 [
   {
+    "arxiv": "1807.00549",
+    "authors": [
+      "Van Eylen, Vincent",
+      "Albrecht, Simon",
+      "Huang, Xu",
+      "MacDonald, Mariah G.",
+      "Dawson, Rebekah I.",
+      "Cai, Maxwell X.",
+      "Foreman-Mackey, Dan",
+      "Lundkvist, Mia S.",
+      "Silva Aguirre, Victor",
+      "Snellen, Ignas",
+      "Winn, Joshua N."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2018-07-00",
+    "title": "The orbital eccentricity of small planet systems",
+    "url": "http://adsabs.harvard.edu/abs/2018arXiv180700549V",
+    "volume": null,
+    "year": "2018"
+  },
+  {
     "arxiv": "1805.10290",
     "authors": [
       "Teague, Richard",
@@ -8,7 +34,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -47,7 +73,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -135,7 +161,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -168,7 +194,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 7,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -187,7 +213,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 21,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -456,7 +482,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 48,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -493,7 +519,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 11,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -690,7 +716,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 35,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -718,7 +744,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -738,7 +764,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 22,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -845,7 +871,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 156,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -862,7 +888,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 7,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -933,7 +959,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 61,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1084,7 +1110,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": 45906,
@@ -1102,7 +1128,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 13,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -1238,7 +1264,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 43,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1280,7 +1306,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 43,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -1300,7 +1326,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 89,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1334,7 +1360,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -1355,7 +1381,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 64,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1416,7 +1442,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -1535,7 +1561,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 99,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -1742,7 +1768,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1815,
+    "citations": 1863,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1797,7 +1823,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
