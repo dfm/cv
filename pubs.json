@@ -129,11 +129,11 @@
     "doctype": "abstract",
     "doi": null,
     "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
+    "pub": "American Astronomical Society Meeting Abstracts #231",
     "pubdate": "2018-01-00",
     "title": "An astronomer's introduction to Gaussian Processes",
     "url": "http://adsabs.harvard.edu/abs/2018AAS...23122501F",
-    "volume": null,
+    "volume": "231",
     "year": "2018"
   },
   {
@@ -871,7 +871,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 160,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1768,7 +1768,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 1863,
+    "citations": 1866,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
