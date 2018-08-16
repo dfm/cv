@@ -12,8 +12,8 @@
     "title": "corner.py: Scatterplot matrices in Python",
     "volume": "1",
     "year": "2016",
-    "citations": 187,
-    "url": "https://scholar.google.com/scholar?cites=1835087844145558435,17836006976722650130,13220763673061560856"
+    "citations": 251,
+    "url": "https://scholar.google.com/scholar?cites=1835087844145558435,9294978791003210998,17836006976722650130,12820425635803494730"
   },
   {
     "arxiv": null,
@@ -34,7 +34,7 @@
     "title": "Modeling confounding by half-sibling regression",
     "volume": "113",
     "year": "2016",
-    "citations": 6,
+    "citations": 7,
     "url": "https://scholar.google.com/scholar?cites=2429561747341807338"
   },
   {
@@ -56,7 +56,7 @@
     "title": "Removing systematic errors for exoplanet search via latent causes",
     "volume": "37",
     "year": "2015",
-    "citations": 4,
+    "citations": 5,
     "url": "https://scholar.google.com/scholar?cites=11768165421845046384"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Fast Direct Methods for Gaussian Processes",
     "volume": "38",
     "year": "2016",
-    "citations": 99,
+    "citations": 120,
     "url": "https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489"
   }
 ]
