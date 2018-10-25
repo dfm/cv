@@ -1,5 +1,84 @@
 [
   {
+    "arxiv": "1810.10009",
+    "authors": [
+      "Brewer, John M.",
+      "Wang, Songhu",
+      "Fischer, Debra A.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2018-10-00",
+    "title": "Compact multi-planet systems are more common around metal poor hosts",
+    "url": "http://adsabs.harvard.edu/abs/2018arXiv181010009B",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": "1810.06559",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2018-10-00",
+    "title": "STARRY: Analytic Occultation Light Curves",
+    "url": "http://adsabs.harvard.edu/abs/2018arXiv181006559L",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": "1805.04519",
+    "authors": [
+      "Ness, Melissa K.",
+      "Silva Aguirre, Victor",
+      "Lund, Mikkel N.",
+      "Cantiello, Matteo",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Angus, Ruth"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aadb40",
+    "page": 15,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2018-10-00",
+    "title": "Inference of Stellar Parameters from Brightness Variations",
+    "url": "http://adsabs.harvard.edu/abs/2018ApJ...866...15N",
+    "volume": "866",
+    "year": "2018"
+  },
+  {
+    "arxiv": "1809.10295",
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aae265",
+    "page": 173,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2018-09-00",
+    "title": "A Robust Method to Measure Centroids of Spectral Lines",
+    "url": "http://adsabs.harvard.edu/abs/2018RNAAS...2c.173T",
+    "volume": "2",
+    "year": "2018"
+  },
+  {
     "arxiv": "1702.05488",
     "authors": [
       "Luger, Rodrigo",
@@ -17,6 +96,24 @@
     "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp~=~15",
     "url": "http://adsabs.harvard.edu/abs/2018AJ....156...99L",
     "volume": "156",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Montet, B. T.",
+      "Tovar, G.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2018-07-00",
+    "title": "VizieR Online Data Catalog: Long-term variability in Kepler full-frame images (Montet+, 2017)",
+    "url": "http://adsabs.harvard.edu/abs/2018yCat..18510116M",
+    "volume": null,
     "year": "2018"
   },
   {
@@ -72,7 +169,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 1,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -92,7 +189,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -104,34 +201,12 @@
     "year": "2018"
   },
   {
-    "arxiv": "1805.04519",
-    "authors": [
-      "Ness, Melissa K.",
-      "Silva Aguirre, Victor",
-      "Lund, Mikkel N.",
-      "Cantiello, Matteo",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Angus, Ruth"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2018-05-00",
-    "title": "Inference of stellar parameters from brightness variations",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180504519N",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1710.06068",
     "authors": [
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -167,7 +242,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -219,7 +294,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -252,7 +327,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 8,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -271,7 +346,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 29,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -298,6 +373,25 @@
     "pubdate": "2017-10-00",
     "title": "A pixel-level model for event discovery in time-domain imaging",
     "url": "http://adsabs.harvard.edu/abs/2017arXiv171002428W",
+    "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Ambikasaran, Sivaram",
+      "Angus, Ruth"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2017-09-00",
+    "title": "celerite: Scalable 1D Gaussian Processes in C++, Python, and Julia",
+    "url": "http://adsabs.harvard.edu/abs/2017ascl.soft09008F",
     "volume": null,
     "year": "2017"
   },
@@ -339,25 +433,6 @@
     "pubdate": "2017-09-00",
     "title": "VizieR Online Data Catalog: Stellar and planet properties for K2 candidates (Montet+, 2015)",
     "url": "http://adsabs.harvard.edu/abs/2017yCat..18090025M",
-    "volume": null,
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Agol, Eric",
-      "Ambikasaran, Sivaram",
-      "Angus, Ruth"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2017-09-00",
-    "title": "celerite: Scalable 1D Gaussian Processes in C++, Python, and Julia",
-    "url": "http://adsabs.harvard.edu/abs/2017ascl.soft09008F",
     "volume": null,
     "year": "2017"
   },
@@ -540,7 +615,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 62,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -624,6 +699,34 @@
     "year": "2017"
   },
   {
+    "arxiv": "1601.05413",
+    "authors": [
+      "Hogg, David W.",
+      "Casey, Andrew R.",
+      "Ness, Melissa",
+      "Rix, Hans-Walter",
+      "Foreman-Mackey, Daniel",
+      "Hasselquist, Sten",
+      "Ho, Anna Y. Q.",
+      "Holtzman, Jon A.",
+      "Majewski, Steven R.",
+      "Martell, Sarah L.",
+      "M{\\'e}sz{\\'a}ros, Szabolcs",
+      "Nidever, David L.",
+      "Shetrone, Matthew"
+    ],
+    "citations": 31,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/833/2/262",
+    "page": 262,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2016-12-00",
+    "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
+    "url": "http://adsabs.harvard.edu/abs/2016ApJ...833..262H",
+    "volume": "833",
+    "year": "2016"
+  },
+  {
     "arxiv": "1512.09142",
     "authors": [
       "Henderson, Calen B.",
@@ -633,6 +736,7 @@
       "Bennett, David P.",
       "Hogg, David W.",
       "Gaudi, B. Scott",
+      "K2 Campaign 9 Microlensing Science Team",
       "Zhu, W.",
       "Barclay, T.",
       "Barentsen, G.",
@@ -675,6 +779,7 @@
       "Sullivan, D. J.",
       "Tristram, P. J.",
       "Yonehara, A.",
+      "MOA Collaboration",
       "Bachelet, E.",
       "Bramich, D. M.",
       "Cassan, A.",
@@ -708,6 +813,7 @@
       "Skottfelt, J.",
       "Southworth, J.",
       "Unda-Sanzana, E.",
+      "The MiNDSTEp Team",
       "Bryson, S. T.",
       "Caldwell, D. A.",
       "Haas, M. R.",
@@ -719,6 +825,7 @@
       "Reedy, L.",
       "Ross, S.",
       "Van Cleve, J. E.",
+      "K2C9 Engineering Team",
       "Akeson, R.",
       "Batista, V.",
       "Beaulieu, J. -P.",
@@ -759,34 +866,6 @@
     "title": "Campaign 9 of the K2 Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
     "url": "http://adsabs.harvard.edu/abs/2016PASP..128l4401H",
     "volume": "128",
-    "year": "2016"
-  },
-  {
-    "arxiv": "1601.05413",
-    "authors": [
-      "Hogg, David W.",
-      "Casey, Andrew R.",
-      "Ness, Melissa",
-      "Rix, Hans-Walter",
-      "Foreman-Mackey, Daniel",
-      "Hasselquist, Sten",
-      "Ho, Anna Y. Q.",
-      "Holtzman, Jon A.",
-      "Majewski, Steven R.",
-      "Martell, Sarah L.",
-      "M{\\'e}sz{\\'a}ros, Szabolcs",
-      "Nidever, David L.",
-      "Shetrone, Matthew"
-    ],
-    "citations": 29,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/833/2/262",
-    "page": 262,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2016-12-00",
-    "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
-    "url": "http://adsabs.harvard.edu/abs/2016ApJ...833..262H",
-    "volume": "833",
     "year": "2016"
   },
   {
@@ -838,7 +917,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -889,7 +968,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -897,39 +976,6 @@
     "pubdate": "2016-08-00",
     "title": "The Habitability of Proxima Centauri b I: Evolutionary Scenarios",
     "url": "http://adsabs.harvard.edu/abs/2016arXiv160806919B",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 182,
-    "doctype": "article",
-    "doi": "10.21105/joss.00024",
-    "page": 24,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2016-06-00",
-    "title": "corner.py: Scatterplot matrices in Python",
-    "url": "http://adsabs.harvard.edu/abs/2016JOSS....1...24F",
-    "volume": "1",
-    "year": "2016"
-  },
-  {
-    "arxiv": "1606.03757",
-    "authors": [
-      "Brewer, Brendon J.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 8,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2016-06-00",
-    "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
-    "url": "http://adsabs.harvard.edu/abs/2016arXiv160603757B",
     "volume": null,
     "year": "2016"
   },
@@ -993,7 +1039,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1002,6 +1048,39 @@
     "title": "State of the Field: Extreme Precision Radial Velocities",
     "url": "http://adsabs.harvard.edu/abs/2016PASP..128f6001F",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 195,
+    "doctype": "article",
+    "doi": "10.21105/joss.00024",
+    "page": 24,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2016-06-00",
+    "title": "corner.py: Scatterplot matrices in Python",
+    "url": "http://adsabs.harvard.edu/abs/2016JOSS....1...24F",
+    "volume": "1",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1606.03757",
+    "authors": [
+      "Brewer, Brendon J.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 9,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2016-06-00",
+    "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
+    "url": "http://adsabs.harvard.edu/abs/2016arXiv160603757B",
+    "volume": null,
     "year": "2016"
   },
   {
@@ -1027,7 +1106,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": 53155,
@@ -1035,6 +1114,22 @@
     "pubdate": "2016-05-00",
     "title": "corner.py: corner.py v2.0.0",
     "url": "http://adsabs.harvard.edu/abs/2016zndo.soft53155F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": "10.5281/zenodo.49590",
+    "page": 16,
+    "pub": "Python in Astronomy 2016",
+    "pubdate": "2016-03-00",
+    "title": "Tools for probabilistic data analysis in Python",
+    "url": "http://adsabs.harvard.edu/abs/2016pyas.confE..16F",
     "volume": null,
     "year": "2016"
   },
@@ -1110,22 +1205,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": "10.5281/zenodo.49590",
-    "page": 16,
-    "pub": "Python in Astronomy 2016",
-    "pubdate": "2016-03-00",
-    "title": "Tools for probabilistic data analysis in Python",
-    "url": "http://adsabs.harvard.edu/abs/2016pyas.confE..16F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Dan",
       "Vousden, Will",
       "Price-Whelan, Adrian",
@@ -1162,7 +1241,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -1211,6 +1290,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 1,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258352,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "The search for single exoplanet transits in the Kepler light curves",
+    "url": "http://adsabs.harvard.edu/abs/2015IAUGA..2258352F",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Angus, Ruth",
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
@@ -1247,24 +1344,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258352,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "The search for single exoplanet transits in the Kepler light curves",
-    "url": "http://adsabs.harvard.edu/abs/2015IAUGA..2258352F",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Barclay, Thomas",
       "Quintana, Elisa",
       "Adams, Fred",
@@ -1286,6 +1365,29 @@
     "year": "2015"
   },
   {
+    "arxiv": "1505.01845",
+    "authors": [
+      "Barclay, Thomas",
+      "Quintana, Elisa V.",
+      "Adams, Fred C.",
+      "Ciardi, David R.",
+      "Huber, Daniel",
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Caldwell, Douglas"
+    ],
+    "citations": 18,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/809/1/7",
+    "page": 7,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-08-00",
+    "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809....7B",
+    "volume": "809",
+    "year": "2015"
+  },
+  {
     "arxiv": "1503.07866",
     "authors": [
       "Montet, Benjamin T.",
@@ -1298,7 +1400,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 46,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1310,65 +1412,24 @@
     "year": "2015"
   },
   {
-    "arxiv": "1505.01845",
+    "arxiv": "1502.04715",
     "authors": [
-      "Barclay, Thomas",
-      "Quintana, Elisa V.",
-      "Adams, Fred C.",
-      "Ciardi, David R.",
-      "Huber, Daniel",
       "Foreman-Mackey, Daniel",
       "Montet, Benjamin T.",
-      "Caldwell, Douglas"
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/809/1/7",
-    "page": 7,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-08-00",
-    "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
-    "url": "http://adsabs.harvard.edu/abs/2015ApJ...809....7B",
-    "volume": "809",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.06965",
-    "authors": [
-      "Angus, Ruth",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "McQuillan, Amy"
-    ],
-    "citations": 47,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stv423",
-    "page": 1787,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2015-06-00",
-    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
-    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
-    "volume": "450",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1403.6015",
-    "authors": [
-      "Ambikasaran, Sivaram",
-      "Foreman-Mackey, Daniel",
-      "Greengard, Leslie",
       "Hogg, David W.",
-      "O'Neil, Michael"
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 102,
+    "citations": 70,
     "doctype": "article",
-    "doi": "10.1109/TPAMI.2015.2448083",
-    "page": 252,
-    "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
     "pubdate": "2015-06-00",
-    "title": "Fast Direct Methods for Gaussian Processes",
-    "url": "http://adsabs.harvard.edu/abs/2015ITPAM..38..252A",
-    "volume": "38",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "http://adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
     "year": "2015"
   },
   {
@@ -1406,24 +1467,42 @@
     "year": "2015"
   },
   {
-    "arxiv": "1502.04715",
+    "arxiv": "1502.06965",
     "authors": [
+      "Angus, Ruth",
+      "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
+      "McQuillan, Amy"
     ],
-    "citations": 68,
+    "citations": 50,
     "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
+    "doi": "10.1093/mnras/stv423",
+    "page": 1787,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "http://adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
+    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
+    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
+    "volume": "450",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1403.6015",
+    "authors": [
+      "Ambikasaran, Sivaram",
+      "Foreman-Mackey, Daniel",
+      "Greengard, Leslie",
+      "Hogg, David W.",
+      "O'Neil, Michael"
+    ],
+    "citations": 101,
+    "doctype": "article",
+    "doi": "10.1109/TPAMI.2015.2448083",
+    "page": 252,
+    "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "pubdate": "2015-06-00",
+    "title": "Fast Direct Methods for Gaussian Processes",
+    "url": "http://adsabs.harvard.edu/abs/2015ITPAM..38..252A",
+    "volume": "38",
     "year": "2015"
   },
   {
@@ -1476,7 +1555,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 30,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -1521,22 +1600,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Licenses in the wild",
-    "url": "http://adsabs.harvard.edu/abs/2015AAS...22523206F",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Wang, Dun",
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
@@ -1550,6 +1613,22 @@
     "pubdate": "2015-01-00",
     "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
     "url": "http://adsabs.harvard.edu/abs/2015AAS...22525808W",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Licenses in the wild",
+    "url": "http://adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
     "year": "2015"
   },
@@ -1595,7 +1674,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 108,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -1624,7 +1703,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 37,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -1633,29 +1712,6 @@
     "title": "Large Eccentricity, Low Mutual Inclination: The Three-dimensional Architecture of a Hierarchical System of Giant Planets",
     "url": "http://adsabs.harvard.edu/abs/2014ApJ...791...89D",
     "volume": "791",
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Price-Whelan, Adrian",
-      "Ryan, Geoffrey",
-      "Rice, Emily",
-      "Smith, Michael",
-      "Barbary, Kyle",
-      "Hogg, David W.",
-      "Brewer, Brendon J."
-    ],
-    "citations": 39,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.11020",
-    "page": 11020,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-07-00",
-    "title": "triangle.py: triangle.py v0.1.1",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.soft11020F",
-    "volume": null,
     "year": "2014"
   },
   {
@@ -1686,7 +1742,30 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 2,
+    "citations": 39,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.11020",
+    "page": 11020,
+    "pub": "Zenodo Software Release",
+    "pubdate": "2014-07-00",
+    "title": "triangle.py: triangle.py v0.1.1",
+    "url": "http://adsabs.harvard.edu/abs/2014zndo.soft11020F",
+    "volume": null,
+    "year": "2014"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Price-Whelan, Adrian",
+      "Ryan, Geoffrey",
+      "Rice, Emily",
+      "Smith, Michael",
+      "Barbary, Kyle",
+      "Hogg, David W.",
+      "Brewer, Brendon J."
+    ],
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": 10598,
@@ -1723,33 +1802,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0653",
-    "authors": [
-      "Hogg, David W.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Lang, Dustin",
-      "Montet, Benjamin T.",
-      "Schiminovich, David",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
-    "url": "http://adsabs.harvard.edu/abs/2013arXiv1309.0653H",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0654",
     "authors": [
       "Montet, Benjamin T.",
@@ -1777,6 +1829,33 @@
     "year": "2013"
   },
   {
+    "arxiv": "1309.0653",
+    "authors": [
+      "Hogg, David W.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Lang, Dustin",
+      "Montet, Benjamin T.",
+      "Schiminovich, David",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
+    "url": "http://adsabs.harvard.edu/abs/2013arXiv1309.0653H",
+    "volume": null,
+    "year": "2013"
+  },
+  {
     "arxiv": "1211.5805",
     "authors": [
       "Brewer, Brendon J.",
@@ -1795,25 +1874,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1202.3665",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Lang, Dustin",
-      "Goodman, Jonathan"
-    ],
-    "citations": 1992,
-    "doctype": "article",
-    "doi": "10.1086/670067",
-    "page": 306,
-    "pub": "Publications of the Astronomical Society of the Pacific",
-    "pubdate": "2013-03-00",
-    "title": "emcee: The MCMC Hammer",
-    "url": "http://adsabs.harvard.edu/abs/2013PASP..125..306F",
-    "volume": "125",
-    "year": "2013"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -1826,7 +1886,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 21,
+    "citations": 25,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1835,6 +1895,25 @@
     "title": "emcee: The MCMC Hammer",
     "url": "http://adsabs.harvard.edu/abs/2013ascl.soft03002F",
     "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1202.3665",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Lang, Dustin",
+      "Goodman, Jonathan"
+    ],
+    "citations": 2099,
+    "doctype": "article",
+    "doi": "10.1086/670067",
+    "page": 306,
+    "pub": "Publications of the Astronomical Society of the Pacific",
+    "pubdate": "2013-03-00",
+    "title": "emcee: The MCMC Hammer",
+    "url": "http://adsabs.harvard.edu/abs/2013PASP..125..306F",
+    "volume": "125",
     "year": "2013"
   },
   {
@@ -1857,7 +1936,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
@@ -1879,7 +1958,9 @@
       "Dalcanton, J.",
       "Gilbert, K.",
       "Lang, D.",
-      "Williams, B. F."
+      "Williams, B. F.",
+      "SPLASH Team",
+      "PHAT Team"
     ],
     "citations": 0,
     "doctype": "abstract",
