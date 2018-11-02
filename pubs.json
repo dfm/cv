@@ -8,14 +8,14 @@
       "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/aae710",
     "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2018-10-00",
-    "title": "Compact multi-planet systems are more common around metal poor hosts",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv181010009B",
-    "volume": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2018-11-00",
+    "title": "Compact Multi-planet Systems are more Common around Metal-poor Hosts",
+    "url": "http://adsabs.harvard.edu/abs/2018ApJ...867L...3B",
+    "volume": "867",
     "year": "2018"
   },
   {
@@ -242,7 +242,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -294,7 +294,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -346,7 +346,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1039,7 +1039,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1055,7 +1055,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 195,
+    "citations": 200,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1455,7 +1455,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -1494,7 +1494,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1905,7 +1905,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2099,
+    "citations": 2116,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -1936,7 +1936,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
