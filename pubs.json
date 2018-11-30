@@ -186,7 +186,7 @@
       "Cai, Maxwell X.",
       "Foreman-Mackey, Daniel",
       "Lundkvist, Mia S.",
-      "Aguirre, Victor Silva",
+      "Silva Aguirre, Victor",
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
@@ -210,7 +210,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -227,7 +227,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -736,7 +736,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -1076,7 +1076,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 211,
+    "citations": 212,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1926,7 +1926,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2176,
+    "citations": 2185,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
