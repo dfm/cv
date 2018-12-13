@@ -19,6 +19,7 @@ install:
 script:
     - python get_pubs.py
     - python write_tex.py
+    - git diff
     - make
 
 after_success: |
