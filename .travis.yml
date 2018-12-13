@@ -18,7 +18,6 @@ install:
 
 script:
     - python get_pubs.py
-    - python update_others.py
     - python write_tex.py
     - git diff
     - make
