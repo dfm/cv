@@ -1,6 +1,6 @@
 sudo: false
 
-language: c
+language: python
 
 addons:
     apt:
@@ -10,12 +10,23 @@ addons:
             - texlive-fonts-recommended
             - texlive-fonts-extra
 
+install:
+    - pip install ads
+
 script:
+    - python get_pubs.py
+    - python write_tex.py
     - make
 
 after_success: |
     if [ -n "$GITHUB_API_KEY" ]; then
+        # Update the main repo
         cd $TRAVIS_BUILD_DIR
+        git add pubs.json pubs_ref.tex pubs_select.tex pubs_summary.tex pubs_unref.tex
+        git -c user.name='travis' -c user.email='travis' commit -m "updating pubs [ci skip]"
+        git push https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG $TRAVIS_BRANCH
+
+        # Update the PDF
         git checkout --orphan $TRAVIS_BRANCH-pdf
         git rm -rf .
         git add -f cv_pubs.pdf cv.pdf pubs.pdf
