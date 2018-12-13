@@ -4,16 +4,16 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
+    "citations": 311,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
-    "pub": "The Journal of Open Source Software",
     "page": 2,
+    "pub": "The Journal of Open Source Software",
     "pubdate": "2016-06-00",
     "title": "corner.py: Scatterplot matrices in Python",
+    "url": "https://scholar.google.com/scholar?cites=1835087844145558435,9294978791003210998,17836006976722650130,12820425635803494730",
     "volume": "1",
-    "year": "2016",
-    "citations": 286,
-    "url": "https://scholar.google.com/scholar?cites=1835087844145558435,9294978791003210998,17836006976722650130,12820425635803494730"
+    "year": "2016"
   },
   {
     "arxiv": null,
@@ -26,16 +26,16 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
-    "pub": "PNAS",
     "page": 27,
+    "pub": "PNAS",
     "pubdate": "2016-04-00",
     "title": "Modeling confounding by half-sibling regression",
+    "url": "https://scholar.google.com/scholar?cites=2429561747341807338",
     "volume": "113",
-    "year": "2016",
-    "citations": 8,
-    "url": "https://scholar.google.com/scholar?cites=2429561747341807338"
+    "year": "2016"
   },
   {
     "arxiv": "1505.03036",
@@ -48,16 +48,16 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
+    "citations": 5,
     "doctype": "article",
     "doi": null,
-    "pub": "ICML",
     "page": 2218,
+    "pub": "ICML",
     "pubdate": "2015-05-00",
     "title": "Removing systematic errors for exoplanet search via latent causes",
+    "url": "https://scholar.google.com/scholar?cites=11768165421845046384",
     "volume": "37",
-    "year": "2015",
-    "citations": 5,
-    "url": "https://scholar.google.com/scholar?cites=11768165421845046384"
+    "year": "2015"
   },
   {
     "arxiv": "1403.6015",
@@ -68,15 +68,15 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
+    "citations": 141,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
-    "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
     "page": 252,
+    "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
     "pubdate": "2016-02-00",
     "title": "Fast Direct Methods for Gaussian Processes",
+    "url": "https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489",
     "volume": "38",
-    "year": "2016",
-    "citations": 132,
-    "url": "https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489"
+    "year": "2016"
   }
 ]
