@@ -1,5 +1,132 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Agol, Eric",
+      "Kruse, Ethan",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "Hundreds of New Planet Candidates from K2",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23340807A",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23340505F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Montet, Benjamin",
+      "Bedell, MEgan",
+      "Christiansen, Jessie",
+      "Saunders, Nicholas",
+      "Scolnic, Daniel",
+      "Hedges, Christina L.",
+      "Foreman-Mackey, Daniel",
+      "Feinstein, Adina",
+      "Cardoso, Jose Vinicius De Miranda"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23314014L",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Montet, Benjamin",
+      "Bedell, MEgan",
+      "Christiansen, Jessie",
+      "Saunders, Nicholas",
+      "Hedges, Christina L.",
+      "Foreman-Mackey, Daniel",
+      "Feinstein, Adina",
+      "Cardoso, Jose Vinicius De Miranda"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23320204L",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Deitrick, Russell",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Fleming, David",
+      "Foreman-Mackey, Daniel",
+      "Lustig-Yeager, Jacob"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "Exact model for phase curves, eclipses, and transits of stars and their planets for TESS",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23320205D",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Morton, Timothy D.",
+      "Hogg, David W.",
+      "Bedell, Megan",
+      "Angus, Ruth",
+      "Curtis, Jason",
+      "Foreman-Mackey, Daniel",
+      "Brewer, John"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "An age-dating method that combines stellar evolution models with gyrochronology",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23323509M",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
     "arxiv": "1901.00503",
     "authors": [
       "Bedell, Megan",
@@ -100,23 +227,6 @@
     "title": "Inference of Stellar Parameters from Brightness Variations",
     "url": "http://adsabs.harvard.edu/abs/2018ApJ...866...15N",
     "volume": "866",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1419754",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2018-09-16",
-    "title": "Bettermoments: A Robust Method To Measure Line Centroids",
-    "url": "http://adsabs.harvard.edu/abs/2018zndo...1419754R",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -1150,40 +1260,6 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Ashton, Gregory",
-      "Cruz, Kelle",
-      "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
-      "Hoyer, Stephan",
-      "Barbary, Kyle",
-      "Czekala, Ian",
-      "Rein, Hanno",
-      "Gentry, Eric",
-      "Brewer, Brendon J",
-      "Hogg, David W"
-    ],
-    "citations": 14,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.53155",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-05-26",
-    "title": "Corner.Py: Corner.Py V2.0.0",
-    "url": "http://adsabs.harvard.edu/abs/2016zndo.....53155D",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Vousden, Will",
-      "Price-Whelan, Adrian",
-      "Pitkin, Matt",
-      "Zabalza, Victor",
-      "Ryan, Geoffrey",
       "Rice, Emily",
       "Smith, Michael",
       "Ashton, Gregory",
@@ -1291,38 +1367,6 @@
     "pubdate": "2016-03-00",
     "title": "Python in Astronomy 2016 Unproceedings",
     "url": "http://adsabs.harvard.edu/abs/2016pyas.confE..35R",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Vousden, Will",
-      "Price-Whelan, Adrian",
-      "Pitkin, Matt",
-      "Zabalza, Victor",
-      "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Ashton, Gregory",
-      "Cruz, Kelle",
-      "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
-      "Hoyer, Stephan",
-      "Barbary, Kyle",
-      "Czekala, Ian",
-      "Hogg, David W",
-      "Brewer, Brendon J"
-    ],
-    "citations": 37,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.45906",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-02-11",
-    "title": "Corner.Py: Corner.Py V1.0.2",
-    "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906D",
     "volume": null,
     "year": "2016"
   },
@@ -1810,43 +1854,6 @@
     "year": "2014"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Sick, Jonathan",
-      "Johnson, Ben"
-    ],
-    "citations": 23,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.12157",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-10-09",
-    "title": "Python-Fsps: Python Bindings To Fsps (V0.1.1)",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.....12157D",
-    "volume": null,
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Hoyer, Stephan",
-      "Bernhard, Jonah",
-      "Angus, Ruth"
-    ],
-    "citations": 8,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.11989",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-10-07",
-    "title": "George: George (V0.2.0)",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.....11989D",
-    "volume": null,
-    "year": "2014"
-  },
-  {
     "arxiv": "1405.5229",
     "authors": [
       "Dawson, Rebekah I.",
@@ -1873,29 +1880,6 @@
     "title": "Large Eccentricity, Low Mutual Inclination: The Three-dimensional Architecture of a Hierarchical System of Giant Planets",
     "url": "http://adsabs.harvard.edu/abs/2014ApJ...791...89D",
     "volume": "791",
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Price-Whelan, Adrian",
-      "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Barbary, Kyle",
-      "Hogg, David W",
-      "Brewer, Brendon J"
-    ],
-    "citations": 69,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.11020",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-07-24",
-    "title": "Triangle.Py V0.1.1",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020D",
-    "volume": null,
     "year": "2014"
   },
   {
@@ -1934,29 +1918,6 @@
     "pubdate": "2014-07-00",
     "title": "triangle.py: triangle.py v0.1.1",
     "url": "http://adsabs.harvard.edu/abs/2014zndo.soft11020F",
-    "volume": null,
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Price-Whelan, Adrian",
-      "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Barbary, Kyle",
-      "Hogg, David W",
-      "Brewer, Brendon J"
-    ],
-    "citations": 5,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.10598",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-06-19",
-    "title": "A Citable Release",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598D",
     "volume": null,
     "year": "2014"
   },
