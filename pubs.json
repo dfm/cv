@@ -230,12 +230,29 @@
     "year": "2018"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1419754",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-09-16",
+    "title": "Bettermoments: A Robust Method To Measure Line Centroids",
+    "url": "http://adsabs.harvard.edu/abs/2018zndo...1419754T",
+    "volume": null,
+    "year": "2018"
+  },
+  {
     "arxiv": "1809.10295",
     "authors": [
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1025,7 +1042,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -1207,7 +1224,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1223,7 +1240,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 219,
+    "citations": 221,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1248,6 +1265,40 @@
     "pubdate": "2016-06-00",
     "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
     "url": "http://adsabs.harvard.edu/abs/2016arXiv160603757B",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Vousden, Will",
+      "Price-Whelan, Adrian",
+      "Pitkin, Matt",
+      "Zabalza, Victor",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Ashton, Gregory",
+      "Cruz, Kelle",
+      "Kerzendorf, Wolfgang",
+      "Caswell, Thomas A",
+      "Hoyer, Stephan",
+      "Barbary, Kyle",
+      "Czekala, Ian",
+      "Rein, Hanno",
+      "Gentry, Eric",
+      "Brewer, Brendon J",
+      "Hogg, David W"
+    ],
+    "citations": 10,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.53155",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-05-26",
+    "title": "Corner.Py: Corner.Py V2.0.0",
+    "url": "http://adsabs.harvard.edu/abs/2016zndo.....53155F",
     "volume": null,
     "year": "2016"
   },
@@ -1367,6 +1418,38 @@
     "pubdate": "2016-03-00",
     "title": "Python in Astronomy 2016 Unproceedings",
     "url": "http://adsabs.harvard.edu/abs/2016pyas.confE..35R",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Vousden, Will",
+      "Price-Whelan, Adrian",
+      "Pitkin, Matt",
+      "Zabalza, Victor",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Ashton, Gregory",
+      "Cruz, Kelle",
+      "Kerzendorf, Wolfgang",
+      "Caswell, Thomas A",
+      "Hoyer, Stephan",
+      "Barbary, Kyle",
+      "Czekala, Ian",
+      "Hogg, David W",
+      "Brewer, Brendon J"
+    ],
+    "citations": 27,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.45906",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-02-11",
+    "title": "Corner.Py: Corner.Py V1.0.2",
+    "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
     "year": "2016"
   },
@@ -1662,7 +1745,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -1854,6 +1937,43 @@
     "year": "2014"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Johnson, Ben"
+    ],
+    "citations": 17,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.12157",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-10-09",
+    "title": "Python-Fsps: Python Bindings To Fsps (V0.1.1)",
+    "url": "http://adsabs.harvard.edu/abs/2014zndo.....12157F",
+    "volume": null,
+    "year": "2014"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Hoyer, Stephan",
+      "Bernhard, Jonah",
+      "Angus, Ruth"
+    ],
+    "citations": 4,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.11989",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-10-07",
+    "title": "George: George (V0.2.0)",
+    "url": "http://adsabs.harvard.edu/abs/2014zndo.....11989F",
+    "volume": null,
+    "year": "2014"
+  },
+  {
     "arxiv": "1405.5229",
     "authors": [
       "Dawson, Rebekah I.",
@@ -1880,6 +2000,29 @@
     "title": "Large Eccentricity, Low Mutual Inclination: The Three-dimensional Architecture of a Hierarchical System of Giant Planets",
     "url": "http://adsabs.harvard.edu/abs/2014ApJ...791...89D",
     "volume": "791",
+    "year": "2014"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Price-Whelan, Adrian",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Barbary, Kyle",
+      "Hogg, David W",
+      "Brewer, Brendon J"
+    ],
+    "citations": 45,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.11020",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-07-24",
+    "title": "Triangle.Py V0.1.1",
+    "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020F",
+    "volume": null,
     "year": "2014"
   },
   {
@@ -1918,6 +2061,29 @@
     "pubdate": "2014-07-00",
     "title": "triangle.py: triangle.py v0.1.1",
     "url": "http://adsabs.harvard.edu/abs/2014zndo.soft11020F",
+    "volume": null,
+    "year": "2014"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Price-Whelan, Adrian",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Barbary, Kyle",
+      "Hogg, David W",
+      "Brewer, Brendon J"
+    ],
+    "citations": 3,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.10598",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-06-19",
+    "title": "A Citable Release",
+    "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
     "volume": null,
     "year": "2014"
   },
@@ -2073,7 +2239,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2257,
+    "citations": 2262,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
