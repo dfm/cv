@@ -196,7 +196,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -354,7 +354,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -531,7 +531,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -569,7 +569,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1042,7 +1042,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 42,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -1102,7 +1102,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1224,7 +1224,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1240,7 +1240,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 221,
+    "citations": 222,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1651,7 +1651,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1672,7 +1672,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1725,7 +1725,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -1925,7 +1925,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2220,7 +2220,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2239,7 +2239,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2262,
+    "citations": 2264,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
