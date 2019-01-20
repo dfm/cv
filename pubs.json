@@ -1,5 +1,113 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23340505F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Feinstein, Adina",
+      "Montet, Benjamin",
+      "Bedell, MEgan",
+      "Christiansen, Jessie",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina L.",
+      "Luger, Rodrigo",
+      "Saunders, Nicholas",
+      "Scolnic, Daniel",
+      "De Miranda Cardoso, Jose Vinicius"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23314014F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Brewer, John",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Curtis, Jason",
+      "Hogg, David W."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "An age-dating method that combines stellar evolution models with gyrochronology",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23323509A",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Feinstein, Adina",
+      "Montet, Benjamin",
+      "Bedell, MEgan",
+      "Christiansen, Jessie",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina L.",
+      "Luger, Rodrigo",
+      "Saunders, Nicholas",
+      "De Miranda Cardoso, Jose Vinicius"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23320204F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David",
+      "Lustig-Yeager, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "Exact model for phase curves, eclipses, and transits of stars and their planets for TESS",
+    "url": "http://adsabs.harvard.edu/abs/2019AAS...23320205A",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
     "arxiv": "1901.00503",
     "authors": [
       "Bedell, Megan",
