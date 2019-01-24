@@ -335,7 +335,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -355,7 +355,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -408,7 +408,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 21,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -512,7 +512,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 50,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -881,7 +881,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -1221,7 +1221,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 224,
+    "citations": 229,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1632,7 +1632,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1653,7 +1653,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -2220,7 +2220,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2275,
+    "citations": 2308,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
