@@ -1,5 +1,52 @@
 [
   {
+    "arxiv": "1810.06559",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/aae8e5",
+    "page": 64,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-02-00",
+    "title": "starry: Analytic Occultation Light Curves",
+    "url": "http://adsabs.harvard.edu/abs/2019AJ....157...64L",
+    "volume": "157",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1807.00549",
+    "authors": [
+      "Van Eylen, Vincent",
+      "Albrecht, Simon",
+      "Huang, Xu",
+      "MacDonald, Mariah G.",
+      "Dawson, Rebekah I.",
+      "Cai, Maxwell X.",
+      "Foreman-Mackey, Daniel",
+      "Lundkvist, Mia S.",
+      "Silva Aguirre, Victor",
+      "Snellen, Ignas",
+      "Winn, Joshua N."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/aaf22f",
+    "page": 61,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-02-00",
+    "title": "The Orbital Eccentricity of Small Planet Systems",
+    "url": "http://adsabs.harvard.edu/abs/2019AJ....157...61V",
+    "volume": "157",
+    "year": "2019"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel"
@@ -168,27 +215,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1810.06559",
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2018-10-00",
-    "title": "STARRY: Analytic Occultation Light Curves",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv181006559L",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1805.04519",
     "authors": [
       "Ness, Melissa K.",
@@ -321,32 +347,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1807.00549",
-    "authors": [
-      "Van Eylen, Vincent",
-      "Albrecht, Simon",
-      "Huang, Xu",
-      "MacDonald, Mariah G.",
-      "Dawson, Rebekah I.",
-      "Cai, Maxwell X.",
-      "Foreman-Mackey, Daniel",
-      "Lundkvist, Mia S.",
-      "Silva Aguirre, Victor",
-      "Snellen, Ignas",
-      "Winn, Joshua N."
-    ],
-    "citations": 7,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2018-07-00",
-    "title": "The orbital eccentricity of small planet systems",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180700549V",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1805.10290",
     "authors": [
       "Teague, Richard",
@@ -355,7 +355,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -442,7 +442,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -781,7 +781,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -818,7 +818,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -1083,7 +1083,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1134,7 +1134,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1205,7 +1205,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 82,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1221,7 +1221,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 229,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1238,7 +1238,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2220,7 +2220,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2306,
+    "citations": 2322,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
