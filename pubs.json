@@ -218,7 +218,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -548,7 +548,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -817,7 +817,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1257,7 +1257,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 252,
+    "citations": 253,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2256,7 +2256,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2409,
+    "citations": 2413,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
