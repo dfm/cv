@@ -199,7 +199,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -391,7 +391,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -854,7 +854,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -1241,7 +1241,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1257,7 +1257,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 254,
+    "citations": 256,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2213,7 +2213,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -2256,7 +2256,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2416,
+    "citations": 2422,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
