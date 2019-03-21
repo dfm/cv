@@ -369,7 +369,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -561,7 +561,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -594,7 +594,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -718,7 +718,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 57,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -987,7 +987,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1249,7 +1249,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1289,7 +1289,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1427,7 +1427,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 261,
+    "citations": 262,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1814,7 +1814,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -2426,7 +2426,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2438,
+    "citations": 2447,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
