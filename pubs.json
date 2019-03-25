@@ -1,5 +1,31 @@
 [
   {
+    "arxiv": "1903.09152",
+    "authors": [
+      "Feinstein, Adina D.",
+      "Montet, Benjamin T.",
+      "Foreman-Mackey, Daniel",
+      "Bedell, Megan E.",
+      "Saunders, Nicholas",
+      "Bean, Jacob L.",
+      "Christiansen, Jessie L.",
+      "Hedges, Christina",
+      "Luger, Rodrigo",
+      "Scolnic, Daniel",
+      "Cardoso, Jose Vinicius de Miranda"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-03-00",
+    "title": "eleanor: An open-source tool for extracting light curves from the TESS Full-Frame Images",
+    "url": "http://adsabs.harvard.edu/abs/2019arXiv190309152F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1903.08017",
     "authors": [
       "Kostov, Veselin B.",
@@ -561,7 +587,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1411,7 +1437,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1427,7 +1453,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 262,
+    "citations": 263,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2426,7 +2452,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2456,
+    "citations": 2464,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
