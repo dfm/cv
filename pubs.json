@@ -205,7 +205,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -511,7 +511,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -604,7 +604,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -692,7 +692,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -1315,7 +1315,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1437,7 +1437,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 92,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1453,7 +1453,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 268,
+    "citations": 264,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1958,7 +1958,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 117,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2452,7 +2452,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2500,
+    "citations": 2487,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
