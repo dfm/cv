@@ -587,7 +587,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -692,7 +692,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -1013,7 +1013,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 94,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1453,7 +1453,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 268,
+    "citations": 265,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1938,7 +1938,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 60,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2452,7 +2452,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2517,
+    "citations": 2507,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
