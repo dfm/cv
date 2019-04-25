@@ -587,7 +587,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 31,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -604,7 +604,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 20,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -640,7 +640,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -744,7 +744,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 64,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1013,7 +1013,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 96,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1275,7 +1275,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 39,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1366,7 +1366,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1437,7 +1437,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 96,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1453,7 +1453,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 272,
+    "citations": 269,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1938,7 +1938,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 61,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -1958,7 +1958,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 120,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2138,7 +2138,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 125,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2266,7 +2266,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": 11020,
@@ -2452,7 +2452,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2581,
+    "citations": 2556,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
