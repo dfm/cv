@@ -537,7 +537,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1341,7 +1341,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 88,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1463,7 +1463,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1479,7 +1479,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 273,
+    "citations": 274,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2478,7 +2478,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2588,
+    "citations": 2598,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
