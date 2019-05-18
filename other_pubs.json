@@ -78,5 +78,22 @@
     "url": "https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489",
     "volume": "38",
     "year": "2016"
+  },
+  {
+    "arxiv": "1606.03757",
+    "authors": [
+      "Brewer, Brendon",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 11,
+    "doctype": "article",
+    "doi": "10.18637/jss.v086.i07",
+    "page": 1,
+    "pub": "Journal of Statistical Software",
+    "pubdate": "2018-09-04",
+    "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
+    "url": "https://scholar.google.com/scholar?cites=789224875040810871",
+    "volume": "86",
+    "year": "2018"
   }
 ]
