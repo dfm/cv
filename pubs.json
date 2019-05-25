@@ -613,7 +613,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -666,7 +666,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -770,7 +770,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1341,7 +1341,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1479,7 +1479,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 274,
+    "citations": 275,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1890,7 +1890,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1911,7 +1911,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1984,7 +1984,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 121,
+    "citations": 122,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2478,7 +2478,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2613,
+    "citations": 2617,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
