@@ -584,7 +584,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1530,7 +1530,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1546,7 +1546,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 276,
+    "citations": 277,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2051,7 +2051,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2545,7 +2545,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2617,
+    "citations": 2627,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
