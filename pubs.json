@@ -107,7 +107,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jose Vinicius de Miranda"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -631,7 +631,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -724,7 +724,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -740,7 +740,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -760,7 +760,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -812,7 +812,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -845,7 +845,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -864,7 +864,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 71,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1133,7 +1133,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1435,7 +1435,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2005,7 +2005,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -2078,7 +2078,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2139,7 +2139,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -2572,7 +2572,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2646,
+    "citations": 2650,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
