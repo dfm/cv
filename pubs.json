@@ -707,7 +707,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 36,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1557,7 +1557,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1573,7 +1573,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 282,
+    "citations": 284,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2572,7 +2572,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2674,
+    "citations": 2684,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
