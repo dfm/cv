@@ -351,7 +351,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1133,7 +1133,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 105,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1557,7 +1557,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 97,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1573,7 +1573,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 284,
+    "citations": 289,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2258,7 +2258,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2553,7 +2553,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2572,7 +2572,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2695,
+    "citations": 2707,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
