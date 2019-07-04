@@ -6,8 +6,9 @@ from __future__ import division, print_function
 import json
 from datetime import date
 from operator import itemgetter
+from utf8totex import utf8totex
 
-__all__ = ["format_pub"]
+__all__ = ["format_pub", "format_repo"]
 
 JOURNAL_MAP = {
     "ArXiv e-prints": "ArXiv",
@@ -64,6 +65,19 @@ def format_pub(args):
     return fmt
 
 
+def format_repo(repo):
+    repo = repo["node"]
+    for k in ["name", "description"]:
+        repo[k] = utf8totex(repo[k])
+    txt = "\\item \href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
+    txt += "{repo[stargazers][totalCount]} stars / "
+    txt += "{repo[forkCount]} forks \\\\\n"
+    txt += "{repo[description]} "
+    txt += "\\href{{{repo[homepageUrl]}}}{{[docs]}}"
+    txt = txt.format(repo=repo)
+    return txt
+
+
 if __name__ == "__main__":
     with open("pubs.json", "r") as f:
         pubs = json.load(f)
@@ -116,3 +130,10 @@ if __name__ == "__main__":
                                         selected)))
     with open("pubs_select.tex", "w") as f:
         f.write("\n\n".join(selected))
+
+    # Write the repo info
+    with open("repos.json", "r") as f:
+        repos = json.load(f)
+    repos = repos["data"]["user"]["pinnedItems"]["edges"]
+    with open("repos.tex", "w") as f:
+        f.write("\n\n".join(map(format_repo, repos)))

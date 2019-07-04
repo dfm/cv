@@ -1,0 +1,101 @@
+{
+  "data": {
+    "user": {
+      "pinnedItems": {
+        "totalCount": 6,
+        "edges": [
+          {
+            "node": {
+              "name": "emcee",
+              "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
+              "url": "https://github.com/dfm/emcee",
+              "homepageUrl": "http://emcee.readthedocs.io",
+              "forkCount": 341,
+              "stargazers": {
+                "totalCount": 914
+              },
+              "watchers": {
+                "totalCount": 102
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "george",
+              "description": "Fast and flexible Gaussian Process regression in Python",
+              "url": "https://github.com/dfm/george",
+              "homepageUrl": "http://george.readthedocs.io",
+              "forkCount": 96,
+              "stargazers": {
+                "totalCount": 292
+              },
+              "watchers": {
+                "totalCount": 21
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "celerite",
+              "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
+              "url": "https://github.com/dfm/celerite",
+              "homepageUrl": "http://celerite.rtfd.io",
+              "forkCount": 30,
+              "stargazers": {
+                "totalCount": 119
+              },
+              "watchers": {
+                "totalCount": 12
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "daft",
+              "description": "Render probabilistic graphical models using matplotlib",
+              "url": "https://github.com/dfm/daft",
+              "homepageUrl": "http://daft-pgm.org",
+              "forkCount": 102,
+              "stargazers": {
+                "totalCount": 469
+              },
+              "watchers": {
+                "totalCount": 19
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "corner.py",
+              "description": "Make some beautiful corner plots",
+              "url": "https://github.com/dfm/corner.py",
+              "homepageUrl": "http://corner.readthedocs.io",
+              "forkCount": 153,
+              "stargazers": {
+                "totalCount": 233
+              },
+              "watchers": {
+                "totalCount": 21
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "exoplanet",
+              "description": "Fast & scalable MCMC for all your exoplanet needs! ",
+              "url": "https://github.com/dfm/exoplanet",
+              "homepageUrl": "https://exoplanet.dfm.io",
+              "forkCount": 13,
+              "stargazers": {
+                "totalCount": 48
+              },
+              "watchers": {
+                "totalCount": 11
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -18,6 +18,7 @@ install:
 
 script:
     - python get_pubs.py
+    - python get_repos.py
     - python write_tex.py
     - git diff
     - make
@@ -28,7 +29,7 @@ after_success: |
 
         # Update the main repo
         git checkout $TRAVIS_BRANCH
-        git add pubs.json pubs_ref.tex pubs_select.tex pubs_summary.tex pubs_unref.tex
+        git add pubs.json pubs_ref.tex pubs_select.tex pubs_summary.tex pubs_unref.tex repos.json repos.tex
         git -c user.name='travis' -c user.email='travis' commit -m "updating pubs [ci skip]"
         git push https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG $TRAVIS_BRANCH
 
