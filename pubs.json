@@ -1,5 +1,22 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-07-00",
+    "title": "schwimmbad: Parallel processing pools interface",
+    "url": "http://adsabs.harvard.edu/abs/2019ascl.soft07001P",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1903.08017",
     "authors": [
       "Kostov, Veselin B.",
