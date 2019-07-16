@@ -10,12 +10,12 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "http://emcee.readthedocs.io",
-              "forkCount": 341,
+              "forkCount": 342,
               "stargazers": {
-                "totalCount": 918
+                "totalCount": 919
               },
               "watchers": {
-                "totalCount": 102
+                "totalCount": 103
               }
             }
           },
@@ -40,7 +40,7 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 30,
+              "forkCount": 31,
               "stargazers": {
                 "totalCount": 121
               },
@@ -70,7 +70,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 153,
+              "forkCount": 154,
               "stargazers": {
                 "totalCount": 233
               },
@@ -85,7 +85,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/dfm/exoplanet",
               "homepageUrl": "https://exoplanet.dfm.io",
-              "forkCount": 14,
+              "forkCount": 15,
               "stargazers": {
                 "totalCount": 52
               },

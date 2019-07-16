@@ -710,7 +710,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -1083,7 +1083,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1507,7 +1507,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1523,7 +1523,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 287,
+    "citations": 289,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2503,7 +2503,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2522,7 +2522,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2738,
+    "citations": 2743,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
