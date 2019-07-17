@@ -12,7 +12,7 @@
               "homepageUrl": "http://emcee.readthedocs.io",
               "forkCount": 342,
               "stargazers": {
-                "totalCount": 919
+                "totalCount": 920
               },
               "watchers": {
                 "totalCount": 103
@@ -55,9 +55,9 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/dfm/daft",
               "homepageUrl": "http://daft-pgm.org",
-              "forkCount": 102,
+              "forkCount": 103,
               "stargazers": {
-                "totalCount": 469
+                "totalCount": 471
               },
               "watchers": {
                 "totalCount": 20
