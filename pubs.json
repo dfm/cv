@@ -1507,7 +1507,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 98,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1523,7 +1523,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 289,
+    "citations": 290,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1810,7 +1810,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1934,7 +1934,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -2028,7 +2028,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 127,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2522,7 +2522,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2743,
+    "citations": 2745,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
