@@ -203,7 +203,7 @@
       "Young, C. Alex"
     ],
     "citations": 0,
-    "doctype": "abstract",
+    "doctype": "article",
     "doi": null,
     "page": 355,
     "pub": "Bulletin of the American Astronomical Society",
@@ -275,7 +275,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -484,7 +484,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -581,7 +581,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -814,7 +814,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 77,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1083,7 +1083,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 108,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1385,7 +1385,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 94,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1404,7 +1404,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -1507,7 +1507,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1523,7 +1523,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 293,
+    "citations": 294,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1989,7 +1989,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -2008,7 +2008,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2208,7 +2208,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 129,
+    "citations": 130,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2274,7 +2274,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -2522,7 +2522,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2762,
+    "citations": 2771,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
