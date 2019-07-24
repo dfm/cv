@@ -484,7 +484,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -674,7 +674,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -814,7 +814,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 80,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1083,7 +1083,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 110,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1385,7 +1385,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 98,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1523,7 +1523,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 294,
+    "citations": 293,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1934,7 +1934,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1989,7 +1989,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -2008,7 +2008,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 66,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2208,7 +2208,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 130,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2274,7 +2274,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 44,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -2522,7 +2522,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2771,
+    "citations": 2765,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
