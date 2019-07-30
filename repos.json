@@ -72,7 +72,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 155,
               "stargazers": {
-                "totalCount": 234
+                "totalCount": 235
               },
               "watchers": {
                 "totalCount": 22
@@ -85,7 +85,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/dfm/exoplanet",
               "homepageUrl": "https://exoplanet.dfm.io",
-              "forkCount": 16,
+              "forkCount": 17,
               "stargazers": {
                 "totalCount": 54
               },
