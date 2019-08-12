@@ -1,5 +1,49 @@
 [
   {
+    "arxiv": "1903.09152",
+    "authors": [
+      "Feinstein, Adina D.",
+      "Montet, Benjamin T.",
+      "Foreman-Mackey, Daniel",
+      "Bedell, Megan E.",
+      "Saunders, Nicholas",
+      "Bean, Jacob L.",
+      "Christiansen, Jessie L.",
+      "Hedges, Christina",
+      "Luger, Rodrigo",
+      "Scolnic, Daniel",
+      "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1088/1538-3873/ab291c",
+    "page": 94502,
+    "pub": "Publications of the Astronomical Society of the Pacific",
+    "pubdate": "2019-09-00",
+    "title": "eleanor: An Open-source Tool for Extracting Light Curves from the TESS Full-frame Images",
+    "url": "http://adsabs.harvard.edu/abs/2019PASP..131i4502F",
+    "volume": "131",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1908.03222",
+    "authors": [
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-08-00",
+    "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
+    "url": "http://adsabs.harvard.edu/abs/2019arXiv190803222A",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1907.10806",
     "authors": [
       "Kruse, Ethan",
@@ -154,7 +198,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -255,32 +299,6 @@
     "pubdate": "2019-04-00",
     "title": "eleanor: Extracted and systematics-corrected light curves for TESS-observed stars",
     "url": "http://adsabs.harvard.edu/abs/2019ascl.soft04022F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": "1903.09152",
-    "authors": [
-      "Feinstein, Adina D.",
-      "Montet, Benjamin T.",
-      "Foreman-Mackey, Daniel",
-      "Bedell, Megan E.",
-      "Saunders, Nicholas",
-      "Bean, Jacob L.",
-      "Christiansen, Jessie L.",
-      "Hedges, Christina",
-      "Luger, Rodrigo",
-      "Scolnic, Daniel",
-      "Cardoso, Jose Vinicius de Miranda"
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-03-00",
-    "title": "eleanor: An open-source tool for extracting light curves from the TESS Full-Frame Images",
-    "url": "http://adsabs.harvard.edu/abs/2019arXiv190309152F",
     "volume": null,
     "year": "2019"
   },
@@ -1526,7 +1544,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1542,7 +1560,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 298,
+    "citations": 299,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1559,7 +1577,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1981,7 +1999,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 137,
+    "citations": 138,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2429,7 +2447,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2804,
+    "citations": 2815,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
