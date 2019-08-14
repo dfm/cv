@@ -55,9 +55,9 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/dfm/daft",
               "homepageUrl": "http://daft-pgm.org",
-              "forkCount": 102,
+              "forkCount": 101,
               "stargazers": {
-                "totalCount": 472
+                "totalCount": 474
               },
               "watchers": {
                 "totalCount": 20
