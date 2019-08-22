@@ -26,6 +26,31 @@
     "year": "2019"
   },
   {
+    "arxiv": "1908.07528",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "van Saders, Jennifer",
+      "Curtis, Jason",
+      "Kane, Stephen R.",
+      "Bedell, Megan",
+      "Kiman, Rocio",
+      "Hogg, David W.",
+      "Brewer, John"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-08-00",
+    "title": "Towards precise stellar ages: combining isochrone fitting with empirical gyrochronology",
+    "url": "http://adsabs.harvard.edu/abs/2019arXiv190807528A",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1908.03222",
     "authors": [
       "Agol, Eric",
@@ -312,7 +337,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -521,7 +546,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -618,7 +643,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2447,7 +2472,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2822,
+    "citations": 2824,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
