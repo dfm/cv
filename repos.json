@@ -25,9 +25,9 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 96,
+              "forkCount": 97,
               "stargazers": {
-                "totalCount": 298
+                "totalCount": 299
               },
               "watchers": {
                 "totalCount": 21
