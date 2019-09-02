@@ -4,7 +4,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 311,
+    "citations": 513,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 2,
@@ -26,7 +26,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 9,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 27,
@@ -48,7 +48,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": null,
     "page": 2218,
@@ -68,7 +68,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 141,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
