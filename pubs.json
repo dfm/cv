@@ -719,7 +719,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1145,7 +1145,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1569,7 +1569,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1585,7 +1585,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 308,
+    "citations": 310,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2024,7 +2024,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 137,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2472,7 +2472,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2835,
+    "citations": 2845,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

@@ -10,9 +10,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "http://emcee.readthedocs.io",
-              "forkCount": 348,
+              "forkCount": 349,
               "stargazers": {
-                "totalCount": 940
+                "totalCount": 941
               },
               "watchers": {
                 "totalCount": 104
@@ -53,11 +53,11 @@
             "node": {
               "name": "daft",
               "description": "Render probabilistic graphical models using matplotlib",
-              "url": "https://github.com/dfm/daft",
+              "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "http://daft-pgm.org",
               "forkCount": 102,
               "stargazers": {
-                "totalCount": 477
+                "totalCount": 478
               },
               "watchers": {
                 "totalCount": 19
@@ -72,7 +72,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 156,
               "stargazers": {
-                "totalCount": 239
+                "totalCount": 240
               },
               "watchers": {
                 "totalCount": 22
