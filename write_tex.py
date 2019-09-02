@@ -92,7 +92,8 @@ if __name__ == "__main__":
                 p["citations"] = max(p["citations"], p1["citations"])
                 pubs.remove(p1)
     pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
-    pubs = [p for p in pubs if p["doctype"] in ["article", "eprint"]]
+    pubs = [p for p in pubs if (p["doctype"] in ["article", "eprint"] and
+                                p["pub"] != "Zenodo Software Release")]
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
 
