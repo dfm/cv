@@ -1,5 +1,110 @@
 [
   {
+    "arxiv": "1903.09152",
+    "authors": [
+      "Feinstein, Adina D.",
+      "Montet, Benjamin T.",
+      "Foreman-Mackey, Daniel",
+      "Bedell, Megan E.",
+      "Saunders, Nicholas",
+      "Bean, Jacob L.",
+      "Christiansen, Jessie L.",
+      "Hedges, Christina",
+      "Luger, Rodrigo",
+      "Scolnic, Daniel",
+      "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.1088/1538-3873/ab291c",
+    "page": 94502,
+    "pub": "Publications of the Astronomical Society of the Pacific",
+    "pubdate": "2019-09-00",
+    "title": "eleanor: An Open-source Tool for Extracting Light Curves from the TESS Full-frame Images",
+    "url": "http://adsabs.harvard.edu/abs/2019PASP..131i4502F",
+    "volume": "131",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1908.07528",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "van Saders, Jennifer",
+      "Curtis, Jason",
+      "Kane, Stephen R.",
+      "Bedell, Megan",
+      "Kiman, Rocio",
+      "Hogg, David W.",
+      "Brewer, John"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-08-00",
+    "title": "Towards precise stellar ages: combining isochrone fitting with empirical gyrochronology",
+    "url": "http://adsabs.harvard.edu/abs/2019arXiv190807528A",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": "1908.03222",
+    "authors": [
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-08-00",
+    "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
+    "url": "http://adsabs.harvard.edu/abs/2019arXiv190803222A",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": "1907.10806",
+    "authors": [
+      "Kruse, Ethan",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-07-00",
+    "title": "Detection of Hundreds of New Planet Candidates and Eclipsing Binaries in K2 Campaigns 0-8",
+    "url": "http://adsabs.harvard.edu/abs/2019arXiv190710806K",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-07-00",
+    "title": "schwimmbad: Parallel processing pools interface",
+    "url": "http://adsabs.harvard.edu/abs/2019ascl.soft07001P",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1903.08017",
     "authors": [
       "Kostov, Veselin B.",
@@ -118,7 +223,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 4,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -186,7 +291,7 @@
       "Young, C. Alex"
     ],
     "citations": 0,
-    "doctype": "abstract",
+    "doctype": "article",
     "doi": null,
     "page": 355,
     "pub": "Bulletin of the American Astronomical Society",
@@ -223,32 +328,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1903.09152",
-    "authors": [
-      "Feinstein, Adina D.",
-      "Montet, Benjamin T.",
-      "Foreman-Mackey, Daniel",
-      "Bedell, Megan E.",
-      "Saunders, Nicholas",
-      "Bean, Jacob L.",
-      "Christiansen, Jessie L.",
-      "Hedges, Christina",
-      "Luger, Rodrigo",
-      "Scolnic, Daniel",
-      "Cardoso, Jose Vinicius de Miranda"
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-03-00",
-    "title": "eleanor: An open-source tool for extracting light curves from the TESS Full-Frame Images",
-    "url": "http://adsabs.harvard.edu/abs/2019arXiv190309152F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
     "arxiv": "1810.06559",
     "authors": [
       "Luger, Rodrigo",
@@ -258,7 +337,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 10,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -284,7 +363,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 14,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -448,7 +527,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -467,7 +546,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -564,7 +643,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 36,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -640,7 +719,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 38,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -657,7 +736,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -693,7 +772,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 32,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -745,7 +824,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -778,7 +857,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 19,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -797,7 +876,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 78,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -835,7 +914,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -852,7 +931,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -1066,7 +1145,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 106,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1166,7 +1245,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 41,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -1308,7 +1387,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 44,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -1328,7 +1407,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1368,7 +1447,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 94,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1387,7 +1466,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -1419,7 +1498,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 33,
+    "citations": 32,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1490,7 +1569,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 97,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1506,7 +1585,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 283,
+    "citations": 310,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1523,7 +1602,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1531,40 +1610,6 @@
     "pubdate": "2016-06-00",
     "title": "DNest4: Diffusive Nested Sampling in C++ and Python",
     "url": "http://adsabs.harvard.edu/abs/2016arXiv160603757B",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Vousden, Will",
-      "Price-Whelan, Adrian",
-      "Pitkin, Matt",
-      "Zabalza, Victor",
-      "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Ashton, Gregory",
-      "Cruz, Kelle",
-      "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
-      "Hoyer, Stephan",
-      "Barbary, Kyle",
-      "Czekala, Ian",
-      "Rein, Hanno",
-      "Gentry, Eric",
-      "Brewer, Brendon J",
-      "Hogg, David W"
-    ],
-    "citations": 10,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.53155",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-05-26",
-    "title": "Corner.Py: Corner.Py V2.0.0",
-    "url": "http://adsabs.harvard.edu/abs/2016zndo.....53155F",
     "volume": null,
     "year": "2016"
   },
@@ -1591,14 +1636,14 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 9,
-    "doctype": "software",
+    "citations": 10,
+    "doctype": "article",
     "doi": "10.5281/zenodo.53155",
     "page": 53155,
     "pub": "Zenodo Software Release",
     "pubdate": "2016-05-00",
     "title": "corner.py: corner.py v2.0.0",
-    "url": "http://adsabs.harvard.edu/abs/2016zndo.soft53155F",
+    "url": "http://adsabs.harvard.edu/abs/2016zndo.....53155F",
     "volume": null,
     "year": "2016"
   },
@@ -1696,38 +1741,6 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Ashton, Gregory",
-      "Cruz, Kelle",
-      "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
-      "Hoyer, Stephan",
-      "Barbary, Kyle",
-      "Czekala, Ian",
-      "Hogg, David W",
-      "Brewer, Brendon J"
-    ],
-    "citations": 27,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.45906",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-02-11",
-    "title": "Corner.Py: Corner.Py V1.0.2",
-    "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Vousden, Will",
-      "Price-Whelan, Adrian",
-      "Pitkin, Matt",
-      "Zabalza, Victor",
-      "Ryan, Geoffrey",
       "Rice, Emily",
       "Smith, Michael",
       "Ashton, Gregory",
@@ -1740,14 +1753,14 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 27,
-    "doctype": "software",
+    "citations": 31,
+    "doctype": "article",
     "doi": "10.5281/zenodo.45906",
     "page": 45906,
     "pub": "Zenodo Software Release",
     "pubdate": "2016-02-00",
     "title": "corner.py: corner.py v1.0.2",
-    "url": "http://adsabs.harvard.edu/abs/2016zndo.soft45906F",
+    "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
     "year": "2016"
   },
@@ -1793,7 +1806,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 10,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1917,7 +1930,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 63,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -1938,7 +1951,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -1991,7 +2004,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 65,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2011,7 +2024,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 126,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2072,7 +2085,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 38,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -2191,7 +2204,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 127,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2257,7 +2270,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 43,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -2266,29 +2279,6 @@
     "title": "Large Eccentricity, Low Mutual Inclination: The Three-dimensional Architecture of a Hierarchical System of Giant Planets",
     "url": "http://adsabs.harvard.edu/abs/2014ApJ...791...89D",
     "volume": "791",
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Price-Whelan, Adrian",
-      "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Barbary, Kyle",
-      "Hogg, David W",
-      "Brewer, Brendon J"
-    ],
-    "citations": 45,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.11020",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-07-24",
-    "title": "Triangle.Py V0.1.1",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020F",
-    "volume": null,
     "year": "2014"
   },
   {
@@ -2320,36 +2310,13 @@
       "Brewer, Brendon J."
     ],
     "citations": 39,
-    "doctype": "software",
+    "doctype": "article",
     "doi": "10.5281/zenodo.11020",
     "page": 11020,
     "pub": "Zenodo Software Release",
     "pubdate": "2014-07-00",
     "title": "triangle.py: triangle.py v0.1.1",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.soft11020F",
-    "volume": null,
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Price-Whelan, Adrian",
-      "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Barbary, Kyle",
-      "Hogg, David W",
-      "Brewer, Brendon J"
-    ],
-    "citations": 3,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.10598",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-06-19",
-    "title": "A Citable Release",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
+    "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
   },
@@ -2366,13 +2333,13 @@
       "Brewer, Brendon J."
     ],
     "citations": 3,
-    "doctype": "software",
+    "doctype": "article",
     "doi": "10.5281/zenodo.10598",
     "page": 10598,
     "pub": "Zenodo Software Release",
     "pubdate": "2014-06-00",
     "title": "triangle.py: triangle.py v0.1",
-    "url": "http://adsabs.harvard.edu/abs/2014zndo.soft10598F",
+    "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
     "volume": null,
     "year": "2014"
   },
@@ -2462,7 +2429,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -2486,7 +2453,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 31,
+    "citations": 34,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2505,7 +2472,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2713,
+    "citations": 2845,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
