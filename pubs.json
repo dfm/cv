@@ -546,7 +546,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -643,7 +643,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -772,7 +772,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -824,7 +824,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -876,7 +876,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1145,7 +1145,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1407,7 +1407,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1447,7 +1447,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1585,7 +1585,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 310,
+    "citations": 311,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1985,7 +1985,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -2004,7 +2004,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2024,7 +2024,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2357,7 +2357,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -2453,7 +2453,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2472,7 +2472,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2837,
+    "citations": 2850,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
