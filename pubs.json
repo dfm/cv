@@ -630,7 +630,7 @@
     "pub": "Research Notes of the American Astronomical Society",
     "pubdate": "2018-09-00",
     "title": "A Robust Method to Measure Centroids of Spectral Lines",
-    "url": "http://adsabs.harvard.edu/abs/2018RNAAS...2c.173T",
+    "url": "http://adsabs.harvard.edu/abs/2018RNAAS...2..173T",
     "volume": "2",
     "year": "2018"
   },
@@ -759,7 +759,7 @@
     "pub": "Research Notes of the American Astronomical Society",
     "pubdate": "2018-02-00",
     "title": "Scalable Backpropagation for Gaussian Processes using Celerite",
-    "url": "http://adsabs.harvard.edu/abs/2018RNAAS...2a..31F",
+    "url": "http://adsabs.harvard.edu/abs/2018RNAAS...2...31F",
     "volume": "2",
     "year": "2018"
   },
@@ -813,7 +813,7 @@
     "pub": "Research Notes of the American Astronomical Society",
     "pubdate": "2017-12-00",
     "title": "Linear Models for Systematics and Nuisances",
-    "url": "http://adsabs.harvard.edu/abs/2017RNAAS...1a...7L",
+    "url": "http://adsabs.harvard.edu/abs/2017RNAAS...1....7L",
     "volume": "1",
     "year": "2017"
   },
@@ -1245,7 +1245,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 43,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -1569,7 +1569,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 101,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1585,7 +1585,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 311,
+    "citations": 312,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2472,7 +2472,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2850,
+    "citations": 2856,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
