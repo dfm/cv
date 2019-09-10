@@ -772,7 +772,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -914,7 +914,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1245,7 +1245,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 45,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -1447,7 +1447,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1585,7 +1585,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 312,
+    "citations": 313,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2472,7 +2472,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2856,
+    "citations": 2860,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
