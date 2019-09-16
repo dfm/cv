@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Kruse, Ethan",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4365/ab346b",
+    "page": 11,
+    "pub": "The Astrophysical Journal Supplement Series",
+    "pubdate": "2019-09-00",
+    "title": "Detection of Hundreds of New Planet Candidates and Eclipsing Binaries in K2 Campaigns 0--8",
+    "url": "http://adsabs.harvard.edu/abs/2019ApJS..244...11K",
+    "volume": "244",
+    "year": "2019"
+  },
+  {
     "arxiv": "1903.09152",
     "authors": [
       "Feinstein, Adina D.",

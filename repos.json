@@ -12,7 +12,7 @@
               "homepageUrl": "http://emcee.readthedocs.io",
               "forkCount": 352,
               "stargazers": {
-                "totalCount": 943
+                "totalCount": 944
               },
               "watchers": {
                 "totalCount": 102
@@ -54,7 +54,7 @@
               "name": "daft",
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
-              "homepageUrl": "http://daft-pgm.org",
+              "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 101,
               "stargazers": {
                 "totalCount": 479
@@ -70,7 +70,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 156,
+              "forkCount": 157,
               "stargazers": {
                 "totalCount": 243
               },
