@@ -33,7 +33,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -1237,7 +1237,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1514,7 +1514,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 320,
+    "citations": 321,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2204,7 +2204,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 134,
+    "citations": 135,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2448,7 +2448,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2892,
+    "citations": 2895,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
