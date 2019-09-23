@@ -10,9 +10,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "http://emcee.readthedocs.io",
-              "forkCount": 352,
+              "forkCount": 351,
               "stargazers": {
-                "totalCount": 946
+                "totalCount": 947
               },
               "watchers": {
                 "totalCount": 101
@@ -25,7 +25,7 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 98,
+              "forkCount": 99,
               "stargazers": {
                 "totalCount": 301
               },
