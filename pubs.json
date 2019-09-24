@@ -14,7 +14,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -224,7 +224,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -322,6 +322,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2651251",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-04-25",
+    "title": "dfm/exoplanet: exoplanet v0.1.6",
+    "url": "http://adsabs.harvard.edu/abs/2019zndo...2651251F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Feinstein, Adina D.",
       "Montet, Benjamin T.",
       "Foreman-Mackey, Daniel",
@@ -346,6 +364,42 @@
     "year": "2019"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2587222",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-03-08",
+    "title": "dfm/exoplanet: exoplanet v0.1.5",
+    "url": "http://adsabs.harvard.edu/abs/2019zndo...2587222F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 3,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2561395",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-02-10",
+    "title": "dfm/exoplanet: exoplanet v0.1.4",
+    "url": "http://adsabs.harvard.edu/abs/2019zndo...2561395F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1807.00549",
     "authors": [
       "Van Eylen, Vincent",
@@ -360,7 +414,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -390,6 +444,23 @@
     "title": "starry: Analytic Occultation Light Curves",
     "url": "http://adsabs.harvard.edu/abs/2019AJ....157...64L",
     "volume": "157",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2536576",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-01-09",
+    "title": "dfm/exoplanet: exoplanet v0.1.3",
+    "url": "http://adsabs.harvard.edu/abs/2019zndo...2536576F",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -557,6 +628,45 @@
     "year": "2019"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Lustig-Yaeger, Jacob",
+      "Foreman-Mackey, Dan",
+      "Fleming, David",
+      "Head, Tim",
+      "Morris, Brett M."
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2529096",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-12-30",
+    "title": "rodluger/starry: Version 0.3.0",
+    "url": "http://adsabs.harvard.edu/abs/2018zndo...2529096L",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2249795",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-12-13",
+    "title": "dfm/exoplanet: exoplanet v0.1.2",
+    "url": "http://adsabs.harvard.edu/abs/2018zndo...2249795F",
+    "volume": null,
+    "year": "2018"
+  },
+  {
     "arxiv": "1810.10009",
     "authors": [
       "Brewer, John M.",
@@ -615,6 +725,51 @@
     "pubdate": "2018-10-00",
     "title": "STARRY: Analytic computation of occultation light curves",
     "url": "http://adsabs.harvard.edu/abs/2018ascl.soft10005L",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Meierjurgen Farr, Will",
+      "Tollerud, Erik",
+      "Hogg, David W.",
+      "Kern, Nicholas",
+      "Williams, Peter",
+      "Sanders, Jeremy",
+      "Sinha, Manodeep",
+      "Lang, Dustin",
+      "Nelson, Andrew",
+      "B{\\'e}ky, Bence",
+      "joezuntz",
+      "Vousden, Will",
+      "de Val-Borro, Miguel",
+      "Ilya",
+      "Tazzari, Marco",
+      "Erhardt, Tobias",
+      "Walker, Simon",
+      "Watkins, Laura",
+      "Price-Whelan, Adrian",
+      "Hoffimann, J{\\'u}lio",
+      "Davies, Jason",
+      "Guillochon, James",
+      "Davenport, James",
+      "Privon, George C.",
+      "Beaujean, Frederik",
+      "Sipocz, Brigitta",
+      "Rose, Benjamin",
+      "Scopatz, Anthony",
+      "Mohammed, AQNOUCH"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1436565",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-09-27",
+    "title": "Dfm/Emcee: Emcee V3.0Rc2",
+    "url": "http://adsabs.harvard.edu/abs/2018zndo...1436565F",
     "volume": null,
     "year": "2018"
   },
@@ -737,7 +892,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -903,6 +1058,30 @@
     "title": "Linear Models for Systematics and Nuisances",
     "url": "http://adsabs.harvard.edu/abs/2017RNAAS...1....7L",
     "volume": "1",
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Brewer, Brendon J.",
+      "Austin, Philip",
+      "Meierjurgen Farr, Will",
+      "Guillochon, James",
+      "Czekala, Ian",
+      "Casey, Andy"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1048287",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2017-11-13",
+    "title": "Dfm/Celerite: Celerite V0.3.0",
+    "url": "http://adsabs.harvard.edu/abs/2017zndo...1048287F",
+    "volume": null,
     "year": "2017"
   },
   {
@@ -1163,7 +1342,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 115,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1255,7 +1434,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1532,7 +1711,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 321,
+    "citations": 324,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1603,7 +1782,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -1640,27 +1819,27 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A.",
+      "Caswell, Thomas A",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
       "Rein, Hanno",
       "Gentry, Eric",
-      "Brewer, Brendon J.",
-      "Hogg, David W."
+      "Brewer, Brendon J",
+      "Hogg, David W"
     ],
-    "citations": 10,
-    "doctype": "article",
+    "citations": 11,
+    "doctype": "software",
     "doi": "10.5281/zenodo.53155",
-    "page": 53155,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2016-05-00",
-    "title": "corner.py: corner.py v2.0.0",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-05-26",
+    "title": "Corner.Py: Corner.Py V2.0.0",
     "url": "http://adsabs.harvard.edu/abs/2016zndo.....53155F",
     "volume": null,
     "year": "2016"
@@ -1751,6 +1930,38 @@
     "year": "2016"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Vousden, Will",
+      "Price-Whelan, Adrian",
+      "Pitkin, Matt",
+      "Zabalza, Victor",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Ashton, Gregory",
+      "Cruz, Kelle",
+      "Kerzendorf, Wolfgang",
+      "Caswell, Thomas A",
+      "Hoyer, Stephan",
+      "Barbary, Kyle",
+      "Czekala, Ian",
+      "Hogg, David W",
+      "Brewer, Brendon J"
+    ],
+    "citations": 38,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.45906",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-02-11",
+    "title": "Corner.Py: Corner.Py V1.0.2",
+    "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
     "arxiv": "1505.07105",
     "authors": [
       "Angus, Ruth",
@@ -1766,38 +1977,6 @@
     "title": "Systematics-insensitive Periodic Signal Search with K2",
     "url": "http://adsabs.harvard.edu/abs/2016ApJ...818..109A",
     "volume": "818",
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Vousden, Will",
-      "Price-Whelan, Adrian",
-      "Pitkin, Matt",
-      "Zabalza, Victor",
-      "Ryan, Geoffrey",
-      "Rice, Emily",
-      "Smith, Michael",
-      "Ashton, Gregory",
-      "Cruz, Kelle",
-      "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A.",
-      "Hoyer, Stephan",
-      "Barbary, Kyle",
-      "Czekala, Ian",
-      "Hogg, David W.",
-      "Brewer, Brendon J."
-    ],
-    "citations": 32,
-    "doctype": "article",
-    "doi": "10.5281/zenodo.45906",
-    "page": 45906,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2016-02-00",
-    "title": "corner.py: corner.py v1.0.2",
-    "url": "http://adsabs.harvard.edu/abs/2016zndo.....45906F",
-    "volume": null,
     "year": "2016"
   },
   {
@@ -1848,7 +2027,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -2222,7 +2401,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2240,7 +2419,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 17,
+    "citations": 30,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -2259,7 +2438,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -2305,19 +2484,19 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Barbary, Kyle",
-      "Hogg, David W.",
-      "Brewer, Brendon J."
+      "Hogg, David W",
+      "Brewer, Brendon J"
     ],
-    "citations": 39,
-    "doctype": "article",
+    "citations": 46,
+    "doctype": "software",
     "doi": "10.5281/zenodo.11020",
-    "page": 11020,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-07-00",
-    "title": "triangle.py: triangle.py v0.1.1",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-07-24",
+    "title": "Triangle.Py V0.1.1",
     "url": "http://adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
@@ -2344,19 +2523,19 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Barbary, Kyle",
-      "Hogg, David W.",
-      "Brewer, Brendon J."
+      "Hogg, David W",
+      "Brewer, Brendon J"
     ],
     "citations": 3,
-    "doctype": "article",
+    "doctype": "software",
     "doi": "10.5281/zenodo.10598",
-    "page": 10598,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-06-00",
-    "title": "triangle.py: triangle.py v0.1",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-06-19",
+    "title": "A Citable Release",
     "url": "http://adsabs.harvard.edu/abs/2014zndo.....10598F",
     "volume": null,
     "year": "2014"
@@ -2466,7 +2645,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2897,
+    "citations": 2911,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
