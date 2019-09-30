@@ -24,17 +24,20 @@ JOURNAL_MAP = {
 def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
-    n = [i for i in range(len(pub["authors"]))
-         if "Foreman-Mackey, D" in pub["authors"][i]][0]
+    n = [
+        i
+        for i in range(len(pub["authors"]))
+        if "Foreman-Mackey, D" in pub["authors"][i]
+    ][0]
     pub["authors"][n] = "\\textbf{Foreman-Mackey, Daniel}"
     if len(pub["authors"]) > 5:
-        fmt += ", ".join(pub["authors"][:4])
-        fmt += ", \etal"
+        fmt += "; ".join(pub["authors"][:4])
+        fmt += "; \\etal"
         if n >= 4:
             fmt += "\\ (incl.\\ \\textbf{DFM})"
     elif len(pub["authors"]) > 1:
-        fmt += ", ".join(pub["authors"][:-1])
-        fmt += ", \\& " + pub["authors"][-1]
+        fmt += "; ".join(pub["authors"][:-1])
+        fmt += "; \\& " + pub["authors"][-1]
     else:
         fmt += pub["authors"][0]
 
@@ -46,8 +49,9 @@ def format_pub(args):
         fmt += ", " + pub["title"]
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
-        fmt += ", " + JOURNAL_MAP.get(pub["pub"].strip("0123456789# "),
-                                      pub["pub"])
+        fmt += ", " + JOURNAL_MAP.get(
+            pub["pub"].strip("0123456789# "), pub["pub"]
+        )
 
     if pub["volume"] is not None:
         fmt += ", \\textbf{{{0}}}".format(pub["volume"])
@@ -59,8 +63,9 @@ def format_pub(args):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if pub["citations"] > 1:
-        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(pub["url"],
-                                                          pub["citations"])
+        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(
+            pub["url"], pub["citations"]
+        )
 
     return fmt
 
@@ -87,13 +92,20 @@ if __name__ == "__main__":
         select_pubs = json.load(f)
     for p in other_pubs:
         for p1 in pubs:
-            if (p1["arxiv"] is not None and p["arxiv"] == p1["arxiv"]) or \
-                    p["title"] == p1["title"]:
+            if (p1["arxiv"] is not None and p["arxiv"] == p1["arxiv"]) or p[
+                "title"
+            ] == p1["title"]:
                 p["citations"] = max(p["citations"], p1["citations"])
                 pubs.remove(p1)
     pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
-    pubs = [p for p in pubs if (p["doctype"] in ["article", "eprint"] and
-                                p["pub"] != "Zenodo Software Release")]
+    pubs = [
+        p
+        for p in pubs
+        if (
+            p["doctype"] in ["article", "eprint"]
+            and p["pub"] != "Zenodo Software Release"
+        )
+    ]
     ref = [p for p in pubs if p["doctype"] == "article"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
 
@@ -104,9 +116,10 @@ if __name__ == "__main__":
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
 
-    summary = (("refereed: {1} / first author: {2} / citations: {3} / "
-               "h-index: {4} ({0})")
-               .format(date.today(), npapers, nfirst, ncitations, hindex))
+    summary = (
+        "refereed: {1} / first author: {2} / citations: {3} / "
+        "h-index: {4} ({0})"
+    ).format(date.today(), npapers, nfirst, ncitations, hindex)
     with open("pubs_summary.tex", "w") as f:
         f.write(summary)
 
@@ -127,8 +140,9 @@ if __name__ == "__main__":
                 selected.append(doc)
                 break
     selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
-    selected = list(map(format_pub, zip(range(len(selected), 0, -1),
-                                        selected)))
+    selected = list(
+        map(format_pub, zip(range(len(selected), 0, -1), selected))
+    )
     with open("pubs_select.tex", "w") as f:
         f.write("\n\n".join(selected))
 

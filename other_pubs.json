@@ -4,14 +4,14 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 513,
+    "citations": 527,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 2,
     "pub": "The Journal of Open Source Software",
     "pubdate": "2016-06-00",
     "title": "corner.py: Scatterplot matrices in Python",
-    "url": "https://scholar.google.com/scholar?cites=1835087844145558435,9294978791003210998,17836006976722650130,12820425635803494730",
+    "url": "1835087844145558435,17836006976722650130,7443348433327806275,14220488595059618709,12820425635803494730,7284810048757141243,17415935839493019063",
     "volume": "1",
     "year": "2016"
   },
@@ -48,7 +48,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": null,
     "page": 2218,
@@ -68,7 +68,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 169,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -85,7 +85,7 @@
       "Brewer, Brendon",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.18637/jss.v086.i07",
     "page": 1,
