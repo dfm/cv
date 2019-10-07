@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "1901.00503",
     "authors": [
       "Bedell, Megan",
       "Hogg, David W.",
@@ -611,26 +611,6 @@
     "pubdate": "2019-01-09",
     "title": "dfm/exoplanet: exoplanet v0.1.3",
     "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2536576F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": "1901.00503",
-    "authors": [
-      "Bedell, Megan",
-      "Hogg, David W.",
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Luger, Rodrigo"
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-01-00",
-    "title": "Wobble: A Data-driven Analysis Technique for Time-series Stellar Spectra",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190100503B",
     "volume": null,
     "year": "2019"
   },
