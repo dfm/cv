@@ -608,7 +608,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -952,7 +952,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1133,7 +1133,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1864,7 +1864,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 328,
+    "citations": 330,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2798,7 +2798,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2955,
+    "citations": 2961,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
