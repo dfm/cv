@@ -1,5 +1,30 @@
 [
   {
+    "arxiv": "1908.07528",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "van Saders, Jennifer",
+      "Curtis, Jason",
+      "Kane, Stephen R.",
+      "Bedell, Megan",
+      "Kiman, Rocio",
+      "Hogg, David W.",
+      "Brewer, John"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab3c53",
+    "page": 173,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
+    "volume": "158",
+    "year": "2019"
+  },
+  {
     "arxiv": "1901.00503",
     "authors": [
       "Bedell, Megan",
@@ -233,31 +258,6 @@
     "title": "stardate: Combining dating methods for better stellar ages",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
     "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1908.07528",
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "van Saders, Jennifer",
-      "Curtis, Jason",
-      "Kane, Stephen R.",
-      "Bedell, Megan",
-      "Kiman, Rocio",
-      "Hogg, David W.",
-      "Brewer, John"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-08-00",
-    "title": "Towards precise stellar ages: combining isochrone fitting with empirical gyrochronology",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190807528A",
-    "volume": null,
     "year": "2019"
   },
   {
