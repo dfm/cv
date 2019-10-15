@@ -13,7 +13,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -81,7 +81,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1133,7 +1133,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1864,7 +1864,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 330,
+    "citations": 331,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1935,7 +1935,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2103,7 +2103,7 @@
       "Hogg, David W",
       "Brewer, Brendon J"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2798,7 +2798,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2961,
+    "citations": 2968,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
