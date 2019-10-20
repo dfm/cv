@@ -100,7 +100,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -952,7 +952,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1495,7 +1495,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1587,7 +1587,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 43,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1864,7 +1864,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 332,
+    "citations": 334,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1935,7 +1935,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 106,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2103,7 +2103,7 @@
       "Hogg, David W",
       "Brewer, Brendon J"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2419,7 +2419,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -2554,7 +2554,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2798,7 +2798,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 2975,
+    "citations": 2996,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
