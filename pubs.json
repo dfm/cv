@@ -2449,6 +2449,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Wang, Dun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
@@ -2475,25 +2494,6 @@
     "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
     "volume": null,
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard",
-      "Wang, Dun"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
-    "volume": "225",
     "year": "2015"
   },
   {
