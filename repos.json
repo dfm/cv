@@ -12,10 +12,10 @@
               "homepageUrl": "http://emcee.readthedocs.io",
               "forkCount": 354,
               "stargazers": {
-                "totalCount": 955
+                "totalCount": 956
               },
               "watchers": {
-                "totalCount": 99
+                "totalCount": 100
               }
             }
           },
@@ -25,9 +25,9 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 99,
+              "forkCount": 98,
               "stargazers": {
-                "totalCount": 303
+                "totalCount": 304
               },
               "watchers": {
                 "totalCount": 21
@@ -40,9 +40,9 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 31,
+              "forkCount": 30,
               "stargazers": {
-                "totalCount": 125
+                "totalCount": 126
               },
               "watchers": {
                 "totalCount": 12
