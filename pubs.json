@@ -639,6 +639,23 @@
   {
     "arxiv": null,
     "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-01-00",
+    "title": "bettermoments: Line-of-sight velocity calculation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Kruse, Ethan",
       "Agol, Eric",
       "Luger, Rodrigo",
@@ -653,23 +670,6 @@
     "title": "Hundreds of New Planet Candidates from K2",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
     "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2019-01-00",
-    "title": "bettermoments: Line-of-sight velocity calculation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -952,7 +952,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1045,7 +1045,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1062,7 +1062,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -1864,7 +1864,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 337,
+    "citations": 338,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2319,7 +2319,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2798,7 +2798,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3001,
+    "citations": 3008,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -2853,7 +2853,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
