@@ -12,7 +12,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 355,
               "stargazers": {
-                "totalCount": 958
+                "totalCount": 959
               },
               "watchers": {
                 "totalCount": 98
@@ -27,7 +27,7 @@
               "homepageUrl": "http://george.readthedocs.io",
               "forkCount": 98,
               "stargazers": {
-                "totalCount": 308
+                "totalCount": 309
               },
               "watchers": {
                 "totalCount": 22
@@ -42,7 +42,7 @@
               "homepageUrl": "http://celerite.rtfd.io",
               "forkCount": 30,
               "stargazers": {
-                "totalCount": 127
+                "totalCount": 128
               },
               "watchers": {
                 "totalCount": 12
@@ -72,7 +72,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 166,
               "stargazers": {
-                "totalCount": 248
+                "totalCount": 249
               },
               "watchers": {
                 "totalCount": 22
@@ -85,9 +85,9 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/dfm/exoplanet",
               "homepageUrl": "https://exoplanet.dfm.io",
-              "forkCount": 17,
+              "forkCount": 19,
               "stargazers": {
-                "totalCount": 66
+                "totalCount": 72
               },
               "watchers": {
                 "totalCount": 13
