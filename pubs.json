@@ -677,23 +677,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2019-01-00",
-    "title": "bettermoments: Line-of-sight velocity calculation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Kruse, Ethan",
       "Agol, Eric",
       "Luger, Rodrigo",
@@ -708,6 +691,23 @@
     "title": "Hundreds of New Planet Candidates from K2",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
     "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-01-00",
+    "title": "bettermoments: Line-of-sight velocity calculation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -1007,7 +1007,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2338,7 +2338,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2357,7 +2357,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2836,7 +2836,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3026,
+    "citations": 3028,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

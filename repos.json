@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 102,
               "stargazers": {
-                "totalCount": 488
+                "totalCount": 489
               },
               "watchers": {
                 "totalCount": 18
@@ -85,7 +85,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/dfm/exoplanet",
               "homepageUrl": "https://exoplanet.dfm.io",
-              "forkCount": 19,
+              "forkCount": 20,
               "stargazers": {
                 "totalCount": 74
               },
