@@ -625,7 +625,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -953,7 +953,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -2141,7 +2141,7 @@
       "Hogg, David W",
       "Brewer, Brendon J"
     ],
-    "citations": 30,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2836,7 +2836,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3027,
+    "citations": 3028,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
