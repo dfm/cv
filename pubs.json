@@ -2121,6 +2121,24 @@
     "year": "2016"
   },
   {
+    "arxiv": "1505.07105",
+    "authors": [
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Johnson, John A."
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.3847/0004-637X/818/2/109",
+    "page": 109,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2016-02-00",
+    "title": "Systematics-insensitive Periodic Signal Search with K2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A",
+    "volume": "818",
+    "year": "2016"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
@@ -2150,24 +2168,6 @@
     "title": "corner.py: corner.py v1.0.2",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": "1505.07105",
-    "authors": [
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Johnson, John A."
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.3847/0004-637X/818/2/109",
-    "page": 109,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2016-02-00",
-    "title": "Systematics-insensitive Periodic Signal Search with K2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A",
-    "volume": "818",
     "year": "2016"
   },
   {
