@@ -646,7 +646,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -990,7 +990,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1083,7 +1083,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1302,7 +1302,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1570,7 +1570,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -1902,7 +1902,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 339,
+    "citations": 340,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -1973,7 +1973,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 110,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2159,7 +2159,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.5281/zenodo.45906",
     "page": 45906,
@@ -2836,7 +2836,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3028,
+    "citations": 3047,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
