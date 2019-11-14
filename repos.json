@@ -10,9 +10,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 355,
+              "forkCount": 356,
               "stargazers": {
-                "totalCount": 964
+                "totalCount": 965
               },
               "watchers": {
                 "totalCount": 99
@@ -27,7 +27,7 @@
               "homepageUrl": "http://george.readthedocs.io",
               "forkCount": 99,
               "stargazers": {
-                "totalCount": 310
+                "totalCount": 311
               },
               "watchers": {
                 "totalCount": 22
