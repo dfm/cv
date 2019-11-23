@@ -1580,7 +1580,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 123,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1948,7 +1948,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 347,
+    "citations": 348,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2070,7 +2070,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2384,7 +2384,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 148,
+    "citations": 149,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2882,7 +2882,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3085,
+    "citations": 3088,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
