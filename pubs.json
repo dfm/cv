@@ -25,6 +25,34 @@
     "year": "2019"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Farr, Will",
+      "Sinha, Manodeep",
+      "Archibald, Anne",
+      "Hogg, David",
+      "Sanders, Jeremy",
+      "Zuntz, Joe",
+      "Williams, Peter",
+      "Nelson, Andrew",
+      "de Val-Borro, Miguel",
+      "Erhardt, Tobias",
+      "Pashchenko, Ilya",
+      "Pla, Oriol"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.21105/joss.01864",
+    "page": 1864,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-11-00",
+    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
+    "volume": "4",
+    "year": "2019"
+  },
+  {
     "arxiv": "1911.07688",
     "authors": [
       "Foreman-Mackey, Daniel",
