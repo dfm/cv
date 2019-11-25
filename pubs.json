@@ -25,6 +25,42 @@
     "year": "2019"
   },
   {
+    "arxiv": "1911.09705",
+    "authors": [
+      "Gillen, Edward",
+      "Briegal, Joshua T.",
+      "Hodgkin, Simon T.",
+      "Foreman-Mackey, Daniel",
+      "Van Leeuwen, Floor",
+      "Jackman, James A. G.",
+      "McCormac, James",
+      "West, Richard G.",
+      "Queloz, Didier",
+      "Bayliss, Daniel",
+      "Goad, Michael R.",
+      "Watson, Christopher A.",
+      "Wheatley, Peter J.",
+      "Belardi, Claudia",
+      "Burleigh, Matthew R.",
+      "Casewell, Sarah L.",
+      "Jenkins, James S.",
+      "Raynard, Liam",
+      "Smith, Alexis M. S.",
+      "Tilbrook, Rosanna H.",
+      "Vines, Jose I."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-11-00",
+    "title": "NGTS clusters survey. I. Rotation in the young benchmark open cluster Blanco 1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv191109705G",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -147,7 +183,7 @@
       "Montet, Benjamin",
       "Luger, Rodrigo"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3438282",
     "page": null,
@@ -612,7 +648,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.2651251",
     "page": null,
@@ -656,7 +692,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -674,7 +710,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.2561395",
     "page": null,
@@ -738,7 +774,7 @@
       "Foreman-Mackey, Dan",
       "Barentsen, Geert"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.2536576",
     "page": null,
@@ -1028,7 +1064,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -1608,7 +1644,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1891,7 +1927,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1976,7 +2012,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 348,
+    "citations": 349,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2047,7 +2083,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2098,7 +2134,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2215,7 +2251,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 32,
+    "citations": 41,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2703,7 +2739,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -2755,7 +2791,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 70,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -2794,7 +2830,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 3,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,
@@ -2910,7 +2946,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3088,
+    "citations": 3105,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
