@@ -209,7 +209,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1394,7 +1394,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1877,7 +1877,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 50,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -2012,7 +2012,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 349,
+    "citations": 348,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2791,7 +2791,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 70,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -2830,7 +2830,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 6,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,
@@ -2946,7 +2946,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3105,
+    "citations": 3104,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
