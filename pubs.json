@@ -61,7 +61,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.07688",
     "authors": [
       "Foreman-Mackey, Daniel",
       "Farr, Will",
@@ -86,34 +86,6 @@
     "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
     "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1911.07688",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Farr, Will M.",
-      "Sinha, Manodeep",
-      "Archibald, Anne M.",
-      "Hogg, David W.",
-      "Sanders, Jeremy S.",
-      "Zuntz, Joe",
-      "Williams, Peter K. G.",
-      "Nelson, Andrew R. J.",
-      "de Val-Borro, Miguel",
-      "Erhardt, Tobias",
-      "Pashchenko, Ilya",
-      "Abril Pla, Oriol"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-11-00",
-    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv191107688F",
-    "volume": null,
     "year": "2019"
   },
   {
