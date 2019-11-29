@@ -55,7 +55,7 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 103,
+              "forkCount": 104,
               "stargazers": {
                 "totalCount": 493
               },
@@ -85,7 +85,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/dfm/exoplanet",
               "homepageUrl": "https://exoplanet.dfm.io",
-              "forkCount": 19,
+              "forkCount": 20,
               "stargazers": {
                 "totalCount": 75
               },
