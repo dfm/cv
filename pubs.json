@@ -25,6 +25,28 @@
     "year": "2019"
   },
   {
+    "arxiv": "1910.04563",
+    "authors": [
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mamajek, Eric E.",
+      "Hillenbrand, Lynne A."
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ab4c99",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
+    "volume": "885",
+    "year": "2019"
+  },
+  {
     "arxiv": "1911.09705",
     "authors": [
       "Gillen, Edward",
@@ -86,28 +108,6 @@
     "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
     "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1910.04563",
-    "authors": [
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mamajek, Eric E.",
-      "Hillenbrand, Lynne A."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ab4c99",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
-    "volume": "885",
     "year": "2019"
   },
   {
@@ -708,7 +708,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1073,7 +1073,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1166,7 +1166,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1203,7 +1203,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -1254,7 +1254,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1616,7 +1616,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 127,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1708,7 +1708,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -1899,7 +1899,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1984,7 +1984,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 351,
+    "citations": 353,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2420,7 +2420,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2918,7 +2918,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3128,
+    "citations": 3135,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
