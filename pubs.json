@@ -35,7 +35,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -119,7 +119,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -181,7 +181,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1073,7 +1073,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 55,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1219,7 +1219,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 0,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -1254,7 +1254,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1305,7 +1305,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -1323,7 +1323,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 3,
+    "citations": 0,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -1653,7 +1653,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -1984,7 +1984,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 355,
+    "citations": 356,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2763,7 +2763,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -2918,7 +2918,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3164,
+    "citations": 3166,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
