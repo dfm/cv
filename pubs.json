@@ -1,5 +1,41 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Gillen, Edward",
+      "Briegal, Joshua T.",
+      "Hodgkin, Simon T.",
+      "Foreman-Mackey, Daniel",
+      "Van Leeuwen, Floor",
+      "Jackman, James A. G.",
+      "McCormac, James",
+      "West, Richard G.",
+      "Queloz, Didier",
+      "Bayliss, Daniel",
+      "Goad, Michael R.",
+      "Watson, Christopher A.",
+      "Wheatley, Peter J.",
+      "Belardi, Claudia",
+      "Burleigh, Matthew R.",
+      "Casewell, Sarah L.",
+      "Jenkins, James S.",
+      "Raynard, Liam",
+      "Smith, Alexis M. S.",
+      "Tilbrook, Rosanna H.",
+      "Vines, Jose I."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz3251",
+    "page": 3038,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-12-00",
+    "title": "NGTS clusters survey. I. Rotation in the young benchmark open cluster Blanco 1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.3038G",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1908.07528",
     "authors": [
       "Angus, Ruth",
