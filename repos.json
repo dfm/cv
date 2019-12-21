@@ -40,7 +40,7 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 30,
+              "forkCount": 31,
               "stargazers": {
                 "totalCount": 130
               },
