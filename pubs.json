@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "1911.09705",
     "authors": [
       "Gillen, Edward",
       "Briegal, Joshua T.",
@@ -80,42 +80,6 @@
     "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
     "volume": "885",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1911.09705",
-    "authors": [
-      "Gillen, Edward",
-      "Briegal, Joshua T.",
-      "Hodgkin, Simon T.",
-      "Foreman-Mackey, Daniel",
-      "Van Leeuwen, Floor",
-      "Jackman, James A. G.",
-      "McCormac, James",
-      "West, Richard G.",
-      "Queloz, Didier",
-      "Bayliss, Daniel",
-      "Goad, Michael R.",
-      "Watson, Christopher A.",
-      "Wheatley, Peter J.",
-      "Belardi, Claudia",
-      "Burleigh, Matthew R.",
-      "Casewell, Sarah L.",
-      "Jenkins, James S.",
-      "Raynard, Liam",
-      "Smith, Alexis M. S.",
-      "Tilbrook, Rosanna H.",
-      "Vines, Jose I."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-11-00",
-    "title": "NGTS clusters survey. I. Rotation in the young benchmark open cluster Blanco 1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv191109705G",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -1202,7 +1166,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2091,7 +2055,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2954,7 +2918,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3232,
+    "citations": 3236,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
