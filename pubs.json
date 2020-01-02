@@ -1305,7 +1305,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -1899,7 +1899,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -1984,7 +1984,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 366,
+    "citations": 367,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2055,7 +2055,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 123,
+    "citations": 122,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2323,7 +2323,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -2439,7 +2439,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2460,7 +2460,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -2539,7 +2539,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -2763,7 +2763,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -2918,7 +2918,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3236,
+    "citations": 3238,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
