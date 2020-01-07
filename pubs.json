@@ -2,6 +2,66 @@
   {
     "arxiv": null,
     "authors": [
+      "Luger, R.",
+      "Bedell, M.",
+      "Foreman-Mackey, D.",
+      "Angus, R.",
+      "Hogg, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2020-01-00",
+    "title": "Surface Maps of Stars and Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
+    "volume": "52",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Hattori, S.",
+      "Foreman-Mackey, D.",
+      "Hogg, D.",
+      "Sch{\\\"o}lkopf, B.",
+      "Pritchard, T."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2020-01-00",
+    "title": "TESS-CPM: A Python package for Background-Corrected Difference Imaging with TESS Full Frame Images",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23515705H",
+    "volume": "52",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Gordon, T.",
+      "Davenport, J.",
+      "Angus, R.",
+      "Agol, E.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2020-01-00",
+    "title": "Measuring Stellar Rotation in the K2 Sample",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
+    "volume": "52",
+    "year": "2020"
+  },
+  {
+    "arxiv": "1911.09705",
+    "authors": [
       "Gillen, Edward",
       "Briegal, Joshua T.",
       "Hodgkin, Simon T.",
@@ -49,7 +109,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -554,7 +614,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 12,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -744,7 +804,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1109,7 +1169,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 55,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1202,7 +1262,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 59,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1239,7 +1299,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 44,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -1308,7 +1368,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 33,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -1705,7 +1765,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1913,7 +1973,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -1935,7 +1995,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 114,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2004,7 +2064,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 36,
+    "citations": 35,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2530,7 +2590,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 33,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -2575,7 +2635,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 45,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -2710,7 +2770,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 146,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -2954,7 +3014,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3231,
+    "citations": 3177,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -3009,7 +3069,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 29,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
