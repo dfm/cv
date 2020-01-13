@@ -1,5 +1,41 @@
 [
   {
+    "arxiv": "1911.09705",
+    "authors": [
+      "Gillen, Edward",
+      "Briegal, Joshua T.",
+      "Hodgkin, Simon T.",
+      "Foreman-Mackey, Daniel",
+      "Van Leeuwen, Floor",
+      "Jackman, James A. G.",
+      "McCormac, James",
+      "West, Richard G.",
+      "Queloz, Didier",
+      "Bayliss, Daniel",
+      "Goad, Michael R.",
+      "Watson, Christopher A.",
+      "Wheatley, Peter J.",
+      "Belardi, Claudia",
+      "Burleigh, Matthew R.",
+      "Casewell, Sarah L.",
+      "Jenkins, James S.",
+      "Raynard, Liam",
+      "Smith, Alexis M. S.",
+      "Tilbrook, Rosanna H.",
+      "Vines, Jose I."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz3251",
+    "page": 1008,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-02-00",
+    "title": "NGTS clusters survey - I. Rotation in the young benchmark open cluster Blanco 1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G",
+    "volume": "492",
+    "year": "2020"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Luger, R.",
@@ -58,42 +94,6 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
     "volume": "52",
     "year": "2020"
-  },
-  {
-    "arxiv": "1911.09705",
-    "authors": [
-      "Gillen, Edward",
-      "Briegal, Joshua T.",
-      "Hodgkin, Simon T.",
-      "Foreman-Mackey, Daniel",
-      "Van Leeuwen, Floor",
-      "Jackman, James A. G.",
-      "McCormac, James",
-      "West, Richard G.",
-      "Queloz, Didier",
-      "Bayliss, Daniel",
-      "Goad, Michael R.",
-      "Watson, Christopher A.",
-      "Wheatley, Peter J.",
-      "Belardi, Claudia",
-      "Burleigh, Matthew R.",
-      "Casewell, Sarah L.",
-      "Jenkins, James S.",
-      "Raynard, Liam",
-      "Smith, Alexis M. S.",
-      "Tilbrook, Rosanna H.",
-      "Vines, Jose I."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz3251",
-    "page": 3038,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-12-00",
-    "title": "NGTS clusters survey. I. Rotation in the young benchmark open cluster Blanco 1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.tmp.3038G",
-    "volume": null,
-    "year": "2019"
   },
   {
     "arxiv": "1908.07528",
@@ -1226,7 +1226,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 57,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1243,7 +1243,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -1263,7 +1263,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 43,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -1279,7 +1279,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -1314,7 +1314,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 106,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1959,7 +1959,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2044,7 +2044,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 355,
+    "citations": 356,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2115,7 +2115,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2166,7 +2166,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2283,7 +2283,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 31,
+    "citations": 42,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2480,7 +2480,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 156,
+    "citations": 157,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2499,7 +2499,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -2752,7 +2752,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -2978,7 +2978,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3185,
+    "citations": 3198,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
