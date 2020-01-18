@@ -131,7 +131,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1133,7 +1133,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 54,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1713,7 +1713,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 28,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -1959,7 +1959,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 115,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2044,7 +2044,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 357,
+    "citations": 358,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2115,7 +2115,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2283,7 +2283,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2360,7 +2360,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 74,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -2978,7 +2978,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3195,
+    "citations": 3196,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -3002,7 +3002,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "software",
     "doi": null,
     "page": null,
