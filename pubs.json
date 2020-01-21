@@ -1133,7 +1133,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1959,7 +1959,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2166,7 +2166,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 14,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2283,7 +2283,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 43,
+    "citations": 32,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,

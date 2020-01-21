@@ -83,7 +83,7 @@
             "node": {
               "name": "exoplanet",
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
-              "url": "https://github.com/dfm/exoplanet",
+              "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://exoplanet.dfm.io",
               "forkCount": 20,
               "stargazers": {
