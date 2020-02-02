@@ -12,7 +12,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 363,
               "stargazers": {
-                "totalCount": 997
+                "totalCount": 998
               },
               "watchers": {
                 "totalCount": 98
@@ -25,7 +25,7 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 102,
+              "forkCount": 103,
               "stargazers": {
                 "totalCount": 323
               },
@@ -60,7 +60,7 @@
                 "totalCount": 515
               },
               "watchers": {
-                "totalCount": 18
+                "totalCount": 19
               }
             }
           },
@@ -87,7 +87,7 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 21,
               "stargazers": {
-                "totalCount": 80
+                "totalCount": 81
               },
               "watchers": {
                 "totalCount": 14
