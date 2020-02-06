@@ -10,3 +10,6 @@
 *.ps
 *.eps
 __pycache__
+*.fdb_latexmk
+*.fls
+*.synctex.gz
