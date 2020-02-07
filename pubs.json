@@ -2044,7 +2044,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 364,
+    "citations": 366,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2823,7 +2823,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -2978,7 +2978,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3242,
+    "citations": 3245,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
