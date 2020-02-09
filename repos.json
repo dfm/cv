@@ -40,9 +40,9 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 30,
+              "forkCount": 31,
               "stargazers": {
-                "totalCount": 132
+                "totalCount": 133
               },
               "watchers": {
                 "totalCount": 12
@@ -72,7 +72,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 172,
               "stargazers": {
-                "totalCount": 257
+                "totalCount": 258
               },
               "watchers": {
                 "totalCount": 22
@@ -85,9 +85,9 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 21,
+              "forkCount": 22,
               "stargazers": {
-                "totalCount": 81
+                "totalCount": 82
               },
               "watchers": {
                 "totalCount": 14
