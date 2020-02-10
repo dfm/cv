@@ -96,6 +96,26 @@
     "year": "2020"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Czekala, Ian",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1998447",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-12-30",
+    "title": "dfm/exoplanet: exoplanet v0.2.4",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...1998447F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1908.07528",
     "authors": [
       "Angus, Ruth",
@@ -724,7 +744,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -1226,7 +1246,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1314,7 +1334,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1676,7 +1696,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2480,7 +2500,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 157,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2823,7 +2843,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -2978,7 +2998,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3245,
+    "citations": 3255,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
