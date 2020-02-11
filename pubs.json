@@ -1153,7 +1153,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2064,7 +2064,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 366,
+    "citations": 365,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2135,7 +2135,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2303,7 +2303,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 43,
+    "citations": 32,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2998,7 +2998,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3255,
+    "citations": 3258,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
