@@ -52,7 +52,7 @@
     "pubdate": "2020-01-00",
     "title": "Surface Maps of Stars and Exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
-    "volume": "52",
+    "volume": null,
     "year": "2020"
   },
   {
@@ -72,7 +72,7 @@
     "pubdate": "2020-01-00",
     "title": "TESS-CPM: A Python package for Background-Corrected Difference Imaging with TESS Full Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23515705H",
-    "volume": "52",
+    "volume": null,
     "year": "2020"
   },
   {
@@ -92,7 +92,7 @@
     "pubdate": "2020-01-00",
     "title": "Measuring Stellar Rotation in the K2 Sample",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
-    "volume": "52",
+    "volume": null,
     "year": "2020"
   },
   {
@@ -809,7 +809,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1283,7 +1283,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -1334,7 +1334,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 108,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2064,7 +2064,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 366,
+    "citations": 369,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2303,7 +2303,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2998,7 +2998,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3264,
+    "citations": 3273,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
