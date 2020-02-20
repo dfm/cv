@@ -30,7 +30,7 @@
                 "totalCount": 327
               },
               "watchers": {
-                "totalCount": 22
+                "totalCount": 21
               }
             }
           },
@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 104,
               "stargazers": {
-                "totalCount": 517
+                "totalCount": 516
               },
               "watchers": {
                 "totalCount": 19
@@ -70,9 +70,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 172,
+              "forkCount": 171,
               "stargazers": {
-                "totalCount": 258
+                "totalCount": 259
               },
               "watchers": {
                 "totalCount": 22

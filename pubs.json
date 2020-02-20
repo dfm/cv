@@ -179,7 +179,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1246,7 +1246,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1346,6 +1346,24 @@
     "year": "2017"
   },
   {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 34,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
+    "year": "2017"
+  },
+  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -1376,24 +1394,6 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 34,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -2135,7 +2135,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 121,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2303,7 +2303,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 34,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2843,7 +2843,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -2998,7 +2998,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3283,
+    "citations": 3289,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
