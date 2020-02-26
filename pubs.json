@@ -24,7 +24,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -151,7 +151,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -261,7 +261,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1696,7 +1696,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 134,
+    "citations": 135,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -1957,7 +1957,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -2064,7 +2064,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 373,
+    "citations": 376,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2500,7 +2500,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 158,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2998,7 +2998,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3305,
+    "citations": 3310,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
