@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab4fee",
+    "page": 123,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-03-00",
+    "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A",
+    "volume": "159",
+    "year": "2020"
+  },
+  {
     "arxiv": "1911.09705",
     "authors": [
       "Gillen, Edward",
@@ -840,6 +858,23 @@
   {
     "arxiv": null,
     "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-01-00",
+    "title": "bettermoments: Line-of-sight velocity calculation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Kruse, Ethan",
       "Agol, Eric",
       "Luger, Rodrigo",
@@ -854,23 +889,6 @@
     "title": "Hundreds of New Planet Candidates from K2",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
     "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2019-01-00",
-    "title": "bettermoments: Line-of-sight velocity calculation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -1246,7 +1264,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2064,7 +2082,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 376,
+    "citations": 377,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2380,7 +2398,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -2540,7 +2558,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -2998,7 +3016,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3313,
+    "citations": 3320,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
