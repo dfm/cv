@@ -480,24 +480,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1908.03222",
-    "authors": [
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-08-00",
-    "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190803222A",
-    "volume": null,
-    "year": "2019"
-  },
-  {
     "arxiv": "1903.08017",
     "authors": [
       "Kostov, Veselin B.",
@@ -2153,7 +2135,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 121,
+    "citations": 122,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3016,7 +2998,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3320,
+    "citations": 3326,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
