@@ -1,5 +1,26 @@
 [
   {
+    "arxiv": "2003.02379",
+    "authors": [
+      "Hey, Daniel R.",
+      "Murphy, Simon J.",
+      "Foreman-Mackey, Daniel",
+      "Bedding, Timothy R.",
+      "Pope, Benjamin J. S.",
+      "Hogg, David W."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-03-00",
+    "title": "Forward modeling the orbits of companions to pulsating stars from their light travel time variations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200302379H",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Agol, Eric",
