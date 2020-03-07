@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": "1908.03222",
+    "authors": [
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab4fee",
+    "page": 123,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-03-00",
+    "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A",
+    "volume": "159",
+    "year": "2020"
+  },
+  {
     "arxiv": "2003.02379",
     "authors": [
       "Hey, Daniel R.",
@@ -18,24 +36,6 @@
     "title": "Forward modeling the orbits of companions to pulsating stars from their light travel time variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200302379H",
     "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ab4fee",
-    "page": 123,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2020-03-00",
-    "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A",
-    "volume": "159",
     "year": "2020"
   },
   {
