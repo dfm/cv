@@ -39,6 +39,23 @@
     "year": "2020"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Daniel",
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3669395",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-02-17",
+    "title": "Maelstrom: Forward modelling the orbits of companions to pulsating stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3669395D",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "1911.09705",
     "authors": [
       "Gillen, Edward",
@@ -227,6 +244,24 @@
     "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
     "volume": "4",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3515456",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-10-21",
+    "title": "rodluger/Limbdark.jl: Version published in AJ",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3515456A",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -489,7 +524,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3359880",
     "page": null,
@@ -2324,7 +2359,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 45,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2793,7 +2828,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -2864,7 +2899,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
