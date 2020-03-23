@@ -94,6 +94,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Kruse, E.",
+      "Agol, E.",
+      "Luger, R.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2020-02-00",
+    "title": "VizieR Online Data Catalog: Planet candidates and EBs in K2 campaigns 0-8 (Kruse+, 2019)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020yCat..22440011K",
+    "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Luger, R.",
       "Bedell, M.",
       "Foreman-Mackey, D.",
@@ -753,10 +772,34 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Brewer, Brendon J.",
+      "Austin, Philip",
+      "Meierjurgen Farr, Will",
+      "Guillochon, James",
+      "Czekala, Ian",
+      "Casey, Andy"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2650526",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-04-25",
+    "title": "dfm/celerite: celerite v0.3.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.2651251",
     "page": null,
@@ -2828,7 +2871,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -2899,7 +2942,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
