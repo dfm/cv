@@ -42,7 +42,7 @@
               "homepageUrl": "http://celerite.rtfd.io",
               "forkCount": 31,
               "stargazers": {
-                "totalCount": 134
+                "totalCount": 135
               },
               "watchers": {
                 "totalCount": 12
@@ -70,9 +70,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 171,
+              "forkCount": 172,
               "stargazers": {
-                "totalCount": 266
+                "totalCount": 267
               },
               "watchers": {
                 "totalCount": 21
