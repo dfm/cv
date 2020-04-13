@@ -354,7 +354,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1252,7 +1252,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1511,30 +1511,6 @@
     "title": "Linear Models for Systematics and Nuisances",
     "url": "https://ui.adsabs.harvard.edu/abs/2017RNAAS...1....7L",
     "volume": "1",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 2,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1048287",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2017-11-13",
-    "title": "Dfm/Celerite: Celerite V0.3.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017zndo...1048287F",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -2056,7 +2032,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -2078,7 +2054,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2285,7 +2261,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2402,7 +2378,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2599,7 +2575,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2942,7 +2918,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -3097,7 +3073,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3414,
+    "citations": 3416,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
