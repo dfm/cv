@@ -12,10 +12,10 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 370,
               "stargazers": {
-                "totalCount": 1017
+                "totalCount": 1021
               },
               "watchers": {
-                "totalCount": 96
+                "totalCount": 97
               }
             }
           },
@@ -55,9 +55,9 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 105,
+              "forkCount": 106,
               "stargazers": {
-                "totalCount": 526
+                "totalCount": 527
               },
               "watchers": {
                 "totalCount": 19
@@ -72,7 +72,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 172,
               "stargazers": {
-                "totalCount": 267
+                "totalCount": 268
               },
               "watchers": {
                 "totalCount": 21
@@ -85,7 +85,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 24,
+              "forkCount": 25,
               "stargazers": {
                 "totalCount": 91
               },
