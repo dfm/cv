@@ -1,5 +1,26 @@
 [
   {
+    "arxiv": "2003.02379",
+    "authors": [
+      "Hey, Daniel R.",
+      "Murphy, Simon J.",
+      "Foreman-Mackey, Daniel",
+      "Bedding, Timothy R.",
+      "Pope, Benjamin J. S.",
+      "Hogg, David W."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab7d38",
+    "page": 202,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-05-00",
+    "title": "Forward Modeling the Orbits of Companions to Pulsating Stars from Their Light Travel Time Variations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..202H",
+    "volume": "159",
+    "year": "2020"
+  },
+  {
     "arxiv": "1908.03222",
     "authors": [
       "Agol, Eric",
@@ -15,27 +36,6 @@
     "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A",
     "volume": "159",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2003.02379",
-    "authors": [
-      "Hey, Daniel R.",
-      "Murphy, Simon J.",
-      "Foreman-Mackey, Daniel",
-      "Bedding, Timothy R.",
-      "Pope, Benjamin J. S.",
-      "Hogg, David W."
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-03-00",
-    "title": "Forward modeling the orbits of companions to pulsating stars from their light travel time variations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200302379H",
-    "volume": null,
     "year": "2020"
   },
   {
@@ -204,7 +204,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -354,7 +354,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -673,7 +673,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 14,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -799,7 +799,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.2651251",
     "page": null,
@@ -1283,6 +1283,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Morton, Timothy",
+      "benbaror",
+      "iancrossfield",
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1313708",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-07-17",
+    "title": "Timothydmorton/Vespa: Tests Upgrade, Minor Bugfixes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1313708M",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Luger, Rodrigo",
       "Agol, Eric",
       "Kruse, Ethan",
@@ -1557,7 +1576,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -2139,7 +2158,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 402,
+    "citations": 404,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3073,7 +3092,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3438,
+    "citations": 3446,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -3097,7 +3116,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "software",
     "doi": null,
     "page": null,
