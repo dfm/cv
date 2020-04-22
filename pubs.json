@@ -9,7 +9,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7d38",
     "page": 202,
@@ -373,7 +373,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -673,7 +673,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1252,7 +1252,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1452,7 +1452,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2073,7 +2073,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2474,7 +2474,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -2713,7 +2713,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 47,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -3092,7 +3092,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3446,
+    "citations": 3447,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
