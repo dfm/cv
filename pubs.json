@@ -226,7 +226,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1381,7 +1381,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 39,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -1401,7 +1401,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 49,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -1452,7 +1452,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 122,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1559,7 +1559,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1790,7 +1790,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2158,7 +2158,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 405,
+    "citations": 410,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2594,7 +2594,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 171,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2848,7 +2848,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 149,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3092,7 +3092,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3460,
+    "citations": 3475,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

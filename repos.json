@@ -25,7 +25,7 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 105,
+              "forkCount": 106,
               "stargazers": {
                 "totalCount": 336
               },
@@ -40,7 +40,7 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 31,
+              "forkCount": 32,
               "stargazers": {
                 "totalCount": 136
               },
@@ -55,9 +55,9 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 106,
+              "forkCount": 107,
               "stargazers": {
-                "totalCount": 533
+                "totalCount": 534
               },
               "watchers": {
                 "totalCount": 19
