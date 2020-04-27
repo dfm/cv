@@ -179,7 +179,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -673,7 +673,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1533,6 +1533,30 @@
     "year": "2017"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Brewer, Brendon J.",
+      "Austin, Philip",
+      "Meierjurgen Farr, Will",
+      "Guillochon, James",
+      "Czekala, Ian",
+      "Casey, Andy"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1048287",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2017-11-13",
+    "title": "Dfm/Celerite: Celerite V0.3.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017zndo...1048287F",
+    "volume": null,
+    "year": "2017"
+  },
+  {
     "arxiv": "1710.02428",
     "authors": [
       "Wang, Dun",
@@ -2073,7 +2097,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 124,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2280,7 +2304,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 13,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2397,7 +2421,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2713,7 +2737,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -2866,7 +2890,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
