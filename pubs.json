@@ -254,7 +254,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1364,7 +1364,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1814,7 +1814,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2182,7 +2182,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 408,
+    "citations": 409,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3116,7 +3116,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3470,
+    "citations": 3477,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
