@@ -1326,7 +1326,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2097,7 +2097,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2182,7 +2182,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 414,
+    "citations": 417,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2618,7 +2618,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 172,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2737,7 +2737,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -3116,7 +3116,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3509,
+    "citations": 3512,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
