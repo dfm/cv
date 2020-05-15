@@ -292,7 +292,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -354,7 +354,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1364,7 +1364,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2182,7 +2182,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 417,
+    "citations": 421,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3116,7 +3116,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3512,
+    "citations": 3526,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
