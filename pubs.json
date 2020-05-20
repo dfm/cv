@@ -21,6 +21,33 @@
     "year": "2020"
   },
   {
+    "arxiv": "2005.09387",
+    "authors": [
+      "Angus, Ruth",
+      "Beane, Angus",
+      "Price-Whelan, Adrian M.",
+      "Newton, Elisabeth",
+      "Curtis, Jason L.",
+      "Berger, Travis",
+      "van Saders, Jennifer",
+      "Kiman, Rocio",
+      "Foreman-Mackey, Daniel",
+      "Lu, Yuxi",
+      "Anderson, Lauren",
+      "Faherty, Jacqueline K."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-05-00",
+    "title": "Exploring the evolution of stellar rotation using Galactic kinematics",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200509387A",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "1908.03222",
     "authors": [
       "Agol, Eric",
@@ -1452,7 +1479,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 132,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2618,7 +2645,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 175,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3116,7 +3143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3541,
+    "citations": 3539,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
