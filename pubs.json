@@ -231,7 +231,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -281,7 +281,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -381,7 +381,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -700,7 +700,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2209,7 +2209,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 426,
+    "citations": 427,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2664,7 +2664,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3143,7 +3143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3539,
+    "citations": 3545,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
