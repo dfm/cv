@@ -400,7 +400,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -1530,7 +1530,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -2124,7 +2124,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 128,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2209,7 +2209,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 431,
+    "citations": 430,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2645,7 +2645,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 177,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3143,7 +3143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3555,
+    "citations": 3558,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
