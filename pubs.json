@@ -107,7 +107,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -253,7 +253,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1841,7 +1841,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2124,7 +2124,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2448,7 +2448,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3143,7 +3143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3589,
+    "citations": 3597,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
