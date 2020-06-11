@@ -1548,7 +1548,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -2209,7 +2209,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 436,
+    "citations": 438,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2645,7 +2645,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 178,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3143,7 +3143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3608,
+    "citations": 3610,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
