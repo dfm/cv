@@ -10,9 +10,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 374,
+              "forkCount": 375,
               "stargazers": {
-                "totalCount": 1043
+                "totalCount": 1045
               },
               "watchers": {
                 "totalCount": 95
@@ -25,9 +25,9 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 110,
+              "forkCount": 111,
               "stargazers": {
-                "totalCount": 342
+                "totalCount": 343
               },
               "watchers": {
                 "totalCount": 23
@@ -40,7 +40,7 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 32,
+              "forkCount": 33,
               "stargazers": {
                 "totalCount": 141
               },
@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 108,
               "stargazers": {
-                "totalCount": 542
+                "totalCount": 543
               },
               "watchers": {
                 "totalCount": 19
@@ -70,7 +70,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 176,
+              "forkCount": 178,
               "stargazers": {
                 "totalCount": 278
               },
@@ -87,7 +87,7 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 27,
               "stargazers": {
-                "totalCount": 96
+                "totalCount": 97
               },
               "watchers": {
                 "totalCount": 16
