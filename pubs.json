@@ -799,30 +799,6 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2650526",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/celerite: celerite v0.3.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
@@ -2917,7 +2893,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
