@@ -1012,7 +1012,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1033,7 +1033,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1489,7 +1489,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2307,7 +2307,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 454,
+    "citations": 456,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3241,7 +3241,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3667,
+    "citations": 3671,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

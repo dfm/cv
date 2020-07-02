@@ -10,9 +10,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 377,
+              "forkCount": 378,
               "stargazers": {
-                "totalCount": 1049
+                "totalCount": 1050
               },
               "watchers": {
                 "totalCount": 96
@@ -70,7 +70,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 178,
+              "forkCount": 179,
               "stargazers": {
                 "totalCount": 281
               },
@@ -85,7 +85,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 27,
+              "forkCount": 26,
               "stargazers": {
                 "totalCount": 101
               },
