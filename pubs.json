@@ -471,6 +471,27 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Czekala, Ian",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3462740",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-09-26",
+    "title": "dfm/exoplanet: exoplanet v0.2.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3462740F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Bedell, Megan",
       "Hogg, David W.",
       "Foreman-Mackey, Dan",
@@ -2429,6 +2450,40 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.591491",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-05-26",
+    "title": "corner.py: corner.py v2.0.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....591491F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Vousden, Will",
+      "Price-Whelan, Adrian",
+      "Pitkin, Matt",
+      "Zabalza, Victor",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Ashton, Gregory",
+      "Cruz, Kelle",
+      "Kerzendorf, Wolfgang",
+      "Caswell, Thomas A",
+      "Hoyer, Stephan",
+      "Barbary, Kyle",
+      "Czekala, Ian",
+      "Rein, Hanno",
+      "Gentry, Eric",
+      "Brewer, Brendon J.",
+      "Hogg, David W."
+    ],
     "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
@@ -2546,7 +2601,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2817,7 +2872,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -3015,7 +3070,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 42,
+    "citations": 44,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -3086,7 +3141,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
