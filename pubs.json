@@ -1,25 +1,5 @@
 [
   {
-    "arxiv": "2006.16280",
-    "authors": [
-      "Villaume, Alexa",
-      "Foreman-Mackey, Daniel",
-      "Romanowsky, Aaron J.",
-      "Brodie, Jean",
-      "Strader, Jay"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "The Assembly History of M87 Through Radial Variations in Chemical Abundances of its Field Star And Globular Cluster Populations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200616280V",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": "2006.13248",
     "authors": [
       "Plavchan, Peter",
@@ -110,7 +90,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -119,6 +99,26 @@
     "title": "A planet within the debris disk around the pre-main-sequence star AU Microscopii",
     "url": "https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P",
     "volume": "582",
+    "year": "2020"
+  },
+  {
+    "arxiv": "2006.16280",
+    "authors": [
+      "Villaume, Alexa",
+      "Foreman-Mackey, Daniel",
+      "Romanowsky, Aaron J.",
+      "Brodie, Jean",
+      "Strader, Jay"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-06-00",
+    "title": "The Assembly History of M87 Through Radial Variations in Chemical Abundances of its Field Star And Globular Cluster Populations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200616280V",
+    "volume": null,
     "year": "2020"
   },
   {
@@ -365,6 +365,34 @@
     "year": "2019"
   },
   {
+    "arxiv": "1911.07688",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Farr, Will",
+      "Sinha, Manodeep",
+      "Archibald, Anne",
+      "Hogg, David",
+      "Sanders, Jeremy",
+      "Zuntz, Joe",
+      "Williams, Peter",
+      "Nelson, Andrew",
+      "de Val-Borro, Miguel",
+      "Erhardt, Tobias",
+      "Pashchenko, Ilya",
+      "Pla, Oriol"
+    ],
+    "citations": 11,
+    "doctype": "article",
+    "doi": "10.21105/joss.01864",
+    "page": 1864,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-11-00",
+    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
+    "volume": "4",
+    "year": "2019"
+  },
+  {
     "arxiv": "1910.04563",
     "authors": [
       "David, Trevor J.",
@@ -384,34 +412,6 @@
     "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
     "volume": "885",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1911.07688",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Farr, Will",
-      "Sinha, Manodeep",
-      "Archibald, Anne",
-      "Hogg, David",
-      "Sanders, Jeremy",
-      "Zuntz, Joe",
-      "Williams, Peter",
-      "Nelson, Andrew",
-      "de Val-Borro, Miguel",
-      "Erhardt, Tobias",
-      "Pashchenko, Ilya",
-      "Pla, Oriol"
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.21105/joss.01864",
-    "page": 1864,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-11-00",
-    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
-    "volume": "4",
     "year": "2019"
   },
   {
@@ -1415,7 +1415,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1510,7 +1510,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 80,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1997,7 +1997,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -2328,7 +2328,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 463,
+    "citations": 460,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3296,7 +3296,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3691,
+    "citations": 3687,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
