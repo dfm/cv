@@ -524,7 +524,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -843,7 +843,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1527,7 +1527,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -1598,7 +1598,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 143,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -1649,7 +1649,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -1960,7 +1960,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2243,7 +2243,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 136,
+    "citations": 138,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2328,7 +2328,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 460,
+    "citations": 467,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2817,7 +2817,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3296,7 +3296,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3710,
+    "citations": 3723,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -3320,7 +3320,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "software",
     "doi": null,
     "page": null,
