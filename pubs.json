@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": "2007.05799",
+    "authors": [
+      "Gordon, Tyler",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-07-00",
+    "title": "A Fast, 2D Gaussian Process Method Based on Celerite: Applications to Transiting Exoplanet Discovery and Characterization",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200705799G",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2006.13248",
     "authors": [
       "Plavchan, Peter",
@@ -2484,7 +2502,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 16,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
