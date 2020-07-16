@@ -149,7 +149,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7d38",
     "page": 202,
@@ -194,7 +194,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1072,7 +1072,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1291,7 +1291,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -1616,7 +1616,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 144,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2346,7 +2346,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 467,
+    "citations": 468,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2619,7 +2619,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2696,7 +2696,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 82,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -2816,7 +2816,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -2935,7 +2935,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -3070,7 +3070,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3136,7 +3136,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -3314,7 +3314,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3717,
+    "citations": 3722,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
