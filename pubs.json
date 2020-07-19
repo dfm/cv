@@ -399,7 +399,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -542,7 +542,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1051,7 +1051,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1433,7 +1433,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1528,7 +1528,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2346,7 +2346,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 468,
+    "citations": 470,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2696,7 +2696,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -3314,7 +3314,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3727,
+    "citations": 3730,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
