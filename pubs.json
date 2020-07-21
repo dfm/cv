@@ -1,26 +1,5 @@
 [
   {
-    "arxiv": null,
-    "authors": [
-      "Hey, Daniel",
-      "Murphy, Simon",
-      "Foreman-Mackey, Daniel",
-      "Bedding, Timothy",
-      "Pope, Benjamin",
-      "Hogg, David"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.21105/joss.02125",
-    "page": 2125,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2020-07-00",
-    "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
-    "volume": "5",
-    "year": "2020"
-  },
-  {
     "arxiv": "2007.05799",
     "authors": [
       "Gordon, Tyler",
@@ -138,24 +117,6 @@
     "title": "A planet within the debris disk around the pre-main-sequence star AU Microscopii",
     "url": "https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P",
     "volume": "582",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Bartoli{\\'c}, F.",
-      "Luger, R.",
-      "Foreman-Mackey, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #236",
-    "pubdate": "2020-06-00",
-    "title": "Inferring a time dependent map of Io's surface from occultations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23622104B",
-    "volume": "236",
     "year": "2020"
   },
   {
@@ -385,7 +346,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -438,7 +399,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 13,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -581,7 +542,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 25,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1090,7 +1051,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 44,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1472,7 +1433,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1567,7 +1528,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 80,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1604,7 +1565,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 57,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2385,7 +2346,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 471,
+    "citations": 468,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2456,7 +2417,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 136,
+    "citations": 135,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -2541,7 +2502,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 16,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2658,7 +2619,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2735,7 +2696,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 82,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -3353,7 +3314,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3736,
+    "citations": 3727,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
