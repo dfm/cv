@@ -1,5 +1,26 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Hey, Daniel",
+      "Murphy, Simon",
+      "Foreman-Mackey, Daniel",
+      "Bedding, Timothy",
+      "Pope, Benjamin",
+      "Hogg, David"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.21105/joss.02125",
+    "page": 2125,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2020-07-00",
+    "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
+    "volume": "5",
+    "year": "2020"
+  },
+  {
     "arxiv": "2007.05799",
     "authors": [
       "Gordon, Tyler",
@@ -117,6 +138,24 @@
     "title": "A planet within the debris disk around the pre-main-sequence star AU Microscopii",
     "url": "https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P",
     "volume": "582",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Bartoli{\\'c}, F.",
+      "Luger, R.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #236",
+    "pubdate": "2020-06-00",
+    "title": "Inferring a time dependent map of Io's surface from occultations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23622104B",
+    "volume": "236",
     "year": "2020"
   },
   {
@@ -542,7 +581,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1051,7 +1090,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1528,7 +1567,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2015,7 +2054,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -2346,7 +2385,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 468,
+    "citations": 471,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2417,7 +2456,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3314,7 +3353,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3727,
+    "citations": 3735,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
