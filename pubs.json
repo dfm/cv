@@ -385,7 +385,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1472,7 +1472,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2735,7 +2735,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -3274,33 +3274,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0653",
-    "authors": [
-      "Hogg, David W.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Lang, Dustin",
-      "Montet, Benjamin T.",
-      "Schiminovich, David",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0654",
     "authors": [
       "Montet, Benjamin T.",
@@ -3324,6 +3297,33 @@
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
+    "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1309.0653",
+    "authors": [
+      "Hogg, David W.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Lang, Dustin",
+      "Montet, Benjamin T.",
+      "Schiminovich, David",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
     "volume": null,
     "year": "2013"
   },
