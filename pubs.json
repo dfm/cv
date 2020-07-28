@@ -385,7 +385,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -438,7 +438,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 14,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1472,7 +1472,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -3274,33 +3274,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0654",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Hogg, David W.",
-      "Lang, Dustin",
-      "Schiminovich, David",
-      "Scholkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0653",
     "authors": [
       "Hogg, David W.",
@@ -3324,6 +3297,33 @@
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
     "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
+    "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1309.0654",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Hogg, David W.",
+      "Lang, Dustin",
+      "Schiminovich, David",
+      "Scholkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
     "volume": null,
     "year": "2013"
   },
@@ -3353,7 +3353,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3756,
+    "citations": 3757,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
