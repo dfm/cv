@@ -703,7 +703,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1212,7 +1212,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 49,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1689,7 +1689,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2422,7 +2422,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 139,
+    "citations": 138,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2507,7 +2507,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 478,
+    "citations": 477,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3475,7 +3475,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3781,
+    "citations": 3775,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
