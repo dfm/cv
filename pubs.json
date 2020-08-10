@@ -1,5 +1,32 @@
 [
   {
+    "arxiv": "2005.09387",
+    "authors": [
+      "Angus, Ruth",
+      "Beane, Angus",
+      "Price-Whelan, Adrian M.",
+      "Newton, Elisabeth",
+      "Curtis, Jason L.",
+      "Berger, Travis",
+      "van Saders, Jennifer",
+      "Kiman, Rocio",
+      "Foreman-Mackey, Daniel",
+      "Lu, Yuxi Lucy",
+      "Anderson, Lauren",
+      "Faherty, Jacqueline K."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab91b2",
+    "page": 90,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-08-00",
+    "title": "Exploring the Evolution of Stellar Rotation Using Galactic Kinematics",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A",
+    "volume": "160",
+    "year": "2020"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Plavchan, Peter",
@@ -319,33 +346,6 @@
     "title": "Forward Modeling the Orbits of Companions to Pulsating Stars from Their Light Travel Time Variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..202H",
     "volume": "159",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2005.09387",
-    "authors": [
-      "Angus, Ruth",
-      "Beane, Angus",
-      "Price-Whelan, Adrian M.",
-      "Newton, Elisabeth",
-      "Curtis, Jason L.",
-      "Berger, Travis",
-      "van Saders, Jennifer",
-      "Kiman, Rocio",
-      "Foreman-Mackey, Daniel",
-      "Lu, Yuxi",
-      "Anderson, Lauren",
-      "Faherty, Jacqueline K."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-05-00",
-    "title": "Exploring the evolution of stellar rotation using Galactic kinematics",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200509387A",
-    "volume": null,
     "year": "2020"
   },
   {
@@ -1577,7 +1577,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
