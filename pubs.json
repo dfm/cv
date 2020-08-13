@@ -15,7 +15,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -278,7 +278,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -560,7 +560,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1689,7 +1689,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1726,7 +1726,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -1777,7 +1777,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2507,7 +2507,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 480,
+    "citations": 482,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2996,7 +2996,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3475,7 +3475,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3791,
+    "citations": 3793,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
