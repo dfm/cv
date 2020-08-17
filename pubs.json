@@ -349,6 +349,30 @@
     "year": "2020"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Hogg, David W.",
+      "Fulford, David S.",
+      "Daft-Bot",
+      "Dobos, L{\\'a}szl{\\'o}",
+      "Gerold, Pierre",
+      "Lindemann, Oliver",
+      "Murphy, Kevin P",
+      "McFee, Brian"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3747801",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-04-10",
+    "title": "daft-dev/daft: Minor bugfix",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3747801F",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "1908.03222",
     "authors": [
       "Agol, Eric",
@@ -1115,24 +1139,6 @@
     "title": "The Next Decade of Astroinformatics and Astrostatistics",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S",
     "volume": "51",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Barentsen, Geert",
-      "Barclay, Tom"
-    ],
-    "citations": 6,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2651251",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/exoplanet: exoplanet v0.1.6",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -2663,7 +2669,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 14,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -3249,7 +3255,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 44,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -3320,7 +3326,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
