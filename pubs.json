@@ -1144,6 +1144,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 6,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2651251",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-04-25",
+    "title": "dfm/exoplanet: exoplanet v0.1.6",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Feinstein, Adina D.",
       "Montet, Benjamin T.",
       "Foreman-Mackey, Daniel",
@@ -2786,7 +2804,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 49,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3255,7 +3273,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -3481,7 +3499,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3837,
+    "citations": 3833,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
