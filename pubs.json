@@ -278,7 +278,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2200,7 +2200,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -2531,7 +2531,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 490,
+    "citations": 491,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3499,7 +3499,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3836,
+    "citations": 3839,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
