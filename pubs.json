@@ -1,5 +1,25 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Villaume, Alexa",
+      "Foreman-Mackey, Daniel",
+      "Romanowsky, Aaron J.",
+      "Brodie, Jean",
+      "Strader, Jay"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aba616",
+    "page": 95,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2020-09-00",
+    "title": "The Assembly History of M87 through Radial Variations in Chemical Abundances of Its Field Star and Globular Cluster Populations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020ApJ...900...95V",
+    "volume": "900",
+    "year": "2020"
+  },
+  {
     "arxiv": "2005.09387",
     "authors": [
       "Angus, Ruth",
@@ -337,7 +357,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7d38",
     "page": 202,
@@ -432,7 +452,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -543,6 +563,31 @@
     "year": "2019"
   },
   {
+    "arxiv": "1908.07528",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "van Saders, Jennifer",
+      "Curtis, Jason",
+      "Kane, Stephen R.",
+      "Bedell, Megan",
+      "Kiman, Rocio",
+      "Hogg, David W.",
+      "Brewer, John"
+    ],
+    "citations": 12,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab3c53",
+    "page": 173,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
+    "volume": "158",
+    "year": "2019"
+  },
+  {
     "arxiv": "1911.07688",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -571,31 +616,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1908.07528",
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "van Saders, Jennifer",
-      "Curtis, Jason",
-      "Kane, Stephen R.",
-      "Bedell, Megan",
-      "Kiman, Rocio",
-      "Hogg, David W.",
-      "Brewer, John"
-    ],
-    "citations": 11,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ab3c53",
-    "page": 173,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
-    "volume": "158",
-    "year": "2019"
-  },
-  {
     "arxiv": "1910.04563",
     "authors": [
       "David, Trevor J.",
@@ -606,7 +626,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 14,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1713,7 +1733,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -1834,7 +1854,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -3020,7 +3040,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3499,7 +3519,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3873,
+    "citations": 3878,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
