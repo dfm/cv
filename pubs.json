@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2006.16280",
     "authors": [
       "Villaume, Alexa",
       "Foreman-Mackey, Daniel",
@@ -325,26 +325,6 @@
     "title": "Inferring a time dependent map of Io's surface from occultations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23622104B",
     "volume": "236",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2006.16280",
-    "authors": [
-      "Villaume, Alexa",
-      "Foreman-Mackey, Daniel",
-      "Romanowsky, Aaron J.",
-      "Brodie, Jean",
-      "Strader, Jay"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "The Assembly History of M87 Through Radial Variations in Chemical Abundances of its Field Star And Globular Cluster Populations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200616280V",
-    "volume": null,
     "year": "2020"
   },
   {
@@ -2824,7 +2804,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 49,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3519,7 +3499,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3878,
+    "citations": 3877,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
