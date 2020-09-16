@@ -1618,7 +1618,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1750,7 +1750,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2531,7 +2531,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 493,
+    "citations": 494,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3001,7 +3001,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 192,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3169,37 +3169,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Weisz, D. R.",
-      "Fouesneau, M.",
-      "Hogg, D. W.",
-      "Rix, H. -W.",
-      "Dolphin, A. E.",
-      "Dalcanton, J. J.",
-      "Foreman-Mackey, D. T.",
-      "Lang, D.",
-      "Johnson, L. C.",
-      "Beerman, L. C.",
-      "Bell, E. F.",
-      "Gordon, K. D.",
-      "Gouliermis, D.",
-      "Kalirai, J. S.",
-      "Skillman, E. D.",
-      "Williams, B. F."
-    ],
-    "citations": 0,
-    "doctype": "catalog",
-    "doi": null,
-    "page": null,
-    "pub": "VizieR Online Data Catalog",
-    "pubdate": "2015-01-00",
-    "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
-    "volume": null,
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard",
@@ -3230,6 +3199,37 @@
     "title": "Licenses in the wild",
     "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Weisz, D. R.",
+      "Fouesneau, M.",
+      "Hogg, D. W.",
+      "Rix, H. -W.",
+      "Dolphin, A. E.",
+      "Dalcanton, J. J.",
+      "Foreman-Mackey, D. T.",
+      "Lang, D.",
+      "Johnson, L. C.",
+      "Beerman, L. C.",
+      "Bell, E. F.",
+      "Gordon, K. D.",
+      "Gouliermis, D.",
+      "Kalirai, J. S.",
+      "Skillman, E. D.",
+      "Williams, B. F."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2015-01-00",
+    "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
+    "volume": null,
     "year": "2015"
   },
   {
@@ -3321,7 +3321,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -3499,7 +3499,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3877,
+    "citations": 3882,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
