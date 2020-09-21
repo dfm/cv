@@ -379,7 +379,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -531,7 +531,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 7,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1257,7 +1257,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 34,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1618,7 +1618,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1813,24 +1813,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 42,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
-    "year": "2017"
-  },
-  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -1861,6 +1843,24 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 42,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
     "year": "2017"
   },
   {
@@ -2531,7 +2531,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 496,
+    "citations": 499,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2804,7 +2804,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 49,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3001,7 +3001,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 193,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
