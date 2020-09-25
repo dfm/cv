@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-09-00",
+    "title": "Stability Constrained Characterization of Multiplanet Systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200911831T",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2006.16280",
     "authors": [
       "Villaume, Alexa",
@@ -727,7 +745,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1046,7 +1064,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1257,7 +1275,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1801,7 +1819,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2163,7 +2181,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 157,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2255,7 +2273,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -2531,7 +2549,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 503,
+    "citations": 506,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3001,7 +3019,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 197,
+    "citations": 198,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3499,7 +3517,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3911,
+    "citations": 3918,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
