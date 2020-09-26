@@ -3187,6 +3187,22 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Licenses in the wild",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard",
@@ -3200,22 +3216,6 @@
     "pubdate": "2015-01-00",
     "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Licenses in the wild",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
     "year": "2015"
   },
