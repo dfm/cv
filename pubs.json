@@ -426,42 +426,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "1911.09705",
-    "authors": [
-      "Gillen, Edward",
-      "Briegal, Joshua T.",
-      "Hodgkin, Simon T.",
-      "Foreman-Mackey, Daniel",
-      "Van Leeuwen, Floor",
-      "Jackman, James A. G.",
-      "McCormac, James",
-      "West, Richard G.",
-      "Queloz, Didier",
-      "Bayliss, Daniel",
-      "Goad, Michael R.",
-      "Watson, Christopher A.",
-      "Wheatley, Peter J.",
-      "Belardi, Claudia",
-      "Burleigh, Matthew R.",
-      "Casewell, Sarah L.",
-      "Jenkins, James S.",
-      "Raynard, Liam",
-      "Smith, Alexis M. S.",
-      "Tilbrook, Rosanna H.",
-      "Vines, Jose I."
-    ],
-    "citations": 5,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz3251",
-    "page": 1008,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-02-00",
-    "title": "NGTS clusters survey - I. Rotation in the young benchmark open cluster Blanco 1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G",
-    "volume": "492",
-    "year": "2020"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Kruse, E.",
@@ -1382,43 +1346,6 @@
     "pubdate": "2019-01-00",
     "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David",
-      "Lustig-Yeager, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "Exact model for phase curves, eclipses, and transits of stars and their planets for TESS",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320205A",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -2464,7 +2391,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2549,7 +2476,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 506,
+    "citations": 507,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -2705,7 +2632,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 16,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -2822,7 +2749,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 49,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -2899,7 +2826,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -2931,24 +2858,6 @@
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...809....7B",
     "volume": "809",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258352,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "The search for single exoplanet transits in the Kepler light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258352F",
-    "volume": "29",
     "year": "2015"
   },
   {
@@ -3038,7 +2947,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3362,7 +3271,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -3517,7 +3426,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3918,
+    "citations": 3922,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
