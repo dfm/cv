@@ -589,6 +589,31 @@
     "year": "2019"
   },
   {
+    "arxiv": "1908.07528",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "van Saders, Jennifer",
+      "Curtis, Jason",
+      "Kane, Stephen R.",
+      "Bedell, Megan",
+      "Kiman, Rocio",
+      "Hogg, David W.",
+      "Brewer, John"
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab3c53",
+    "page": 173,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
+    "volume": "158",
+    "year": "2019"
+  },
+  {
     "arxiv": "1910.04563",
     "authors": [
       "David, Trevor J.",
@@ -608,31 +633,6 @@
     "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
     "volume": "885",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1908.07528",
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "van Saders, Jennifer",
-      "Curtis, Jason",
-      "Kane, Stephen R.",
-      "Bedell, Megan",
-      "Kiman, Rocio",
-      "Hogg, David W.",
-      "Brewer, John"
-    ],
-    "citations": 12,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ab3c53",
-    "page": 173,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
-    "volume": "158",
     "year": "2019"
   },
   {
@@ -745,7 +745,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2549,7 +2549,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 509,
+    "citations": 513,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3517,7 +3517,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3940,
+    "citations": 3950,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
