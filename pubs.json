@@ -466,7 +466,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -646,7 +646,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -814,7 +814,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -833,7 +833,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -1323,7 +1323,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 55,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1344,7 +1344,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1888,7 +1888,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2618,7 +2618,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 514,
+    "citations": 517,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3088,7 +3088,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 200,
+    "citations": 201,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3342,7 +3342,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 160,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3495,7 +3495,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 46,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -3586,7 +3586,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3958,
+    "citations": 3966,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -3610,7 +3610,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "software",
     "doi": null,
     "page": null,
