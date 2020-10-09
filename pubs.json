@@ -103,7 +103,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 2,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -385,7 +385,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -646,7 +646,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -671,7 +671,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 13,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1688,7 +1688,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1817,7 +1817,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -1888,7 +1888,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 165,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2342,7 +2342,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -2533,7 +2533,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 143,
+    "citations": 146,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2706,7 +2706,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2968,7 +2968,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -3107,7 +3107,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 92,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3342,7 +3342,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3586,7 +3586,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3966,
+    "citations": 3970,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -3610,7 +3610,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "software",
     "doi": null,
     "page": null,
