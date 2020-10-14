@@ -466,7 +466,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1344,7 +1344,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1888,7 +1888,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 166,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2250,7 +2250,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 160,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2618,7 +2618,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 517,
+    "citations": 518,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3586,7 +3586,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3970,
+    "citations": 3979,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
