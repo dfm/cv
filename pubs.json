@@ -1688,7 +1688,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2000,7 +2000,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2533,7 +2533,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2618,7 +2618,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 518,
+    "citations": 519,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3586,7 +3586,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 3979,
+    "citations": 3987,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
