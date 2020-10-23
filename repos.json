@@ -25,9 +25,9 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 115,
+              "forkCount": 116,
               "stargazers": {
-                "totalCount": 349
+                "totalCount": 351
               },
               "watchers": {
                 "totalCount": 23
@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 111,
               "stargazers": {
-                "totalCount": 573
+                "totalCount": 574
               },
               "watchers": {
                 "totalCount": 19
