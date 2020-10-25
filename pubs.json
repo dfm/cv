@@ -385,7 +385,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -693,7 +693,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1133,7 +1133,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1347,7 +1347,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1712,7 +1712,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 74,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1912,7 +1912,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2557,7 +2557,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 147,
+    "citations": 149,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2642,7 +2642,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 524,
+    "citations": 525,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3610,7 +3610,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4021,
+    "citations": 4028,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
