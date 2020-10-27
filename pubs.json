@@ -1,5 +1,41 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Barentsen, Geert",
+      "Hedges, Christina",
+      "Vin{\\'\\i}cius, Z{\\'e}",
+      "Saunders, Nicholas",
+      "Gully",
+      "Lee, Sam",
+      "Bell, Keaton",
+      "Sagear, Sheila",
+      "Barclay, Tom",
+      "KenMighell",
+      "Lerma, Jose A",
+      "Cody, Ann Marie",
+      "Burke, Colin J.",
+      "Foreman-Mackey, Dan",
+      "Turtelboom, Emma",
+      "Davies, Guy",
+      "Colman, Isabel",
+      "Zhang, Johnny",
+      "Sundaram, Anand",
+      "Vincello, Brennan",
+      "Daniel"
+    ],
+    "citations": 23,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1181928",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-10-07",
+    "title": "KeplerGO/lightkurve: v2.0b3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...1181928B",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2010.01074",
     "authors": [
       "Agol, Eric",
@@ -618,7 +654,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 13,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1816,6 +1852,51 @@
     "year": "2018"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Meierjurgen Farr, Will",
+      "Hogg, David W.",
+      "Kern, Nicholas",
+      "Williams, Peter",
+      "Sanders, Jeremy",
+      "Tollerud, Erik",
+      "Sinha, Manodeep",
+      "Lang, Dustin",
+      "Nelson, Andrew",
+      "B{\\'e}ky, Bence",
+      "joezuntz",
+      "Vousden, Will",
+      "de Val-Borro, Miguel",
+      "Ilya",
+      "Tazzari, Marco",
+      "Erhardt, Tobias",
+      "Walker, Simon",
+      "Watkins, Laura",
+      "Price-Whelan, Adrian",
+      "Hoffimann, J{\\'u}lio",
+      "Davies, Jason",
+      "Guillochon, James",
+      "Davenport, James",
+      "Privon, George C.",
+      "Beaujean, Frederik",
+      "Sipocz, Brigitta",
+      "Rose, Benjamin",
+      "Scopatz, Anthony",
+      "Mohammed, AQNOUCH"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1297477",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-06-25",
+    "title": "Dfm/Emcee: Emcee V3.0Rc1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1297477F",
+    "volume": null,
+    "year": "2018"
+  },
+  {
     "arxiv": "1805.10290",
     "authors": [
       "Teague, Richard",
@@ -1886,6 +1967,22 @@
     "title": "Scalable Backpropagation for Gaussian Processes using Celerite",
     "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F",
     "volume": "2",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1160614",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-01-25",
+    "title": "Dfm/Celerite-Grad: Celerite-Grad V0.0.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1160614F",
+    "volume": null,
     "year": "2018"
   },
   {
@@ -2238,6 +2335,30 @@
     "year": "2017"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Brewer, Brendon J.",
+      "Austin, Philip",
+      "Meierjurgen Farr, Will",
+      "Guillochon, James",
+      "Czekala, Ian",
+      "Casey, Andy"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.806847",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2017-06-12",
+    "title": "Dfm/Celerite: Celerite V0.2.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017zndo....806847F",
+    "volume": null,
+    "year": "2017"
+  },
+  {
     "arxiv": "1703.04166",
     "authors": [
       "Luger, Rodrigo",
@@ -2544,6 +2665,40 @@
     "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
     "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...833..262H",
     "volume": "833",
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Morton, Timothy"
+    ],
+    "citations": 4,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.159478",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-10-06",
+    "title": "Dfm/Transit: Version 0.3.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159478F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Morton, Timothy",
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.159487",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-10-06",
+    "title": "Timothydmorton/Exosyspop: Initial Release",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159487M",
+    "volume": null,
     "year": "2016"
   },
   {
@@ -2915,7 +3070,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 49,
+    "citations": 63,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3449,19 +3604,19 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Barbary, Kyle",
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 70,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
-    "page": 11020,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-07-00",
-    "title": "triangle.py: triangle.py v0.1.1",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-07-24",
+    "title": "triangle.py v0.1.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
