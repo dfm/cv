@@ -767,7 +767,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1982,7 +1982,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2002,7 +2002,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 67,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2069,7 +2069,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 172,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2455,7 +2455,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 163,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2857,7 +2857,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 526,
+    "citations": 528,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3327,7 +3327,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 203,
+    "citations": 202,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3346,7 +3346,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 94,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3825,7 +3825,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4046,
+    "citations": 4048,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
