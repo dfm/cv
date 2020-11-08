@@ -2,6 +2,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Gordon, Tyler A.",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abbc16",
+    "page": 240,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-11-00",
+    "title": "A Fast, Two-dimensional Gaussian Process Method Based on Celerite: Applications to Transiting Exoplanet Discovery and Characterization",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G",
+    "volume": "160",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Barentsen, Geert",
       "Hedges, Christina",
       "Vin{\\'\\i}cius, Z{\\'e}",
@@ -3825,7 +3843,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4066,
+    "citations": 4070,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
