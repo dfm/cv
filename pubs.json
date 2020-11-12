@@ -502,7 +502,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1313,7 +1313,7 @@
       "Yanamandra-Fisher, Padma A.",
       "Young, C. Alex"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": null,
     "page": 355,
@@ -3130,7 +3130,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 49,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3825,7 +3825,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4076,
+    "citations": 4082,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
