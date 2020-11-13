@@ -2857,7 +2857,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 531,
+    "citations": 532,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3130,7 +3130,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 34,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3327,7 +3327,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 202,
+    "citations": 203,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3581,7 +3581,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3825,7 +3825,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4082,
+    "citations": 4084,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
