@@ -1,5 +1,32 @@
 [
   {
+    "arxiv": "2011.09894",
+    "authors": [
+      "David, Trevor J.",
+      "Contardo, Gabriella",
+      "Sandoval, Angeli",
+      "Angus, Ruth",
+      "Yuxi",
+      "Lu",
+      "Bedell, Megan",
+      "Curtis, Jason L.",
+      "Foreman-Mackey, Daniel",
+      "Fulton, Benjamin J.",
+      "Grunblatt, Samuel K.",
+      "Petigura, Erik A."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-11-00",
+    "title": "Small Planet Sizes Evolve Over Billions of Years",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2007.05799",
     "authors": [
       "Gordon, Tyler A.",
@@ -92,7 +119,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1848,7 +1875,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2897,7 +2924,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 537,
+    "citations": 539,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3067,6 +3094,22 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": "10.5281/zenodo.49590",
+    "page": 16,
+    "pub": "Python in Astronomy 2016",
+    "pubdate": "2016-03-00",
+    "title": "Tools for probabilistic data analysis in Python",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016pyas.confE..16F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Robitaille, Thomas",
       "Cruz, Kelle",
       "Greenfield, Perry",
@@ -3136,22 +3179,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": "10.5281/zenodo.49590",
-    "page": 16,
-    "pub": "Python in Astronomy 2016",
-    "pubdate": "2016-03-00",
-    "title": "Tools for probabilistic data analysis in Python",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016pyas.confE..16F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Dan",
       "Vousden, Will",
       "Price-Whelan, Adrian",
@@ -3170,7 +3197,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 34,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3386,7 +3413,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3535,22 +3562,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Licenses in the wild",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard",
@@ -3596,6 +3607,22 @@
     "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
     "volume": null,
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Licenses in the wild",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
+    "volume": "225",
     "year": "2015"
   },
   {
@@ -3710,7 +3737,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -3865,7 +3892,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4107,
+    "citations": 4115,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
