@@ -131,6 +131,33 @@
     "year": "2020"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Angus, R.",
+      "Beane, A.",
+      "Price-Whelan, A. M.",
+      "Newton, E.",
+      "Curtis, J. L.",
+      "Berger, T.",
+      "van Saders, J.",
+      "Kiman, R.",
+      "Foreman-Mackey, D.",
+      "Lu, Y.",
+      "Anderson, L.",
+      "Faherty, J. K."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2020-10-00",
+    "title": "VizieR Online Data Catalog: Stellar parameters for 13196 Kepler dwarfs (Angus+, 2020)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020yCat..51600090A",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2009.11831",
     "authors": [
       "Tamayo, Daniel",
@@ -834,7 +861,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -977,7 +1004,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1014,7 +1041,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -2032,7 +2059,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2069,7 +2096,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2136,7 +2163,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2924,7 +2951,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 539,
+    "citations": 542,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3297,7 +3324,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -3892,7 +3919,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4117,
+    "citations": 4123,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
