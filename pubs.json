@@ -211,7 +211,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -836,7 +836,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -861,7 +861,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1004,7 +1004,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1041,7 +1041,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -1323,7 +1323,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 30,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1558,7 +1558,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 41,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1777,7 +1777,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -1799,7 +1799,7 @@
       "Hogg, David W.",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aadb40",
     "page": 15,
@@ -2059,7 +2059,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 98,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2163,7 +2163,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 176,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2951,7 +2951,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 542,
+    "citations": 544,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3022,7 +3022,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 152,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3301,7 +3301,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -3461,7 +3461,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -3540,7 +3540,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -3675,7 +3675,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 165,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3919,7 +3919,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4123,
+    "citations": 4144,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
