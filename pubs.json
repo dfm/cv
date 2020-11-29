@@ -158,6 +158,26 @@
     "year": "2020"
   },
   {
+    "arxiv": "2006.16280",
+    "authors": [
+      "Villaume, Alexa",
+      "Foreman-Mackey, Daniel",
+      "Romanowsky, Aaron J.",
+      "Brodie, Jean",
+      "Strader, Jay"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aba616",
+    "page": 95,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2020-09-00",
+    "title": "The Assembly History of M87 through Radial Variations in Chemical Abundances of Its Field Star and Globular Cluster Populations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020ApJ...900...95V",
+    "volume": "900",
+    "year": "2020"
+  },
+  {
     "arxiv": "2009.11831",
     "authors": [
       "Tamayo, Daniel",
@@ -176,26 +196,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2006.16280",
-    "authors": [
-      "Villaume, Alexa",
-      "Foreman-Mackey, Daniel",
-      "Romanowsky, Aaron J.",
-      "Brodie, Jean",
-      "Strader, Jay"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aba616",
-    "page": 95,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2020-09-00",
-    "title": "The Assembly History of M87 through Radial Variations in Chemical Abundances of Its Field Star and Globular Cluster Populations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020ApJ...900...95V",
-    "volume": "900",
-    "year": "2020"
-  },
-  {
     "arxiv": "2005.09387",
     "authors": [
       "Angus, Ruth",
@@ -211,7 +211,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1023,7 +1023,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -1902,7 +1902,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2866,7 +2866,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 151,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2903,7 +2903,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -2951,7 +2951,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 544,
+    "citations": 545,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3242,7 +3242,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -3461,7 +3461,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 90,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -3919,7 +3919,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4143,
+    "citations": 4146,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
