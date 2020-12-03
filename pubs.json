@@ -211,7 +211,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 9,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -279,6 +279,27 @@
     "title": "dfm/corner.py: corner.py v2.1.0.rc1",
     "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3937526F",
     "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Hey, Daniel",
+      "Murphy, Simon",
+      "Foreman-Mackey, Daniel",
+      "Bedding, Timothy",
+      "Pope, Benjamin",
+      "Hogg, David"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.21105/joss.02125",
+    "page": 2125,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2020-07-00",
+    "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
+    "volume": "5",
     "year": "2020"
   },
   {
@@ -401,27 +422,6 @@
     "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
     "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
     "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Hey, Daniel",
-      "Murphy, Simon",
-      "Foreman-Mackey, Daniel",
-      "Bedding, Timothy",
-      "Pope, Benjamin",
-      "Hogg, David"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.21105/joss.02125",
-    "page": 2125,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2020-07-00",
-    "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
-    "volume": "5",
     "year": "2020"
   },
   {
@@ -596,7 +596,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -836,7 +836,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 29,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -845,31 +845,6 @@
     "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
     "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1908.07528",
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "van Saders, Jennifer",
-      "Curtis, Jason",
-      "Kane, Stephen R.",
-      "Bedell, Megan",
-      "Kiman, Rocio",
-      "Hogg, David W.",
-      "Brewer, John"
-    ],
-    "citations": 18,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ab3c53",
-    "page": 173,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
-    "volume": "158",
     "year": "2019"
   },
   {
@@ -892,6 +867,31 @@
     "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
     "volume": "885",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1908.07528",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "van Saders, Jennifer",
+      "Curtis, Jason",
+      "Kane, Stephen R.",
+      "Bedell, Megan",
+      "Kiman, Rocio",
+      "Hogg, David W.",
+      "Brewer, John"
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab3c53",
+    "page": 173,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
+    "volume": "158",
     "year": "2019"
   },
   {
@@ -1023,7 +1023,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -1558,7 +1558,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 45,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1902,7 +1902,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 83,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2112,7 +2112,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -2163,7 +2163,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 181,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2866,7 +2866,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 155,
+    "citations": 151,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2935,7 +2935,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 50,
+    "citations": 48,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2951,7 +2951,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 555,
+    "citations": 548,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3242,7 +3242,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -3324,7 +3324,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 25,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -3421,7 +3421,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 208,
+    "citations": 207,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3461,7 +3461,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 92,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -3919,7 +3919,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4180,
+    "citations": 4155,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
