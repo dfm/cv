@@ -119,7 +119,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1799,7 +1799,7 @@
       "Hogg, David W.",
       "Angus, Ruth"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aadb40",
     "page": 15,
@@ -2163,7 +2163,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 179,
+    "citations": 180,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2311,7 +2311,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -2549,7 +2549,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 163,
+    "citations": 164,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2951,7 +2951,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 548,
+    "citations": 552,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3107,7 +3107,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -3675,7 +3675,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 166,
+    "citations": 167,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3919,7 +3919,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4155,
+    "citations": 4168,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
