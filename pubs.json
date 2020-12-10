@@ -139,7 +139,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -535,7 +535,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1922,7 +1922,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2183,7 +2183,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 181,
+    "citations": 182,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2569,7 +2569,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2971,7 +2971,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 554,
+    "citations": 556,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3939,7 +3939,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4186,
+    "citations": 4190,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
