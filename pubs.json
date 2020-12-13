@@ -868,6 +868,31 @@
     "year": "2019"
   },
   {
+    "arxiv": "1908.07528",
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Foreman-Mackey, Daniel",
+      "van Saders, Jennifer",
+      "Curtis, Jason",
+      "Kane, Stephen R.",
+      "Bedell, Megan",
+      "Kiman, Rocio",
+      "Hogg, David W.",
+      "Brewer, John"
+    ],
+    "citations": 18,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ab3c53",
+    "page": 173,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
+    "volume": "158",
+    "year": "2019"
+  },
+  {
     "arxiv": "1910.04563",
     "authors": [
       "David, Trevor J.",
@@ -887,31 +912,6 @@
     "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
     "volume": "885",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1908.07528",
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "van Saders, Jennifer",
-      "Curtis, Jason",
-      "Kane, Stephen R.",
-      "Bedell, Megan",
-      "Kiman, Rocio",
-      "Hogg, David W.",
-      "Brewer, John"
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ab3c53",
-    "page": 173,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
-    "volume": "158",
     "year": "2019"
   },
   {
@@ -2096,7 +2096,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2183,7 +2183,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3939,7 +3939,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4200,
+    "citations": 4208,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
