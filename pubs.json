@@ -1939,7 +1939,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -1980,7 +1980,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2079,7 +2079,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 98,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2252,7 +2252,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -2886,7 +2886,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2971,7 +2971,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 556,
+    "citations": 558,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3042,7 +3042,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 153,
+    "citations": 154,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3262,7 +3262,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -3939,7 +3939,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4211,
+    "citations": 4223,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
