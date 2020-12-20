@@ -1,5 +1,32 @@
 [
   {
+    "arxiv": "2011.09894",
+    "authors": [
+      "David, Trevor J.",
+      "Contardo, Gabriella",
+      "Sandoval, Angeli",
+      "Angus, Ruth",
+      "Yuxi",
+      "Lu",
+      "Bedell, Megan",
+      "Curtis, Jason L.",
+      "Foreman-Mackey, Daniel",
+      "Fulton, Benjamin J.",
+      "Grunblatt, Samuel K.",
+      "Petigura, Erik A."
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-11-00",
+    "title": "Small Planet Sizes Evolve Over Billions of Years",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Bedell, Megan",
@@ -16,33 +43,6 @@
     "pubdate": "2020-11-00",
     "title": "wobble: Time-series spectra analyzer",
     "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft11012B",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.09894",
-    "authors": [
-      "David, Trevor J.",
-      "Contardo, Gabriella",
-      "Sandoval, Angeli",
-      "Angus, Ruth",
-      "Yuxi",
-      "Lu",
-      "Bedell, Megan",
-      "Curtis, Jason L.",
-      "Foreman-Mackey, Daniel",
-      "Fulton, Benjamin J.",
-      "Grunblatt, Samuel K.",
-      "Petigura, Erik A."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "Small Planet Sizes Evolve Over Billions of Years",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D",
     "volume": null,
     "year": "2020"
   },
@@ -881,7 +881,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2079,7 +2079,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2183,7 +2183,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2971,7 +2971,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 559,
+    "citations": 560,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3515,7 +3515,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -3939,7 +3939,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4226,
+    "citations": 4232,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
