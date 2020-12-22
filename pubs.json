@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staa3887",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-12-00",
+    "title": "Stability Constrained Characterization of Multiplanet Systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3645T",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2011.09894",
     "authors": [
       "David, Trevor J.",
@@ -838,7 +856,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1006,7 +1024,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 36,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1325,7 +1343,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -1418,6 +1436,22 @@
     "title": "The Next Decade of Astroinformatics and Astrostatistics",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S",
     "volume": "51",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": null,
+    "page": 29,
+    "pub": "KITP Conference: Planet-Star Connections in the Era of TESS and Gaia",
+    "pubdate": "2019-05-00",
+    "title": "Population inference",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019psce.confE..29F",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -1539,7 +1573,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1560,7 +1594,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1904,7 +1938,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -1921,7 +1955,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2061,7 +2095,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 102,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2078,7 +2112,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 55,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2098,7 +2132,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2114,7 +2148,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -2165,7 +2199,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 185,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2551,7 +2585,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 166,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -2588,7 +2622,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -2868,7 +2902,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 152,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -2953,7 +2987,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 560,
+    "citations": 565,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3024,7 +3058,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 154,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3423,7 +3457,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 209,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3442,7 +3476,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -3497,7 +3531,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 36,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -3677,7 +3711,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 167,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -3921,7 +3955,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4232,
+    "citations": 4262,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -3945,7 +3979,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "software",
     "doi": null,
     "page": null,
