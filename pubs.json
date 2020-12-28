@@ -616,7 +616,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -978,7 +978,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -1594,7 +1594,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 46,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3260,7 +3260,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3711,7 +3711,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 169,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
