@@ -762,26 +762,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Dan",
-      "Czekala, Ian",
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Barclay, Tom"
-    ],
-    "citations": 16,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1998447",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-12-30",
-    "title": "dfm/exoplanet: exoplanet v0.2.4",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...1998447F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Fulton, BJ",
       "Blunt, Sarah",
       "Hurt, Spencer",
