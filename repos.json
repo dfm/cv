@@ -12,7 +12,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 386,
               "stargazers": {
-                "totalCount": 1096
+                "totalCount": 1097
               },
               "watchers": {
                 "totalCount": 91
@@ -70,7 +70,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 185,
+              "forkCount": 186,
               "stargazers": {
                 "totalCount": 311
               },
@@ -87,10 +87,10 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 33,
               "stargazers": {
-                "totalCount": 117
+                "totalCount": 118
               },
               "watchers": {
-                "totalCount": 18
+                "totalCount": 19
               }
             }
           }
