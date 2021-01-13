@@ -12,10 +12,10 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 386,
               "stargazers": {
-                "totalCount": 1097
+                "totalCount": 1096
               },
               "watchers": {
-                "totalCount": 91
+                "totalCount": 90
               }
             }
           },
@@ -25,9 +25,9 @@
               "description": "Fast and flexible Gaussian Process regression in Python",
               "url": "https://github.com/dfm/george",
               "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 116,
+              "forkCount": 117,
               "stargazers": {
-                "totalCount": 365
+                "totalCount": 364
               },
               "watchers": {
                 "totalCount": 23
@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 113,
               "stargazers": {
-                "totalCount": 584
+                "totalCount": 583
               },
               "watchers": {
                 "totalCount": 19
