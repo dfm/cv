@@ -1161,7 +1161,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1731,7 +1731,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -1844,6 +1844,22 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Agol, Eric",
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -1859,22 +1875,6 @@
     "pubdate": "2019-01-00",
     "title": "Exact model for phase curves, eclipses, and transits of stars and their planets for TESS",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320205A",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -2269,7 +2269,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2336,7 +2336,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 191,
+    "citations": 192,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3124,7 +3124,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 574,
+    "citations": 577,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3713,7 +3713,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -3762,25 +3762,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard",
-      "Wang, Dun"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
@@ -3807,6 +3788,25 @@
     "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
     "volume": null,
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Wang, Dun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
+    "volume": "225",
     "year": "2015"
   },
   {
@@ -3937,7 +3937,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4092,7 +4092,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4302,
+    "citations": 4313,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
