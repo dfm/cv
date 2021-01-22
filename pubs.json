@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": "2101.07886",
+    "authors": [
+      "Gordon, Tyler A.",
+      "Davenport, James R. A.",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Covey, Kevin R.",
+      "Ag{\\\"u}eros, Marcel",
+      "Kipping, David"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Stellar Rotation in the K2 Sample: Evidence for Broken Spindown",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.02707",
     "authors": [
       "Martin, David V.",
@@ -2249,7 +2272,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3124,7 +3147,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 577,
+    "citations": 578,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4116,7 +4139,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "software",
     "doi": null,
     "page": null,
