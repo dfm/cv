@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staa3887",
+    "page": 4798,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-03-00",
+    "title": "Stability constrained characterization of multiplanet systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
+    "volume": "501",
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.07886",
     "authors": [
       "Gordon, Tyler A.",
@@ -160,24 +178,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2009.11831",
-    "authors": [
-      "Tamayo, Daniel",
-      "Gilbertson, Christian",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/staa3887",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-12-00",
-    "title": "Stability Constrained Characterization of Multiplanet Systems",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3645T",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": "2011.09894",
     "authors": [
       "David, Trevor J.",
@@ -317,7 +317,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -376,6 +376,24 @@
     "year": "2020"
   },
   {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-09-00",
+    "title": "Stability Constrained Characterization of Multiplanet Systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200911831T",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2005.09387",
     "authors": [
       "Angus, Ruth",
@@ -391,7 +409,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -2098,7 +2116,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2292,7 +2310,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2410,7 +2428,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -2490,7 +2508,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2782,7 +2800,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 38,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3147,7 +3165,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 578,
+    "citations": 580,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4115,7 +4133,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4313,
+    "citations": 4322,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4139,7 +4157,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "software",
     "doi": null,
     "page": null,
