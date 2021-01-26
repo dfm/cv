@@ -1,0 +1,46 @@
+name: Auto update
+
+on:
+  push:
+    branches: [ main, gh-actions ]
+  schedule: 
+   - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - name: Install ADS API
+        run: python -m pip install ads
+      - name: Update publication list
+        run: |
+          python get_pubs.py
+          python get_repos.py
+          python write_tex.py
+          git diff
+        env:
+          ADS_DEV_KEY: ${{secrets.ADS_DEV_KEY}}
+          GITHUB_API_KEY: ${{secrets.GITHUB_TOKEN}}
+      - name: Push updated data files
+        continue-on-error: true
+        run: |
+          git add .
+          git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating data"
+          git push https://github.com/$GITHUB_REPOSITORY
+      - name: Compile
+        uses: docker://texlive/texlive:latest
+        with:
+          args: make
+      - name: Push compiled PDFs
+        continue-on-error: true
+        run: |
+          git checkout --orphan ${GITHUB_REF##*/}-pdf
+          git rm -rf .
+          git add -f *.pdf
+          git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating pdfs"
+          git push https://github.com/$GITHUB_REPOSITORY ${GITHUB_REF##*/}-pdf
