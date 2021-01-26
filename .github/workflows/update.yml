@@ -26,3 +26,7 @@ jobs:
         env:
           ADS_DEV_KEY: ${{secrets.ADS_DEV_KEY}}
           GITHUB_API_KEY: ${{secrets.GITHUB_TOKEN}}
+      - name: Compile
+        uses: docker://texlive/texlive:latest
+        with:
+          args: make
