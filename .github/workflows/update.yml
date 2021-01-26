@@ -1,0 +1,27 @@
+name: Update CV
+
+on:
+  push:
+    branches: [ main, gh-actions ]
+  schedule: 
+   - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - name: Install ADS API
+        run: python -m pip install ads
+      - name: Update publication list
+        run: |
+          python get_pubs.py
+          python get_repos.py
+          python write_tex.py
+          git diff
+        env:
+          ADS_DEV_KEY: ${{secrets.ADS_DEV_KEY}}
