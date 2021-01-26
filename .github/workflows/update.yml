@@ -2,7 +2,7 @@ name: Auto update
 
 on:
   push:
-    branches: [ main, gh-actions ]
+    branches: [ main ]
   schedule: 
    - cron: '0 0 * * *'
   workflow_dispatch:
@@ -43,4 +43,4 @@ jobs:
           git rm -rf .
           git add -f *.pdf
           git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating pdfs"
-          git push https://github.com/$GITHUB_REPOSITORY ${GITHUB_REF##*/}-pdf
+          git push --force https://github.com/$GITHUB_REPOSITORY ${GITHUB_REF##*/}-pdf
