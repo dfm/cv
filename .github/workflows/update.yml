@@ -26,25 +26,21 @@ jobs:
         env:
           ADS_DEV_KEY: ${{secrets.ADS_DEV_KEY}}
           GITHUB_API_KEY: ${{secrets.GITHUB_TOKEN}}
+      - name: Push updated data files
+        continue-on-error: true
+        run: |
+          git add .
+          git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating data"
+          git push https://github.com/$GITHUB_REPOSITORY
       - name: Compile
         uses: docker://texlive/texlive:latest
         with:
           args: make
-      - name: Push updated data files
-        continue-on-error: true
-        run: |
-          git add pubs.json pubs_ref.tex pubs_select.tex pubs_summary.tex pubs_unref.tex repos.json repos.tex
-          git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating pubs"
-          git push https://github.com/$GITHUB_REPOSITORY
       - name: Push compiled PDFs
         continue-on-error: true
         run: |
           git checkout --orphan ${GITHUB_REF##*/}-pdf
-          echo ${GITHUB_REF##*/}-pdf
-         
-#         # Update the PDF
-#         git checkout --orphan $TRAVIS_BRANCH-pdf
-#         git rm -rf .
-#         git add -f cv_pubs.pdf cv.pdf pubs.pdf
-#         git -c user.name='travis' -c user.email='travis' commit -m "current pdf"
-#         git push -q -f https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG $TRAVIS_BRANCH-pdf
+          git rm -rf .
+          git add -f *.pdf
+          git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating pdfs"
+          git push https://github.com/$GITHUB_REPOSITORY ${GITHUB_REF##*/}-pdf
