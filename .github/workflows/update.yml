@@ -25,3 +25,4 @@ jobs:
           git diff
         env:
           ADS_DEV_KEY: ${{secrets.ADS_DEV_KEY}}
+          GITHUB_API_KEY: ${{secrets.GITHUB_TOKEN}}
