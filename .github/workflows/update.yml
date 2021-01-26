@@ -33,7 +33,7 @@ jobs:
       - name: Push updated data files
         run: |
           git add pubs.json pubs_ref.tex pubs_select.tex pubs_summary.tex pubs_unref.tex repos.json repos.tex
-          git commit -m "updating pubs"
+          git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating pubs"
           git push https://github.com/$GITHUB_REPOSITORY
       - name: Push compiled PDFs
         run: |
