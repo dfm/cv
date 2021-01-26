@@ -376,24 +376,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "2009.11831",
-    "authors": [
-      "Tamayo, Daniel",
-      "Gilbertson, Christian",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-09-00",
-    "title": "Stability Constrained Characterization of Multiplanet Systems",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200911831T",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": "2005.09387",
     "authors": [
       "Angus, Ruth",
@@ -946,7 +928,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1707,7 +1689,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -3321,7 +3303,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -3635,7 +3617,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 213,
+    "citations": 212,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3978,7 +3960,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
