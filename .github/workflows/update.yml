@@ -1,4 +1,4 @@
-name: Update CV
+name: Auto update
 
 on:
   push:
