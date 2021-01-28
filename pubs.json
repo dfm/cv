@@ -317,7 +317,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1016,7 +1016,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1503,7 +1503,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2255,7 +2255,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2292,7 +2292,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2359,7 +2359,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 192,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2745,7 +2745,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 167,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3147,7 +3147,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 580,
+    "citations": 581,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4115,7 +4115,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4322,
+    "citations": 4330,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
