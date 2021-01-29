@@ -391,7 +391,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1016,7 +1016,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2255,7 +2255,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2272,7 +2272,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2292,7 +2292,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2745,7 +2745,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 168,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3147,7 +3147,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 581,
+    "citations": 589,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3520,7 +3520,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -3636,7 +3636,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4115,7 +4115,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4330,
+    "citations": 4347,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
