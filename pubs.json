@@ -68,6 +68,45 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.00044",
+    "authors": [
+      "Hedges, Christina",
+      "Luger, Rodrigo",
+      "Dotson, Jessie",
+      "Foreman-Mackey, Daniel",
+      "Barentsen, Geert"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Multi-Wavelength Photometry Derived from Monochromatic Kepler Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200044H",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.00007",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina",
+      "Hogg, David W."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.07886",
     "authors": [
       "Gordon, Tyler A.",
