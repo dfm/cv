@@ -68,6 +68,42 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-02-00",
+    "title": "Mapping stellar surfaces II: An interpretable Gaussian process model for light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.01774",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-02-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210201774L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00044",
     "authors": [
       "Hedges, Christina",
@@ -1793,7 +1829,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2467,7 +2503,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -2784,7 +2820,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3101,7 +3137,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3186,7 +3222,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 589,
+    "citations": 590,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3274,7 +3310,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4154,7 +4190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4363,
+    "citations": 4368,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
