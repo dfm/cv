@@ -68,6 +68,26 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.00044",
+    "authors": [
+      "Hedges, Christina",
+      "Luger, Rodrigo",
+      "Dotson, Jessie",
+      "Foreman-Mackey, Daniel",
+      "Barentsen, Geert"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abd31c",
+    "page": 95,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-02-00",
+    "title": "Multiwavelength Photometry Derived from Monochromatic Kepler Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161...95H",
+    "volume": "161",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.01697",
     "authors": [
       "Luger, Rodrigo",
@@ -119,26 +139,6 @@
     "pubdate": "2021-01-00",
     "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.00044",
-    "authors": [
-      "Hedges, Christina",
-      "Luger, Rodrigo",
-      "Dotson, Jessie",
-      "Foreman-Mackey, Daniel",
-      "Barentsen, Geert"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Multi-Wavelength Photometry Derived from Monochromatic Kepler Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200044H",
     "volume": null,
     "year": "2021"
   },
@@ -1176,7 +1176,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -1829,7 +1829,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3222,7 +3222,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 591,
+    "citations": 594,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3483,12 +3483,12 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Emily",
+      "Rice, Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
+      "Caswell, Thomas A.",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
@@ -3498,10 +3498,10 @@
     "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-02-11",
-    "title": "Corner.Py: Corner.Py V1.0.2",
+    "page": 45906,
+    "pub": "Zenodo Software Release",
+    "pubdate": "2016-02-00",
+    "title": "corner.py: corner.py v1.0.2",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
     "year": "2016"
