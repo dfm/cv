@@ -36,11 +36,10 @@ jobs:
         uses: docker://texlive/texlive:latest
         with:
           args: make
-      - name: Push compiled PDFs
+      - uses: dfm/force-push-branch-action@v1
         continue-on-error: true
-        run: |
-          git checkout --orphan ${GITHUB_REF##*/}-pdf
-          git rm -rf .
-          git add -f *.pdf
-          git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating pdfs"
-          git push --force https://github.com/$GITHUB_REPOSITORY ${GITHUB_REF##*/}-pdf
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch-suffix: "-pdf"
+          commit-message: "updating pdfs"
+          path: "*.pdf"
