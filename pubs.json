@@ -68,6 +68,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 2,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-02-00",
+    "title": "Mapping stellar surfaces II: An interpretable Gaussian process model for light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00044",
     "authors": [
       "Hedges, Christina",
@@ -85,24 +103,6 @@
     "title": "Multiwavelength Photometry Derived from Monochromatic Kepler Data",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161...95H",
     "volume": "161",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-02-00",
-    "title": "Mapping stellar surfaces II: An interpretable Gaussian process model for light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -2173,7 +2173,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3081,7 +3081,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -3137,7 +3137,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3222,7 +3222,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 593,
+    "citations": 595,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3293,7 +3293,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 157,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4190,7 +4190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4384,
+    "citations": 4387,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
