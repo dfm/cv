@@ -43,4 +43,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           branch-suffix: "-pdf"
           commit-message: "updating pdfs"
-          path: "*.pdf"
+          path: "tex/*.pdf"
