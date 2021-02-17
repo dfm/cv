@@ -1,24 +1,13 @@
-LATEX       = pdflatex
-BASH        = bash -c
-ECHO        = echo
-RM          = rm -rf
+all:
+	scripts/update-astro-pubs
+	scripts/update-other-pubs
+	scripts/update-github-repos
+	scripts/render
+	cd tex && pandoc -s cv.tex -o ../README.md --template=template.markdown --to=gfm
+	scripts/format-markdown
+	git --no-pager diff
 
-TMP_SUFFS   = aux bbl blg log dvi ps eps out
-RM_TMP      = ${RM} $(foreach suff, ${TMP_SUFFS}, *.${suff})
+tex:
+	cd tex && make
 
-CHECK_RERUN = grep Rerun $*.log
-
-ALL_FILES = cv.pdf pubs.pdf cv_pubs.pdf biosketch.pdf
-
-all: ${ALL_FILES}
-
-%.pdf: %.tex cvstyle.tex pubs_ref.tex pubs_unref.tex pubs.json other_pubs.json
-	${LATEX} $<
-	${LATEX} $<
-
-cv_pubs.pdf: cv.tex pubs_*.tex cvstyle.tex pubs.json other_pubs.json
-	${LATEX} -jobname=cv_pubs "\def\withpubs{}\input{cv}"
-	${LATEX} -jobname=cv_pubs "\def\withpubs{}\input{cv}"
-
-clean:
-	${RM_TMP} ${ALL_FILES}
+.PHONY: all tex

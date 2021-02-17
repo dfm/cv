@@ -1116,7 +1116,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1259,7 +1259,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 43,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1829,7 +1829,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3222,7 +3222,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 600,
+    "citations": 599,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3711,7 +3711,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 101,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4190,7 +4190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4409,
+    "citations": 4407,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

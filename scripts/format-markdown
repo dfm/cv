@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
+if __name__ == "__main__":
+    with open("README.md", "r") as f:
+        lines = f.read().splitlines()
+
+    results = []
+    prev = ""
+    for line in lines:
+        if line.startswith("="):
+            continue
+        if line.startswith("**") and prev == "":
+            parts = line.split("**")
+            if not parts[1].startswith("Foreman-Mackey"):
+                results += ["## " + parts[1], ""] + parts[2:]
+                continue
+        results.append(line)
+        prev = line.strip()
+
+    with open("README.md", "w") as f:
+        f.write("\n".join(results))
