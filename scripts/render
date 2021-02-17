@@ -1,14 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from __future__ import division, print_function
-
+import os
 import json
+import importlib.util
 from datetime import date
 from operator import itemgetter
-from utf8totex import utf8totex
 
-__all__ = ["format_pub", "format_repo"]
+here = os.path.dirname(os.path.abspath(__file__))
+spec = importlib.util.spec_from_file_location(
+    "utf8totex", os.path.join(here, "utf8totex.py")
+)
+utf8totex = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(utf8totex)
 
 JOURNAL_MAP = {
     "ArXiv e-prints": "ArXiv",
@@ -73,8 +77,8 @@ def format_pub(args):
 def format_repo(repo):
     repo = repo["node"]
     for k in ["name", "description"]:
-        repo[k] = utf8totex(repo[k])
-    txt = "\\item \href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
+        repo[k] = utf8totex.utf8totex(repo[k])
+    txt = "\\item \\href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
     txt += "{repo[stargazers][totalCount]} stars / "
     txt += "{repo[forkCount]} forks \\\\\n"
     txt += "{repo[description]} "
@@ -84,11 +88,11 @@ def format_repo(repo):
 
 
 if __name__ == "__main__":
-    with open("pubs.json", "r") as f:
+    with open("data/pubs.json", "r") as f:
         pubs = json.load(f)
-    with open("other_pubs.json", "r") as f:
+    with open("data/other_pubs.json", "r") as f:
         other_pubs = json.load(f)
-    with open("select_pubs.json", "r") as f:
+    with open("data/select_pubs.json", "r") as f:
         select_pubs = json.load(f)
     for p in other_pubs:
         for p1 in pubs:
@@ -120,14 +124,14 @@ if __name__ == "__main__":
         "refereed: {1} / first author: {2} / citations: {3} / "
         "h-index: {4} ({0})"
     ).format(date.today(), npapers, nfirst, ncitations, hindex)
-    with open("pubs_summary.tex", "w") as f:
+    with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
 
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
-    with open("pubs_ref.tex", "w") as f:
+    with open("tex/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
-    with open("pubs_unref.tex", "w") as f:
+    with open("tex/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
 
     # Choose the selected publications
@@ -143,12 +147,12 @@ if __name__ == "__main__":
     selected = list(
         map(format_pub, zip(range(len(selected), 0, -1), selected))
     )
-    with open("pubs_select.tex", "w") as f:
+    with open("tex/pubs_select.tex", "w") as f:
         f.write("\n\n".join(selected))
 
     # Write the repo info
-    with open("repos.json", "r") as f:
+    with open("data/repos.json", "r") as f:
         repos = json.load(f)
     repos = repos["data"]["user"]["pinnedItems"]["edges"]
-    with open("repos.tex", "w") as f:
+    with open("tex/repos.tex", "w") as f:
         f.write("\n\n".join(map(format_repo, repos)))

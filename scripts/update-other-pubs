@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from __future__ import division, print_function
-
 import re
 import json
 import requests
@@ -27,7 +25,7 @@ def get_number_of_citations(url):
 
 
 def update_others():
-    with open("other_pubs.json", "r") as f:
+    with open("data/other_pubs.json", "r") as f:
         pubs = json.load(f)
         for i, pub in enumerate(pubs):
             if not pub["url"].startswith("https://scholar.google.com"):
@@ -37,7 +35,7 @@ def update_others():
                 continue
             pubs[i]["citations"] = n
 
-    with open("other_pubs.json", "w") as f:
+    with open("data/other_pubs.json", "w") as f:
         json.dump(pubs, f, sort_keys=True, indent=2, separators=(",", ": "))
 
 
