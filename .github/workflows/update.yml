@@ -24,7 +24,10 @@ jobs:
           restore-keys: |
             tectonic-cache-
       - name: Install pandoc
-        run: curl -L -s https://github.com/jgm/pandoc/releases/download/2.11.4/pandoc-2.11.4-linux-amd64.tar.gz | tar xvz --strip-components=2 -C /usr/local/bin pandoc-2.11.4/bin/pandoc
+        run: |
+          curl -L -s https://github.com/jgm/pandoc/releases/download/2.11.4/pandoc-2.11.4-linux-amd64.tar.gz \
+             | tar xvz --strip-components=2 pandoc-2.11.4/bin/pandoc
+          ls
         # run: sudo apt-get install pandoc
       - name: Install ADS API
         run: python -m pip install ads
