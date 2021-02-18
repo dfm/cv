@@ -9,7 +9,7 @@ if __name__ == "__main__":
     results = []
     prev = ""
     for line in lines:
-        if line.startswith("="):
+        if line.startswith("=") or line.startswith("<span> ="):
             continue
         if line.startswith("**") and prev == "":
             parts = line.split("**")
