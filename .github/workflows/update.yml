@@ -15,6 +15,14 @@ jobs:
         shell: bash -l {0}
     steps:
       - uses: actions/checkout@v2
+      - uses: actions/cache@v2
+        with:
+          path: |
+            cache/Tectonic/*
+            !cache/Tectonic/formats
+          key: tectonic-cache-${{ github.sha }}
+          restore-keys: |
+            tectonic-cache-
       - uses: conda-incubator/setup-miniconda@v2
         with:
           python-version: 3.9
@@ -33,10 +41,15 @@ jobs:
           git add .
           git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating data"
           git push https://github.com/$GITHUB_REPOSITORY
-      - name: Compile
-        uses: docker://texlive/texlive:latest
+      # - name: Compile
+      #   uses: docker://texlive/texlive:latest
+      #   with:
+      #     args: make tex
+      - uses: docker://ghcr.io/dfm/tectonic-image:main
         with:
-          args: make tex
+          entrypoint: scripts/compile
+        env:
+          XDG_CACHE_HOME: /github/workspace/cache
       - uses: dfm/force-push-branch-action@v1
         continue-on-error: true
         with:

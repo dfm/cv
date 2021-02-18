@@ -1,0 +1,7 @@
+#!/bin/sh -l
+set -e
+
+tectonic tex/cv.tex
+tectonic tex/pubs.tex
+tectonic tex/cv_pubs.tex
+tectonic tex/biosketch.tex
