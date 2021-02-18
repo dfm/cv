@@ -15,6 +15,8 @@ jobs:
         shell: bash -l {0}
     steps:
       - uses: actions/checkout@v2
+      - name: Install pandoc
+        run: sudo apt-get install pandoc
       - uses: actions/cache@v2
         with:
           path: |
@@ -28,7 +30,7 @@ jobs:
           python-version: 3.9
       - name: Install dependencies
         run: |
-          conda install pandoc
+          # conda install pandoc
           python -m pip install ads
       - name: Update publication list
         run: make
