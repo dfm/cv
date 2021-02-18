@@ -18,7 +18,6 @@ Flatiron Institute
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 PhD 2015, Department of Physics, New York University. Advisor: Hogg
 
@@ -31,7 +30,6 @@ BSc 2008, Department of Physics, McGill University, Canada.
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 Associate Research Scientist, Flatiron Institute, 2017–present.
 
@@ -46,7 +44,6 @@ h-index: 32 (2021-02-18)
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
 2021, *[Stability constrained characterization of multiplanet
@@ -550,7 +547,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 Mapping stellar surfaces II: An interpretable Gaussian process model for
@@ -621,7 +617,6 @@ era, arXiv e-prints
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 *A modular ecosystem for probabilistic data analysis*, 2019, Invited
 Talk, Open Digital Infrastructure in Astronomy conference, Kavli
@@ -684,7 +679,6 @@ University).
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 [**emcee**](https://github.com/dfm/emcee) — 1109 stars / 388 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
@@ -716,7 +710,6 @@ Fast <span>&</span> scalable MCMC for all your exoplanet needs\!
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 NSF-CDS\&E (PI: Agol) *Development of fast, multi-dimensional Gaussian
 Processes for Exoplanet discovery and beyond*, $471,048.00, 2019–2022
@@ -738,7 +731,6 @@ exoplanets using K2*, 100,000 CPU hours, 2015–2016
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 Kavli Fellow, 2015.
 
@@ -756,7 +748,6 @@ NSERC Undergraduate Summer Research Award, 2007.
 
 
 
-<span> =0ex =0.2ex =-1.0 =0.0 </span>
 
 Topic Editor — Journal of Open Source Software
 
