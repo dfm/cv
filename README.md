@@ -44,7 +44,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8236 /
+ refereed: 63 / first author: 8 / citations: 8242 /
 h-index: 32 (2021-02-19)
 
 ## Refereed publications
@@ -138,7 +138,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[36
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -173,7 +173,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[15
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -186,7 +186,7 @@ Kostov, Veselin B.; Schlieder, Joshua E.; Barclay, Thomas; Quintana,
 Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, AJ, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[36
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4413
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4416
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -559,6 +559,15 @@ era, arXiv e-prints ([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
 
 <div class="list">
 
+
+*Extending JAX with custom C++ & CUDA*, 2021, Invited Talk, IRIS-HEP
+Topical Meeting, CERN.
+
+*Open source software for probabilistic data analysis*, 2020, Invited
+Talk, OzGrav Early Career Researcher Symposium, Australia.
+
+*The why & how of exoplanet, a domain-specific PyMC3 extension*, 2020,
+Contributed Talk, PyMC Con.
 
 *A modular ecosystem for probabilistic data analysis*, 2019, Invited
 Talk, Open Digital Infrastructure in Astronomy conference, Kavli
