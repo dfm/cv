@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8278 /
-h-index: 32 (2021-02-25)
+ refereed: 63 / first author: 8 / citations: 8286 /
+h-index: 32 (2021-02-26)
 
 ## Refereed publications
 
@@ -273,7 +273,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[205
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[206
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4440
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4446
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -507,6 +507,12 @@ David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, arXiv e-prints
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007))
 
+Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
+*et al.* (incl. **DFM**), 2021, Masses and compositions of three small
+planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
+radius valley, arXiv e-prints
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593))
+
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
 for Broken Spindown, arXiv e-prints
@@ -516,12 +522,6 @@ Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, TOI-1259Ab – a gas
 giant planet with 2.7% deep transits and a bound white dwarf companion,
 arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
-
-Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
-*et al.* (incl. **DFM**), 2021, Masses and compositions of three small
-planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
-radius valley, arXiv e-prints
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593))
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2020, Small Planet Sizes Evolve Over Billions
@@ -639,7 +639,7 @@ University).
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**george**](https://github.com/dfm/george) — 375 stars / 118 forks  
+[**george**](https://github.com/dfm/george) — 376 stars / 118 forks  
 Fast and flexible Gaussian Process regression in Python
 [\[docs\]](http://george.readthedocs.io)
 
