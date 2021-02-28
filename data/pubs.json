@@ -56,7 +56,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3222,7 +3222,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 604,
+    "citations": 605,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3293,7 +3293,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 158,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3310,7 +3310,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4035,7 +4035,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 46,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4190,7 +4190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4450,
+    "citations": 4453,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
