@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 63 / first author: 8 / citations: 8318 /
-h-index: 32 (2021-03-02)
+h-index: 32 (2021-03-03)
 
 ## Refereed publications
 
@@ -639,7 +639,7 @@ University).
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**george**](https://github.com/dfm/george) — 378 stars / 118 forks  
+[**george**](https://github.com/dfm/george) — 379 stars / 118 forks  
 Fast and flexible Gaussian Process regression in Python
 [\[docs\]](http://george.readthedocs.io)
 
