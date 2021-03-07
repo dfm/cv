@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8314 /
-h-index: 32 (2021-03-06)
+ refereed: 63 / first author: 8 / citations: 8333 /
+h-index: 32 (2021-03-07)
 
 ## Refereed publications
 
@@ -110,7 +110,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[21
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -198,7 +198,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S)\]
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, AJ,
-**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[62
+**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
@@ -210,7 +210,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
 Daniel**, 2018, *[Compact Multi-planet Systems are more Common around
 Metal-poor Hosts](http://dx.doi.org/10.3847/2041-8213/aae710)*, ApJ,
-**867** ([arXiv:1810.10009](http://arxiv.org/abs/1810.10009)) \[[16
+**867** ([arXiv:1810.10009](http://arxiv.org/abs/1810.10009)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...867L...3B)\]
 
 Ness, Melissa K.; Silva Aguirre, Victor; Lund, Mikkel N.; Cantiello,
@@ -245,7 +245,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, ApJ, **860**
-([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[109
+([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[110
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -321,7 +321,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
 Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
 AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
-\[[56
+\[[57
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
@@ -365,7 +365,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[159
+\[[160
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -443,7 +443,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 *[Exoplanet Population Inference and the Abundance of Earth Analogs from
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, ApJ, **795**,
-64 ([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[171
+64 ([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[172
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4460
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4471
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -635,7 +635,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1113 stars / 389 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1114 stars / 389 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -647,11 +647,11 @@ Fast and flexible Gaussian Process regression in Python
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 588 stars / 112 forks  
+[**daft**](https://github.com/daft-dev/daft) — 588 stars / 113 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 318 stars / 185
+[**corner.py**](https://github.com/dfm/corner.py) — 319 stars / 185
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)

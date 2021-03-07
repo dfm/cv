@@ -770,7 +770,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1808,7 +1808,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 62,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2048,7 +2048,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -2330,7 +2330,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2565,7 +2565,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2873,7 +2873,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2912,7 +2912,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -3222,7 +3222,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 608,
+    "citations": 609,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3293,7 +3293,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3946,7 +3946,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 171,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4190,7 +4190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4460,
+    "citations": 4471,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
