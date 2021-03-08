@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8333 /
-h-index: 32 (2021-03-07)
+ refereed: 63 / first author: 8 / citations: 8341 /
+h-index: 32 (2021-03-08)
 
 ## Refereed publications
 
@@ -165,7 +165,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[43
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -259,7 +259,7 @@ Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
 Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, MNRAS, **474**,
-2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[75
+2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[76
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -273,7 +273,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[207
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[208
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4471
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4475
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -526,7 +526,7 @@ arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2020, Small Planet Sizes Evolve Over Billions
 of Years, arXiv e-prints
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[4
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
@@ -635,7 +635,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1114 stars / 389 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1115 stars / 389 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -647,11 +647,11 @@ Fast and flexible Gaussian Process regression in Python
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 588 stars / 113 forks  
+[**daft**](https://github.com/daft-dev/daft) — 589 stars / 113 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 319 stars / 185
+[**corner.py**](https://github.com/dfm/corner.py) — 320 stars / 185
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
