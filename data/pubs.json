@@ -1,5 +1,25 @@
 [
   {
+    "arxiv": "2103.03758",
+    "authors": [
+      "Bartoli{\\'c}, Fran",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Howell, Robert R.",
+      "Rathbun, Julie A."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-03-00",
+    "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2009.11831",
     "authors": [
       "Tamayo, Daniel",
@@ -904,7 +924,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -993,6 +1013,26 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
     "volume": "235",
     "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Czekala, Ian",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3595344",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-12-30",
+    "title": "dfm/exoplanet: exoplanet v0.2.4",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3595344F",
+    "volume": null,
+    "year": "2019"
   },
   {
     "arxiv": null,
@@ -2330,7 +2370,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2820,7 +2860,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 172,
+    "citations": 173,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3222,7 +3262,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 610,
+    "citations": 611,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3495,7 +3535,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3983,7 +4023,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -4035,7 +4075,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4190,7 +4230,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4475,
+    "citations": 4480,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
