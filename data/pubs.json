@@ -94,7 +94,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -151,7 +151,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -871,7 +871,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -924,7 +924,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -1848,7 +1848,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -1869,7 +1869,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2474,7 +2474,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 208,
+    "citations": 209,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2860,7 +2860,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 173,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3262,7 +3262,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 611,
+    "citations": 610,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4230,7 +4230,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4480,
+    "citations": 4479,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

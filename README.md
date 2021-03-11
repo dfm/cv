@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8349 /
-h-index: 32 (2021-03-10)
+ refereed: 63 / first author: 8 / citations: 8352 /
+h-index: 32 (2021-03-11)
 
 ## Refereed publications
 
@@ -124,14 +124,14 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 AJ, **159**, 123 ([arXiv:1908.03222](http://arxiv.org/abs/1908.03222))
-\[[20
+\[[21
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
 Daniel**; *et al.*, 2020, *[NGTS clusters survey - I. Rotation in the
 young benchmark open cluster Blanco
 1](http://dx.doi.org/10.1093/mnras/stz3251)*, MNRAS, **492**, 1008
-([arXiv:1911.09705](http://arxiv.org/abs/1911.09705)) \[[8
+([arXiv:1911.09705](http://arxiv.org/abs/1911.09705)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
@@ -198,13 +198,13 @@ citations](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S)\]
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, AJ,
-**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[64
+**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, AJ, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[55
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[56
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
@@ -273,7 +273,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[208
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[209
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -307,7 +307,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[173
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[172
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4480
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4479
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -499,7 +499,7 @@ surface in the near-infrared I: Inferring static maps, arXiv e-prints
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 Mapping stellar surfaces II: An interpretable Gaussian process model for
 light curves, arXiv e-prints
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[2
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -510,7 +510,8 @@ curves, arXiv e-prints
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
 David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, arXiv e-prints
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007))
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
 
 Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 *et al.* (incl. **DFM**), 2021, Masses and compositions of three small
@@ -640,7 +641,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1117 stars / 389 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1118 stars / 389 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -648,15 +649,15 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast and flexible Gaussian Process regression in Python
 [\[docs\]](http://george.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 153 stars / 35 forks  
+[**celerite**](https://github.com/dfm/celerite) — 154 stars / 35 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 589 stars / 113 forks  
+[**daft**](https://github.com/daft-dev/daft) — 589 stars / 112 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 324 stars / 186
+[**corner.py**](https://github.com/dfm/corner.py) — 325 stars / 186
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
