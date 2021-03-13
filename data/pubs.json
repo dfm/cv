@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": "2103.06275",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Bartoli{\\'c}, Fran",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-03-00",
+    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
@@ -2370,7 +2389,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3262,7 +3281,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 611,
+    "citations": 612,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3333,7 +3352,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 161,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,

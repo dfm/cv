@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8363 /
-h-index: 32 (2021-03-12)
+ refereed: 63 / first author: 8 / citations: 8366 /
+h-index: 32 (2021-03-13)
 
 ## Refereed publications
 
@@ -245,7 +245,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, ApJ, **860**
-([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[111
+([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[112
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -365,7 +365,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[161
+\[[163
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -490,6 +490,12 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
+Daniel**, 2021, Analytic Light Curves in Reflected Light: Phase Curves,
+Occultations, and Non-Lambertian Scattering for Spherical Planets and
+Moons, arXiv e-prints
+([arXiv:2103.06275](http://arxiv.org/abs/2103.06275))
 
 Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
 Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
@@ -657,12 +663,12 @@ Scalable 1D Gaussian Processes in C++, Python, and Julia
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 325 stars / 186
+[**corner.py**](https://github.com/dfm/corner.py) — 326 stars / 186
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 122 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 123 stars
 / 34 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
