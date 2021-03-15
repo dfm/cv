@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8379 /
-h-index: 32 (2021-03-14)
+ refereed: 63 / first author: 8 / citations: 8393 /
+h-index: 32 (2021-03-15)
 
 ## Refereed publications
 
@@ -124,7 +124,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 AJ, **159**, 123 ([arXiv:1908.03222](http://arxiv.org/abs/1908.03222))
-\[[23
+\[[24
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -204,7 +204,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, AJ, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[57
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
@@ -259,7 +259,7 @@ Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
 Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, MNRAS, **474**,
-2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[76
+2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[77
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -338,7 +338,7 @@ Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
 Identification of Stellar Phase-space Structures Purely by
 Chemical-abundance
 Similarity](http://dx.doi.org/10.3847/1538-4357/833/2/262)*, ApJ,
-**833**, 262 ([arXiv:1601.05413](http://arxiv.org/abs/1601.05413)) \[[53
+**833**, 262 ([arXiv:1601.05413](http://arxiv.org/abs/1601.05413)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2016ApJ...833..262H)\]
 
 Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4492
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4498
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -491,21 +491,21 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 <div class="list">
 
 
+Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
+Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
+surface in the near-infrared I: Inferring static maps, arXiv e-prints
+([arXiv:2103.03758](http://arxiv.org/abs/2103.03758))
+
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
 Daniel**, 2021, Analytic Light Curves in Reflected Light: Phase Curves,
 Occultations, and Non-Lambertian Scattering for Spherical Planets and
 Moons, arXiv e-prints
 ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275))
 
-Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
-Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
-surface in the near-infrared I: Inferring static maps, arXiv e-prints
-([arXiv:2103.03758](http://arxiv.org/abs/2103.03758))
-
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 Mapping stellar surfaces II: An interpretable Gaussian process model for
 light curves, arXiv e-prints
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[3
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -516,7 +516,7 @@ curves, arXiv e-prints
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
 David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, arXiv e-prints
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[2
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
 
 Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;

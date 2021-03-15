@@ -1,5 +1,25 @@
 [
   {
+    "arxiv": "2103.03758",
+    "authors": [
+      "Bartoli{\\'c}, Fran",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Howell, Robert R.",
+      "Rathbun, Julie A."
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-03-00",
+    "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.06275",
     "authors": [
       "Luger, Rodrigo",
@@ -15,26 +35,6 @@
     "pubdate": "2021-03-00",
     "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2103.03758",
-    "authors": [
-      "Bartoli{\\'c}, Fran",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Howell, Robert R.",
-      "Rathbun, Julie A."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-03-00",
-    "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
     "volume": null,
     "year": "2021"
   },
@@ -113,7 +113,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -170,7 +170,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -369,6 +369,24 @@
     "year": "2020"
   },
   {
+    "arxiv": "2007.05799",
+    "authors": [
+      "Gordon, Tyler A.",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abbc16",
+    "page": 240,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2020-11-00",
+    "title": "A Fast, Two-dimensional Gaussian Process Method Based on Celerite: Applications to Transiting Exoplanet Discovery and Characterization",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G",
+    "volume": "160",
+    "year": "2020"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Bedell, Megan",
@@ -386,24 +404,6 @@
     "title": "wobble: Time-series spectra analyzer",
     "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft11012B",
     "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2007.05799",
-    "authors": [
-      "Gordon, Tyler A.",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abbc16",
-    "page": 240,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2020-11-00",
-    "title": "A Fast, Two-dimensional Gaussian Process Method Based on Celerite: Applications to Transiting Exoplanet Discovery and Characterization",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G",
-    "volume": "160",
     "year": "2020"
   },
   {
@@ -890,7 +890,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1259,6 +1259,26 @@
     "pubdate": "2019-10-00",
     "title": "exoplanet: Probabilistic modeling of transit or radial velocity observations of exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft10005F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, R.",
+      "Morton, T.",
+      "Aigrain, S.",
+      "Foreman-Mackey, D.",
+      "Rajpaul, V."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2019-10-00",
+    "title": "VizieR Online Data Catalog: Inferring probabilistic stellar rotation periods (Angus+, 2018)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019yCat..74742094A",
     "volume": null,
     "year": "2019"
   },
@@ -1888,7 +1908,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2150,7 +2170,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2426,7 +2446,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3140,7 +3160,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -3281,7 +3301,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 612,
+    "citations": 613,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4249,7 +4269,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4492,
+    "citations": 4498,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
