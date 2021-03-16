@@ -564,7 +564,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.3937526",
     "page": null,
@@ -839,6 +839,27 @@
     "year": "2020"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Luger, Rodrigo",
+      "Czekala, Ian",
+      "Agol, Eric",
+      "Price-Whelan, Adrian",
+      "Barclay, Tom"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3785072",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-05-04",
+    "title": "exoplanet-dev/exoplanet: exoplanet v0.3.2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3785072F",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2003.02379",
     "authors": [
       "Hey, Daniel R.",
@@ -1062,7 +1083,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 21,
+    "citations": 23,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3574,7 +3595,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4269,7 +4290,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4498,
+    "citations": 4495,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
