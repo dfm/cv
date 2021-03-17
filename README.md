@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 63 / first author: 8 / citations: 8390 /
-h-index: 32 (2021-03-16)
+h-index: 32 (2021-03-17)
 
 ## Refereed publications
 
@@ -659,7 +659,7 @@ Fast and flexible Gaussian Process regression in Python
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 588 stars / 112 forks  
+[**daft**](https://github.com/daft-dev/daft) — 589 stars / 113 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -668,7 +668,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 123 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 122 stars
 / 34 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
