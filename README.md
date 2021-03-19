@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8388 /
-h-index: 32 (2021-03-18)
+ refereed: 63 / first author: 8 / citations: 8399 /
+h-index: 32 (2021-03-19)
 
 ## Refereed publications
 
@@ -186,7 +186,7 @@ Kostov, Veselin B.; Schlieder, Joshua E.; Barclay, Thomas; Quintana,
 Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, AJ, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[38
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
@@ -273,7 +273,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[210
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[211
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -365,7 +365,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[164
+\[[165
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4494
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4501
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -538,7 +538,7 @@ arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2020, Small Planet Sizes Evolve Over Billions
 of Years, arXiv e-prints
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[5
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
@@ -647,7 +647,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1120 stars / 388 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1121 stars / 387 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -663,7 +663,7 @@ Scalable 1D Gaussian Processes in C++, Python, and Julia
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 327 stars / 186
+[**corner.py**](https://github.com/dfm/corner.py) — 327 stars / 187
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
