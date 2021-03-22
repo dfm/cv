@@ -12,70 +12,10 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 387,
               "stargazers": {
-                "totalCount": 1121
+                "totalCount": 1122
               },
               "watchers": {
-                "totalCount": 88
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "george",
-              "description": "Fast and flexible Gaussian Process regression in Python",
-              "url": "https://github.com/dfm/george",
-              "homepageUrl": "http://george.readthedocs.io",
-              "forkCount": 118,
-              "stargazers": {
-                "totalCount": 379
-              },
-              "watchers": {
-                "totalCount": 20
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "celerite",
-              "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
-              "url": "https://github.com/dfm/celerite",
-              "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 35,
-              "stargazers": {
-                "totalCount": 155
-              },
-              "watchers": {
-                "totalCount": 13
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "daft",
-              "description": "Render probabilistic graphical models using matplotlib",
-              "url": "https://github.com/daft-dev/daft",
-              "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 113,
-              "stargazers": {
-                "totalCount": 589
-              },
-              "watchers": {
-                "totalCount": 19
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "corner.py",
-              "description": "Make some beautiful corner plots",
-              "url": "https://github.com/dfm/corner.py",
-              "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 187,
-              "stargazers": {
-                "totalCount": 328
-              },
-              "watchers": {
-                "totalCount": 19
+                "totalCount": 89
               }
             }
           },
@@ -91,6 +31,66 @@
               },
               "watchers": {
                 "totalCount": 21
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "corner.py",
+              "description": "Make some beautiful corner plots",
+              "url": "https://github.com/dfm/corner.py",
+              "homepageUrl": "http://corner.readthedocs.io",
+              "forkCount": 187,
+              "stargazers": {
+                "totalCount": 328
+              },
+              "watchers": {
+                "totalCount": 20
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "celerite2",
+              "description": "Fast & scalable Gaussian Processes in one dimension",
+              "url": "https://github.com/exoplanet-dev/celerite2",
+              "homepageUrl": "https://celerite2.readthedocs.io",
+              "forkCount": 3,
+              "stargazers": {
+                "totalCount": 20
+              },
+              "watchers": {
+                "totalCount": 6
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "celerite",
+              "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
+              "url": "https://github.com/dfm/celerite",
+              "homepageUrl": "http://celerite.rtfd.io",
+              "forkCount": 35,
+              "stargazers": {
+                "totalCount": 156
+              },
+              "watchers": {
+                "totalCount": 14
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "daft",
+              "description": "Render probabilistic graphical models using matplotlib",
+              "url": "https://github.com/daft-dev/daft",
+              "homepageUrl": "https://docs.daft-pgm.org",
+              "forkCount": 113,
+              "stargazers": {
+                "totalCount": 589
+              },
+              "watchers": {
+                "totalCount": 19
               }
             }
           }

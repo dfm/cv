@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8428 /
-h-index: 32 (2021-03-21)
+ refereed: 63 / first author: 8 / citations: 8444 /
+h-index: 32 (2021-03-22)
 
 ## Refereed publications
 
@@ -158,7 +158,7 @@ Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
 Benjamin T.; & Luger, Rodrigo, 2019, *[WOBBLE: A Data-driven Analysis
 Technique for Time-series Stellar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ab40a7)*, AJ, **158**, 164
-([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[14
+([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..164B)\]
 
 Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
@@ -245,7 +245,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, ApJ, **860**
-([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[112
+([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[113
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -259,7 +259,7 @@ Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
 Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, MNRAS, **474**,
-2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[77
+2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[78
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -273,15 +273,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[213
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[214
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
-
-Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
-*et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
-Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
-Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, AJ, **154**, 254
-([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[34
-citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
 2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
@@ -289,6 +282,13 @@ Magnetic Cycles of Sun-like
 Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, ApJ, **851**, 116
 ([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
+
+Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
+*et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
+Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
+Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, AJ, **154**, 254
+([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[34
+citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
 *[Linear Models for Systematics and
@@ -345,7 +345,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, AJ,
 **152**, 100 ([arXiv:1607.00524](http://arxiv.org/abs/1607.00524))
-\[[158
+\[[159
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4522
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4533
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -648,31 +648,32 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1121 stars / 387 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1122 stars / 387 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**george**](https://github.com/dfm/george) — 379 stars / 118 forks  
-Fast and flexible Gaussian Process regression in Python
-[\[docs\]](http://george.readthedocs.io)
-
-[**celerite**](https://github.com/dfm/celerite) — 155 stars / 35 forks  
-Scalable 1D Gaussian Processes in C++, Python, and Julia
-[\[docs\]](http://celerite.rtfd.io)
-
-[**daft**](https://github.com/daft-dev/daft) — 589 stars / 113 forks  
-Render probabilistic graphical models using matplotlib
-[\[docs\]](https://docs.daft-pgm.org)
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 122 stars
+/ 34 forks  
+Fast & scalable MCMC for all your exoplanet needs!
+[\[docs\]](https://docs.exoplanet.codes)
 
 [**corner.py**](https://github.com/dfm/corner.py) — 328 stars / 187
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 122 stars
-/ 34 forks  
-Fast & scalable MCMC for all your exoplanet needs!
-[\[docs\]](https://docs.exoplanet.codes)
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 20 stars /
+3 forks  
+Fast & scalable Gaussian Processes in one dimension
+[\[docs\]](https://celerite2.readthedocs.io)
+
+[**celerite**](https://github.com/dfm/celerite) — 156 stars / 35 forks  
+Scalable 1D Gaussian Processes in C++, Python, and Julia
+[\[docs\]](http://celerite.rtfd.io)
+
+[**daft**](https://github.com/daft-dev/daft) — 589 stars / 113 forks  
+Render probabilistic graphical models using matplotlib
+[\[docs\]](https://docs.daft-pgm.org)
 
 </div>
 
