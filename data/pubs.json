@@ -409,6 +409,31 @@
   {
     "arxiv": null,
     "authors": [
+      "Price-Whelan, Adrian",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Starkman, Nathaniel",
+      "Foreman-Mackey, Dan",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Major, Syrtis"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4159870",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-10-30",
+    "title": "adrn/gala: v1.3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...4159870P",
+    "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Barentsen, Geert",
       "Hedges, Christina",
       "Vin{\\'\\i}cius, Z{\\'e}",
@@ -4135,7 +4160,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
