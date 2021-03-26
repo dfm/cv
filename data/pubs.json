@@ -357,13 +357,13 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "eprint",
     "doi": null,
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2020-11-00",
-    "title": "Small Planet Sizes Evolve Over Billions of Years",
+    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
     "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D",
     "volume": null,
     "year": "2020"
@@ -530,7 +530,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1196,7 +1196,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1221,7 +1221,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1384,7 +1384,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1421,7 +1421,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -1703,7 +1703,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2472,7 +2472,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3347,7 +3347,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 619,
+    "citations": 620,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4315,7 +4315,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4532,
+    "citations": 4540,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
