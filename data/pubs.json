@@ -1988,7 +1988,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2455,7 +2455,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2559,7 +2559,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 217,
+    "citations": 216,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3347,7 +3347,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 622,
+    "citations": 623,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4315,7 +4315,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4553,
+    "citations": 4555,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
