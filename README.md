@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8531 /
-h-index: 32 (2021-04-05)
+ refereed: 63 / first author: 8 / citations: 8529 /
+h-index: 32 (2021-04-06)
 
 ## Refereed publications
 
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4576
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4574
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -528,7 +528,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
-for Broken Spindown, arXiv e-prints
+for Modified Spindown, arXiv e-prints
 ([arXiv:2101.07886](http://arxiv.org/abs/2101.07886))
 
 Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
@@ -657,7 +657,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 331 stars / 187
+[**corner.py**](https://github.com/dfm/corner.py) — 332 stars / 187
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)

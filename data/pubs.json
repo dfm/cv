@@ -285,7 +285,7 @@
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2021-01-00",
-    "title": "Stellar Rotation in the K2 Sample: Evidence for Broken Spindown",
+    "title": "Stellar Rotation in the K2 Sample: Evidence for Modified Spindown",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G",
     "volume": null,
     "year": "2021"
@@ -3347,7 +3347,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 625,
+    "citations": 624,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4315,7 +4315,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4576,
+    "citations": 4574,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
