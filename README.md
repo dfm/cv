@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 63 / first author: 8 / citations: 8529 /
-h-index: 32 (2021-04-06)
+h-index: 32 (2021-04-07)
 
 ## Refereed publications
 
@@ -490,6 +490,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
+Daniel**; *et al.*, 2021, Warm Jupiters in TESS Full-Frame Images: A
+Catalog and Observed Eccentricity Distribution for Year 1, arXiv
+e-prints ([arXiv:2104.01970](http://arxiv.org/abs/2104.01970))
 
 Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
 Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
