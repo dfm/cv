@@ -1011,7 +1011,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1296,7 +1296,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2008,7 +2008,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2029,7 +2029,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2583,7 +2583,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -2634,7 +2634,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 218,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3422,7 +3422,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 625,
+    "citations": 626,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3911,7 +3911,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4390,7 +4390,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4573,
+    "citations": 4580,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
