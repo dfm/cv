@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 63 / first author: 8 / citations: 8545 /
-h-index: 32 (2021-04-10)
+h-index: 32 (2021-04-11)
 
 ## Refereed publications
 
@@ -667,12 +667,12 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 19 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 20 stars /
 3 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 156 stars / 35 forks  
+[**celerite**](https://github.com/dfm/celerite) — 157 stars / 35 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
