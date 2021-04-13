@@ -1183,7 +1183,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 24,
+    "citations": 26,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1413,7 +1413,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -2390,7 +2390,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2530,7 +2530,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2634,7 +2634,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3422,7 +3422,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 627,
+    "citations": 626,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3695,7 +3695,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3892,7 +3892,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 224,
+    "citations": 225,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4390,7 +4390,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4585,
+    "citations": 4595,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
