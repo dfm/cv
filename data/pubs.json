@@ -170,7 +170,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2390,7 +2390,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2530,7 +2530,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 116,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2634,7 +2634,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 220,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3422,7 +3422,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 626,
+    "citations": 627,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
