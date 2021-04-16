@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8555 /
-h-index: 32 (2021-04-15)
+ refereed: 63 / first author: 8 / citations: 8578 /
+h-index: 32 (2021-04-16)
 
 ## Refereed publications
 
@@ -110,7 +110,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[27
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -124,7 +124,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 AJ, **159**, 123 ([arXiv:1908.03222](http://arxiv.org/abs/1908.03222))
-\[[26
+\[[27
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -165,7 +165,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[49
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -198,7 +198,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S)\]
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, AJ,
-**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[67
+**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[69
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
@@ -365,7 +365,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[165
+\[[166
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4595
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4610
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -518,18 +518,18 @@ starry\_process: Interpretable Gaussian processes for stellar light
 curves, arXiv e-prints
 ([arXiv:2102.01774](http://arxiv.org/abs/2102.01774))
 
+Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
+*et al.* (incl. **DFM**), 2021, Masses and compositions of three small
+planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
+radius valley, arXiv e-prints
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V)\]
+
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
 David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, arXiv e-prints
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
-
-Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
-*et al.* (incl. **DFM**), 2021, Masses and compositions of three small
-planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
-radius valley, arXiv e-prints
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
@@ -653,7 +653,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1125 stars / 391 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1126 stars / 391 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 

@@ -238,25 +238,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.00007",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina",
-      "Hogg, David W."
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, Vincent",
@@ -331,7 +312,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -339,6 +320,25 @@
     "pubdate": "2021-01-00",
     "title": "Masses and compositions of three small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.00007",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina",
+      "Hogg, David W."
+    ],
+    "citations": 3,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
     "volume": null,
     "year": "2021"
   },
@@ -909,7 +909,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1011,7 +1011,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1459,7 +1459,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 49,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2008,7 +2008,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2765,7 +2765,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3422,7 +3422,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 627,
+    "citations": 630,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3493,7 +3493,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 165,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3892,7 +3892,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4390,7 +4390,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4595,
+    "citations": 4610,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
