@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8590 /
-h-index: 32 (2021-04-18)
+ refereed: 63 / first author: 8 / citations: 8600 /
+h-index: 32 (2021-04-19)
 
 ## Refereed publications
 
@@ -165,7 +165,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[50
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -365,7 +365,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[166
+\[[167
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -397,7 +397,7 @@ Johnson, John Asher; *et al.*, 2015, *[Stellar and Planetary Properties
 of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a
 Planet Receiving Earth-like
 Insolation](http://dx.doi.org/10.1088/0004-637X/809/1/25)*, ApJ,
-**809**, 25 ([arXiv:1503.07866](http://arxiv.org/abs/1503.07866)) \[[93
+**809**, 25 ([arXiv:1503.07866](http://arxiv.org/abs/1503.07866)) \[[94
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...809...25M)\]
 
 Barclay, Thomas; Quintana, Elisa V.; Adams, Fred C.; Ciardi, David R.;
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4620
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4627
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -653,7 +653,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1126 stars / 391 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1126 stars / 390 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
