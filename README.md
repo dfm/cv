@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8599 /
-h-index: 32 (2021-04-20)
+ refereed: 63 / first author: 8 / citations: 8583 /
+h-index: 32 (2021-04-21)
 
 ## Refereed publications
 
@@ -124,7 +124,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 AJ, **159**, 123 ([arXiv:1908.03222](http://arxiv.org/abs/1908.03222))
-\[[27
+\[[26
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -165,7 +165,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[51
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -198,7 +198,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S)\]
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, AJ,
-**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[69
+**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
@@ -276,19 +276,19 @@ Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
 ([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[220
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
-Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
-2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
-Magnetic Cycles of Sun-like
-Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, ApJ, **851**, 116
-([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[45
-citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
-
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
 *et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
 Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
 Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, AJ, **154**, 254
 ([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
+
+Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
+2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
+Magnetic Cycles of Sun-like
+Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, ApJ, **851**, 116
+([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[45
+citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
 *[Linear Models for Systematics and
@@ -365,7 +365,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[167
+\[[166
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4626
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4614
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -662,7 +662,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 336 stars / 187
+[**corner.py**](https://github.com/dfm/corner.py) — 337 stars / 187
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
