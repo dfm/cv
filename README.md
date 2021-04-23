@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8588 /
-h-index: 32 (2021-04-22)
+ refereed: 63 / first author: 8 / citations: 8598 /
+h-index: 32 (2021-04-23)
 
 ## Refereed publications
 
@@ -245,7 +245,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, ApJ, **860**
-([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[117
+([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[118
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4617
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4627
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -544,7 +544,7 @@ arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2020, Evolution of the Exoplanet Size
 Distribution: Forming Large Super-Earths Over Billions of Years, arXiv
-e-prints ([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[8
+e-prints ([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
@@ -653,7 +653,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1127 stars / 391 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1128 stars / 392 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 

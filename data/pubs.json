@@ -432,7 +432,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2530,7 +2530,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3422,7 +3422,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 631,
+    "citations": 632,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4390,7 +4390,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4617,
+    "citations": 4627,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
