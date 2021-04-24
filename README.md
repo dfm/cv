@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 63 / first author: 8 / citations: 8598 /
-h-index: 32 (2021-04-23)
+ refereed: 63 / first author: 8 / citations: 8602 /
+h-index: 32 (2021-04-24)
 
 ## Refereed publications
 
@@ -245,7 +245,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, ApJ, **860**
-([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[118
+([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[119
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -345,7 +345,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, AJ,
 **152**, 100 ([arXiv:1607.00524](http://arxiv.org/abs/1607.00524))
-\[[159
+\[[160
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -471,7 +471,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4627
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4629
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -653,7 +653,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1128 stars / 392 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1129 stars / 393 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -667,7 +667,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 21 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 22 stars /
 3 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
