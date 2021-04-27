@@ -1,5 +1,27 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Hitchcock, James A.",
+      "Hundertmark, Markus",
+      "Foreman-Mackey, Daniel",
+      "Bachelet, Etienne",
+      "Dominik, Martin",
+      "Street, Rachel",
+      "Tsapras, Yiannis"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stab1114",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-04-00",
+    "title": "PyTorchDIA: A flexible, GPU-accelerated numerical approach to Difference Image Analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1083H",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2104.01970",
     "authors": [
       "Dong, Jiayin",
@@ -909,7 +931,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1271,7 +1293,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3337,7 +3359,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 160,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3422,7 +3444,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 636,
+    "citations": 635,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3695,7 +3717,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4235,7 +4257,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
