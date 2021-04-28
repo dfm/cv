@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 64 / first author: 8 / citations: 8621 /
-h-index: 32 (2021-04-27)
+h-index: 32 (2021-04-28)
 
 ## Refereed publications
 
@@ -658,7 +658,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1131 stars / 393 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1132 stars / 393 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -667,7 +667,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 339 stars / 187
+[**corner.py**](https://github.com/dfm/corner.py) — 341 stars / 187
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
