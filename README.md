@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 64 / first author: 8 / citations: 8621 /
-h-index: 32 (2021-04-28)
+ refereed: 64 / first author: 8 / citations: 8615 /
+h-index: 32 (2021-04-29)
 
 ## Refereed publications
 
@@ -143,7 +143,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[42
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -476,7 +476,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4641
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4635
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -523,18 +523,18 @@ starry\_process: Interpretable Gaussian processes for stellar light
 curves, arXiv e-prints
 ([arXiv:2102.01774](http://arxiv.org/abs/2102.01774))
 
+Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
+David W., 2021, Mapping stellar surfaces I: Degeneracies in the
+rotational light curve problem, arXiv e-prints
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
+
 Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 *et al.* (incl. **DFM**), 2021, Masses and compositions of three small
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley, arXiv e-prints
 ([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V)\]
-
-Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
-David W., 2021, Mapping stellar surfaces I: Degeneracies in the
-rotational light curve problem, arXiv e-prints
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
@@ -681,7 +681,7 @@ Fast & scalable Gaussian Processes in one dimension
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 586 stars / 113 forks  
+[**daft**](https://github.com/daft-dev/daft) — 587 stars / 113 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
