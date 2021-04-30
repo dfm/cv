@@ -1,6 +1,28 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2104.13715",
+    "authors": [
+      "Hitchcock, James A.",
+      "Hundertmark, Markus",
+      "Foreman-Mackey, Daniel",
+      "Bachelet, Etienne",
+      "Dominik, Martin",
+      "Street, Rachel",
+      "Tsapras, Yiannis"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-04-00",
+    "title": "PyTorchDIA: A flexible, GPU-accelerated numerical approach to Difference Image Analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210413715H",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2104.13715",
     "authors": [
       "Hitchcock, James A.",
       "Hundertmark, Markus",
@@ -931,7 +953,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2270,7 +2292,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -2656,7 +2678,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 221,
+    "citations": 222,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3275,7 +3297,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -3303,7 +3325,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -3396,7 +3418,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -3444,7 +3466,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 634,
+    "citations": 635,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3515,7 +3537,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 167,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4412,7 +4434,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4635,
+    "citations": 4640,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
