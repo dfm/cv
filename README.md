@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 64 / first author: 8 / citations: 8654 /
-h-index: 32 (2021-05-03)
+ refereed: 64 / first author: 8 / citations: 8653 /
+h-index: 32 (2021-05-04)
 
 ## Refereed publications
 
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4659
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4658
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -687,7 +687,7 @@ Fast & scalable Gaussian Processes in one dimension
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 587 stars / 113 forks  
+[**daft**](https://github.com/daft-dev/daft) — 588 stars / 113 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
