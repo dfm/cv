@@ -42,7 +42,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 187,
               "stargazers": {
-                "totalCount": 341
+                "totalCount": 342
               },
               "watchers": {
                 "totalCount": 19
@@ -85,9 +85,9 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 113,
+              "forkCount": 114,
               "stargazers": {
-                "totalCount": 588
+                "totalCount": 589
               },
               "watchers": {
                 "totalCount": 17
