@@ -1,5 +1,36 @@
 [
   {
+    "arxiv": "2105.01994",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Barclay, Thomas",
+      "Bouma, Luke G.",
+      "Brandt, Timothy D.",
+      "Czekala, Ian",
+      "David, Trevor J.",
+      "Dong, Jiayin",
+      "Gilbert, Emily A.",
+      "Gordon, Tyler A.",
+      "Hedges, Christina",
+      "Hey, Daniel R.",
+      "Morris, Brett M.",
+      "Price-Whelan, Adrian M.",
+      "Savel, Arjun B."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-05-00",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&}amp; other astronomical time series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210501994F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2104.13715",
     "authors": [
       "Hitchcock, James A.",
@@ -214,7 +245,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2073,7 +2104,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2678,7 +2709,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 223,
+    "citations": 224,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3101,7 +3132,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3466,7 +3497,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 638,
+    "citations": 641,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3936,7 +3967,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 229,
+    "citations": 230,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4434,7 +4465,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4659,
+    "citations": 4663,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
