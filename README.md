@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 64 / first author: 9 / citations: 8672 /
-h-index: 32 (2021-05-08)
+ refereed: 64 / first author: 9 / citations: 8684 /
+h-index: 32 (2021-05-09)
 
 ## Refereed publications
 
@@ -90,7 +90,7 @@ Brodie, Jean; & Strader, Jay, 2020, *[The Assembly History of M87
 through Radial Variations in Chemical Abundances of Its Field Star and
 Globular Cluster
 Populations](http://dx.doi.org/10.3847/1538-4357/aba616)*, ApJ, **900**,
-95 ([arXiv:2006.16280](http://arxiv.org/abs/2006.16280)) \[[2
+95 ([arXiv:2006.16280](http://arxiv.org/abs/2006.16280)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2020ApJ...900...95V)\]
 
 Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
@@ -130,7 +130,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 AJ, **159**, 123 ([arXiv:1908.03222](http://arxiv.org/abs/1908.03222))
-\[[26
+\[[27
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -279,7 +279,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[224
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[227
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -371,7 +371,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[168
+\[[169
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4666
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4672
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -678,17 +678,17 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 344 stars / 187
+[**corner.py**](https://github.com/dfm/corner.py) — 345 stars / 187
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 22 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 23 stars /
 3 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 158 stars / 35 forks  
+[**celerite**](https://github.com/dfm/celerite) — 159 stars / 35 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
