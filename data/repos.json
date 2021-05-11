@@ -10,9 +10,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 393,
+              "forkCount": 394,
               "stargazers": {
-                "totalCount": 1132
+                "totalCount": 1133
               },
               "watchers": {
                 "totalCount": 89
@@ -70,7 +70,7 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 35,
+              "forkCount": 36,
               "stargazers": {
                 "totalCount": 159
               },
