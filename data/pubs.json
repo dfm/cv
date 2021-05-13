@@ -984,7 +984,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 33,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3095,7 +3095,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 174,
+    "citations": 175,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3132,7 +3132,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 44,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3497,7 +3497,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 647,
+    "citations": 645,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4465,7 +4465,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4687,
+    "citations": 4684,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
