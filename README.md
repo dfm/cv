@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 64 / first author: 9 / citations: 8715 /
-h-index: 32 (2021-05-14)
+ refereed: 64 / first author: 9 / citations: 8727 /
+h-index: 32 (2021-05-15)
 
 ## Refereed publications
 
@@ -70,7 +70,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[11
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -144,7 +144,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[42
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -179,7 +179,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[17
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -258,7 +258,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[61
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -327,7 +327,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
 Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
 AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
-\[[58
+\[[59
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
@@ -371,7 +371,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[170
+\[[171
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4696
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4701
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -547,15 +547,15 @@ rotational light curve problem, arXiv e-prints
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
 
-Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
-Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
-for Modified Spindown, arXiv e-prints
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886))
-
 Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, TOI-1259Ab – a gas
 giant planet with 2.7% deep transits and a bound white dwarf companion,
 arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
+
+Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
+Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
+for Modified Spindown, arXiv e-prints
+([arXiv:2101.07886](http://arxiv.org/abs/2101.07886))
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2020, Evolution of the Exoplanet Size

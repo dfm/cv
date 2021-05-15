@@ -245,7 +245,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -418,29 +418,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2101.07886",
-    "authors": [
-      "Gordon, Tyler A.",
-      "Davenport, James R. A.",
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Agol, Eric",
-      "Covey, Kevin R.",
-      "Ag{\\\"u}eros, Marcel",
-      "Kipping, David"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Stellar Rotation in the K2 Sample: Evidence for Modified Spindown",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2101.02707",
     "authors": [
       "Martin, David V.",
@@ -480,7 +457,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -488,6 +465,29 @@
     "pubdate": "2021-01-00",
     "title": "TOI-1259Ab -- a gas giant planet with 2.7{\\%} deep transits and a bound white dwarf companion",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210102707M",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2101.07886",
+    "authors": [
+      "Gordon, Tyler A.",
+      "Davenport, James R. A.",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Covey, Kevin R.",
+      "Ag{\\\"u}eros, Marcel",
+      "Kipping, David"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Stellar Rotation in the K2 Sample: Evidence for Modified Spindown",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G",
     "volume": null,
     "year": "2021"
   },
@@ -1346,7 +1346,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1553,7 +1553,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2622,7 +2622,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3187,7 +3187,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -3497,7 +3497,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 646,
+    "citations": 648,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3568,7 +3568,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4465,7 +4465,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4696,
+    "citations": 4701,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
