@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 64 / first author: 9 / citations: 8727 /
-h-index: 32 (2021-05-15)
+ refereed: 64 / first author: 9 / citations: 8732 /
+h-index: 32 (2021-05-16)
 
 ## Refereed publications
 
@@ -320,7 +320,7 @@ Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
 Rix, Hans-Walter, 2017, *[The Joker: A Custom Monte Carlo Sampler for
 Binary-star and Exoplanet Radial Velocity
 Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, ApJ, **837**, 20
-([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[43
+([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
 **Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4701
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4705
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -669,7 +669,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1137 stars / 395 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1139 stars / 395 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -683,7 +683,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 23 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 25 stars /
 3 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
