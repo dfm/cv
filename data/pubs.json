@@ -170,6 +170,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staa3887",
+    "page": 4798,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-03-00",
+    "title": "Stability constrained characterization of multiplanet systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
+    "volume": "501",
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.06275",
     "authors": [
       "Luger, Rodrigo",
@@ -186,24 +204,6 @@
     "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L",
     "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2009.11831",
-    "authors": [
-      "Tamayo, Daniel",
-      "Gilbertson, Christian",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/staa3887",
-    "page": 4798,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2021-03-00",
-    "title": "Stability constrained characterization of multiplanet systems",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
-    "volume": "501",
     "year": "2021"
   },
   {
@@ -680,7 +680,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1139,7 +1139,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -1431,7 +1431,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -2083,7 +2083,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2448,7 +2448,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2709,7 +2709,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 227,
+    "citations": 228,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3497,7 +3497,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 649,
+    "citations": 656,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3967,7 +3967,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 233,
+    "citations": 234,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -3986,7 +3986,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4465,7 +4465,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4705,
+    "citations": 4722,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4489,7 +4489,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "software",
     "doi": null,
     "page": null,
