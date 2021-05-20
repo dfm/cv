@@ -1431,7 +1431,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -3132,7 +3132,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3497,7 +3497,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 656,
+    "citations": 652,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3823,7 +3823,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4465,7 +4465,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4721,
+    "citations": 4714,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
