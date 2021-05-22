@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 64 / first author: 9 / citations: 8752 /
-h-index: 32 (2021-05-21)
+ refereed: 64 / first author: 9 / citations: 8767 /
+h-index: 32 (2021-05-22)
 
 ## Refereed publications
 
@@ -70,7 +70,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[12
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -144,7 +144,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[43
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -171,7 +171,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[50
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -265,7 +265,7 @@ Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
 Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, MNRAS, **474**,
-2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[79
+2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[80
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -279,7 +279,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[229
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[231
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -323,13 +323,6 @@ Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, ApJ, **837**, 20
 ([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
-**Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
-Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
-Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
-AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
-\[[59
-citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
-
 Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
 A.; *et al.* (incl. **DFM**), 2016, *[Campaign 9 of the K2 Mission:
 Observational Parameters, Scientific Drivers, and Community Involvement
@@ -338,6 +331,13 @@ Survey](http://dx.doi.org/10.1088/1538-3873/128/970/124401)*, PASP,
 **128**, 124401 ([arXiv:1512.09142](http://arxiv.org/abs/1512.09142))
 \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H)\]
+
+**Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
+Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
+Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
+AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
+\[[59
+citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
 *et al.* (incl. **DFM**), 2016, *[Chemical Tagging Can Work:
@@ -413,17 +413,17 @@ Analysis](http://dx.doi.org/10.1088/0004-637X/809/1/7)*, ApJ, **809**, 7
 ([arXiv:1505.01845](http://arxiv.org/abs/1505.01845)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...809....7B)\]
 
-Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
-Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
-targets](http://dx.doi.org/10.1093/mnras/stv423)*, MNRAS, **450**, 1787
-([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[106
-citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
-
 **Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, ApJ,
 **806**, 215 ([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[95
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
+
+Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
+Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
+targets](http://dx.doi.org/10.1093/mnras/stv423)*, MNRAS, **450**, 1787
+([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[107
+citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
 Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4716
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4724
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -669,7 +669,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1142 stars / 395 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1143 stars / 395 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
