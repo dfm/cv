@@ -1,5 +1,53 @@
 [
   {
+    "arxiv": "2104.13715",
+    "authors": [
+      "Hitchcock, James A.",
+      "Hundertmark, Markus",
+      "Foreman-Mackey, Daniel",
+      "Bachelet, Etienne",
+      "Dominik, Martin",
+      "Street, Rachel",
+      "Tsapras, Yiannis"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stab1114",
+    "page": 3561,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-07-00",
+    "title": "PyTorchDIA: a flexible, GPU-accelerated numerical approach to Difference Image Analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H",
+    "volume": "504",
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "David, Trevor J.",
+      "Contardo, Gabriella",
+      "Sandoval, Angeli",
+      "Angus, Ruth",
+      "Lu, Yuxi Lucy",
+      "Bedell, Megan",
+      "Curtis, Jason L.",
+      "Foreman-Mackey, Daniel",
+      "Fulton, Benjamin J.",
+      "Grunblatt, Samuel K.",
+      "Petigura, Erik A."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abf439",
+    "page": 265,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-06-00",
+    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
+    "volume": "161",
+    "year": "2021"
+  },
+  {
     "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -49,28 +97,6 @@
     "pubdate": "2021-04-00",
     "title": "PyTorchDIA: A flexible, GPU-accelerated numerical approach to Difference Image Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210413715H",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2104.13715",
-    "authors": [
-      "Hitchcock, James A.",
-      "Hundertmark, Markus",
-      "Foreman-Mackey, Daniel",
-      "Bachelet, Etienne",
-      "Dominik, Martin",
-      "Street, Rachel",
-      "Tsapras, Yiannis"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stab1114",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2021-04-00",
-    "title": "PyTorchDIA: A flexible, GPU-accelerated numerical approach to Difference Image Analysis",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1083H",
     "volume": null,
     "year": "2021"
   },
@@ -245,7 +271,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 13,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -387,7 +413,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -406,7 +432,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1534,7 +1560,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2465,7 +2491,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2642,7 +2668,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2709,7 +2735,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 231,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4465,7 +4491,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4727,
+    "citations": 4739,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

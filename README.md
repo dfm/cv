@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 64 / first author: 9 / citations: 8770 /
-h-index: 32 (2021-05-23)
+ refereed: 65 / first author: 9 / citations: 8790 /
+h-index: 32 (2021-05-24)
 
 ## Refereed publications
 
@@ -55,10 +55,15 @@ h-index: 32 (2021-05-23)
 
 
 Hitchcock, James A.; Hundertmark, Markus; **Foreman-Mackey, Daniel**;
-Bachelet, Etienne; *et al.*, 2021, *[PyTorchDIA: A flexible,
+Bachelet, Etienne; *et al.*, 2021, *[PyTorchDIA: a flexible,
 GPU-accelerated numerical approach to Difference Image
-Analysis](http://dx.doi.org/10.1093/mnras/stab1114)*,
-MNRAS([arXiv:2104.13715](http://arxiv.org/abs/2104.13715))
+Analysis](http://dx.doi.org/10.1093/mnras/stab1114)*, MNRAS, **504**,
+3561 ([arXiv:2104.13715](http://arxiv.org/abs/2104.13715))
+
+David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
+*et al.* (incl. **DFM**), 2021, *[Evolution of the Exoplanet Size
+Distribution: Forming Large Super-Earths Over Billions of
+Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, AJ, **161**, 265
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
 2021, *[Stability constrained characterization of multiplanet
@@ -70,7 +75,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[13
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -171,7 +176,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[51
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[52
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -244,7 +249,7 @@ Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
 to Measure Centroids of Spectral
 Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
 the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[27
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
@@ -265,7 +270,7 @@ Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
 Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, MNRAS, **474**,
-2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[80
+2094 ([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[81
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -279,7 +284,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, AJ, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[231
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[232
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -477,7 +482,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4727
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4739
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -538,13 +543,13 @@ Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 *et al.* (incl. **DFM**), 2021, Masses and compositions of three small
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley, arXiv e-prints
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[5
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
 David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, arXiv e-prints
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[4
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
 
 Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
@@ -674,7 +679,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 128 stars
-/ 36 forks  
+/ 37 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
