@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 65 / first author: 9 / citations: 8790 /
-h-index: 32 (2021-05-24)
+ refereed: 65 / first author: 9 / citations: 8782 /
+h-index: 32 (2021-05-25)
 
 ## Refereed publications
 
@@ -64,6 +64,7 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2021, *[Evolution of the Exoplanet Size
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, AJ, **161**, 265
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894))
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
 2021, *[Stability constrained characterization of multiplanet
@@ -482,7 +483,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4739
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4738
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -506,11 +507,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 *et al.*, 2021, exoplanet: Gradient-based probabilistic inference for
 exoplanet data &amp; other astronomical time series, arXiv e-prints
 ([arXiv:2105.01994](http://arxiv.org/abs/2105.01994))
-
-Hitchcock, James A.; Hundertmark, Markus; **Foreman-Mackey, Daniel**;
-Bachelet, Etienne; *et al.*, 2021, PyTorchDIA: A flexible,
-GPU-accelerated numerical approach to Difference Image Analysis, arXiv
-e-prints ([arXiv:2104.13715](http://arxiv.org/abs/2104.13715))
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, Warm Jupiters in TESS Full-Frame Images: A
@@ -561,12 +557,6 @@ Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
 for Modified Spindown, arXiv e-prints
 ([arXiv:2101.07886](http://arxiv.org/abs/2101.07886))
-
-David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
-*et al.* (incl. **DFM**), 2020, Evolution of the Exoplanet Size
-Distribution: Forming Large Super-Earths Over Billions of Years, arXiv
-e-prints ([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[7
-citations](https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
@@ -678,7 +668,7 @@ University).
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 128 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 129 stars
 / 37 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)

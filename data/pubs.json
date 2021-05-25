@@ -22,7 +22,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.09894",
     "authors": [
       "David, Trevor J.",
       "Contardo, Gabriella",
@@ -75,28 +75,6 @@
     "pubdate": "2021-05-00",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&}amp; other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210501994F",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2104.13715",
-    "authors": [
-      "Hitchcock, James A.",
-      "Hundertmark, Markus",
-      "Foreman-Mackey, Daniel",
-      "Bachelet, Etienne",
-      "Dominik, Martin",
-      "Street, Rachel",
-      "Tsapras, Yiannis"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-04-00",
-    "title": "PyTorchDIA: A flexible, GPU-accelerated numerical approach to Difference Image Analysis",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210413715H",
     "volume": null,
     "year": "2021"
   },
@@ -516,33 +494,6 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G",
     "volume": null,
     "year": "2021"
-  },
-  {
-    "arxiv": "2011.09894",
-    "authors": [
-      "David, Trevor J.",
-      "Contardo, Gabriella",
-      "Sandoval, Angeli",
-      "Angus, Ruth",
-      "Yuxi",
-      "Lu",
-      "Bedell, Megan",
-      "Curtis, Jason L.",
-      "Foreman-Mackey, Daniel",
-      "Fulton, Benjamin J.",
-      "Grunblatt, Samuel K.",
-      "Petigura, Erik A."
-    ],
-    "citations": 7,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D",
-    "volume": null,
-    "year": "2020"
   },
   {
     "arxiv": "2007.05799",
@@ -3796,7 +3747,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4491,7 +4442,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4739,
+    "citations": 4738,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
