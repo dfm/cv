@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 65 / first author: 9 / citations: 8782 /
-h-index: 32 (2021-05-25)
+h-index: 32 (2021-05-26)
 
 ## Refereed publications
 
@@ -664,7 +664,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1143 stars / 395 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1144 stars / 395 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -678,7 +678,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 27 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 28 stars /
 4 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
