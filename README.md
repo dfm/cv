@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 65 / first author: 9 / citations: 8782 /
-h-index: 32 (2021-05-26)
+ refereed: 65 / first author: 9 / citations: 8786 /
+h-index: 33 (2021-05-27)
 
 ## Refereed publications
 
@@ -64,7 +64,8 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2021, *[Evolution of the Exoplanet Size
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, AJ, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894))
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[7
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
 2021, *[Stability constrained characterization of multiplanet
@@ -122,7 +123,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[31
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -163,7 +164,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
-ApJ, **885** ([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[25
+ApJ, **885** ([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -177,7 +178,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[52
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -250,14 +251,14 @@ Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
 to Measure Centroids of Spectral
 Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
 the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[28
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, ApJ, **860**
-([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[120
+([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[121
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -455,7 +456,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 *[Exoplanet Population Inference and the Abundance of Earth Analogs from
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, ApJ, **795**,
-64 ([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[174
+64 ([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[175
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -483,7 +484,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4738
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4735
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -539,13 +540,13 @@ Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 *et al.* (incl. **DFM**), 2021, Masses and compositions of three small
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley, arXiv e-prints
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[6
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
 David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, arXiv e-prints
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[5
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
 
 Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
@@ -664,7 +665,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1144 stars / 395 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1143 stars / 396 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -687,7 +688,7 @@ Fast & scalable Gaussian Processes in one dimension
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 591 stars / 114 forks  
+[**daft**](https://github.com/daft-dev/daft) — 592 stars / 114 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
