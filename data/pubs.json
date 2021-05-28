@@ -1116,7 +1116,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -1348,7 +1348,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1370,7 +1370,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1530,7 +1530,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -1548,7 +1548,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -2425,7 +2425,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3072,7 +3072,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 177,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3389,7 +3389,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 160,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3474,7 +3474,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 654,
+    "citations": 658,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3944,7 +3944,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 235,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4198,7 +4198,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4442,7 +4442,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4735,
+    "citations": 4747,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
