@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 65 / first author: 9 / citations: 8814 /
-h-index: 33 (2021-05-29)
+ refereed: 65 / first author: 9 / citations: 8824 /
+h-index: 33 (2021-05-30)
 
 ## Refereed publications
 
@@ -358,7 +358,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, AJ,
 **152**, 100 ([arXiv:1607.00524](http://arxiv.org/abs/1607.00524))
-\[[162
+\[[163
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -484,7 +484,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4753
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4760
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -528,7 +528,7 @@ Moons, arXiv e-prints
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 Mapping stellar surfaces II: An interpretable Gaussian process model for
 light curves, arXiv e-prints
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[4
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -549,15 +549,15 @@ rotational light curve problem, arXiv e-prints
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
 
-Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
-Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, TOI-1259Ab – a gas
-giant planet with 2.7% deep transits and a bound white dwarf companion,
-arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
-
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
 for Modified Spindown, arXiv e-prints
 ([arXiv:2101.07886](http://arxiv.org/abs/2101.07886))
+
+Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
+Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, TOI-1259Ab – a gas
+giant planet with 2.7% deep transits and a bound white dwarf companion,
+arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain

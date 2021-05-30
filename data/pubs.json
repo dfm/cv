@@ -267,7 +267,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -422,6 +422,29 @@
     "year": "2021"
   },
   {
+    "arxiv": "2101.07886",
+    "authors": [
+      "Gordon, Tyler A.",
+      "Davenport, James R. A.",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Covey, Kevin R.",
+      "Ag{\\\"u}eros, Marcel",
+      "Kipping, David"
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Stellar Rotation in the K2 Sample: Evidence for Modified Spindown",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.02707",
     "authors": [
       "Martin, David V.",
@@ -469,29 +492,6 @@
     "pubdate": "2021-01-00",
     "title": "TOI-1259Ab -- a gas giant planet with 2.7{\\%} deep transits and a bound white dwarf companion",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210102707M",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2101.07886",
-    "authors": [
-      "Gordon, Tyler A.",
-      "Davenport, James R. A.",
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Agol, Eric",
-      "Covey, Kevin R.",
-      "Ag{\\\"u}eros, Marcel",
-      "Kipping, David"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Stellar Rotation in the K2 Sample: Evidence for Modified Spindown",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210107886G",
     "volume": null,
     "year": "2021"
   },
@@ -3389,7 +3389,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 162,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3474,7 +3474,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 659,
+    "citations": 660,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4442,7 +4442,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4753,
+    "citations": 4760,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
