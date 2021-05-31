@@ -36,7 +36,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -45,6 +45,29 @@
     "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
     "volume": "161",
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Gordon, Tyler A.",
+      "Davenport, James R. A.",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Covey, Kevin R.",
+      "Ag{\\\"u}eros, Marcel A.",
+      "Kipping, David"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/abf63e",
+    "page": 70,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2021-05-00",
+    "title": "Stellar Rotation in the K2 Sample: Evidence for Modified Spin-down",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G",
+    "volume": "913",
     "year": "2021"
   },
   {
@@ -657,7 +680,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -961,7 +984,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1348,7 +1371,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 30,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -1370,7 +1393,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2619,7 +2642,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2686,7 +2709,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 232,
+    "citations": 233,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2737,7 +2760,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3072,7 +3095,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 176,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3474,7 +3497,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 660,
+    "citations": 661,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3984,7 +4007,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4198,7 +4221,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4442,7 +4465,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4760,
+    "citations": 4763,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
