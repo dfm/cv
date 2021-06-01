@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 66 / first author: 9 / citations: 8839 /
-h-index: 33 (2021-05-31)
+ refereed: 66 / first author: 9 / citations: 8828 /
+h-index: 33 (2021-06-01)
 
 ## Refereed publications
 
@@ -64,13 +64,13 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 *et al.* (incl. **DFM**), 2021, *[Evolution of the Exoplanet Size
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, AJ, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[8
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
 for Modified Spin-down](http://dx.doi.org/10.3847/1538-4357/abf63e)*,
-ApJ, **913**, 70
+ApJ, **913**, 70 ([arXiv:2101.07886](http://arxiv.org/abs/2101.07886))
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
 2021, *[Stability constrained characterization of multiplanet
@@ -109,7 +109,7 @@ Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
 *et al.* (incl. **DFM**), 2020, *[Exploring the Evolution of Stellar
 Rotation Using Galactic
 Kinematics](http://dx.doi.org/10.3847/1538-3881/ab91b2)*, AJ, **160**,
-90 ([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[15
+90 ([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A)\]
 
 Hey, Daniel; Murphy, Simon; **Foreman-Mackey, Daniel**; Bedding,
@@ -128,7 +128,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[33
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -163,13 +163,13 @@ Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
 Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, AJ,
-**158**, 173 ([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[32
+**158**, 173 ([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
-ApJ, **885** ([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[28
+ApJ, **885** ([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -305,7 +305,7 @@ Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
 2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
 Magnetic Cycles of Sun-like
 Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, ApJ, **851**, 116
-([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[46
+([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
@@ -434,7 +434,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
 Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
 targets](http://dx.doi.org/10.1093/mnras/stv423)*, MNRAS, **450**, 1787
-([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[108
+([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[107
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
@@ -489,7 +489,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4763
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4760
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -553,11 +553,6 @@ David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, arXiv e-prints
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
-
-Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
-Daniel**; *et al.*, 2021, Stellar Rotation in the K2 Sample: Evidence
-for Modified Spindown, arXiv e-prints
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886))
 
 Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, TOI-1259Ab – a gas
