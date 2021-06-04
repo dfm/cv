@@ -90,7 +90,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -185,7 +185,7 @@
       "Howell, Robert R.",
       "Rathbun, Julie A."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -272,7 +272,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1830,7 +1830,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2599,7 +2599,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2619,7 +2619,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3072,7 +3072,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3474,7 +3474,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 662,
+    "citations": 663,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4442,7 +4442,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4766,
+    "citations": 4775,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
