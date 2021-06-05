@@ -340,6 +340,25 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.00007",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina",
+      "Hogg, David W."
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, Vincent",
@@ -422,25 +441,6 @@
     "pubdate": "2021-01-00",
     "title": "Masses and compositions of three small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.00007",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina",
-      "Hogg, David W."
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
     "volume": null,
     "year": "2021"
   },
@@ -1424,7 +1424,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3474,7 +3474,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 663,
+    "citations": 665,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4442,7 +4442,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4775,
+    "citations": 4780,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
