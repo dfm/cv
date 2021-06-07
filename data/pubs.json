@@ -102,6 +102,28 @@
     "year": "2021"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Hitchcock, James A.",
+      "Hundertmark, Markus",
+      "Foreman-Mackey, Daniel",
+      "Bachelet, Etienne",
+      "Dominik, Martin",
+      "Street, Rachel",
+      "Tsapras, Yiannis"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2021-05-00",
+    "title": "PyTorchDIA: Difference Image Analysis tool",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft05015H",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2104.01970",
     "authors": [
       "Dong, Jiayin",
@@ -961,7 +983,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2686,7 +2708,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 235,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3474,7 +3496,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 667,
+    "citations": 669,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3944,7 +3966,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 238,
+    "citations": 239,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4442,7 +4464,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4782,
+    "citations": 4792,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
