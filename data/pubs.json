@@ -199,6 +199,30 @@
     "year": "2021"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Byler, Nell",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4577191",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-03-03",
+    "title": "dfm/python-fsps: python-fsps v0.4.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4577191J",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
@@ -1022,7 +1046,7 @@
       "Price-Whelan, Adrian",
       "Barclay, Tom"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.3785072",
     "page": null,
@@ -1257,7 +1281,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2427,7 +2451,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -4309,7 +4333,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4464,7 +4488,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4792,
+    "citations": 4790,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

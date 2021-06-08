@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 66 / first author: 9 / citations: 8886 /
-h-index: 33 (2021-06-07)
+ refereed: 66 / first author: 9 / citations: 8884 /
+h-index: 33 (2021-06-08)
 
 ## Refereed publications
 
@@ -490,7 +490,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4792
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4790
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -667,16 +667,16 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1148 stars / 396 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1149 stars / 396 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 128 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 129 stars
 / 37 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 348 stars / 187
+[**corner.py**](https://github.com/dfm/corner.py) — 348 stars / 188
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
