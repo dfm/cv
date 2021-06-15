@@ -1261,14 +1261,14 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 1,
+    "citations": 31,
     "doctype": "software",
-    "doi": "10.5281/zenodo.3595344",
+    "doi": "10.5281/zenodo.1998447",
     "page": null,
     "pub": "Zenodo",
     "pubdate": "2019-12-30",
     "title": "dfm/exoplanet: exoplanet v0.2.4",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3595344F",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...1998447F",
     "volume": null,
     "year": "2019"
   },
@@ -1281,14 +1281,14 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 30,
+    "citations": 1,
     "doctype": "software",
-    "doi": "10.5281/zenodo.1998447",
+    "doi": "10.5281/zenodo.3595344",
     "page": null,
     "pub": "Zenodo",
     "pubdate": "2019-12-30",
     "title": "dfm/exoplanet: exoplanet v0.2.4",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...1998447F",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3595344F",
     "volume": null,
     "year": "2019"
   },
@@ -1876,7 +1876,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 44,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2732,7 +2732,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 235,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3435,7 +3435,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 164,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3520,7 +3520,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 669,
+    "citations": 671,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3591,7 +3591,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 170,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3793,7 +3793,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3870,7 +3870,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -4109,7 +4109,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 54,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -4244,7 +4244,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 178,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4270,25 +4270,6 @@
     "pubdate": "2014-10-09",
     "title": "Python-Fsps: Python Bindings To Fsps (V0.1.1)",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....12157F",
-    "volume": null,
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Hoyer, Stephan",
-      "Bernhard, Jonah",
-      "Angus, Ruth"
-    ],
-    "citations": 9,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.11989",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-10-07",
-    "title": "George: George (V0.2.0)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11989F",
     "volume": null,
     "year": "2014"
   },
@@ -4488,7 +4469,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4799,
+    "citations": 4814,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4512,7 +4493,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "software",
     "doi": null,
     "page": null,
