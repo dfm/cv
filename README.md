@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 66 / first author: 9 / citations: 8909 /
-h-index: 33 (2021-06-16)
+ refereed: 66 / first author: 9 / citations: 8913 /
+h-index: 33 (2021-06-17)
 
 ## Refereed publications
 
@@ -217,7 +217,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S)\]
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, AJ,
-**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[69
+**157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[70
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
@@ -490,7 +490,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4812
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4814
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -498,7 +498,7 @@ Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
 Treasury. IV. A Probabilistic Approach to Inferring the High-mass
 Stellar Initial Mass Function and Other Power-law
 Functions](http://dx.doi.org/10.1088/0004-637X/762/2/123)*, ApJ,
-**762**, 123 ([arXiv:1211.6105](http://arxiv.org/abs/1211.6105)) \[[29
+**762**, 123 ([arXiv:1211.6105](http://arxiv.org/abs/1211.6105)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 </div>

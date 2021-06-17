@@ -1470,7 +1470,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2106,7 +2106,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4469,7 +4469,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4812,
+    "citations": 4814,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4524,7 +4524,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
