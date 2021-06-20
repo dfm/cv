@@ -356,7 +356,7 @@
       "Foreman-Mackey, Daniel",
       "Barentsen, Geert"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abd31c",
     "page": 95,
@@ -1109,7 +1109,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1557,7 +1557,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 51,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2127,7 +2127,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2645,7 +2645,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2665,7 +2665,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2732,7 +2732,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 239,
+    "citations": 240,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3435,7 +3435,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 163,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3472,7 +3472,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -3520,7 +3520,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 673,
+    "citations": 675,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3990,7 +3990,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 240,
+    "citations": 241,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4469,7 +4469,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4825,
+    "citations": 4830,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
