@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 66 / first author: 9 / citations: 8952 /
-h-index: 33 (2021-06-20)
+ refereed: 66 / first author: 9 / citations: 8955 /
+h-index: 33 (2021-06-21)
 
 ## Refereed publications
 
@@ -333,8 +333,15 @@ Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
 Rix, Hans-Walter, 2017, *[The Joker: A Custom Monte Carlo Sampler for
 Binary-star and Exoplanet Radial Velocity
 Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, ApJ, **837**, 20
-([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[46
+([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
+
+**Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
+Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
+Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
+AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
+\[[60
+citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
 A.; *et al.* (incl. **DFM**), 2016, *[Campaign 9 of the K2 Mission:
@@ -344,13 +351,6 @@ Survey](http://dx.doi.org/10.1088/1538-3873/128/970/124401)*, PASP,
 **128**, 124401 ([arXiv:1512.09142](http://arxiv.org/abs/1512.09142))
 \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H)\]
-
-**Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
-Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
-Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
-AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
-\[[60
-citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
 *et al.* (incl. **DFM**), 2016, *[Chemical Tagging Can Work:
@@ -426,17 +426,17 @@ Analysis](http://dx.doi.org/10.1088/0004-637X/809/1/7)*, ApJ, **809**, 7
 ([arXiv:1505.01845](http://arxiv.org/abs/1505.01845)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...809....7B)\]
 
-**Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
-Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
-in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, ApJ,
-**806**, 215 ([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[96
-citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
-
 Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
 Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
 targets](http://dx.doi.org/10.1093/mnras/stv423)*, MNRAS, **450**, 1787
 ([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[107
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
+
+**Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
+Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
+in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, ApJ,
+**806**, 215 ([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[96
+citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
 Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
@@ -490,7 +490,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4830
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4832
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
