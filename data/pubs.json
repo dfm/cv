@@ -318,7 +318,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1261,7 +1261,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 31,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3118,7 +3118,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 180,
+    "citations": 181,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3520,7 +3520,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 675,
+    "citations": 677,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4469,7 +4469,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4832,
+    "citations": 4837,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
