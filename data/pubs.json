@@ -1416,7 +1416,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1454,7 +1454,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -3520,7 +3520,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 676,
+    "citations": 677,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4469,7 +4469,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4831,
+    "citations": 4832,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
