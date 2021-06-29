@@ -386,25 +386,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.00007",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina",
-      "Hogg, David W."
-    ],
-    "citations": 5,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, Vincent",
@@ -479,7 +460,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -487,6 +468,25 @@
     "pubdate": "2021-01-00",
     "title": "Masses and compositions of three small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.00007",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina",
+      "Hogg, David W."
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-01-00",
+    "title": "Mapping stellar surfaces I: Degeneracies in the rotational light curve problem",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L",
     "volume": null,
     "year": "2021"
   },
@@ -593,7 +593,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 1,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -1261,26 +1261,6 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 33,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1998447",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-12-30",
-    "title": "dfm/exoplanet: exoplanet v0.2.4",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...1998447F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Czekala, Ian",
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Barclay, Tom"
-    ],
     "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3595344",
@@ -1394,7 +1374,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2106,7 +2086,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2732,7 +2712,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 244,
+    "citations": 246,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3118,7 +3098,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 181,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3520,7 +3500,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 678,
+    "citations": 679,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3591,7 +3571,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3793,7 +3773,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 34,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -3990,7 +3970,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 242,
+    "citations": 244,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4314,7 +4294,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4469,7 +4449,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4842,
+    "citations": 4844,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
