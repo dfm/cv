@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 66 / first author: 9 / citations: 9003 /
-h-index: 33 (2021-07-02)
+ refereed: 66 / first author: 9 / citations: 9021 /
+h-index: 33 (2021-07-03)
 
 ## Refereed publications
 
@@ -97,7 +97,8 @@ Gordon, Tyler A.; Agol, Eric; & **Foreman-Mackey, Daniel**, 2020, *[A
 Fast, Two-dimensional Gaussian Process Method Based on Celerite:
 Applications to Transiting Exoplanet Discovery and
 Characterization](http://dx.doi.org/10.3847/1538-3881/abbc16)*, AJ,
-**160**, 240 ([arXiv:2007.05799](http://arxiv.org/abs/2007.05799))
+**160**, 240 ([arXiv:2007.05799](http://arxiv.org/abs/2007.05799)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G)\]
 
 Villaume, Alexa; **Foreman-Mackey, Daniel**; Romanowsky, Aaron J.;
 Brodie, Jean; & Strader, Jay, 2020, *[The Assembly History of M87
@@ -159,7 +160,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[44
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -186,7 +187,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[55
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -252,7 +253,7 @@ Luger, Rodrigo; Kruse, Ethan; **Foreman-Mackey, Daniel**; Agol, Eric; &
 Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 15](http://dx.doi.org/10.3847/1538-3881/aad230)*, AJ, **156**, 99
-([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[87
+([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[88
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
 
 Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
@@ -273,7 +274,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[65
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[66
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -366,7 +367,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, AJ,
 **152**, 100 ([arXiv:1607.00524](http://arxiv.org/abs/1607.00524))
-\[[166
+\[[167
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -378,7 +379,7 @@ Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2016, *[A Causal, Data-driven Approach to Modeling the Kepler
 Data](http://dx.doi.org/10.1088/1538-3873/128/967/094503)*, PASP,
 **128**, 94503 ([arXiv:1508.01853](http://arxiv.org/abs/1508.01853))
-\[[16
+\[[17
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128i4503W)\]
 
 Fischer, Debra A.; Anglada-Escude, Guillem; Arriagada, Pamela; Baluev,
@@ -403,7 +404,7 @@ citations](https://scholar.google.com/scholar?cites=2429561747341807338)\]
 Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
 *[Systematics-insensitive Periodic Signal Search with
 K2](http://dx.doi.org/10.3847/0004-637X/818/2/109)*, ApJ, **818**, 109
-([arXiv:1505.07105](http://arxiv.org/abs/1505.07105)) \[[22
+([arXiv:1505.07105](http://arxiv.org/abs/1505.07105)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A)\]
 
 Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;
@@ -437,7 +438,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 **Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, ApJ,
-**806**, 215 ([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[96
+**806**, 215 ([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[97
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
@@ -464,7 +465,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 *[Exoplanet Population Inference and the Abundance of Earth Analogs from
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, ApJ, **795**,
-64 ([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[178
+64 ([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[179
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -492,7 +493,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4854
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4860
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -571,7 +572,7 @@ arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
 imaging, arXiv e-prints
-([arXiv:1710.02428](http://arxiv.org/abs/1710.02428)) \[[5
+([arXiv:1710.02428](http://arxiv.org/abs/1710.02428)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2017arXiv171002428W)\]
 
 Barnes, Rory; Deitrick, Russell; Luger, Rodrigo; Driscoll, Peter E.;

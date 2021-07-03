@@ -571,7 +571,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -1372,7 +1372,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1560,7 +1560,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 55,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2474,7 +2474,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2648,7 +2648,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2847,7 +2847,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -3438,7 +3438,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 166,
+    "citations": 167,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3475,7 +3475,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -3523,7 +3523,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 681,
+    "citations": 682,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3814,7 +3814,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -4033,7 +4033,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 96,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -4247,7 +4247,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 178,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4472,7 +4472,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4854,
+    "citations": 4860,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
