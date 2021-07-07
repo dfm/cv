@@ -142,7 +142,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -341,7 +341,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -806,7 +806,7 @@
       "Pope, Benjamin",
       "Hogg, David"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.21105/joss.02125",
     "page": 2125,
@@ -1090,7 +1090,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7d38",
     "page": 202,
@@ -1132,7 +1132,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1392,7 +1392,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 45,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1580,7 +1580,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1899,7 +1899,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2129,7 +2129,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2150,7 +2150,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2511,7 +2511,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2651,7 +2651,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2688,7 +2688,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2704,7 +2704,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -2755,7 +2755,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 248,
+    "citations": 252,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2886,7 +2886,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3141,7 +3141,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3178,7 +3178,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3223,26 +3223,6 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2017ascl.soft01001P",
     "volume": null,
     "year": "2017"
-  },
-  {
-    "arxiv": "1607.08237",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Morton, Timothy D.",
-      "Hogg, David W.",
-      "Agol, Eric",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 60,
-    "doctype": "article",
-    "doi": "10.3847/0004-6256/152/6/206",
-    "page": 206,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2016-12-00",
-    "title": "The Population of Long-period Transiting Exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F",
-    "volume": "152",
-    "year": "2016"
   },
   {
     "arxiv": "1512.09142",
@@ -3374,7 +3354,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -3383,6 +3363,26 @@
     "title": "Campaign 9 of the K2 Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
     "url": "https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1607.08237",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Morton, Timothy D.",
+      "Hogg, David W.",
+      "Agol, Eric",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 60,
+    "doctype": "article",
+    "doi": "10.3847/0004-6256/152/6/206",
+    "page": 206,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2016-12-00",
+    "title": "The Population of Long-period Transiting Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F",
+    "volume": "152",
     "year": "2016"
   },
   {
@@ -3495,7 +3495,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -3543,7 +3543,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 685,
+    "citations": 698,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3816,7 +3816,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4013,7 +4013,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 243,
+    "citations": 246,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4053,7 +4053,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -4492,7 +4492,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4878,
+    "citations": 4921,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
