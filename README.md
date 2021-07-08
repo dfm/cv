@@ -44,7 +44,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 68 / first author: 9 / citations: 9060 /
+ refereed: 68 / first author: 9 / citations: 9235 /
 h-index: 33 (2021-07-08)
 
 ## Refereed publications
@@ -406,13 +406,13 @@ citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
 Python](http://dx.doi.org/10.21105/joss.00024)*, The Journal of Open
-Source Software, **1**, 2 \[[849
+Source Software, **1**, 2 \[[964
 citations](https://scholar.google.com/scholar?cites=1835087844145558435,17836006976722650130,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,16003095824317425768)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2016, *[Modeling confounding by half-sibling
 regression](http://dx.doi.org/10.1073/pnas.1511656113)*, PNAS, **113**,
-27 \[[33
+27 \[[38
 citations](https://scholar.google.com/scholar?cites=2429561747341807338)\]
 
 Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
@@ -425,7 +425,7 @@ Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;
 Hogg, David W.; & O’Neil, Michael, 2016, *[Fast Direct Methods for
 Gaussian Processes](http://dx.doi.org/10.1109/TPAMI.2015.2448083)*, IEEE
 Transactions on Pattern Analysis and Machine Intelligence, **38**, 252
-([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[322
+([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[375
 citations](https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489)\]
 
 Montet, Benjamin T.; Morton, Timothy D.; **Foreman-Mackey, Daniel**;
@@ -465,7 +465,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2015, Removing systematic errors for exoplanet
 search via latent causes, ICML, **37**, 2218
-([arXiv:1505.03036](http://arxiv.org/abs/1505.03036)) \[[7
+([arXiv:1505.03036](http://arxiv.org/abs/1505.03036)) \[[9
 citations](https://scholar.google.com/scholar?cites=11768165421845046384)\]
 
 Barclay, Thomas; Endl, Michael; Huber, Daniel; **Foreman-Mackey,
