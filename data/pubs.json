@@ -571,7 +571,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -2651,7 +2651,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2755,7 +2755,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 248,
+    "citations": 249,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3225,26 +3225,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1607.08237",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Morton, Timothy D.",
-      "Hogg, David W.",
-      "Agol, Eric",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 60,
-    "doctype": "article",
-    "doi": "10.3847/0004-6256/152/6/206",
-    "page": 206,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2016-12-00",
-    "title": "The Population of Long-period Transiting Exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F",
-    "volume": "152",
-    "year": "2016"
-  },
-  {
     "arxiv": "1512.09142",
     "authors": [
       "Henderson, Calen B.",
@@ -3374,7 +3354,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -3383,6 +3363,26 @@
     "title": "Campaign 9 of the K2 Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
     "url": "https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1607.08237",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Morton, Timothy D.",
+      "Hogg, David W.",
+      "Agol, Eric",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 60,
+    "doctype": "article",
+    "doi": "10.3847/0004-6256/152/6/206",
+    "page": 206,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2016-12-00",
+    "title": "The Population of Long-period Transiting Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F",
+    "volume": "152",
     "year": "2016"
   },
   {
@@ -3543,7 +3543,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 689,
+    "citations": 690,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4013,7 +4013,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 244,
+    "citations": 245,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4492,7 +4492,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4891,
+    "citations": 4894,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
