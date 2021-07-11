@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 68 / first author: 9 / citations: 9266 /
-h-index: 33 (2021-07-10)
+ refereed: 68 / first author: 9 / citations: 9274 /
+h-index: 33 (2021-07-11)
 
 ## Refereed publications
 
@@ -288,7 +288,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[67
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -316,7 +316,7 @@ Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
 *et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
 Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
 Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, AJ, **154**, 254
-([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[34
+([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -507,7 +507,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4894
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4900
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
