@@ -224,6 +224,35 @@
   {
     "arxiv": null,
     "authors": [
+      "Willard, Brandon T.",
+      "Osthege, Michael",
+      "Ho, George",
+      "Vieira, Ricardo",
+      "Wiecki, Thomas",
+      "Foreman-Mackey, Dan",
+      "Chaudhari, Kaustubh",
+      "Legrand, Nicolas",
+      "Kumar, Ravin",
+      "Lao, Junpeng",
+      "Abril-Pla, Oriol",
+      "Fonnesbeck, Chris",
+      "Goldman, Robert P.",
+      "Gorelli, Marco"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4695331",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-04-15",
+    "title": "pymc-devs/aesara:",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4695331W",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Johnson, Ben",
       "Foreman-Mackey, Dan",
       "Sick, Jonathan",
@@ -616,7 +645,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -2668,7 +2697,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 68,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3816,7 +3845,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4297,6 +4326,25 @@
     "year": "2014"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Hoyer, Stephan",
+      "Bernhard, Jonah",
+      "Angus, Ruth"
+    ],
+    "citations": 9,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.11989",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-10-07",
+    "title": "George: George (V0.2.0)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11989F",
+    "volume": null,
+    "year": "2014"
+  },
+  {
     "arxiv": "1405.5229",
     "authors": [
       "Dawson, Rebekah I.",
@@ -4337,7 +4385,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
