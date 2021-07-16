@@ -370,7 +370,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -531,7 +531,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1421,7 +1421,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1928,7 +1928,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2254,7 +2254,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2697,7 +2697,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2784,7 +2784,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 249,
+    "citations": 250,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3223,7 +3223,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3403,7 +3403,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -3524,7 +3524,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -3572,7 +3572,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 690,
+    "citations": 694,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4385,7 +4385,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4540,7 +4540,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4909,
+    "citations": 4918,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
