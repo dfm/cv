@@ -173,7 +173,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2792,7 +2792,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 124,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2845,7 +2845,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -2896,7 +2896,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 251,
+    "citations": 252,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3684,7 +3684,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 703,
+    "citations": 704,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4599,7 +4599,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -4618,7 +4618,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4938,
+    "citations": 4943,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
