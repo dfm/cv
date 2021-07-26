@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 68 / first author: 9 / citations: 9358 /
-h-index: 35 (2021-07-25)
+ refereed: 69 / first author: 9 / citations: 9377 /
+h-index: 35 (2021-07-26)
 
 ## Refereed publications
 
@@ -53,6 +53,11 @@ h-index: 35 (2021-07-25)
 
 <div class="list">
 
+
+Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
+*[starry\_process: Interpretable Gaussian processes for stellar light
+curves](http://dx.doi.org/10.21105/joss.03071)*, The Journal of Open
+Source Software, **6**, 3071
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
@@ -99,7 +104,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[23
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -282,7 +287,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, ApJ, **860**
-([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[125
+([arXiv:1805.10290](http://arxiv.org/abs/1805.10290)) \[[126
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -402,7 +407,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*, PASP,
 **128**, 66001 ([arXiv:1602.07939](http://arxiv.org/abs/1602.07939))
-\[[169
+\[[170
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -453,7 +458,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
 Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
 targets](http://dx.doi.org/10.1093/mnras/stv423)*, MNRAS, **450**, 1787
-([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[107
+([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[108
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
@@ -508,7 +513,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4946
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4961
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -703,7 +708,7 @@ Fast & scalable Gaussian Processes in one dimension
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 598 stars / 115 forks  
+[**daft**](https://github.com/daft-dev/daft) — 599 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 

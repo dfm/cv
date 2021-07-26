@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.21105/joss.03071",
+    "page": 3071,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2021-07-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
+    "volume": "6",
+    "year": "2021"
+  },
+  {
     "arxiv": "2104.01970",
     "authors": [
       "Dong, Jiayin",
@@ -533,7 +551,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2792,7 +2810,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3684,7 +3702,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 705,
+    "citations": 708,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3755,7 +3773,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4160,7 +4178,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4618,7 +4636,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4946,
+    "citations": 4961,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4642,7 +4660,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "software",
     "doi": null,
     "page": null,
