@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 69 / first author: 9 / citations: 9377 /
-h-index: 35 (2021-07-26)
+ refereed: 69 / first author: 9 / citations: 9375 /
+h-index: 35 (2021-07-27)
 
 ## Refereed publications
 
@@ -513,7 +513,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4961
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4959
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -694,7 +694,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 351 stars / 190
+[**corner.py**](https://github.com/dfm/corner.py) — 350 stars / 190
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
