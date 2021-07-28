@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 69 / first author: 9 / citations: 9375 /
-h-index: 35 (2021-07-27)
+h-index: 35 (2021-07-28)
 
 ## Refereed publications
 
@@ -685,7 +685,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1162 stars / 399 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1163 stars / 399 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -694,7 +694,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 350 stars / 190
+[**corner.py**](https://github.com/dfm/corner.py) — 351 stars / 190
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -704,7 +704,7 @@ Make some beautiful corner plots
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 163 stars / 36 forks  
+[**celerite**](https://github.com/dfm/celerite) — 164 stars / 36 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
