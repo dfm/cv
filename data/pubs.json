@@ -237,7 +237,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -569,7 +569,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -626,7 +626,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -901,7 +901,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1307,7 +1307,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1739,7 +1739,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2670,7 +2670,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2810,7 +2810,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 126,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2847,7 +2847,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2914,7 +2914,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 252,
+    "citations": 254,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -2932,7 +2932,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3337,7 +3337,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3702,7 +3702,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 707,
+    "citations": 711,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4138,7 +4138,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 246,
+    "citations": 247,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4636,7 +4636,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4960,
+    "citations": 4970,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
