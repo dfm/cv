@@ -12,7 +12,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 399,
               "stargazers": {
-                "totalCount": 1163
+                "totalCount": 1162
               },
               "watchers": {
                 "totalCount": 89
@@ -70,9 +70,9 @@
               "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
               "url": "https://github.com/dfm/celerite",
               "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 36,
+              "forkCount": 37,
               "stargazers": {
-                "totalCount": 164
+                "totalCount": 166
               },
               "watchers": {
                 "totalCount": 14
@@ -87,7 +87,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 115,
               "stargazers": {
-                "totalCount": 599
+                "totalCount": 600
               },
               "watchers": {
                 "totalCount": 18
