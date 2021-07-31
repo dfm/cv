@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 69 / first author: 9 / citations: 9429 /
-h-index: 35 (2021-07-30)
+ refereed: 69 / first author: 9 / citations: 9436 /
+h-index: 35 (2021-07-31)
 
 ## Refereed publications
 
@@ -513,7 +513,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4970
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4977
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -532,6 +532,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Gan, Tianjun; Bedell, Megan; Xuesong Wang, Sharon; **Foreman-Mackey,
+Daniel**; *et al.*, 2021, HD 183579b: A Warm Sub-Neptune Transiting a
+Solar Twin Detected by TESS, arXiv e-prints
+([arXiv:2107.14015](http://arxiv.org/abs/2107.14015))
 
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2021, The unpopular Package: a Data-driven
@@ -685,7 +690,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1162 stars / 400 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1161 stars / 400 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
