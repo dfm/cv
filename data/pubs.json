@@ -1,5 +1,59 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Martin, David V.",
+      "El-Badry, Kareem",
+      "Hod{\\v{z}}i{\\'c}, Vedad Kunovac",
+      "Triaud, Amaury H. M. J.",
+      "Angus, Ruth",
+      "Birky, Jessica",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina",
+      "Montet, Benjamin T.",
+      "Murphy, Simon J.",
+      "Santerne, Alexandre",
+      "Stassun, Keivan G.",
+      "Stephan, Alexander P.",
+      "Wang, Ji",
+      "Benni, Paul",
+      "Krushinsky, Vadim",
+      "Chazov, Nikita",
+      "Mishevskiy, Nikolay",
+      "Ziegler, Carl",
+      "Soubkiou, Abderahmane",
+      "Benkhaldoun, Zouhair",
+      "Boisse, Isabelle",
+      "Battley, Matthew",
+      "Miller, Nicola J.",
+      "Caldwell, Douglas A.",
+      "Collins, Karen",
+      "Henze, Christopher E.",
+      "Guerrero, Natalia M.",
+      "Jenkins, Jon M.",
+      "Latham, David W.",
+      "Levine, Adam",
+      "McDermott, Scott",
+      "Mullally, Susan E.",
+      "Ricker, George",
+      "Seager, Sara",
+      "Shporer, Avi",
+      "Vanderburg, Andrew",
+      "Vanderspek, Roland",
+      "Winn, Joshua N."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stab2129",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-07-00",
+    "title": "TOI-1259Ab - a gas giant planet with 2.7 per cent deep transits and a bound white dwarf companion",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1938M",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2107.14015",
     "authors": [
       "Gan, Tianjun",
@@ -257,7 +311,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -303,7 +357,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -617,7 +671,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -779,7 +833,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -940,7 +994,7 @@
       "Brodie, Jean",
       "Strader, Jay"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aba616",
     "page": 95,
@@ -1373,7 +1427,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1702,7 +1756,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -1805,7 +1859,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2375,7 +2429,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2980,7 +3034,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 254,
+    "citations": 256,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3403,7 +3457,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3683,7 +3737,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3752,7 +3806,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -3768,7 +3822,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 711,
+    "citations": 713,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3839,7 +3893,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -3890,7 +3944,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 17,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -4007,7 +4061,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4025,7 +4079,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -4204,7 +4258,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 247,
+    "citations": 248,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4225,7 +4279,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -4702,7 +4756,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4980,
+    "citations": 4998,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
