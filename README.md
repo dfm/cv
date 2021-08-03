@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 70 / first author: 9 / citations: 9474 /
-h-index: 35 (2021-08-02)
+ refereed: 70 / first author: 9 / citations: 9471 /
+h-index: 35 (2021-08-03)
 
 ## Refereed publications
 
@@ -57,7 +57,8 @@ h-index: 35 (2021-08-02)
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
 giant planet with 2.7 per cent deep transits and a bound white dwarf
-companion](http://dx.doi.org/10.1093/mnras/stab2129)*, MNRAS
+companion](http://dx.doi.org/10.1093/mnras/stab2129)*,
+MNRAS([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[starry\_process: Interpretable Gaussian processes for stellar light
@@ -518,7 +519,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4998
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[4996
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -583,11 +584,6 @@ planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley, arXiv e-prints
 ([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V)\]
-
-Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
-Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, TOI-1259Ab – a gas
-giant planet with 2.7% deep transits and a bound white dwarf companion,
-arXiv e-prints ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
@@ -695,7 +691,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1161 stars / 400 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1162 stars / 400 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -704,7 +700,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 351 stars / 190
+[**corner.py**](https://github.com/dfm/corner.py) — 352 stars / 190
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
