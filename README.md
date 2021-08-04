@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 70 / first author: 9 / citations: 9471 /
-h-index: 35 (2021-08-03)
+h-index: 35 (2021-08-04)
 
 ## Refereed publications
 
