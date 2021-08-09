@@ -1,5 +1,71 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Gan, Tianjun",
+      "Bedell, Megan",
+      "Wang, Sharon Xuesong",
+      "Foreman-Mackey, Daniel",
+      "Mel{\\'e}ndez, Jorge",
+      "Mao, Shude",
+      "Stassun, Keivan G.",
+      "Howell, Steve B.",
+      "Ziegler, Carl",
+      "Wittenmyer, Robert A.",
+      "Hellier, Coel",
+      "Collins, Karen A.",
+      "Shporer, Avi",
+      "Ricker, George R.",
+      "Vanderspek, Roland",
+      "Latham, David W.",
+      "Seager, Sara",
+      "Winn, Joshua N.",
+      "Jenkins, Jon M.",
+      "Addison, Brett C.",
+      "Ballard, Sarah",
+      "Barclay, Thomas",
+      "Bean, Jacob L.",
+      "Bowler, Brendan P.",
+      "Brice{\\~n}o, C{\\'e}sar",
+      "Crossfield, Ian J. M.",
+      "Dittman, Jason",
+      "Horner, Jonathan",
+      "Jensen, Eric L. N.",
+      "Kane, Stephen R.",
+      "Kielkopf, John",
+      "Kreidberg, Laura",
+      "Law, Nicholas",
+      "Mann, Andrew W.",
+      "Mengel, Matthew W.",
+      "Morgan, Edward H.",
+      "Okumura, Jack",
+      "Osborn, Hugh P.",
+      "Paegert, Martin",
+      "Plavchan, Peter",
+      "Schwarz, Richard P.",
+      "Shiao, Bernie",
+      "Smith, Jeffrey C.",
+      "Spina, Lorenzo",
+      "Tinney, C. G.",
+      "Torres, Guillermo",
+      "Twicken, Joseph D.",
+      "Vezie, Michael",
+      "Wang, Gavin",
+      "Wright, Duncan J.",
+      "Zhang, Hui"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stab2224",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-08-00",
+    "title": "HD 183579b: A Warm Sub-Neptune Transiting a Solar Twin Detected by TESS",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1997G",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.02707",
     "authors": [
       "Martin, David V.",
@@ -50,6 +116,25 @@
     "pubdate": "2021-07-00",
     "title": "TOI-1259Ab - a gas giant planet with 2.7 per cent deep transits and a bound white dwarf companion",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.1938M",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Wang, Dun",
+      "Hogg, David W.",
+      "Foreman-Mackey, Daniel",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2021-07-00",
+    "title": "K2-CPM: Causal Pixel Model for K2 data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft07024W",
     "volume": null,
     "year": "2021"
   },
@@ -334,7 +419,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -357,7 +442,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -671,7 +756,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -970,7 +1055,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1433,7 +1518,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -1620,7 +1705,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1808,7 +1893,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 66,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2357,7 +2442,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2378,7 +2463,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 72,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2722,7 +2807,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 88,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2896,7 +2981,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2983,7 +3068,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 259,
+    "citations": 264,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3034,7 +3119,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -3052,7 +3137,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -3114,7 +3199,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3369,7 +3454,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3406,7 +3491,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3686,7 +3771,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 169,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3723,7 +3808,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -3771,7 +3856,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 713,
+    "citations": 717,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4063,7 +4148,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4207,7 +4292,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 249,
+    "citations": 250,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4228,7 +4313,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -4247,7 +4332,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 108,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4461,7 +4546,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 181,
+    "citations": 182,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4705,7 +4790,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 4996,
+    "citations": 5016,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4729,7 +4814,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "software",
     "doi": null,
     "page": null,
