@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 71 / first author: 9 / citations: 9530 /
-h-index: 35 (2021-08-09)
+ refereed: 71 / first author: 9 / citations: 9529 /
+h-index: 35 (2021-08-10)
 
 ## Refereed publications
 
@@ -57,7 +57,7 @@ h-index: 35 (2021-08-09)
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[HD 183579b: A Warm Sub-Neptune Transiting a
 Solar Twin Detected by TESS](http://dx.doi.org/10.1093/mnras/stab2224)*,
-MNRAS
+MNRAS([arXiv:2107.14015](http://arxiv.org/abs/2107.14015))
 
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
@@ -262,7 +262,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
 Daniel**, 2018, *[Compact Multi-planet Systems are more Common around
 Metal-poor Hosts](http://dx.doi.org/10.3847/2041-8213/aae710)*, ApJ,
-**867** ([arXiv:1810.10009](http://arxiv.org/abs/1810.10009)) \[[21
+**867** ([arXiv:1810.10009](http://arxiv.org/abs/1810.10009)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...867L...3B)\]
 
 Ness, Melissa K.; Silva Aguirre, Victor; Lund, Mikkel N.; Cantiello,
@@ -543,11 +543,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 <div class="list">
 
 
-Gan, Tianjun; Bedell, Megan; Xuesong Wang, Sharon; **Foreman-Mackey,
-Daniel**; *et al.*, 2021, HD 183579b: A Warm Sub-Neptune Transiting a
-Solar Twin Detected by TESS, arXiv e-prints
-([arXiv:2107.14015](http://arxiv.org/abs/2107.14015))
-
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2021, The unpopular Package: a Data-driven
 Approach to De-trend TESS Full Frame Image Light Curves, arXiv e-prints
@@ -695,7 +690,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1161 stars / 401 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1162 stars / 401 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
