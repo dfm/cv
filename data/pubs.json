@@ -330,7 +330,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -595,6 +595,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staa3887",
+    "page": 4798,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-03-00",
+    "title": "Stability constrained characterization of multiplanet systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
+    "volume": "501",
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
@@ -612,24 +630,6 @@
     "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
     "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2009.11831",
-    "authors": [
-      "Tamayo, Daniel",
-      "Gilbertson, Christian",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.1093/mnras/staa3887",
-    "page": 4798,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2021-03-00",
-    "title": "Stability constrained characterization of multiplanet systems",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
-    "volume": "501",
     "year": "2021"
   },
   {
@@ -1353,7 +1353,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7d38",
     "page": 202,
@@ -2146,7 +2146,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2935,7 +2935,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 90,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -2951,7 +2951,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3002,7 +3002,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 261,
+    "citations": 262,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3388,7 +3388,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3425,7 +3425,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3861,7 +3861,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 171,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4724,7 +4724,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5004,
+    "citations": 5009,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
