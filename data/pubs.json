@@ -2951,7 +2951,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3002,7 +3002,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 262,
+    "citations": 263,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3790,7 +3790,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 718,
+    "citations": 720,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4029,7 +4029,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4724,7 +4724,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5009,
+    "citations": 5012,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
