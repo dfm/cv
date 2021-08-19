@@ -1871,7 +1871,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2766,7 +2766,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 92,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2923,7 +2923,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 126,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2940,7 +2940,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 70,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3450,7 +3450,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 53,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3646,7 +3646,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 59,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -3730,7 +3730,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 173,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3815,7 +3815,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 726,
+    "citations": 723,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4131,7 +4131,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 99,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -4594,7 +4594,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4749,7 +4749,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5039,
+    "citations": 5024,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
