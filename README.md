@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 71 / first author: 9 / citations: 9564 /
-h-index: 35 (2021-08-21)
+ refereed: 71 / first author: 9 / citations: 9570 /
+h-index: 35 (2021-08-22)
 
 ## Refereed publications
 
@@ -194,18 +194,18 @@ Journal of Open Source Software, **4**, 1864
 ([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
+David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
+Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
+Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
+ApJ, **885** ([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[35
+citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
+
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
 Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, AJ,
 **158**, 173 ([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
-
-David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
-Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
-Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
-ApJ, **885** ([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[35
-citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
 Benjamin T.; & Luger, Rodrigo, 2019, *[WOBBLE: A Data-driven Analysis
@@ -218,7 +218,7 @@ Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
 Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, PASP, **131**,
-94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[68
+94502 ([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[69
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -247,17 +247,17 @@ Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
 Astrostatistics, Bulletin of the American Astronomical Society, **51**,
 355 ([arXiv:1903.06796](http://arxiv.org/abs/1903.06796))
 
-Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
-P.; *et al.*, 2019, *[starry: Analytic Occultation Light
-Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, AJ, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[76
-citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
-
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, AJ,
 **157**, 61 ([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[76
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
+
+Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
+P.; *et al.*, 2019, *[starry: Analytic Occultation Light
+Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, AJ, **157**, 64
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[76
+citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
 Daniel**, 2018, *[Compact Multi-planet Systems are more Common around
@@ -369,13 +369,6 @@ Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, ApJ, **837**, 20
 ([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[52
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
-**Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
-Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
-Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
-AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
-\[[63
-citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
-
 Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
 A.; *et al.* (incl. **DFM**), 2016, *[Campaign 9 of the K2 Mission:
 Observational Parameters, Scientific Drivers, and Community Involvement
@@ -384,6 +377,13 @@ Survey](http://dx.doi.org/10.1088/1538-3873/128/970/124401)*, PASP,
 **128**, 124401 ([arXiv:1512.09142](http://arxiv.org/abs/1512.09142))
 \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H)\]
+
+**Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
+Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
+Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
+AJ, **152**, 206 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237))
+\[[63
+citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
 *et al.* (incl. **DFM**), 2016, *[Chemical Tagging Can Work:
@@ -523,7 +523,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5032
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5037
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

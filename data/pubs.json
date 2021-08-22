@@ -1676,6 +1676,28 @@
     "year": "2019"
   },
   {
+    "arxiv": "1910.04563",
+    "authors": [
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mamajek, Eric E.",
+      "Hillenbrand, Lynne A."
+    ],
+    "citations": 35,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ab4c99",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
+    "volume": "885",
+    "year": "2019"
+  },
+  {
     "arxiv": "1908.07528",
     "authors": [
       "Angus, Ruth",
@@ -1698,28 +1720,6 @@
     "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
     "volume": "158",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1910.04563",
-    "authors": [
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mamajek, Eric E.",
-      "Hillenbrand, Lynne A."
-    ],
-    "citations": 35,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ab4c99",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
-    "volume": "885",
     "year": "2019"
   },
   {
@@ -1852,7 +1852,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2387,27 +2387,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1810.06559",
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 76,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/aae8e5",
-    "page": 64,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2019-02-00",
-    "title": "starry: Analytic Occultation Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L",
-    "volume": "157",
-    "year": "2019"
-  },
-  {
     "arxiv": "1807.00549",
     "authors": [
       "Van Eylen, Vincent",
@@ -2430,6 +2409,27 @@
     "pubdate": "2019-02-00",
     "title": "The Orbital Eccentricity of Small Planet Systems",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V",
+    "volume": "157",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1810.06559",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 76,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/aae8e5",
+    "page": 64,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-02-00",
+    "title": "starry: Analytic Occultation Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L",
     "volume": "157",
     "year": "2019"
   },
@@ -2472,6 +2472,23 @@
   {
     "arxiv": null,
     "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-01-00",
+    "title": "bettermoments: Line-of-sight velocity calculation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Angus, Ruth",
       "Morton, Timothy D.",
       "Brewer, John",
@@ -2489,23 +2506,6 @@
     "title": "An age-dating method that combines stellar evolution models with gyrochronology",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23323509A",
     "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2019-01-00",
-    "title": "bettermoments: Line-of-sight velocity calculation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -3497,26 +3497,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1607.08237",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Morton, Timothy D.",
-      "Hogg, David W.",
-      "Agol, Eric",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 63,
-    "doctype": "article",
-    "doi": "10.3847/0004-6256/152/6/206",
-    "page": 206,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2016-12-00",
-    "title": "The Population of Long-period Transiting Exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F",
-    "volume": "152",
-    "year": "2016"
-  },
-  {
     "arxiv": "1512.09142",
     "authors": [
       "Henderson, Calen B.",
@@ -3655,6 +3635,26 @@
     "title": "Campaign 9 of the K2 Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
     "url": "https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1607.08237",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Morton, Timothy D.",
+      "Hogg, David W.",
+      "Agol, Eric",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 63,
+    "doctype": "article",
+    "doi": "10.3847/0004-6256/152/6/206",
+    "page": 206,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2016-12-00",
+    "title": "The Population of Long-period Transiting Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F",
+    "volume": "152",
     "year": "2016"
   },
   {
@@ -3815,7 +3815,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 724,
+    "citations": 725,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4400,25 +4400,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Wang, Dun",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
@@ -4445,6 +4426,25 @@
     "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
     "volume": null,
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Wang, Dun",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 1,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
+    "volume": "225",
     "year": "2015"
   },
   {
@@ -4749,7 +4749,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5032,
+    "citations": 5037,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
