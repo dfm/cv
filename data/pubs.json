@@ -753,7 +753,7 @@
       "Foreman-Mackey, Daniel",
       "Barentsen, Geert"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abd31c",
     "page": 95,
@@ -1664,7 +1664,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1749,7 +1749,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -3450,7 +3450,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3815,7 +3815,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 726,
+    "citations": 727,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4749,7 +4749,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5050,
+    "citations": 5056,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
