@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 72 / first author: 9 / citations: 9635 /
-h-index: 36 (2021-09-01)
+ refereed: 72 / first author: 9 / citations: 9641 /
+h-index: 36 (2021-09-02)
 
 ## Refereed publications
 
@@ -532,7 +532,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, PASP, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5068
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5073
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -555,7 +555,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2021, The unpopular Package: a Data-driven
 Approach to De-trend TESS Full Frame Image Light Curves, arXiv e-prints
-([arXiv:2106.15063](http://arxiv.org/abs/2106.15063))
+([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210615063H)\]
 
 Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
 Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
