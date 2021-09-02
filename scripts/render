@@ -15,13 +15,13 @@ utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
 JOURNAL_MAP = {
-    "ArXiv e-prints": "ArXiv",
-    "Monthly Notices of the Royal Astronomical Society": "\\mnras",
-    "The Astrophysical Journal": "\\apj",
-    "The Astronomical Journal": "\\aj",
-    "Publications of the Astronomical Society of the Pacific": "\\pasp",
-    "IAU General Assembly": "IAU",
-    "American Astronomical Society Meeting Abstracts": "AAS",
+    "arxiv e-prints": "ArXiv",
+    # "Monthly Notices of the Royal Astronomical Society": "\\mnras",
+    # "The Astrophysical Journal": "\\apj",
+    # "The Astronomical Journal": "\\aj",
+    # "Publications of the Astronomical Society of the Pacific": "\\pasp",
+    "iau general assembly": "IAU",
+    "american astronomical society meeting abstracts": "AAS",
 }
 
 
@@ -54,7 +54,7 @@ def format_pub(args):
 
     if not pub["pub"] in [None, "ArXiv e-prints"]:
         fmt += ", " + JOURNAL_MAP.get(
-            pub["pub"].strip("0123456789# "), pub["pub"]
+            pub["pub"].strip("0123456789# ").lower(), pub["pub"]
         )
 
     if pub["volume"] is not None:
