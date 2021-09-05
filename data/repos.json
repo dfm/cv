@@ -25,7 +25,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 40,
+              "forkCount": 41,
               "stargazers": {
                 "totalCount": 138
               },
@@ -57,7 +57,7 @@
               "homepageUrl": "https://celerite2.readthedocs.io",
               "forkCount": 4,
               "stargazers": {
-                "totalCount": 32
+                "totalCount": 34
               },
               "watchers": {
                 "totalCount": 7
