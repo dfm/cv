@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 72 / first author: 9 / citations: 9679 /
-h-index: 36 (2021-09-05)
+ refereed: 74 / first author: 9 / citations: 9678 /
+h-index: 36 (2021-09-06)
 
 ## Refereed publications
 
@@ -54,19 +54,29 @@ h-index: 36 (2021-09-05)
 <div class="list">
 
 
+Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
+Daniel**; *et al.*, 2021, *[HD 183579b: a warm sub-Neptune transiting a
+solar twin detected by TESS](http://dx.doi.org/10.1093/mnras/stab2224)*,
+Monthly Notices of the Royal Astronomical Society, **507**, 2220
+([arXiv:2107.14015](http://arxiv.org/abs/2107.14015))
+
 Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 *et al.* (incl. **DFM**), 2021, *[Masses and compositions of three small
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
-Notices of the Royal Astronomical Society
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[10
-citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.tmp.2193V)\]
+Notices of the Royal Astronomical Society, **507**, 2154
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593))
 
-Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
-Daniel**; *et al.*, 2021, *[HD 183579b: A Warm Sub-Neptune Transiting a
-Solar Twin Detected by TESS](http://dx.doi.org/10.1093/mnras/stab2224)*,
-Monthly Notices of the Royal Astronomical Society
-([arXiv:2107.14015](http://arxiv.org/abs/2107.14015))
+Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
+*[Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model
+for Light Curves](http://dx.doi.org/10.3847/1538-3881/abfdb9)*, The
+Astronomical Journal, **162**, 124
+
+Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
+David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
+Rotational Light-curve
+Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
+Journal, **162**, 123
 
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
@@ -277,7 +287,7 @@ Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, The
 Astronomical Journal, **157**, 61
-([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[77
+([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[78
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
@@ -359,7 +369,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[270
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[271
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -572,7 +582,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5089
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5096
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -592,6 +602,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Gan, Tianjun; Bedell, Megan; Xuesong Wang, Sharon; **Foreman-Mackey,
+Daniel**; *et al.*, 2021, HD 183579b: A Warm Sub-Neptune Transiting a
+Solar Twin Detected by TESS, ArXiv
+([arXiv:2107.14015](http://arxiv.org/abs/2107.14015))
 
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2021, The unpopular Package: a Data-driven
@@ -625,6 +640,12 @@ David W., 2021, Mapping stellar surfaces I: Degeneracies in the
 rotational light curve problem, ArXiv
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
+
+Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
+*et al.* (incl. **DFM**), 2021, Masses and compositions of three small
+planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
+radius valley, ArXiv
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593))
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
@@ -750,7 +771,7 @@ Make some beautiful corner plots
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 167 stars / 37 forks  
+[**celerite**](https://github.com/dfm/celerite) — 166 stars / 37 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
