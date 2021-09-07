@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9678 /
-h-index: 36 (2021-09-06)
+ refereed: 74 / first author: 9 / citations: 9675 /
+h-index: 36 (2021-09-07)
 
 ## Refereed publications
 
@@ -71,12 +71,16 @@ Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model
 for Light Curves](http://dx.doi.org/10.3847/1538-3881/abfdb9)*, The
 Astronomical Journal, **162**, 124
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[8
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
 David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[7
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
@@ -287,7 +291,7 @@ Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, The
 Astronomical Journal, **157**, 61
-([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[78
+([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[77
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
@@ -582,7 +586,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5096
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5094
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -603,11 +607,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 <div class="list">
 
 
-Gan, Tianjun; Bedell, Megan; Xuesong Wang, Sharon; **Foreman-Mackey,
-Daniel**; *et al.*, 2021, HD 183579b: A Warm Sub-Neptune Transiting a
-Solar Twin Detected by TESS, ArXiv
-([arXiv:2107.14015](http://arxiv.org/abs/2107.14015))
-
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2021, The unpopular Package: a Data-driven
 Approach to De-trend TESS Full Frame Image Light Curves, ArXiv
@@ -626,26 +625,8 @@ Occultations, and Non-Lambertian Scattering for Spherical Planets and
 Moons, ArXiv ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275))
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
-Mapping stellar surfaces II: An interpretable Gaussian process model for
-light curves, ArXiv
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[8
-citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L)\]
-
-Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 starry\_process: Interpretable Gaussian processes for stellar light
 curves, ArXiv ([arXiv:2102.01774](http://arxiv.org/abs/2102.01774))
-
-Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
-David W., 2021, Mapping stellar surfaces I: Degeneracies in the
-rotational light curve problem, ArXiv
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[7
-citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210200007L)\]
-
-Van Eylen, Vincent; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
-*et al.* (incl. **DFM**), 2021, Masses and compositions of three small
-planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
-radius valley, ArXiv
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593))
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
@@ -775,7 +756,7 @@ Fast & scalable Gaussian Processes in one dimension
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 600 stars / 115 forks  
+[**daft**](https://github.com/daft-dev/daft) — 602 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
