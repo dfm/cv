@@ -1676,28 +1676,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1910.04563",
-    "authors": [
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mamajek, Eric E.",
-      "Hillenbrand, Lynne A."
-    ],
-    "citations": 36,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ab4c99",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
-    "volume": "885",
-    "year": "2019"
-  },
-  {
     "arxiv": "1908.07528",
     "authors": [
       "Angus, Ruth",
@@ -1720,6 +1698,28 @@
     "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
     "volume": "158",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1910.04563",
+    "authors": [
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mamajek, Eric E.",
+      "Hillenbrand, Lynne A."
+    ],
+    "citations": 37,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ab4c99",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
+    "volume": "885",
     "year": "2019"
   },
   {
@@ -1871,7 +1871,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2387,6 +2387,27 @@
     "year": "2019"
   },
   {
+    "arxiv": "1810.06559",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 80,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/aae8e5",
+    "page": 64,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2019-02-00",
+    "title": "starry: Analytic Occultation Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L",
+    "volume": "157",
+    "year": "2019"
+  },
+  {
     "arxiv": "1807.00549",
     "authors": [
       "Van Eylen, Vincent",
@@ -2409,27 +2430,6 @@
     "pubdate": "2019-02-00",
     "title": "The Orbital Eccentricity of Small Planet Systems",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V",
-    "volume": "157",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1810.06559",
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 80,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/aae8e5",
-    "page": 64,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2019-02-00",
-    "title": "starry: Analytic Occultation Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L",
     "volume": "157",
     "year": "2019"
   },
@@ -2766,7 +2766,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 92,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2940,7 +2940,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3730,7 +3730,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 173,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3815,7 +3815,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 733,
+    "citations": 734,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4131,7 +4131,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -4749,7 +4749,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5110,
+    "citations": 5117,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
