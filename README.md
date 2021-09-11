@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9728 /
-h-index: 36 (2021-09-10)
+ refereed: 74 / first author: 9 / citations: 9747 /
+h-index: 36 (2021-09-11)
 
 ## Refereed publications
 
@@ -83,19 +83,20 @@ Journal, **162**, 123
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
+Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
+Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
+Catalog and Observed Eccentricity Distribution for Year
+1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
+Journal Supplement Series, **255**, 6
+([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
+
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
 giant planet with 2.7 per cent deep transits and a bound white dwarf
 companion](http://dx.doi.org/10.1093/mnras/stab2129)*, Monthly Notices
 of the Royal Astronomical Society
 ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
-
-Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
-Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
-Catalog and Observed Eccentricity Distribution for Year
-1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
-Journal Supplement Series, **255**, 6
-([arXiv:2104.01970](http://arxiv.org/abs/2104.01970))
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[starry\_process: Interpretable Gaussian processes for stellar light
@@ -122,7 +123,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 exoplanet data &amp; other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[6
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
@@ -212,7 +213,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[38
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -266,7 +267,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[24
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -292,7 +293,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[80
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[82
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -329,7 +330,7 @@ Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 15](http://dx.doi.org/10.3847/1538-3881/aad230)*, The Astronomical
 Journal, **156**, 99
-([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[93
+([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[94
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
 
 Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
@@ -366,7 +367,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[34
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -374,7 +375,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[273
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[274
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -450,7 +451,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, The
 Astronomical Journal, **152**, 100
-([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[174
+([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[175
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -504,7 +505,7 @@ of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a
 Planet Receiving Earth-like
 Insolation](http://dx.doi.org/10.1088/0004-637X/809/1/25)*, The
 Astrophysical Journal, **809**, 25
-([arXiv:1503.07866](http://arxiv.org/abs/1503.07866)) \[[100
+([arXiv:1503.07866](http://arxiv.org/abs/1503.07866)) \[[101
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...809...25M)\]
 
 Barclay, Thomas; Quintana, Elisa V.; Adams, Fred C.; Ciardi, David R.;
@@ -564,7 +565,7 @@ Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
 Mutual Inclination: The Three-dimensional Architecture of a Hierarchical
 System of Giant Planets](http://dx.doi.org/10.1088/0004-637X/791/2/89)*,
 The Astrophysical Journal, **791**, 89
-([arXiv:1405.5229](http://arxiv.org/abs/1405.5229)) \[[59
+([arXiv:1405.5229](http://arxiv.org/abs/1405.5229)) \[[60
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...791...89D)\]
 
 Dorman, Claire E.; Widrow, Lawrence M.; Guhathakurta, Puragra; Seth,
@@ -587,7 +588,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5117
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5121
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
