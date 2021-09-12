@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9747 /
-h-index: 36 (2021-09-11)
+ refereed: 74 / first author: 9 / citations: 9756 /
+h-index: 37 (2021-09-12)
 
 ## Refereed publications
 
@@ -123,7 +123,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 exoplanet data &amp; other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[8
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
@@ -198,7 +198,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[44
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -213,7 +213,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[40
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -243,7 +243,7 @@ David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[37
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -293,7 +293,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[82
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[83
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -367,7 +367,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[35
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -375,7 +375,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[274
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[276
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -588,7 +588,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5121
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5122
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

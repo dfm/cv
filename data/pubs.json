@@ -479,7 +479,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1318,7 +1318,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1420,7 +1420,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1711,7 +1711,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2396,7 +2396,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2976,7 +2976,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3027,7 +3027,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 274,
+    "citations": 276,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3815,7 +3815,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 735,
+    "citations": 736,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4749,7 +4749,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5121,
+    "citations": 5122,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
