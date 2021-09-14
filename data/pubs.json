@@ -363,7 +363,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2102.01774",
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -422,7 +422,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -868,24 +868,6 @@
     "title": "Multiwavelength Photometry Derived from Monochromatic Kepler Data",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161...95H",
     "volume": "161",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01774",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-02-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210201774L",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -1806,7 +1788,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -2357,7 +2339,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,

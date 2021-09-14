@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9755 /
-h-index: 37 (2021-09-13)
+ refereed: 74 / first author: 9 / citations: 9754 /
+h-index: 37 (2021-09-14)
 
 ## Refereed publications
 
@@ -102,6 +102,7 @@ Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[starry\_process: Interpretable Gaussian processes for stellar light
 curves](http://dx.doi.org/10.21105/joss.03071)*, The Journal of Open
 Source Software, **6**, 3071
+([arXiv:2102.01774](http://arxiv.org/abs/2102.01774))
 
 Hitchcock, James A.; Hundertmark, Markus; **Foreman-Mackey, Daniel**;
 Bachelet, Etienne; *et al.*, 2021, *[PyTorchDIA: a flexible,
@@ -626,10 +627,6 @@ Daniel**, 2021, Analytic Light Curves in Reflected Light: Phase Curves,
 Occultations, and Non-Lambertian Scattering for Spherical Planets and
 Moons, ArXiv ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275))
 
-Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
-starry\_process: Interpretable Gaussian processes for stellar light
-curves, ArXiv ([arXiv:2102.01774](http://arxiv.org/abs/2102.01774))
-
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
 imaging, ArXiv ([arXiv:1710.02428](http://arxiv.org/abs/1710.02428))
@@ -735,7 +732,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1173 stars / 404 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1173 stars / 403 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
