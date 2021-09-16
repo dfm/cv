@@ -344,6 +344,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01774",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.21105/joss.03071",
+    "page": 3071,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2021-07-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
+    "volume": "6",
+    "year": "2021"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Wang, Dun",
@@ -360,24 +378,6 @@
     "title": "K2-CPM: Causal Pixel Model for K2 data",
     "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft07024W",
     "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01774",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.21105/joss.03071",
-    "page": 3071,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2021-07-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
-    "volume": "6",
     "year": "2021"
   },
   {
@@ -3885,7 +3885,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4731,7 +4731,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5125,
+    "citations": 5136,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
