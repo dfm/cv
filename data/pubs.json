@@ -839,7 +839,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1646,7 +1646,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 54,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1731,7 +1731,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -2765,7 +2765,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 30,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2905,7 +2905,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 128,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2922,7 +2922,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 73,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -2958,7 +2958,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3009,7 +3009,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 275,
+    "citations": 276,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3135,6 +3135,23 @@
   {
     "arxiv": null,
     "authors": [
+      "Price-Whelan, Adrian M.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 14,
+    "doctype": "article",
+    "doi": "10.21105/joss.00357",
+    "page": 357,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2017-09-00",
+    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017JOSS....2..357P",
+    "volume": "2",
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel",
       "Agol, Eric",
       "Ambikasaran, Sivaram",
@@ -3149,23 +3166,6 @@
     "title": "celerite: Scalable 1D Gaussian Processes in C++, Python, and Julia",
     "url": "https://ui.adsabs.harvard.edu/abs/2017ascl.soft09008F",
     "volume": null,
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Price-Whelan, Adrian M.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.21105/joss.00357",
-    "page": 357,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2017-09-00",
-    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017JOSS....2..357P",
-    "volume": "2",
     "year": "2017"
   },
   {
@@ -3797,7 +3797,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 737,
+    "citations": 742,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4233,7 +4233,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 252,
+    "citations": 253,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4731,7 +4731,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5136,
+    "citations": 5146,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
