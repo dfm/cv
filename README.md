@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9799 /
-h-index: 37 (2021-09-17)
+ refereed: 74 / first author: 9 / citations: 9805 /
+h-index: 37 (2021-09-18)
 
 ## Refereed publications
 
@@ -260,7 +260,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[73
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[74
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -589,7 +589,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5146
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5150
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -635,7 +635,7 @@ imaging, ArXiv ([arXiv:1710.02428](http://arxiv.org/abs/1710.02428))
 Barnes, Rory; Deitrick, Russell; Luger, Rodrigo; Driscoll, Peter E.;
 *et al.* (incl. **DFM**), 2016, The Habitability of Proxima Centauri b
 I: Evolutionary Scenarios, ArXiv
-([arXiv:1608.06919](http://arxiv.org/abs/1608.06919)) \[[50
+([arXiv:1608.06919](http://arxiv.org/abs/1608.06919)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2016arXiv160806919B)\]
 
 Montet, Benjamin T.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
