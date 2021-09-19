@@ -606,35 +606,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Willard, Brandon T.",
-      "Osthege, Michael",
-      "Ho, George",
-      "Vieira, Ricardo",
-      "Wiecki, Thomas",
-      "Foreman-Mackey, Dan",
-      "Chaudhari, Kaustubh",
-      "Legrand, Nicolas",
-      "Kumar, Ravin",
-      "Lao, Junpeng",
-      "Abril-Pla, Oriol",
-      "Fonnesbeck, Chris",
-      "Goldman, Robert P.",
-      "Gorelli, Marco"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.4695331",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-04-15",
-    "title": "pymc-devs/aesara:",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4695331W",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Barentsen, Geert",
       "Hedges, Christina",
       "Vin{\\'\\i}cius, Z{\\'e}",
@@ -2268,30 +2239,6 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2650526",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/celerite: celerite v0.3.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
@@ -3797,7 +3744,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 742,
+    "citations": 743,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4731,7 +4678,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5150,
+    "citations": 5161,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
