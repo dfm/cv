@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9816 /
-h-index: 37 (2021-09-19)
+ refereed: 74 / first author: 9 / citations: 9825 /
+h-index: 37 (2021-09-20)
 
 ## Refereed publications
 
@@ -53,6 +53,13 @@ h-index: 37 (2021-09-19)
 
 <div class="list">
 
+
+Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
+Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
+giant planet with 2.7 per cent deep transits and a bound white dwarf
+companion](http://dx.doi.org/10.1093/mnras/stab2129)*, Monthly Notices
+of the Royal Astronomical Society, **507**, 4132
+([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 
 Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 *et al.* (incl. **DFM**), 2021, *[Masses and compositions of three small
@@ -90,13 +97,6 @@ Catalog and Observed Eccentricity Distribution for Year
 Journal Supplement Series, **255**, 6
 ([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
-
-Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
-Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
-giant planet with 2.7 per cent deep transits and a bound white dwarf
-companion](http://dx.doi.org/10.1093/mnras/stab2129)*, Monthly Notices
-of the Royal Astronomical Society
-([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[starry\_process: Interpretable Gaussian processes for stellar light
@@ -260,7 +260,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[74
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[75
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -331,7 +331,7 @@ Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 15](http://dx.doi.org/10.3847/1538-3881/aad230)*, The Astronomical
 Journal, **156**, 99
-([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[94
+([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[95
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
 
 Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
@@ -436,7 +436,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H)\]
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
 Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
 The Astronomical Journal, **152**, 206
-([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[63
+([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
@@ -589,7 +589,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5161
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5168
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -626,6 +626,11 @@ Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
 Daniel**, 2021, Analytic Light Curves in Reflected Light: Phase Curves,
 Occultations, and Non-Lambertian Scattering for Spherical Planets and
 Moons, ArXiv ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275))
+
+Martin, David V.; El-Badry, Kareem; Kunovac Hodžić, Vedad; Triaud,
+Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, TOI-1259Ab – a gas
+giant planet with 2.7% deep transits and a bound white dwarf companion,
+ArXiv ([arXiv:2101.02707](http://arxiv.org/abs/2101.02707))
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
@@ -751,7 +756,7 @@ Make some beautiful corner plots
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 167 stars / 37 forks  
+[**celerite**](https://github.com/dfm/celerite) — 167 stars / 38 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
