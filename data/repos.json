@@ -25,7 +25,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 41,
+              "forkCount": 42,
               "stargazers": {
                 "totalCount": 139
               },
@@ -40,7 +40,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 193,
+              "forkCount": 194,
               "stargazers": {
                 "totalCount": 358
               },

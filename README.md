@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9813 /
-h-index: 37 (2021-09-21)
+ refereed: 74 / first author: 9 / citations: 9816 /
+h-index: 37 (2021-09-22)
 
 ## Refereed publications
 
@@ -589,7 +589,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5161
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5163
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -737,11 +737,11 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 139 stars
-/ 41 forks  
+/ 42 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 358 stars / 193
+[**corner.py**](https://github.com/dfm/corner.py) — 358 stars / 194
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
