@@ -129,7 +129,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -388,6 +388,28 @@
     "year": "2021"
   },
   {
+    "arxiv": "2104.13715",
+    "authors": [
+      "Hitchcock, James A.",
+      "Hundertmark, Markus",
+      "Foreman-Mackey, Daniel",
+      "Bachelet, Etienne",
+      "Dominik, Martin",
+      "Street, Rachel",
+      "Tsapras, Yiannis"
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stab1114",
+    "page": 3561,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-07-00",
+    "title": "PyTorchDIA: a flexible, GPU-accelerated numerical approach to Difference Image Analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H",
+    "volume": "504",
+    "year": "2021"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Wang, Dun",
@@ -404,28 +426,6 @@
     "title": "K2-CPM: Causal Pixel Model for K2 data",
     "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft07024W",
     "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2104.13715",
-    "authors": [
-      "Hitchcock, James A.",
-      "Hundertmark, Markus",
-      "Foreman-Mackey, Daniel",
-      "Bachelet, Etienne",
-      "Dominik, Martin",
-      "Street, Rachel",
-      "Tsapras, Yiannis"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stab1114",
-    "page": 3561,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2021-07-00",
-    "title": "PyTorchDIA: a flexible, GPU-accelerated numerical approach to Difference Image Analysis",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H",
-    "volume": "504",
     "year": "2021"
   },
   {
@@ -1860,7 +1860,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 74,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -1879,7 +1879,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2179,7 +2179,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2404,7 +2404,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2931,7 +2931,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 136,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2984,7 +2984,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 37,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3035,7 +3035,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 276,
+    "citations": 280,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3086,7 +3086,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -3823,7 +3823,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 743,
+    "citations": 744,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4259,7 +4259,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 253,
+    "citations": 255,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4378,7 +4378,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -4757,7 +4757,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5163,
+    "citations": 5179,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

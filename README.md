@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9816 /
-h-index: 37 (2021-09-23)
+ refereed: 74 / first author: 9 / citations: 9848 /
+h-index: 37 (2021-09-24)
 
 ## Refereed publications
 
@@ -66,7 +66,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[10
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -260,7 +260,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[74
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[76
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -268,7 +268,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[25
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -282,7 +282,7 @@ Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, The Astronomical
 Journal, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[49
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
@@ -294,7 +294,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[83
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[84
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -346,7 +346,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[136
+\[[137
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -368,7 +368,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[37
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -376,7 +376,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[276
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[280
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -392,7 +392,7 @@ Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
 Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
 Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
 Journal, **154**, 254
-([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[36
+([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
@@ -550,7 +550,7 @@ Daniel**; *et al.*, 2015, *[Radial Velocity Observations and Light Curve
 Noise Modeling Confirm that Kepler-91b is a Giant Planet Orbiting a
 Giant Star](http://dx.doi.org/10.1088/0004-637X/800/1/46)*, The
 Astrophysical Journal, **800**, 46
-([arXiv:1408.3149](http://arxiv.org/abs/1408.3149)) \[[53
+([arXiv:1408.3149](http://arxiv.org/abs/1408.3149)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 
 **Foreman-Mackey, Daniel**; Hogg, David W.; & Morton, Timothy D., 2014,
@@ -589,7 +589,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5163
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5179
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -741,7 +741,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 358 stars / 194
+[**corner.py**](https://github.com/dfm/corner.py) — 359 stars / 194
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -755,7 +755,7 @@ Fast & scalable Gaussian Processes in one dimension
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 603 stars / 115 forks  
+[**daft**](https://github.com/daft-dev/daft) — 604 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
