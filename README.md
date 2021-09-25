@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 74 / first author: 9 / citations: 9848 /
-h-index: 37 (2021-09-24)
+h-index: 37 (2021-09-25)
 
 ## Refereed publications
 
@@ -732,7 +732,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1176 stars / 403 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1177 stars / 403 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
