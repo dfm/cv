@@ -865,7 +865,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 24,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2791,7 +2791,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2931,7 +2931,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 137,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -2948,7 +2948,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3421,7 +3421,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 186,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3823,7 +3823,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 744,
+    "citations": 748,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -3894,7 +3894,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 172,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4513,7 +4513,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 181,
+    "citations": 182,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4757,7 +4757,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5179,
+    "citations": 5195,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4781,7 +4781,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "software",
     "doi": null,
     "page": null,
