@@ -448,7 +448,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -536,6 +536,30 @@
     "pubdate": "2021-06-00",
     "title": "The unpopular Package: a Data-driven Approach to De-trend TESS Full Frame Image Light Curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210615063H",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Byler, Nell",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4737461",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-05-04",
+    "title": "dfm/python-fsps: python-fsps v0.4.1rc1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4737461J",
     "volume": null,
     "year": "2021"
   },
@@ -1326,7 +1350,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2774,7 +2798,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2791,7 +2815,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 37,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -2931,7 +2955,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 139,
+    "citations": 138,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3541,7 +3565,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -3823,7 +3847,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 748,
+    "citations": 747,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4278,7 +4302,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 108,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4513,7 +4537,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 182,
+    "citations": 181,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4757,7 +4781,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5195,
+    "citations": 5194,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
