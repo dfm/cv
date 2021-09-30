@@ -129,7 +129,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1696,7 +1696,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3847,7 +3847,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 748,
+    "citations": 749,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4302,7 +4302,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4781,7 +4781,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5198,
+    "citations": 5203,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4805,7 +4805,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "software",
     "doi": null,
     "page": null,
