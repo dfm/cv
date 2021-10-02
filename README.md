@@ -44,7 +44,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 9939 /
+ refereed: 74 / first author: 9 / citations: 10011 /
 h-index: 37 (2021-10-02)
 
 ## Refereed publications
@@ -477,8 +477,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
 Python](http://dx.doi.org/10.21105/joss.00024)*, The Journal of Open
-Source Software, **1**, 2 \[[988
-citations](https://scholar.google.com/scholar?cites=1835087844145558435,17836006976722650130,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,16003095824317425768)\]
+Source Software, **1**, 2 \[[1060
+citations](https://scholar.google.com/scholar?cites=1835087844145558435,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,17415935839493019063)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2016, *[Modeling confounding by half-sibling
