@@ -17,12 +17,12 @@ def get_number_of_citations(url):
     except Exception as e:
         print(e)
         return None
-    results = re.findall("([0-9]+) results", r.text)
+    results = re.findall("([0-9,]+) results", r.text)
     if not len(results):
         print("no results found")
         return None
     try:
-        return int(results[0])
+        return int(results[0].replace(",", ""))
     except Exception as e:
         print(e)
         return None
