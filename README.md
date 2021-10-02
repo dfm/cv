@@ -657,6 +657,15 @@ era, ArXiv ([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
 <div class="list">
 
 
+*Advanced probabilistic modeling*, 2021, Tutorial, Harley Wood Winter
+School of Astronomy, Australia.
+
+*Open-source software for probabilistic data analysis in astronomy*,
+2021, Seminar, Instituto de Astrofísica, Portugal.
+
+*Gaussian processes & stellar variability*, 2021, Seminar, CARMENES Team
+Meeting.
+
 *Extending JAX with custom C++ & CUDA*, 2021, Invited Talk, IRIS-HEP
 Topical Meeting, CERN.
 
