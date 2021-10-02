@@ -460,32 +460,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2011.09894",
-    "authors": [
-      "David, Trevor J.",
-      "Contardo, Gabriella",
-      "Sandoval, Angeli",
-      "Angus, Ruth",
-      "Lu, Yuxi Lucy",
-      "Bedell, Megan",
-      "Curtis, Jason L.",
-      "Foreman-Mackey, Daniel",
-      "Fulton, Benjamin J.",
-      "Grunblatt, Samuel K.",
-      "Petigura, Erik A."
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abf439",
-    "page": 265,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-06-00",
-    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
-    "volume": "161",
-    "year": "2021"
-  },
-  {
     "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -514,6 +488,32 @@
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&}amp; other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F",
     "volume": "6",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2011.09894",
+    "authors": [
+      "David, Trevor J.",
+      "Contardo, Gabriella",
+      "Sandoval, Angeli",
+      "Angus, Ruth",
+      "Lu, Yuxi Lucy",
+      "Bedell, Megan",
+      "Curtis, Jason L.",
+      "Foreman-Mackey, Daniel",
+      "Fulton, Benjamin J.",
+      "Grunblatt, Samuel K.",
+      "Petigura, Erik A."
+    ],
+    "citations": 10,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abf439",
+    "page": 265,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-06-00",
+    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
+    "volume": "161",
     "year": "2021"
   },
   {
@@ -4781,7 +4781,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5216,
+    "citations": 5221,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
