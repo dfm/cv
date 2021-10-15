@@ -141,6 +141,27 @@
     "year": "2021"
   },
   {
+    "arxiv": "2110.06271",
+    "authors": [
+      "Luger, Rodrigo",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Crossfield, Ian J. M.",
+      "Zhao, Lily L.",
+      "Hogg, David W."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-10-00",
+    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2107.14015",
     "authors": [
       "Gan, Tianjun",

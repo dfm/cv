@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 ## Publications
 
  refereed: 74 / first author: 9 / citations: 10069 /
-h-index: 37 (2021-10-14)
+h-index: 37 (2021-10-15)
 
 ## Refereed publications
 
@@ -611,6 +611,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 <div class="list">
 
 
+Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,
+Ian J. M.; *et al.*, 2021, Mapping stellar surfaces III: An Efficient,
+Scalable, and Open-Source Doppler Imaging Model, ArXiv
+([arXiv:2110.06271](http://arxiv.org/abs/2110.06271))
+
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2021, The unpopular Package: a Data-driven
 Approach to De-trend TESS Full Frame Image Light Curves, ArXiv
@@ -742,11 +747,11 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1181 stars / 403 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1181 stars / 402 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 142 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 143 stars
 / 41 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -761,11 +766,11 @@ Make some beautiful corner plots
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 169 stars / 38 forks  
+[**celerite**](https://github.com/dfm/celerite) — 170 stars / 38 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 606 stars / 116 forks  
+[**daft**](https://github.com/daft-dev/daft) — 606 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
