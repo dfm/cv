@@ -523,7 +523,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1740,7 +1740,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 58,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2472,7 +2472,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2498,7 +2498,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 78,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2842,7 +2842,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 94,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2999,7 +2999,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 140,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3036,7 +3036,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3103,7 +3103,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 284,
+    "citations": 286,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3806,7 +3806,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 175,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3891,7 +3891,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 754,
+    "citations": 756,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4825,7 +4825,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5252,
+    "citations": 5264,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
