@@ -234,7 +234,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -253,7 +253,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -339,6 +339,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01774",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.21105/joss.03071",
+    "page": 3071,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2021-07-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
+    "volume": "6",
+    "year": "2021"
+  },
+  {
     "arxiv": "2104.01970",
     "authors": [
       "Dong, Jiayin",
@@ -411,24 +429,6 @@
     "title": "Warm Jupiters in TESS Full-frame Images: A Catalog and Observed Eccentricity Distribution for Year 1",
     "url": "https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D",
     "volume": "255",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01774",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.21105/joss.03071",
-    "page": 3071,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2021-07-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
-    "volume": "6",
     "year": "2021"
   },
   {
@@ -572,7 +572,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -838,6 +838,26 @@
     "year": "2021"
   },
   {
+    "arxiv": "2103.03758",
+    "authors": [
+      "Bartoli{\\'c}, Fran",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Howell, Robert R.",
+      "Rathbun, Julie A."
+    ],
+    "citations": 3,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-03-00",
+    "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2009.11831",
     "authors": [
       "Tamayo, Daniel",
@@ -856,26 +876,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2103.03758",
-    "authors": [
-      "Bartoli{\\'c}, Fran",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Howell, Robert R.",
-      "Rathbun, Julie A."
-    ],
-    "citations": 2,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-03-00",
-    "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2103.06275",
     "authors": [
       "Luger, Rodrigo",
@@ -883,7 +883,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1496,7 +1496,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 40,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1825,7 +1825,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -1947,7 +1947,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2472,7 +2472,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 86,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2498,7 +2498,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -2842,7 +2842,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 96,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3016,7 +3016,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3806,7 +3806,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4327,7 +4327,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 259,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4825,7 +4825,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5264,
+    "citations": 5269,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
