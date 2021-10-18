@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 10117 /
-h-index: 37 (2021-10-17)
+ refereed: 74 / first author: 9 / citations: 10121 /
+h-index: 37 (2021-10-18)
 
 ## Refereed publications
 
@@ -231,7 +231,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[60
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[61
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
@@ -584,14 +584,14 @@ Brewer, Brendon J.; **Foreman-Mackey, Daniel**; & Hogg, David W., 2013,
 *[Probabilistic Catalogs for Crowded Stellar
 Fields](http://dx.doi.org/10.1088/0004-6256/146/1/7)*, The Astronomical
 Journal, **146**, 7 ([arXiv:1211.5805](http://arxiv.org/abs/1211.5805))
-\[[31
+\[[32
 citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 
 **Foreman-Mackey, Daniel**; Hogg, David W.; Lang, Dustin; & Goodman,
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5269
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5271
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
