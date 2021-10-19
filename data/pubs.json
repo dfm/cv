@@ -492,7 +492,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 46,
+    "citations": 49,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -715,7 +715,7 @@
       "Goldman, Robert P.",
       "Gorelli, Marco"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.4695331",
     "page": null,
@@ -1016,7 +1016,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -1496,7 +1496,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2472,7 +2472,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3052,7 +3052,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 40,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3103,7 +3103,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 286,
+    "citations": 289,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3891,7 +3891,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 756,
+    "citations": 757,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4327,7 +4327,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 260,
+    "citations": 261,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4599,7 +4599,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -4664,7 +4664,7 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Barbary, Kyle",
       "Hogg, David W.",
@@ -4673,10 +4673,10 @@
     "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
-    "page": 11020,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-07-00",
-    "title": "triangle.py: triangle.py v0.1.1",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-07-24",
+    "title": "triangle.py v0.1.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
@@ -4825,7 +4825,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5271,
+    "citations": 5279,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
