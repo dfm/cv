@@ -42,7 +42,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -523,7 +523,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3016,7 +3016,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3806,7 +3806,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 178,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3891,7 +3891,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 755,
+    "citations": 757,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4148,7 +4148,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -4327,7 +4327,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 261,
+    "citations": 262,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4825,7 +4825,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5272,
+    "citations": 5274,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
