@@ -141,6 +141,46 @@
     "year": "2021"
   },
   {
+    "arxiv": "2110.10707",
+    "authors": [
+      "Johnson, Marshall C.",
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Isaacson, Howard T.",
+      "Van Zandt, Judah",
+      "Ilyin, Ilya",
+      "Strassmeier, Klaus",
+      "Mallonn, Matthias",
+      "Zhou, George",
+      "Mann, Andrew W.",
+      "Livingston, John H.",
+      "Luger, Rodrigo",
+      "Dai, Fei",
+      "Weiss, Lauren M.",
+      "Mo{\\v{c}}nik, Teo",
+      "Giacalone, Steven",
+      "Hill, Michelle L.",
+      "Rice, Malena",
+      "Blunt, Sarah",
+      "Rubenzahl, Ryan",
+      "Dalba, Paul A.",
+      "Esquerdo, Gilbert A.",
+      "Berlind, Perry",
+      "Calkins, Michael L.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-10-00",
+    "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2110.06271",
     "authors": [
       "Luger, Rodrigo",
@@ -572,7 +612,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -933,7 +973,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1394,7 +1434,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1762,7 +1802,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1928,7 +1968,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3103,7 +3143,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 287,
+    "citations": 288,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3215,7 +3255,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -3489,7 +3529,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3891,7 +3931,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 757,
+    "citations": 760,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4825,7 +4865,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5274,
+    "citations": 5280,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
