@@ -563,7 +563,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2554,7 +2554,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 92,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3973,7 +3973,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 762,
+    "citations": 765,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4061,7 +4061,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4409,7 +4409,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 265,
+    "citations": 266,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4907,7 +4907,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5299,
+    "citations": 5297,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
