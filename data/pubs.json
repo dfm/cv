@@ -129,7 +129,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1015,7 +1015,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1476,7 +1476,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 49,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1536,7 +1536,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7d38",
     "page": 202,
@@ -1578,7 +1578,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -1822,7 +1822,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 61,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2010,7 +2010,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2029,7 +2029,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2047,7 +2047,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -2329,7 +2329,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2554,7 +2554,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3081,7 +3081,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3134,7 +3134,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3185,7 +3185,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 291,
+    "citations": 292,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3203,7 +3203,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3571,7 +3571,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 192,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3973,7 +3973,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 765,
+    "citations": 769,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4312,7 +4312,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -4409,7 +4409,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 266,
+    "citations": 268,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4907,7 +4907,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5297,
+    "citations": 5314,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
