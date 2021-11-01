@@ -379,24 +379,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.01774",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.21105/joss.03071",
-    "page": 3071,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2021-07-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
-    "volume": "6",
-    "year": "2021"
-  },
-  {
     "arxiv": "2104.01970",
     "authors": [
       "Dong, Jiayin",
@@ -460,7 +442,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -469,6 +451,24 @@
     "title": "Warm Jupiters in TESS Full-frame Images: A Catalog and Observed Eccentricity Distribution for Year 1",
     "url": "https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D",
     "volume": "255",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.01774",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.21105/joss.03071",
+    "page": 3071,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2021-07-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
+    "volume": "6",
     "year": "2021"
   },
   {
@@ -1578,7 +1578,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2010,7 +2010,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4044,7 +4044,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 176,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4409,7 +4409,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 268,
+    "citations": 269,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4907,7 +4907,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5328,
+    "citations": 5335,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

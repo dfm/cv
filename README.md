@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 10249 /
-h-index: 38 (2021-10-31)
+ refereed: 74 / first author: 9 / citations: 10260 /
+h-index: 38 (2021-11-01)
 
 ## Refereed publications
 
@@ -91,20 +91,20 @@ Journal, **162**, 123
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
+Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
+Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
+Catalog and Observed Eccentricity Distribution for Year
+1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
+Journal Supplement Series, **255**, 6
+([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
+
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[starry\_process: Interpretable Gaussian processes for stellar light
 curves](http://dx.doi.org/10.21105/joss.03071)*, The Journal of Open
 Source Software, **6**, 3071
 ([arXiv:2102.01774](http://arxiv.org/abs/2102.01774)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L)\]
-
-Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
-Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
-Catalog and Observed Eccentricity Distribution for Year
-1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
-Journal Supplement Series, **255**, 6
-([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
 
 Hitchcock, James A.; Hundertmark, Markus; **Foreman-Mackey, Daniel**;
 Bachelet, Etienne; *et al.*, 2021, *[PyTorchDIA: a flexible,
@@ -216,7 +216,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[46
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -262,7 +262,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[82
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[83
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -474,7 +474,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[176
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[177
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -591,7 +591,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5328
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5335
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -754,7 +754,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1182 stars / 403 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1183 stars / 403 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
