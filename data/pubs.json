@@ -3973,7 +3973,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 771,
+    "citations": 772,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4212,7 +4212,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 49,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4816,7 +4816,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -4907,7 +4907,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5331,
+    "citations": 5336,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -4931,7 +4931,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "software",
     "doi": null,
     "page": null,
