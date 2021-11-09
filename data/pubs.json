@@ -563,7 +563,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -589,7 +589,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -1015,7 +1015,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1098,7 +1098,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -1476,7 +1476,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 51,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1844,7 +1844,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -1923,7 +1923,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2029,7 +2029,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2924,7 +2924,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3081,7 +3081,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 144,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3185,7 +3185,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 294,
+    "citations": 295,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3888,7 +3888,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 181,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3973,7 +3973,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 776,
+    "citations": 781,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4212,7 +4212,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4907,7 +4907,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5352,
+    "citations": 5367,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
