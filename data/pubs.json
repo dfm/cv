@@ -1015,7 +1015,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2924,7 +2924,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 100,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3081,7 +3081,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 145,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3185,7 +3185,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 295,
+    "citations": 294,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3888,7 +3888,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 183,
+    "citations": 182,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -3957,7 +3957,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -3973,7 +3973,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 781,
+    "citations": 780,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4907,7 +4907,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5367,
+    "citations": 5361,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
