@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 10332 /
-h-index: 38 (2021-11-15)
+ refereed: 74 / first author: 9 / citations: 10336 /
+h-index: 38 (2021-11-16)
 
 ## Refereed publications
 
@@ -591,7 +591,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5375
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5379
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -611,6 +611,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.; &
+**Foreman-Mackey, Daniel**, 2021, Three-dimensional dust density
+structure of the Orion, Cygnus X,Taurus, and Perseus star-forming
+regions, ArXiv ([arXiv:2111.06672](http://arxiv.org/abs/2111.06672))
 
 Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
 Howard T.; *et al.* (incl. **DFM**), 2021, An Aligned Orbit for the
@@ -754,7 +759,7 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1184 stars / 403 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1185 stars / 403 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 

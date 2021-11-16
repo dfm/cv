@@ -54,6 +54,25 @@
     "year": "2021"
   },
   {
+    "arxiv": "2111.06672",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-11-00",
+    "title": "Three-dimensional dust density structure of the Orion, Cygnus X,Taurus, and Perseus star-forming regions",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211106672D",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, V.",
@@ -4681,7 +4700,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -4907,7 +4926,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5375,
+    "citations": 5379,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
