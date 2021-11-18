@@ -44,7 +44,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 10348 /
+ refereed: 74 / first author: 9 / citations: 10428 /
 h-index: 38 (2021-11-18)
 
 ## Refereed publications
@@ -115,7 +115,7 @@ the Royal Astronomical Society, **504**, 3561
 
 **Foreman-Mackey, Daniel**; Luger, Rodrigo; Agol, Eric; Barclay, Thomas;
 *et al.*, 2021, *[exoplanet: Gradient-based probabilistic inference for
-exoplanet data &amp; other astronomical time
+exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
 ([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[16
@@ -148,7 +148,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[41
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -262,7 +262,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[84
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[85
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -270,7 +270,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[32
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -333,14 +333,14 @@ Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 15](http://dx.doi.org/10.3847/1538-3881/aad230)*, The Astronomical
 Journal, **156**, 99
-([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[101
+([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[102
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
 
 Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
 to Measure Centroids of Spectral
 Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
 the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[37
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
@@ -348,7 +348,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[146
+\[[148
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -378,7 +378,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[297
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[298
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -454,7 +454,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, The
 Astronomical Journal, **152**, 100
-([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[183
+([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[184
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -479,13 +479,13 @@ citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
 Python](http://dx.doi.org/10.21105/joss.00024)*, The Journal of Open
-Source Software, **1**, 2 \[[1060
+Source Software, **1**, 2 \[[1100
 citations](https://scholar.google.com/scholar?cites=1835087844145558435,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,17415935839493019063)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2016, *[Modeling confounding by half-sibling
 regression](http://dx.doi.org/10.1073/pnas.1511656113)*, PNAS, **113**,
-27 \[[45
+27 \[[46
 citations](https://scholar.google.com/scholar?cites=2429561747341807338)\]
 
 Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
@@ -499,7 +499,7 @@ Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;
 Hogg, David W.; & O’Neil, Michael, 2016, *[Fast Direct Methods for
 Gaussian Processes](http://dx.doi.org/10.1109/TPAMI.2015.2448083)*, IEEE
 Transactions on Pattern Analysis and Machine Intelligence, **38**, 252
-([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[394
+([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[412
 citations](https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489)\]
 
 Montet, Benjamin T.; Morton, Timothy D.; **Foreman-Mackey, Daniel**;
@@ -591,7 +591,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5384
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5396
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
