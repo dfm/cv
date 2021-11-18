@@ -578,7 +578,7 @@
     "page": null,
     "pub": "Zenodo",
     "pubdate": "2021-06-21",
-    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data and other astronomical time series",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...1998447F",
     "volume": null,
     "year": "2021"
@@ -609,7 +609,7 @@
     "page": 3285,
     "pub": "The Journal of Open Source Software",
     "pubdate": "2021-06-00",
-    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&}amp; other astronomical time series",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F",
     "volume": "6",
     "year": "2021"
@@ -1055,7 +1055,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2050,7 +2050,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2069,7 +2069,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2964,7 +2964,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -2981,7 +2981,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -3022,7 +3022,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3121,7 +3121,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 146,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3225,7 +3225,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 297,
+    "citations": 298,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3928,7 +3928,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4013,7 +4013,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 786,
+    "citations": 789,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4947,7 +4947,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5384,
+    "citations": 5396,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -5050,7 +5050,7 @@
     "page": 10,
     "pub": "Masters Thesis",
     "pubdate": "2010-11-00",
-    "title": "A Fully Self-Consistent Constraint on the Mass of M31 {\\&}amp; the Local Group",
+    "title": "A Fully Self-Consistent Constraint on the Mass of M31 {\\&} the Local Group",
     "url": "https://ui.adsabs.harvard.edu/abs/2010MsT.........10F",
     "volume": null,
     "year": "2010"
