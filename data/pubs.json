@@ -54,6 +54,27 @@
     "year": "2021"
   },
   {
+    "arxiv": "2111.08660",
+    "authors": [
+      "Feinstein, Adina D.",
+      "David, Trevor J.",
+      "Montet, Benjamin T.",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mann, Andrew W."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-11-00",
+    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211108660F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2111.06672",
     "authors": [
       "Dharmawardena, T. E.",
@@ -1034,7 +1055,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1841,7 +1862,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 65,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2029,7 +2050,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2048,7 +2069,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -3627,7 +3648,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -3992,7 +4013,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 785,
+    "citations": 786,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4063,7 +4084,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4926,7 +4947,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5379,
+    "citations": 5384,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
