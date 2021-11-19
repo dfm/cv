@@ -2815,23 +2815,6 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Barentsen, Geert"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2249795",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2018-12-13",
-    "title": "dfm/exoplanet: exoplanet v0.1.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...2249795F",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1810.10009",
     "authors": [
       "Brewer, John M.",
