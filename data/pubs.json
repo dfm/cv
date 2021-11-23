@@ -666,6 +666,32 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Savel, Arjun",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Czekala, Ian",
+      "Price-Whelan, Adrian",
+      "Hedges, Christina",
+      "Emilygilbert",
+      "Bouma, Luke",
+      "Brandt, Timothy D",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4737444",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-05-04",
+    "title": "exoplanet-dev/exoplanet: exoplanet v0.5.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4737444F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Johnson, Ben",
       "Foreman-Mackey, Dan",
       "Sick, Jonathan",
@@ -1138,7 +1164,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -2036,6 +2062,30 @@
     "year": "2019"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Hogg, David W.",
+      "Fulford, David S.",
+      "Daft-Bot",
+      "Dobos, L{\\'a}szl{\\'o}",
+      "Gerold, Pierre",
+      "Lindemann, Oliver",
+      "Murphy, Kevin P",
+      "McFee, Brian"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3414932",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-09-16",
+    "title": "daft-dev/daft: daft v0.1.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3414932F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1903.09152",
     "authors": [
       "Feinstein, Adina D.",
@@ -2815,6 +2865,23 @@
     "year": "2018"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2249795",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-12-13",
+    "title": "dfm/exoplanet: exoplanet v0.1.2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...2249795F",
+    "volume": null,
+    "year": "2018"
+  },
+  {
     "arxiv": "1810.10009",
     "authors": [
       "Brewer, John M.",
@@ -2927,7 +2994,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -4235,7 +4302,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4930,7 +4997,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5412,
+    "citations": 5410,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
