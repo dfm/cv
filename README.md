@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 10461 /
-h-index: 38 (2021-11-25)
+ refereed: 74 / first author: 9 / citations: 10467 /
+h-index: 38 (2021-11-26)
 
 ## Refereed publications
 
@@ -340,7 +340,7 @@ Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
 to Measure Centroids of Spectral
 Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
 the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[38
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
@@ -591,7 +591,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5419
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5424
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -764,16 +764,16 @@ University).
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1190 stars / 405 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1192 stars / 405 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 148 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 149 stars
 / 41 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 370 stars / 198
+[**corner.py**](https://github.com/dfm/corner.py) — 369 stars / 198
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
