@@ -169,7 +169,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1888,7 +1888,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3188,7 +3188,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3978,7 +3978,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 185,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4302,7 +4302,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4499,7 +4499,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 270,
+    "citations": 271,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4518,7 +4518,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -4819,7 +4819,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -4842,7 +4842,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -4997,7 +4997,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5433,
+    "citations": 5440,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
