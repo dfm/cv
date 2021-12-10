@@ -1031,7 +1031,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1888,7 +1888,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -1910,7 +1910,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -3171,7 +3171,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3698,7 +3698,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4063,7 +4063,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 800,
+    "citations": 802,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4753,7 +4753,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -4997,7 +4997,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5472,
+    "citations": 5477,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
