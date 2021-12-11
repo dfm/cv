@@ -986,6 +986,25 @@
     "year": "2021"
   },
   {
+    "arxiv": "2103.06275",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Bartoli{\\'c}, Fran",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 3,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-03-00",
+    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
@@ -1021,25 +1040,6 @@
     "title": "Stability constrained characterization of multiplanet systems",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
     "volume": "501",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2103.06275",
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Bartoli{\\'c}, Fran",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-03-00",
-    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -1081,7 +1081,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3208,7 +3208,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 95,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3275,7 +3275,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 303,
+    "citations": 305,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3698,7 +3698,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 60,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4997,7 +4997,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5477,
+    "citations": 5483,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

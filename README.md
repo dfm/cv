@@ -44,8 +44,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 10558 /
-h-index: 38 (2021-12-10)
+ refereed: 74 / first author: 9 / citations: 10571 /
+h-index: 38 (2021-12-11)
 
 ## Refereed publications
 
@@ -148,7 +148,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[42
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -363,7 +363,7 @@ Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, Monthly Notices of
 the Royal Astronomical Society, **474**, 2094
-([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[95
+([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[97
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -378,7 +378,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[303
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[305
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -422,7 +422,7 @@ Rix, Hans-Walter, 2017, *[The Joker: A Custom Monte Carlo Sampler for
 Binary-star and Exoplanet Radial Velocity
 Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, The Astrophysical
 Journal, **837**, 20
-([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[60
+([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
 **Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
@@ -591,7 +591,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5477
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5483
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -638,17 +638,17 @@ Approach to De-trend TESS Full Frame Image Light Curves, ArXiv
 ([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210615063H)\]
 
-Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
-Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
-surface in the near-infrared I: Inferring static maps, ArXiv
-([arXiv:2103.03758](http://arxiv.org/abs/2103.03758)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B)\]
-
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
 Daniel**, 2021, Analytic Light Curves in Reflected Light: Phase Curves,
 Occultations, and Non-Lambertian Scattering for Spherical Planets and
 Moons, ArXiv ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L)\]
+
+Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
+Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
+surface in the near-infrared I: Inferring static maps, ArXiv
+([arXiv:2103.03758](http://arxiv.org/abs/2103.03758)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
@@ -783,7 +783,7 @@ Make some beautiful corner plots
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 172 stars / 38 forks  
+[**celerite**](https://github.com/dfm/celerite) — 173 stars / 38 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
