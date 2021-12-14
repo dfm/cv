@@ -42,6 +42,42 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 </div>
 
+## Popular open-source software
+
+
+
+<div class="list">
+
+
+[**emcee**](https://github.com/dfm/emcee) — 1194 stars / 408 forks  
+The Python ensemble sampling toolkit for affine-invariant MCMC
+[\[docs\]](https://emcee.readthedocs.io)
+
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 151 stars
+/ 42 forks  
+Fast & scalable MCMC for all your exoplanet needs!
+[\[docs\]](https://docs.exoplanet.codes)
+
+[**corner.py**](https://github.com/dfm/corner.py) — 374 stars / 197
+forks  
+Make some beautiful corner plots
+[\[docs\]](http://corner.readthedocs.io)
+
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 40 stars /
+4 forks  
+Fast & scalable Gaussian Processes in one dimension
+[\[docs\]](https://celerite2.readthedocs.io)
+
+[**celerite**](https://github.com/dfm/celerite) — 173 stars / 38 forks  
+Scalable 1D Gaussian Processes in C++, Python, and Julia
+[\[docs\]](http://celerite.rtfd.io)
+
+[**daft**](https://github.com/daft-dev/daft) — 614 stars / 115 forks  
+Render probabilistic graphical models using matplotlib
+[\[docs\]](https://docs.daft-pgm.org)
+
+</div>
+
 ## Publications
 
  refereed: 74 / first author: 9 / citations: 10636 /
@@ -757,42 +793,6 @@ deep learning*, 2014, Astro Hack Week, University of Washington.
 *An astronomer’s introduction to Gaussian processes*, 2014, Bayesian
 Computing for Astronomical Data Analysis (Summer school at Penn State
 University).
-
-</div>
-
-## Popular open-source software
-
-
-
-<div class="list">
-
-
-[**emcee**](https://github.com/dfm/emcee) — 1194 stars / 408 forks  
-The Python ensemble sampling toolkit for affine-invariant MCMC
-[\[docs\]](https://emcee.readthedocs.io)
-
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 151 stars
-/ 42 forks  
-Fast & scalable MCMC for all your exoplanet needs!
-[\[docs\]](https://docs.exoplanet.codes)
-
-[**corner.py**](https://github.com/dfm/corner.py) — 374 stars / 197
-forks  
-Make some beautiful corner plots
-[\[docs\]](http://corner.readthedocs.io)
-
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 40 stars /
-4 forks  
-Fast & scalable Gaussian Processes in one dimension
-[\[docs\]](https://celerite2.readthedocs.io)
-
-[**celerite**](https://github.com/dfm/celerite) — 173 stars / 38 forks  
-Scalable 1D Gaussian Processes in C++, Python, and Julia
-[\[docs\]](http://celerite.rtfd.io)
-
-[**daft**](https://github.com/daft-dev/daft) — 614 stars / 115 forks  
-Render probabilistic graphical models using matplotlib
-[\[docs\]](https://docs.daft-pgm.org)
 
 </div>
 
