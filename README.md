@@ -15,8 +15,6 @@ Flatiron Institute
 
 ## Education
 
-
-
 <div class="list">
 
 
@@ -31,8 +29,6 @@ BSc 2008, Department of Physics, McGill University, Canada.
 
 ## Positions
 
-
-
 <div class="list">
 
 
@@ -43,8 +39,6 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 </div>
 
 ## Popular open-source software
-
-
 
 <div class="list">
 
@@ -80,12 +74,10 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
- refereed: 74 / first author: 9 / citations: 10636 /
-h-index: 38 (2021-12-14)
+refereed: 74 / first author: 9 / citations: 10636 / h-index: 38
+(2021-12-15)
 
-## Refereed publications
-
-
+### Refereed publications
 
 <div class="list">
 
@@ -641,9 +633,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 </div>
 
-## Preprints & white papers
-
-
+### Preprints & white papers
 
 <div class="list">
 
@@ -710,8 +700,6 @@ era, ArXiv ([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
 </div>
 
 ## Selected invited talks & tutorials
-
-
 
 <div class="list">
 
@@ -798,8 +786,6 @@ University).
 
 ## Grants
 
-
-
 <div class="list">
 
 
@@ -823,8 +809,6 @@ exoplanets using K2*, 100,000 CPU hours, 2015–2016
 
 ## Honors
 
-
-
 <div class="list">
 
 
@@ -844,14 +828,15 @@ NSERC Undergraduate Summer Research Award, 2007.
 
 ## Professional service & activities
 
-
-
 <div class="list">
 
 
 Topic Editor — Journal of Open Source Software
 
-Active Referee — AAS Journals, MNRAS, PASP, Journal of Statistical
-Software, Journal of Open Source Software
+Active Referee — AAS Journals, MNRAS, PASP, A&A, Journal of Statistical
+Software, Journal on Uncertainty Quantification, Journal of Open Source
+Software
+
+Panelist — NSF, NASA, LSSTC
 
 </div>
