@@ -31,6 +31,20 @@
   \newcommand{\arxiv}[1]{{\href{http://arxiv.org/abs/#1}{arXiv:{#1}}}}
 
 % Section headings.
+\renewcommand\familydefault{\sfdefault}
+\usepackage{titlesec}
+
+\titleformat{\subsection}
+{\normalfont\sffamily\large\bfseries}
+{}{0pt}{}
+
+\titleformat{\subsubsection}
+{\normalfont\sffamily\bfseries}
+{}{0pt}{}
+
+\titlespacing{\subsection}{0pt}{2\parskip}{0pt}
+\titlespacing{\subsubsection}{0pt}{\parskip}{0pt}
+
 \newcommand{\cvheading}[1]{\addvspace{1ex}\pagebreak[2]\par\textbf{#1}\nopagebreak\vspace{-0.4em}}
 
 % Set up the custom unordered list.
