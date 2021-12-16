@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1194 stars / 408 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1194 stars / 407 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -74,8 +74,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 74 / first author: 9 / citations: 10636 / h-index: 38
-(2021-12-15)
+refereed: 74 / first author: 9 / citations: 10646 / h-index: 38
+(2021-12-16)
 
 ### Refereed publications
 
@@ -290,7 +290,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[86
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[87
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -331,7 +331,7 @@ Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, The
 Astronomical Journal, **157**, 61
-([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[82
+([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[83
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
@@ -414,7 +414,7 @@ Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
 Magnetic Cycles of Sun-like
 Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
 Journal, **851**, 116
-([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[54
+([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[55
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -502,7 +502,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[180
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[181
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -619,7 +619,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5493
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5497
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -661,7 +661,7 @@ Young Planet V1298 Tau b, ArXiv
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2021, The unpopular Package: a Data-driven
 Approach to De-trend TESS Full Frame Image Light Curves, ArXiv
-([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[4
+([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210615063H)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -679,7 +679,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B)\]
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
 imaging, ArXiv ([arXiv:1710.02428](http://arxiv.org/abs/1710.02428))
-\[[8 citations](https://ui.adsabs.harvard.edu/abs/2017arXiv171002428W)\]
+\[[9 citations](https://ui.adsabs.harvard.edu/abs/2017arXiv171002428W)\]
 
 Barnes, Rory; Deitrick, Russell; Luger, Rodrigo; Driscoll, Peter E.;
 *et al.* (incl. **DFM**), 2016, The Habitability of Proxima Centauri b
