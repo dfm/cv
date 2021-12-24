@@ -74,8 +74,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 74 / first author: 9 / citations: 10688 / h-index: 38
-(2021-12-23)
+refereed: 74 / first author: 9 / citations: 10695 / h-index: 38
+(2021-12-24)
 
 ### Refereed publications
 
@@ -414,7 +414,7 @@ Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
 Magnetic Cycles of Sun-like
 Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
 Journal, **851**, 116
-([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[56
+([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -619,7 +619,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5516
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5522
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
