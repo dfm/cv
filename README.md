@@ -43,16 +43,16 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1194 stars / 407 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1194 stars / 408 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 151 stars
-/ 42 forks  
+/ 43 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 375 stars / 197
+[**corner.py**](https://github.com/dfm/corner.py) — 376 stars / 198
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -75,7 +75,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 74 / first author: 9 / citations: 10699 / h-index: 38
-(2021-12-25)
+(2021-12-26)
 
 ### Refereed publications
 
