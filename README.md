@@ -75,7 +75,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 74 / first author: 9 / citations: 10702 / h-index: 38
-(2021-12-27)
+(2021-12-28)
 
 ### Refereed publications
 
