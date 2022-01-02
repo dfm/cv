@@ -2503,7 +2503,7 @@
       "Yanamandra-Fisher, Padma A.",
       "Young, C. Alex"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": null,
     "page": 355,
@@ -2889,7 +2889,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -4063,7 +4063,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 821,
+    "citations": 822,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4302,7 +4302,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4499,7 +4499,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 276,
+    "citations": 275,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4997,7 +4997,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5534,
+    "citations": 5540,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
