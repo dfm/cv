@@ -169,7 +169,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -178,27 +178,6 @@
     "title": "Masses and compositions of three small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V",
     "volume": "507",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2110.06271",
-    "authors": [
-      "Luger, Rodrigo",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Crossfield, Ian J. M.",
-      "Zhao, Lily L.",
-      "Hogg, David W."
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -238,6 +217,27 @@
     "pubdate": "2021-10-00",
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2110.06271",
+    "authors": [
+      "Luger, Rodrigo",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Crossfield, Ian J. M.",
+      "Zhao, Lily L.",
+      "Hogg, David W."
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-10-00",
+    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
     "volume": null,
     "year": "2021"
   },
@@ -629,7 +629,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -725,7 +725,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -1238,7 +1238,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -2100,7 +2100,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3293,7 +3293,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3698,7 +3698,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 63,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4379,7 +4379,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -4518,7 +4518,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
