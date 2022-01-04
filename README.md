@@ -48,7 +48,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 152 stars
-/ 42 forks  
+/ 43 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
@@ -62,7 +62,7 @@ Make some beautiful corner plots
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
 
-[**celerite**](https://github.com/dfm/celerite) — 174 stars / 38 forks  
+[**celerite**](https://github.com/dfm/celerite) — 174 stars / 39 forks  
 Scalable 1D Gaussian Processes in C++, Python, and Julia
 [\[docs\]](http://celerite.rtfd.io)
 
@@ -74,8 +74,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 74 / first author: 9 / citations: 10757 / h-index: 38
-(2022-01-03)
+refereed: 74 / first author: 9 / citations: 10764 / h-index: 38
+(2022-01-04)
 
 ### Refereed publications
 
@@ -620,7 +620,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5540
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5547
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
