@@ -74,8 +74,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 74 / first author: 9 / citations: 10764 / h-index: 38
-(2022-01-07)
+refereed: 74 / first author: 9 / citations: 10765 / h-index: 39
+(2022-01-08)
 
 ### Refereed publications
 
@@ -567,7 +567,7 @@ Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
 Function in M31
 Clusters](http://dx.doi.org/10.1088/0004-637X/806/2/198)*, The
 Astrophysical Journal, **806**, 198
-([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[37
+([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
