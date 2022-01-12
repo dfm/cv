@@ -48,7 +48,7 @@ The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 153 stars
-/ 43 forks  
+/ 44 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
@@ -75,7 +75,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 74 / first author: 9 / citations: 10779 / h-index: 39
-(2022-01-11)
+(2022-01-12)
 
 ### Refereed publications
 
