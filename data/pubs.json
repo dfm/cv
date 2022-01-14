@@ -1,5 +1,37 @@
 [
   {
+    "arxiv": "2201.04197",
+    "authors": [
+      "Brande, Jonathan",
+      "Crossfield, Ian J. M.",
+      "Kreidberg, Laura",
+      "Oklop{\\v{c}}i{\\'c}, Antonija",
+      "Polanski, Alex S.",
+      "Barman, Travis",
+      "Benneke, Bj{\\\"o}rn",
+      "Christiansen, Jessie L.",
+      "Dragomir, Diana",
+      "Foreman-Mackey, Daniel",
+      "Fortney, Jonathan J.",
+      "Greene, Thomas P.",
+      "Howard, Andrew W.",
+      "Knutson, Heather A.",
+      "Lothringer, Joshua D.",
+      "Mikal-Evans, Thomas",
+      "Morley, Caroline V."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-01-00",
+    "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220104197B",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2101.02707",
     "authors": [
       "Martin, David V.",
@@ -169,7 +201,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1156,7 +1188,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1617,7 +1649,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2719,7 +2751,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2745,7 +2777,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3089,7 +3121,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3106,7 +3138,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -3263,7 +3295,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3350,7 +3382,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 310,
+    "citations": 312,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3419,7 +3451,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -3736,7 +3768,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 199,
+    "citations": 200,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3773,7 +3805,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4053,7 +4085,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 187,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4122,7 +4154,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4138,7 +4170,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 825,
+    "citations": 827,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4209,7 +4241,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 183,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4574,7 +4606,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 276,
+    "citations": 278,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4648,7 +4680,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -5072,7 +5104,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5556,
+    "citations": 5569,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
