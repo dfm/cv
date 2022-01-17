@@ -194,14 +194,14 @@
       "Seager, S.",
       "Serrano, L. M.",
       "Smith, A. M. S.",
-      "Mascare{\\~n}o, A. Su{\\'a}rez",
+      "Su{\\'a}rez Mascare{\\~n}o, A.",
       "Subjak, J.",
       "Twicken, J. D.",
       "Udry, S.",
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -710,7 +710,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1188,7 +1188,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1751,7 +1751,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2042,7 +2042,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2207,7 +2207,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2526,7 +2526,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2751,7 +2751,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2777,7 +2777,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3382,7 +3382,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 314,
+    "citations": 315,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4170,7 +4170,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 830,
+    "citations": 831,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4625,7 +4625,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 117,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -5104,7 +5104,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5575,
+    "citations": 5578,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
