@@ -74,7 +74,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -679,7 +679,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -710,7 +710,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -809,7 +809,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -1751,7 +1751,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 52,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2042,7 +2042,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 41,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2207,7 +2207,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 89,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2751,7 +2751,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 104,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2777,7 +2777,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 88,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4170,7 +4170,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 831,
+    "citations": 830,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4427,7 +4427,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 25,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -4625,7 +4625,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 119,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -5104,7 +5104,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5578,
+    "citations": 5574,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
