@@ -12,7 +12,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 410,
               "stargazers": {
-                "totalCount": 1197
+                "totalCount": 1196
               },
               "watchers": {
                 "totalCount": 86
@@ -55,7 +55,7 @@
               "description": "Fast & scalable Gaussian Processes in one dimension",
               "url": "https://github.com/exoplanet-dev/celerite2",
               "homepageUrl": "https://celerite2.readthedocs.io",
-              "forkCount": 4,
+              "forkCount": 5,
               "stargazers": {
                 "totalCount": 41
               },
