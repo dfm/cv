@@ -1188,7 +1188,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1318,7 +1318,7 @@
       "Brodie, Jean",
       "Strader, Jay"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aba616",
     "page": 95,
@@ -1995,7 +1995,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2207,7 +2207,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3382,7 +3382,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 315,
+    "citations": 316,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4170,7 +4170,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 832,
+    "citations": 833,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4409,7 +4409,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4860,7 +4860,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -5104,7 +5104,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5582,
+    "citations": 5591,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
