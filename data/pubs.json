@@ -710,7 +710,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 17,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1649,7 +1649,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2207,7 +2207,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2751,7 +2751,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3382,7 +3382,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 316,
+    "citations": 317,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3433,7 +3433,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -3888,7 +3888,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -4170,7 +4170,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 833,
+    "citations": 834,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5104,7 +5104,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5596,
+    "citations": 5601,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
