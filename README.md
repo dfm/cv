@@ -74,8 +74,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 74 / first author: 9 / citations: 10916 / h-index: 39
-(2022-01-24)
+refereed: 74 / first author: 9 / citations: 10921 / h-index: 39
+(2022-01-25)
 
 ### Refereed publications
 
@@ -87,7 +87,7 @@ Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
 giant planet with 2.7 per cent deep transits and a bound white dwarf
 companion](http://dx.doi.org/10.1093/mnras/stab2129)*, Monthly Notices
 of the Royal Astronomical Society, **507**, 4132
-([arXiv:2101.02707](http://arxiv.org/abs/2101.02707)) \[[2
+([arXiv:2101.02707](http://arxiv.org/abs/2101.02707)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.4132M)\]
 
 Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
@@ -109,7 +109,7 @@ David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[10
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -229,7 +229,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[57
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -458,7 +458,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
 Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
 The Astronomical Journal, **152**, 206
-([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[66
+([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[67
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
@@ -521,7 +521,7 @@ Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
 *[Systematics-insensitive Periodic Signal Search with
 K2](http://dx.doi.org/10.3847/0004-637X/818/2/109)*, The Astrophysical
 Journal, **818**, 109
-([arXiv:1505.07105](http://arxiv.org/abs/1505.07105)) \[[24
+([arXiv:1505.07105](http://arxiv.org/abs/1505.07105)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A)\]
 
 Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;

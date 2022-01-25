@@ -74,7 +74,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -103,6 +103,26 @@
     "pubdate": "2021-11-00",
     "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211108660F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Villaume, A.",
+      "Foreman-Mackey, D.",
+      "Romanowsky, A. J.",
+      "Brodie, J.",
+      "Strader, J."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2021-11-00",
+    "title": "VizieR Online Data Catalog: New M87 GCs metallicities from Keck {\\&} MMT sp. (Villaume+, 2020)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..19000095V",
     "volume": null,
     "year": "2021"
   },
@@ -422,7 +442,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -1649,7 +1669,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3860,7 +3880,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -4170,7 +4190,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 834,
+    "citations": 833,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4427,7 +4447,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
