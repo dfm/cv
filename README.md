@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1194 stars / 410 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1195 stars / 410 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -75,7 +75,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 74 / first author: 9 / citations: 10921 / h-index: 39
-(2022-01-25)
+(2022-01-26)
 
 ### Refereed publications
 
