@@ -221,7 +221,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 19,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -699,7 +699,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 54,
+    "citations": 56,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -730,7 +730,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 20,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -756,7 +756,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -1120,7 +1120,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1208,7 +1208,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 56,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1771,7 +1771,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 53,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2116,7 +2116,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2201,7 +2201,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3414932",
     "page": null,
@@ -2227,7 +2227,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 94,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2771,7 +2771,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 106,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2797,7 +2797,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 90,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3335,7 +3335,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 102,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3402,7 +3402,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 324,
+    "citations": 321,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3420,7 +3420,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 61,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3453,7 +3453,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 43,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -3788,7 +3788,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 203,
+    "citations": 201,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3825,7 +3825,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 68,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4190,7 +4190,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 843,
+    "citations": 839,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4429,7 +4429,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4506,7 +4506,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 105,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -5124,7 +5124,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5646,
+    "citations": 5625,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
