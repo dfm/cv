@@ -57,25 +57,25 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 42 stars /
-5 forks  
-Fast & scalable Gaussian Processes in one dimension
-[\[docs\]](https://celerite2.readthedocs.io)
-
-[**celerite**](https://github.com/dfm/celerite) — 174 stars / 39 forks  
-Scalable 1D Gaussian Processes in C++, Python, and Julia
-[\[docs\]](http://celerite.rtfd.io)
+[**tinygp**](https://github.com/dfm/tinygp) — 90 stars / 3 forks  
+The tiniest of Gaussian Process libraries
+[\[docs\]](https://tinygp.readthedocs.io)
 
 [**daft**](https://github.com/daft-dev/daft) — 617 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
+
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 42 stars /
+5 forks  
+Fast & scalable Gaussian Processes in one dimension
+[\[docs\]](https://celerite2.readthedocs.io)
 
 </div>
 
 ## Publications
 
 refereed: 74 / first author: 9 / citations: 10976 / h-index: 39
-(2022-02-01)
+(2022-02-02)
 
 ### Refereed publications
 

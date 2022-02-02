@@ -51,31 +51,16 @@
           },
           {
             "node": {
-              "name": "celerite2",
-              "description": "Fast & scalable Gaussian Processes in one dimension",
-              "url": "https://github.com/exoplanet-dev/celerite2",
-              "homepageUrl": "https://celerite2.readthedocs.io",
-              "forkCount": 5,
+              "name": "tinygp",
+              "description": "The tiniest of Gaussian Process libraries",
+              "url": "https://github.com/dfm/tinygp",
+              "homepageUrl": "https://tinygp.readthedocs.io",
+              "forkCount": 3,
               "stargazers": {
-                "totalCount": 42
+                "totalCount": 90
               },
               "watchers": {
-                "totalCount": 7
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "celerite",
-              "description": "Scalable 1D Gaussian Processes in C++, Python, and Julia",
-              "url": "https://github.com/dfm/celerite",
-              "homepageUrl": "http://celerite.rtfd.io",
-              "forkCount": 39,
-              "stargazers": {
-                "totalCount": 174
-              },
-              "watchers": {
-                "totalCount": 14
+                "totalCount": 3
               }
             }
           },
@@ -91,6 +76,21 @@
               },
               "watchers": {
                 "totalCount": 18
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "celerite2",
+              "description": "Fast & scalable Gaussian Processes in one dimension",
+              "url": "https://github.com/exoplanet-dev/celerite2",
+              "homepageUrl": "https://celerite2.readthedocs.io",
+              "forkCount": 5,
+              "stargazers": {
+                "totalCount": 42
+              },
+              "watchers": {
+                "totalCount": 7
               }
             }
           }
