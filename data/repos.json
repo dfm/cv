@@ -10,27 +10,12 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 410,
+              "forkCount": 411,
               "stargazers": {
                 "totalCount": 1197
               },
               "watchers": {
                 "totalCount": 86
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "exoplanet",
-              "description": "Fast & scalable MCMC for all your exoplanet needs! ",
-              "url": "https://github.com/exoplanet-dev/exoplanet",
-              "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 44,
-              "stargazers": {
-                "totalCount": 156
-              },
-              "watchers": {
-                "totalCount": 18
               }
             }
           },
@@ -57,7 +42,7 @@
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 3,
               "stargazers": {
-                "totalCount": 90
+                "totalCount": 92
               },
               "watchers": {
                 "totalCount": 3
@@ -72,7 +57,22 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 115,
               "stargazers": {
-                "totalCount": 617
+                "totalCount": 618
+              },
+              "watchers": {
+                "totalCount": 18
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "exoplanet",
+              "description": "Fast & scalable MCMC for all your exoplanet needs! ",
+              "url": "https://github.com/exoplanet-dev/exoplanet",
+              "homepageUrl": "https://docs.exoplanet.codes",
+              "forkCount": 44,
+              "stargazers": {
+                "totalCount": 156
               },
               "watchers": {
                 "totalCount": 18

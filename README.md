@@ -43,27 +43,27 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1197 stars / 410 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1197 stars / 411 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
-
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 156 stars
-/ 44 forks  
-Fast & scalable MCMC for all your exoplanet needs!
-[\[docs\]](https://docs.exoplanet.codes)
 
 [**corner.py**](https://github.com/dfm/corner.py) — 378 stars / 198
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 90 stars / 3 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 92 stars / 3 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 617 stars / 115 forks  
+[**daft**](https://github.com/daft-dev/daft) — 618 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
+
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 156 stars
+/ 44 forks  
+Fast & scalable MCMC for all your exoplanet needs!
+[\[docs\]](https://docs.exoplanet.codes)
 
 [**celerite2**](https://github.com/exoplanet-dev/celerite2) — 42 stars /
 5 forks  
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 74 / first author: 9 / citations: 10976 / h-index: 39
-(2022-02-02)
+refereed: 74 / first author: 9 / citations: 10978 / h-index: 39
+(2022-02-03)
 
 ### Refereed publications
 
@@ -620,7 +620,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5625
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5627
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
