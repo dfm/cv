@@ -221,7 +221,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -230,27 +230,6 @@
     "title": "Masses and compositions of three small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V",
     "volume": "507",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2110.06271",
-    "authors": [
-      "Luger, Rodrigo",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Crossfield, Ian J. M.",
-      "Zhao, Lily L.",
-      "Hogg, David W."
-    ],
-    "citations": 2,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -282,7 +261,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -290,6 +269,27 @@
     "pubdate": "2021-10-00",
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2110.06271",
+    "authors": [
+      "Luger, Rodrigo",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Crossfield, Ian J. M.",
+      "Zhao, Lily L.",
+      "Hogg, David W."
+    ],
+    "citations": 2,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-10-00",
+    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
     "volume": null,
     "year": "2021"
   },
@@ -730,7 +730,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -756,7 +756,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -1208,7 +1208,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1669,7 +1669,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1771,7 +1771,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2037,7 +2037,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2062,7 +2062,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 40,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2771,7 +2771,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2797,7 +2797,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3315,7 +3315,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 85,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3351,7 +3351,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3402,7 +3402,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 321,
+    "citations": 324,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3788,7 +3788,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 201,
+    "citations": 202,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4105,7 +4105,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4190,7 +4190,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 839,
+    "citations": 838,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4506,7 +4506,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -4626,7 +4626,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 279,
+    "citations": 280,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5124,7 +5124,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5627,
+    "citations": 5637,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

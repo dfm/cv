@@ -25,7 +25,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 198,
+              "forkCount": 199,
               "stargazers": {
                 "totalCount": 378
               },
@@ -42,7 +42,7 @@
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 3,
               "stargazers": {
-                "totalCount": 92
+                "totalCount": 93
               },
               "watchers": {
                 "totalCount": 3
@@ -85,7 +85,7 @@
               "description": "Fast & scalable Gaussian Processes in one dimension",
               "url": "https://github.com/exoplanet-dev/celerite2",
               "homepageUrl": "https://celerite2.readthedocs.io",
-              "forkCount": 5,
+              "forkCount": 6,
               "stargazers": {
                 "totalCount": 42
               },
