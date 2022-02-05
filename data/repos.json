@@ -12,7 +12,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 411,
               "stargazers": {
-                "totalCount": 1197
+                "totalCount": 1196
               },
               "watchers": {
                 "totalCount": 86
@@ -40,9 +40,9 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 3,
+              "forkCount": 5,
               "stargazers": {
-                "totalCount": 93
+                "totalCount": 96
               },
               "watchers": {
                 "totalCount": 3
@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 115,
               "stargazers": {
-                "totalCount": 618
+                "totalCount": 619
               },
               "watchers": {
                 "totalCount": 18
@@ -87,7 +87,7 @@
               "homepageUrl": "https://celerite2.readthedocs.io",
               "forkCount": 6,
               "stargazers": {
-                "totalCount": 42
+                "totalCount": 43
               },
               "watchers": {
                 "totalCount": 7
