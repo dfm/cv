@@ -1208,7 +1208,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2546,7 +2546,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 53,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2797,7 +2797,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3402,7 +3402,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 324,
+    "citations": 327,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4190,7 +4190,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 839,
+    "citations": 842,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4261,7 +4261,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 186,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4429,7 +4429,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4626,7 +4626,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 280,
+    "citations": 281,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5124,7 +5124,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5639,
+    "citations": 5647,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
