@@ -699,7 +699,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 56,
+    "citations": 55,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2157,7 +2157,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -3315,7 +3315,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 85,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4190,7 +4190,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 842,
+    "citations": 841,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5124,7 +5124,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5647,
+    "citations": 5645,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
