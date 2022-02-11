@@ -221,7 +221,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1208,7 +1208,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1771,7 +1771,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2227,7 +2227,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2771,7 +2771,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3315,7 +3315,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4190,7 +4190,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 842,
+    "citations": 844,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5124,7 +5124,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5649,
+    "citations": 5655,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
