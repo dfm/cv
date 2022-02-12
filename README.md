@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1196 stars / 413 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1197 stars / 413 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -52,7 +52,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 103 stars / 6 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 105 stars / 6 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 74 / first author: 9 / citations: 11042 / h-index: 39
-(2022-02-11)
+refereed: 74 / first author: 9 / citations: 11044 / h-index: 39
+(2022-02-12)
 
 ### Refereed publications
 
@@ -620,7 +620,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5655
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5657
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -638,6 +638,16 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
+Daniel**; & Hayward, Christopher C., 2022, A Bayesian Population Model
+for the Observed Dust Attenuation in Galaxies, ArXiv
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102))
+
+Hitchcock, James A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
+David W.; & Hundertmark, Markus, 2022, The Thresher: Lucky Imaging
+without the Waste, ArXiv
+([arXiv:2202.04686](http://arxiv.org/abs/2202.04686))
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, A Mirage or an Oasis? Water

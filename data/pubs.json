@@ -1,5 +1,45 @@
 [
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-02-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.04686",
+    "authors": [
+      "Hitchcock, James A.",
+      "Bramich, D. M.",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Hundertmark, Markus"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-02-00",
+    "title": "The Thresher: Lucky Imaging without the Waste",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220204686H",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2201.04197",
     "authors": [
       "Brande, Jonathan",
@@ -4626,7 +4666,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 282,
+    "citations": 283,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5124,7 +5164,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5655,
+    "citations": 5657,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
