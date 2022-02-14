@@ -689,7 +689,7 @@
       "Street, Rachel",
       "Tsapras, Yiannis"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1114",
     "page": 3561,
@@ -3181,7 +3181,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -4145,7 +4145,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 189,
+    "citations": 190,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4230,7 +4230,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 846,
+    "citations": 847,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4301,7 +4301,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 185,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4920,7 +4920,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 187,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -5073,7 +5073,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -5164,7 +5164,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5660,
+    "citations": 5662,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
