@@ -40,6 +40,27 @@
     "year": "2022"
   },
   {
+    "arxiv": "2111.08660",
+    "authors": [
+      "Feinstein, Adina D.",
+      "David, Trevor J.",
+      "Montet, Benjamin T.",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mann, Andrew W."
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ac4745",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-01-00",
+    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
+    "volume": "925",
+    "year": "2022"
+  },
+  {
     "arxiv": "2201.04197",
     "authors": [
       "Brande, Jonathan",
@@ -123,27 +144,6 @@
     "title": "TOI-1259Ab - a gas giant planet with 2.7 per cent deep transits and a bound white dwarf companion",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.4132M",
     "volume": "507",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2111.08660",
-    "authors": [
-      "Feinstein, Adina D.",
-      "David, Trevor J.",
-      "Montet, Benjamin T.",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mann, Andrew W."
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-11-00",
-    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211108660F",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -301,7 +301,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -322,7 +322,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -770,7 +770,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1331,7 +1331,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -1709,7 +1709,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2077,7 +2077,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2267,7 +2267,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2811,7 +2811,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3181,7 +3181,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3442,7 +3442,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 328,
+    "citations": 329,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4228,6 +4228,28 @@
   {
     "arxiv": null,
     "authors": [
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Hogg, David W.",
+      "Wang, Dun",
+      "Foreman-Mackey, Daniel",
+      "Janzing, Dominik",
+      "Simon-Gabriel, Carl-Johann",
+      "Peters, Jonas"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1073/pnas.1511656113",
+    "page": 7391,
+    "pub": "Proceedings of the National Academy of Science",
+    "pubdate": "2016-07-00",
+    "title": "Modeling confounding by half-sibling regression",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016PNAS..113.7391S",
+    "volume": "113",
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel"
     ],
     "citations": 847,
@@ -4469,7 +4491,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4938,7 +4960,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5009,7 +5031,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5164,7 +5186,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5662,
+    "citations": 5660,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
