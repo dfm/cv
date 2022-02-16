@@ -770,7 +770,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1709,7 +1709,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2077,7 +2077,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2267,7 +2267,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 96,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2837,7 +2837,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3338,7 +3338,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3391,7 +3391,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3442,7 +3442,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 329,
+    "citations": 330,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4688,7 +4688,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 283,
+    "citations": 284,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5186,7 +5186,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5660,
+    "citations": 5663,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
