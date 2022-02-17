@@ -60,7 +60,7 @@ The tiniest of Gaussian Process libraries
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 157 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 158 stars
 / 45 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 75 / first author: 9 / citations: 11077 / h-index: 39
-(2022-02-16)
+(2022-02-17)
 
 ### Refereed publications
 
