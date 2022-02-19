@@ -43,16 +43,16 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1199 stars / 413 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1200 stars / 413 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 382 stars / 199
+[**corner.py**](https://github.com/dfm/corner.py) — 383 stars / 199
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 105 stars / 6 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 106 stars / 6 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 75 / first author: 9 / citations: 11096 / h-index: 39
-(2022-02-18)
+refereed: 75 / first author: 9 / citations: 11099 / h-index: 39
+(2022-02-19)
 
 ### Refereed publications
 
@@ -628,7 +628,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5670
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5673
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
