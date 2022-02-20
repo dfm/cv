@@ -892,7 +892,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -1709,7 +1709,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3355,7 +3355,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3460,7 +3460,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -4252,7 +4252,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 847,
+    "citations": 848,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4491,7 +4491,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -5186,7 +5186,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5673,
+    "citations": 5682,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
