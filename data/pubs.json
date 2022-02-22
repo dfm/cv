@@ -1,5 +1,44 @@
 [
   {
+    "arxiv": "2202.04686",
+    "authors": [
+      "Hitchcock, J. A.",
+      "Bramich, D. M.",
+      "Foreman-Mackey, D.",
+      "Hogg, David W.",
+      "Hundertmark, M."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac427",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-02-00",
+    "title": "The Thresher : Lucky Imaging without the Waste",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..431H",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2111.06672",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1051/0004-6361/202141298",
+    "page": null,
+    "pub": "Astronomy and Astrophysics",
+    "pubdate": "2022-02-00",
+    "title": "Three-dimensional dust density structure of the Orion, Cygnus X, Taurus, and Perseus star-forming regions",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022A&A...658A.166D",
+    "volume": "658",
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -16,26 +55,6 @@
     "pubdate": "2022-02-00",
     "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.04686",
-    "authors": [
-      "Hitchcock, James A.",
-      "Bramich, D. M.",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Hundertmark, Markus"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-02-00",
-    "title": "The Thresher: Lucky Imaging without the Waste",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220204686H",
     "volume": null,
     "year": "2022"
   },
@@ -163,25 +182,6 @@
     "pubdate": "2021-11-00",
     "title": "VizieR Online Data Catalog: New M87 GCs metallicities from Keck {\\&} MMT sp. (Villaume+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..19000095V",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2111.06672",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-11-00",
-    "title": "Three-dimensional dust density structure of the Orion, Cygnus X,Taurus, and Perseus star-forming regions",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211106672D",
     "volume": null,
     "year": "2021"
   },
@@ -322,7 +322,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -739,7 +739,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 55,
+    "citations": 57,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1248,7 +1248,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1331,7 +1331,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -2102,7 +2102,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3828,7 +3828,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 204,
+    "citations": 205,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4323,7 +4323,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 187,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4491,7 +4491,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4942,7 +4942,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -5186,7 +5186,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5686,
+    "citations": 5685,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

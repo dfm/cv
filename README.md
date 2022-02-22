@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1201 stars / 414 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1203 stars / 414 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -74,13 +74,26 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 75 / first author: 9 / citations: 11118 / h-index: 39
-(2022-02-21)
+refereed: 77 / first author: 9 / citations: 11121 / h-index: 39
+(2022-02-22)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
+David W.; & Hundertmark, M., 2022, *[The Thresher : Lucky Imaging
+without the Waste](http://dx.doi.org/10.1093/mnras/stac427)*, Monthly
+Notices of the Royal Astronomical Society
+([arXiv:2202.04686](http://arxiv.org/abs/2202.04686))
+
+Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.; &
+**Foreman-Mackey, Daniel**, 2022, *[Three-dimensional dust density
+structure of the Orion, Cygnus X, Taurus, and Perseus star-forming
+regions](http://dx.doi.org/10.1051/0004-6361/202141298)*, Astronomy and
+Astrophysics, **658**
+([arXiv:2111.06672](http://arxiv.org/abs/2111.06672))
 
 Feinstein, Adina D.; David, Trevor J.; Montet, Benjamin T.;
 **Foreman-Mackey, Daniel**; *et al.*, 2022, *[V1298 Tau with TESS:
@@ -184,7 +197,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[60
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[61
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -282,7 +295,7 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[43
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -451,7 +464,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[204
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[205
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -511,7 +524,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[187
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[188
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -597,7 +610,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, The
 Astrophysical Journal, **795**, 64
-([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[188
+([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[189
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -628,7 +641,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5686
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5685
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -652,20 +665,10 @@ Daniel**; & Hayward, Christopher C., 2022, A Bayesian Population Model
 for the Observed Dust Attenuation in Galaxies, ArXiv
 ([arXiv:2202.05102](http://arxiv.org/abs/2202.05102))
 
-Hitchcock, James A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
-David W.; & Hundertmark, Markus, 2022, The Thresher: Lucky Imaging
-without the Waste, ArXiv
-([arXiv:2202.04686](http://arxiv.org/abs/2202.04686))
-
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, A Mirage or an Oasis? Water
 Vapor in the Atmosphere of the Warm Neptune TOI-674 b, ArXiv
 ([arXiv:2201.04197](http://arxiv.org/abs/2201.04197))
-
-Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.; &
-**Foreman-Mackey, Daniel**, 2021, Three-dimensional dust density
-structure of the Orion, Cygnus X,Taurus, and Perseus star-forming
-regions, ArXiv ([arXiv:2111.06672](http://arxiv.org/abs/2111.06672))
 
 Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
 Howard T.; *et al.* (incl. **DFM**), 2021, An Aligned Orbit for the
@@ -676,7 +679,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J)\]
 Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,
 Ian J. M.; *et al.*, 2021, Mapping stellar surfaces III: An Efficient,
 Scalable, and Open-Source Doppler Imaging Model, ArXiv
-([arXiv:2110.06271](http://arxiv.org/abs/2110.06271)) \[[3
+([arXiv:2110.06271](http://arxiv.org/abs/2110.06271)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L)\]
 
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
