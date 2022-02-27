@@ -47,7 +47,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 384 stars / 199
+[**corner.py**](https://github.com/dfm/corner.py) — 383 stars / 199
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 77 / first author: 9 / citations: 11143 / h-index: 39
-(2022-02-26)
+refereed: 77 / first author: 9 / citations: 11158 / h-index: 39
+(2022-02-27)
 
 ### Refereed publications
 
@@ -222,7 +222,7 @@ through Radial Variations in Chemical Abundances of Its Field Star and
 Globular Cluster
 Populations](http://dx.doi.org/10.3847/1538-4357/aba616)*, The
 Astrophysical Journal, **900**, 95
-([arXiv:2006.16280](http://arxiv.org/abs/2006.16280)) \[[4
+([arXiv:2006.16280](http://arxiv.org/abs/2006.16280)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2020ApJ...900...95V)\]
 
 Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
@@ -398,7 +398,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[155
+\[[156
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -641,7 +641,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5697
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5710
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

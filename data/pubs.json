@@ -1378,7 +1378,7 @@
       "Brodie, Jean",
       "Strader, Jay"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aba616",
     "page": 95,
@@ -3338,7 +3338,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4252,7 +4252,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 852,
+    "citations": 853,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5186,7 +5186,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5697,
+    "citations": 5710,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
