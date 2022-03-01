@@ -173,7 +173,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -1267,7 +1267,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 63,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3217,7 +3217,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 43,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -3847,7 +3847,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 209,
+    "citations": 208,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4271,7 +4271,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 854,
+    "citations": 853,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4528,7 +4528,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -4707,7 +4707,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 288,
+    "citations": 287,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4979,7 +4979,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5205,7 +5205,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5722,
+    "citations": 5712,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
