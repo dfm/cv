@@ -56,12 +56,12 @@ Make some beautiful corner plots
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 623 stars / 115 forks  
+[**daft**](https://github.com/daft-dev/daft) — 622 stars / 115 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 160 stars
-/ 45 forks  
+/ 46 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 77 / first author: 9 / citations: 11174 / h-index: 39
-(2022-03-01)
+(2022-03-02)
 
 ### Refereed publications
 
