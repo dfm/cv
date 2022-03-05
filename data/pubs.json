@@ -789,7 +789,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1267,7 +1267,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2605,7 +2605,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2830,7 +2830,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3357,7 +3357,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 157,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3461,7 +3461,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 335,
+    "citations": 336,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4233,7 +4233,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4271,7 +4271,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 857,
+    "citations": 859,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5205,7 +5205,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5720,
+    "citations": 5726,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
