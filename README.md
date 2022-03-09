@@ -52,7 +52,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 113 stars / 6 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 114 stars / 6 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 77 / first author: 9 / citations: 11223 / h-index: 39
-(2022-03-08)
+(2022-03-09)
 
 ### Refereed publications
 
