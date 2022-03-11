@@ -25,7 +25,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 199,
+              "forkCount": 200,
               "stargazers": {
                 "totalCount": 384
               },
@@ -40,7 +40,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 6,
+              "forkCount": 7,
               "stargazers": {
                 "totalCount": 114
               },

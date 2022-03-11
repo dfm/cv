@@ -119,7 +119,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -789,7 +789,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1172,6 +1172,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 5,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staa3887",
+    "page": 4798,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-03-00",
+    "title": "Stability constrained characterization of multiplanet systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
+    "volume": "501",
+    "year": "2021"
+  },
+  {
     "arxiv": "2103.06275",
     "authors": [
       "Luger, Rodrigo",
@@ -1208,24 +1226,6 @@
     "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
     "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2009.11831",
-    "authors": [
-      "Tamayo, Daniel",
-      "Gilbertson, Christian",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.1093/mnras/staa3887",
-    "page": 4798,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2021-03-00",
-    "title": "Stability constrained characterization of multiplanet systems",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
-    "volume": "501",
     "year": "2021"
   },
   {
@@ -1267,7 +1267,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1728,7 +1728,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1830,7 +1830,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2096,7 +2096,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2830,7 +2830,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 109,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3357,7 +3357,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 158,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3374,7 +3374,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3394,7 +3394,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3410,7 +3410,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3461,7 +3461,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 340,
+    "citations": 344,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4271,7 +4271,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 862,
+    "citations": 865,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4707,7 +4707,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 286,
+    "citations": 287,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5205,7 +5205,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5742,
+    "citations": 5750,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
