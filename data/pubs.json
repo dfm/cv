@@ -78,27 +78,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2111.08660",
-    "authors": [
-      "Feinstein, Adina D.",
-      "David, Trevor J.",
-      "Montet, Benjamin T.",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mann, Andrew W."
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ac4745",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-01-00",
-    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
-    "volume": "925",
-    "year": "2022"
-  },
-  {
     "arxiv": "2201.04197",
     "authors": [
       "Brande, Jonathan",
@@ -119,7 +98,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -128,6 +107,27 @@
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220104197B",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2111.08660",
+    "authors": [
+      "Feinstein, Adina D.",
+      "David, Trevor J.",
+      "Montet, Benjamin T.",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mann, Andrew W."
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ac4745",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-01-00",
+    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
+    "volume": "925",
     "year": "2022"
   },
   {
@@ -320,7 +320,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -668,7 +668,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -1267,7 +1267,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1728,7 +1728,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 69,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2074,7 +2074,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2096,7 +2096,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 54,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -3075,7 +3075,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -3374,7 +3374,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 88,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4271,7 +4271,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 866,
+    "citations": 870,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4510,7 +4510,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4707,7 +4707,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 287,
+    "citations": 288,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5205,7 +5205,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5761,
+    "citations": 5768,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
