@@ -1,5 +1,45 @@
 [
   {
+    "arxiv": "2202.04686",
+    "authors": [
+      "Hitchcock, J. A.",
+      "Bramich, D. M.",
+      "Foreman-Mackey, D.",
+      "Hogg, David W.",
+      "Hundertmark, M."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac427",
+    "page": 5372,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-04-00",
+    "title": "The Thresher: Lucky imaging without the waste",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.5372H",
+    "volume": "511",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.04686",
+    "authors": [
+      "Hitchcock, James A.",
+      "Bramich, D. M.",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Hundertmark, Markus"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-02-00",
+    "title": "The Thresher: Lucky Imaging without the Waste",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220204686H",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Dharmawardena, T. E.",
@@ -15,26 +55,6 @@
     "pubdate": "2022-02-00",
     "title": "VizieR Online Data Catalog: 4 star-forming regions 3D dust density (Dharmawardena+, 2022)",
     "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..36580166D",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.04686",
-    "authors": [
-      "Hitchcock, J. A.",
-      "Bramich, D. M.",
-      "Foreman-Mackey, D.",
-      "Hogg, David W.",
-      "Hundertmark, M."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac427",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-02-00",
-    "title": "The Thresher : Lucky Imaging without the Waste",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp..431H",
     "volume": null,
     "year": "2022"
   },
@@ -280,7 +300,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -789,7 +809,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1267,7 +1287,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1728,7 +1748,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 71,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1830,7 +1850,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2305,7 +2325,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2605,7 +2625,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2830,7 +2850,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 111,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3410,7 +3430,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 58,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3461,7 +3481,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 344,
+    "citations": 346,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4271,7 +4291,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 870,
+    "citations": 873,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4498,12 +4518,12 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Emily",
+      "Rice, Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
+      "Caswell, Thomas A.",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
@@ -4513,10 +4533,10 @@
     "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-02-11",
-    "title": "Corner.Py: Corner.Py V1.0.2",
+    "page": 45906,
+    "pub": "Zenodo Software Release",
+    "pubdate": "2016-02-00",
+    "title": "corner.py: corner.py v1.0.2",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
     "year": "2016"
@@ -4610,7 +4630,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -4961,7 +4981,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -5044,7 +5064,7 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Emily",
+      "Rice, Emily",
       "Smith, Michael",
       "Barbary, Kyle",
       "Hogg, David W.",
@@ -5053,10 +5073,10 @@
     "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-07-24",
-    "title": "triangle.py v0.1.1",
+    "page": 11020,
+    "pub": "Zenodo Software Release",
+    "pubdate": "2014-07-00",
+    "title": "triangle.py: triangle.py v0.1.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
@@ -5205,7 +5225,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5768,
+    "citations": 5773,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
