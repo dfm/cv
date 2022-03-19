@@ -47,7 +47,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 384 stars / 200
+[**corner.py**](https://github.com/dfm/corner.py) — 384 stars / 201
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 77 / first author: 9 / citations: 11324 / h-index: 39
-(2022-03-18)
+refereed: 77 / first author: 9 / citations: 11322 / h-index: 39
+(2022-03-19)
 
 ### Refereed publications
 
@@ -175,7 +175,7 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
 Journal, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[18
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
@@ -230,7 +230,7 @@ Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
 Rotation Using Galactic
 Kinematics](http://dx.doi.org/10.3847/1538-3881/ab91b2)*, The
 Astronomical Journal, **160**, 90
-([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[17
+([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A)\]
 
 Hey, Daniel; Murphy, Simon; **Foreman-Mackey, Daniel**; Bedding,
@@ -250,7 +250,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[71
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[72
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -287,7 +287,7 @@ David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[56
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -295,7 +295,7 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[44
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -325,7 +325,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
 *[stardate: Combining dating methods for better stellar
 ages](http://dx.doi.org/10.21105/joss.01469)*, The Journal of Open
-Source Software, **4**, 1469 \[[10
+Source Software, **4**, 1469 \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A)\]
 
 Kostov, Veselin B.; Schlieder, Joshua E.; Barclay, Thomas; Quintana,
@@ -413,7 +413,7 @@ Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, Monthly Notices of
 the Royal Astronomical Society, **474**, 2094
-([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[104
+([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[103
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -428,7 +428,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[346
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[345
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -641,7 +641,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5786
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5788
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -680,7 +680,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J)\]
 Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,
 Ian J. M.; *et al.*, 2021, Mapping stellar surfaces III: An Efficient,
 Scalable, and Open-Source Doppler Imaging Model, ArXiv
-([arXiv:2110.06271](http://arxiv.org/abs/2110.06271)) \[[2
+([arXiv:2110.06271](http://arxiv.org/abs/2110.06271)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L)\]
 
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
