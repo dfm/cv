@@ -1242,7 +1242,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2049,7 +2049,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 76,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2580,7 +2580,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2805,7 +2805,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2831,7 +2831,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3062,6 +3062,27 @@
     "year": "2018"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 5,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2018-10-00",
+    "title": "STARRY: Analytic computation of occultation light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
+    "volume": null,
+    "year": "2018"
+  },
+  {
     "arxiv": "1805.04519",
     "authors": [
       "Ness, Melissa K.",
@@ -3081,27 +3102,6 @@
     "title": "Inference of Stellar Parameters from Brightness Variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...866...15N",
     "volume": "866",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 4,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2018-10-00",
-    "title": "STARRY: Analytic computation of occultation light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -3349,7 +3349,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 87,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3369,7 +3369,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3436,7 +3436,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 345,
+    "citations": 347,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3822,7 +3822,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 208,
+    "citations": 209,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4317,7 +4317,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 192,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4682,7 +4682,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 292,
+    "citations": 293,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4936,7 +4936,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 191,
+    "citations": 192,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -5089,7 +5089,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -5180,7 +5180,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5793,
+    "citations": 5803,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
