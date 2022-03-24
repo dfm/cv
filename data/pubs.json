@@ -3062,27 +3062,6 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 4,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2018-10-00",
-    "title": "STARRY: Analytic computation of occultation light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1805.04519",
     "authors": [
       "Ness, Melissa K.",
@@ -3102,6 +3081,27 @@
     "title": "Inference of Stellar Parameters from Brightness Variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...866...15N",
     "volume": "866",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 4,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2018-10-00",
+    "title": "STARRY: Analytic computation of occultation light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
+    "volume": null,
     "year": "2018"
   },
   {
@@ -4208,7 +4208,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -5180,7 +5180,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5800,
+    "citations": 5806,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
