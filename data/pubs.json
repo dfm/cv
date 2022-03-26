@@ -20,21 +20,22 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2202.05102",
     "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D."
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "eprint",
     "doi": null,
     "page": null,
-    "pub": "VizieR Online Data Catalog",
+    "pub": "arXiv e-prints",
     "pubdate": "2022-02-00",
-    "title": "VizieR Online Data Catalog: 4 star-forming regions 3D dust density (Dharmawardena+, 2022)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..36580166D",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N",
     "volume": null,
     "year": "2022"
   },
@@ -58,22 +59,21 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
+    "arxiv": null,
     "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D."
     ],
     "citations": 0,
-    "doctype": "eprint",
+    "doctype": "catalog",
     "doi": null,
     "page": null,
-    "pub": "arXiv e-prints",
+    "pub": "VizieR Online Data Catalog",
     "pubdate": "2022-02-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N",
+    "title": "VizieR Online Data Catalog: 4 star-forming regions 3D dust density (Dharmawardena+, 2022)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..36580166D",
     "volume": null,
     "year": "2022"
   },
@@ -205,6 +205,27 @@
     "year": "2021"
   },
   {
+    "arxiv": "2110.06271",
+    "authors": [
+      "Luger, Rodrigo",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Crossfield, Ian J. M.",
+      "Zhao, Lily L.",
+      "Hogg, David W."
+    ],
+    "citations": 4,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-10-00",
+    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, V.",
@@ -328,27 +349,6 @@
     "pubdate": "2021-10-00",
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2110.06271",
-    "authors": [
-      "Luger, Rodrigo",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Crossfield, Ian J. M.",
-      "Zhao, Lily L.",
-      "Hogg, David W."
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
     "volume": null,
     "year": "2021"
   },
@@ -494,6 +494,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 10,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -509,24 +527,6 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -655,24 +655,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.01774",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.21105/joss.03071",
-    "page": 3071,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2021-07-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
-    "volume": "6",
-    "year": "2021"
-  },
-  {
     "arxiv": "2104.13715",
     "authors": [
       "Hitchcock, James A.",
@@ -692,6 +674,24 @@
     "title": "PyTorchDIA: a flexible, GPU-accelerated numerical approach to Difference Image Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H",
     "volume": "504",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.01774",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.21105/joss.03071",
+    "page": 3071,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2021-07-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
+    "volume": "6",
     "year": "2021"
   },
   {
@@ -745,6 +745,32 @@
     "year": "2021"
   },
   {
+    "arxiv": "2011.09894",
+    "authors": [
+      "David, Trevor J.",
+      "Contardo, Gabriella",
+      "Sandoval, Angeli",
+      "Angus, Ruth",
+      "Lu, Yuxi Lucy",
+      "Bedell, Megan",
+      "Curtis, Jason L.",
+      "Foreman-Mackey, Daniel",
+      "Fulton, Benjamin J.",
+      "Grunblatt, Samuel K.",
+      "Petigura, Erik A."
+    ],
+    "citations": 18,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abf439",
+    "page": 265,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-06-00",
+    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
+    "volume": "161",
+    "year": "2021"
+  },
+  {
     "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -773,32 +799,6 @@
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F",
     "volume": "6",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2011.09894",
-    "authors": [
-      "David, Trevor J.",
-      "Contardo, Gabriella",
-      "Sandoval, Angeli",
-      "Angus, Ruth",
-      "Lu, Yuxi Lucy",
-      "Bedell, Megan",
-      "Curtis, Jason L.",
-      "Foreman-Mackey, Daniel",
-      "Fulton, Benjamin J.",
-      "Grunblatt, Samuel K.",
-      "Petigura, Erik A."
-    ],
-    "citations": 18,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abf439",
-    "page": 265,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-06-00",
-    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
-    "volume": "161",
     "year": "2021"
   },
   {
@@ -1399,7 +1399,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1467,27 +1467,6 @@
     "title": "dfm/corner.py: corner.py v2.1.0.rc1",
     "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3937526F",
     "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Hey, Daniel",
-      "Murphy, Simon",
-      "Foreman-Mackey, Daniel",
-      "Bedding, Timothy",
-      "Pope, Benjamin",
-      "Hogg, David"
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.21105/joss.02125",
-    "page": 2125,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2020-07-00",
-    "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
-    "volume": "5",
     "year": "2020"
   },
   {
@@ -1610,6 +1589,27 @@
     "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
     "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
     "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Hey, Daniel",
+      "Murphy, Simon",
+      "Foreman-Mackey, Daniel",
+      "Bedding, Timothy",
+      "Pope, Benjamin",
+      "Hogg, David"
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.21105/joss.02125",
+    "page": 2125,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2020-07-00",
+    "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
+    "volume": "5",
     "year": "2020"
   },
   {
@@ -2033,34 +2033,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1911.07688",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Farr, Will",
-      "Sinha, Manodeep",
-      "Archibald, Anne",
-      "Hogg, David",
-      "Sanders, Jeremy",
-      "Zuntz, Joe",
-      "Williams, Peter",
-      "Nelson, Andrew",
-      "de Val-Borro, Miguel",
-      "Erhardt, Tobias",
-      "Pashchenko, Ilya",
-      "Pla, Oriol"
-    ],
-    "citations": 77,
-    "doctype": "article",
-    "doi": "10.21105/joss.01864",
-    "page": 1864,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-11-00",
-    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
-    "volume": "4",
-    "year": "2019"
-  },
-  {
     "arxiv": "1910.04563",
     "authors": [
       "David, Trevor J.",
@@ -2096,7 +2068,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2105,6 +2077,34 @@
     "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
     "volume": "158",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1911.07688",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Farr, Will",
+      "Sinha, Manodeep",
+      "Archibald, Anne",
+      "Hogg, David",
+      "Sanders, Jeremy",
+      "Zuntz, Joe",
+      "Williams, Peter",
+      "Nelson, Andrew",
+      "de Val-Borro, Miguel",
+      "Erhardt, Tobias",
+      "Pashchenko, Ilya",
+      "Pla, Oriol"
+    ],
+    "citations": 78,
+    "doctype": "article",
+    "doi": "10.21105/joss.01864",
+    "page": 1864,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-11-00",
+    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
+    "volume": "4",
     "year": "2019"
   },
   {
@@ -2294,24 +2294,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 9,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Tollerud, Erik",
       "Smith, Arfon",
       "Price-Whelan, Adrian",
@@ -2438,6 +2420,24 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 9,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
     "year": "2019"
   },
   {
@@ -2879,6 +2879,49 @@
   {
     "arxiv": null,
     "authors": [
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David",
+      "Lustig-Yeager, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "Exact model for phase curves, eclipses, and transits of stars and their planets for TESS",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320205A",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy D.",
+      "Brewer, John",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Curtis, Jason",
+      "Hogg, David W."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "An age-dating method that combines stellar evolution models with gyrochronology",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23323509A",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
@@ -2922,53 +2965,6 @@
       "Hedges, Christina L.",
       "Luger, Rodrigo",
       "Saunders, Nicholas",
-      "Scolnic, Daniel",
-      "De Miranda Cardoso, Jose Vinicius"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23314014F",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy D.",
-      "Brewer, John",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Curtis, Jason",
-      "Hogg, David W."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "An age-dating method that combines stellar evolution models with gyrochronology",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23323509A",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Feinstein, Adina",
-      "Montet, Benjamin",
-      "Bedell, MEgan",
-      "Christiansen, Jessie",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina L.",
-      "Luger, Rodrigo",
-      "Saunders, Nicholas",
       "De Miranda Cardoso, Jose Vinicius"
     ],
     "citations": 0,
@@ -2985,12 +2981,16 @@
   {
     "arxiv": null,
     "authors": [
-      "Agol, Eric",
-      "Luger, Rodrigo",
+      "Feinstein, Adina",
+      "Montet, Benjamin",
+      "Bedell, MEgan",
+      "Christiansen, Jessie",
       "Foreman-Mackey, Daniel",
-      "Fleming, David",
-      "Lustig-Yeager, Jacob",
-      "Deitrick, Russell"
+      "Hedges, Christina L.",
+      "Luger, Rodrigo",
+      "Saunders, Nicholas",
+      "Scolnic, Daniel",
+      "De Miranda Cardoso, Jose Vinicius"
     ],
     "citations": 0,
     "doctype": "abstract",
@@ -2998,8 +2998,8 @@
     "page": null,
     "pub": "American Astronomical Society Meeting Abstracts #233",
     "pubdate": "2019-01-00",
-    "title": "Exact model for phase curves, eclipses, and transits of stars and their planets for TESS",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320205A",
+    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23314014F",
     "volume": "233",
     "year": "2019"
   },
@@ -3192,7 +3192,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -3332,7 +3332,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 163,
+    "citations": 164,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3562,23 +3562,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Price-Whelan, Adrian M.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 16,
-    "doctype": "article",
-    "doi": "10.21105/joss.00357",
-    "page": 357,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2017-09-00",
-    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017JOSS....2..357P",
-    "volume": "2",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Agol, Eric",
       "Ambikasaran, Sivaram",
@@ -3593,6 +3576,23 @@
     "title": "celerite: Scalable 1D Gaussian Processes in C++, Python, and Julia",
     "url": "https://ui.adsabs.harvard.edu/abs/2017ascl.soft09008F",
     "volume": null,
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian M.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 16,
+    "doctype": "article",
+    "doi": "10.21105/joss.00357",
+    "page": 357,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2017-09-00",
+    "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017JOSS....2..357P",
+    "volume": "2",
     "year": "2017"
   },
   {
@@ -4485,7 +4485,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4599,24 +4599,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258396,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "Probabilistic stellar rotation periods with Gaussian processes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard"
@@ -4636,17 +4618,17 @@
     "arxiv": null,
     "authors": [
       "Angus, Ruth",
-      "Johnson, John",
+      "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 2,
     "doctype": "abstract",
     "doi": null,
-    "page": 2258432,
+    "page": 2258396,
     "pub": "IAU General Assembly",
     "pubdate": "2015-08-00",
-    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
+    "title": "Probabilistic stellar rotation periods with Gaussian processes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
     "volume": "29",
     "year": "2015"
   },
@@ -4670,6 +4652,24 @@
     "pubdate": "2015-08-00",
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: An Application of Importance Sampling",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256208B",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Johnson, John",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258432,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
     "volume": "29",
     "year": "2015"
   },
@@ -4850,6 +4850,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Wang, Dun"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
@@ -4891,25 +4910,6 @@
     "pubdate": "2015-01-00",
     "title": "Licenses in the wild",
     "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard",
-      "Wang, Dun"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
     "volume": "225",
     "year": "2015"
   },
@@ -5025,7 +5025,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5101,33 +5101,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0654",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Hogg, David W.",
-      "Lang, Dustin",
-      "Schiminovich, David",
-      "Scholkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0653",
     "authors": [
       "Hogg, David W.",
@@ -5151,6 +5124,33 @@
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
     "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
+    "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1309.0654",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Hogg, David W.",
+      "Lang, Dustin",
+      "Schiminovich, David",
+      "Scholkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
     "volume": null,
     "year": "2013"
   },
@@ -5180,7 +5180,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5810,
+    "citations": 5816,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
