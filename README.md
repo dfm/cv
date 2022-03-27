@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1207 stars / 416 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1208 stars / 416 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -52,7 +52,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 117 stars / 7 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 118 stars / 7 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 77 / first author: 9 / citations: 11380 / h-index: 39
-(2022-03-26)
+refereed: 77 / first author: 9 / citations: 11385 / h-index: 39
+(2022-03-27)
 
 ### Refereed publications
 
@@ -162,14 +162,6 @@ Source Software, **6**, 3071
 ([arXiv:2102.01774](http://arxiv.org/abs/2102.01774)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L)\]
 
-David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
-*et al.* (incl. **DFM**), 2021, *[Evolution of the Exoplanet Size
-Distribution: Forming Large Super-Earths Over Billions of
-Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
-Journal, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[18
-citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
-
 **Foreman-Mackey, Daniel**; Luger, Rodrigo; Agol, Eric; Barclay, Thomas;
 *et al.*, 2021, *[exoplanet: Gradient-based probabilistic inference for
 exoplanet data & other astronomical time
@@ -177,6 +169,14 @@ series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
 ([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
+
+David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
+*et al.* (incl. **DFM**), 2021, *[Evolution of the Exoplanet Size
+Distribution: Forming Large Super-Earths Over Billions of
+Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
+Journal, **161**, 265
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[18
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
@@ -295,7 +295,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[78
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[79
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -641,7 +641,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5816
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5820
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

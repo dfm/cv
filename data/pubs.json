@@ -78,6 +78,27 @@
     "year": "2022"
   },
   {
+    "arxiv": "2111.08660",
+    "authors": [
+      "Feinstein, Adina D.",
+      "David, Trevor J.",
+      "Montet, Benjamin T.",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mann, Andrew W."
+    ],
+    "citations": 1,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ac4745",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-01-00",
+    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
+    "volume": "925",
+    "year": "2022"
+  },
+  {
     "arxiv": "2201.04197",
     "authors": [
       "Brande, Jonathan",
@@ -107,27 +128,6 @@
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220104197B",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2111.08660",
-    "authors": [
-      "Feinstein, Adina D.",
-      "David, Trevor J.",
-      "Montet, Benjamin T.",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mann, Andrew W."
-    ],
-    "citations": 1,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ac4745",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-01-00",
-    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
-    "volume": "925",
     "year": "2022"
   },
   {
@@ -201,27 +201,6 @@
     "pubdate": "2021-11-00",
     "title": "VizieR Online Data Catalog: New M87 GCs metallicities from Keck {\\&} MMT sp. (Villaume+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..19000095V",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2110.06271",
-    "authors": [
-      "Luger, Rodrigo",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Crossfield, Ian J. M.",
-      "Zhao, Lily L.",
-      "Hogg, David W."
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
     "volume": null,
     "year": "2021"
   },
@@ -313,33 +292,14 @@
     "year": "2021"
   },
   {
-    "arxiv": "2110.10707",
+    "arxiv": "2110.06271",
     "authors": [
-      "Johnson, Marshall C.",
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Isaacson, Howard T.",
-      "Van Zandt, Judah",
-      "Ilyin, Ilya",
-      "Strassmeier, Klaus",
-      "Mallonn, Matthias",
-      "Zhou, George",
-      "Mann, Andrew W.",
-      "Livingston, John H.",
       "Luger, Rodrigo",
-      "Dai, Fei",
-      "Weiss, Lauren M.",
-      "Mo{\\v{c}}nik, Teo",
-      "Giacalone, Steven",
-      "Hill, Michelle L.",
-      "Rice, Malena",
-      "Blunt, Sarah",
-      "Rubenzahl, Ryan",
-      "Dalba, Paul A.",
-      "Esquerdo, Gilbert A.",
-      "Berlind, Perry",
-      "Calkins, Michael L.",
-      "Foreman-Mackey, Daniel"
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Crossfield, Ian J. M.",
+      "Zhao, Lily L.",
+      "Hogg, David W."
     ],
     "citations": 4,
     "doctype": "eprint",
@@ -347,8 +307,8 @@
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2021-10-00",
-    "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
+    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
     "volume": null,
     "year": "2021"
   },
@@ -416,6 +376,46 @@
     "title": "HD 183579b: a warm sub-Neptune transiting a solar twin detected by TESS",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2220G",
     "volume": "507",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2110.10707",
+    "authors": [
+      "Johnson, Marshall C.",
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Isaacson, Howard T.",
+      "Van Zandt, Judah",
+      "Ilyin, Ilya",
+      "Strassmeier, Klaus",
+      "Mallonn, Matthias",
+      "Zhou, George",
+      "Mann, Andrew W.",
+      "Livingston, John H.",
+      "Luger, Rodrigo",
+      "Dai, Fei",
+      "Weiss, Lauren M.",
+      "Mo{\\v{c}}nik, Teo",
+      "Giacalone, Steven",
+      "Hill, Michelle L.",
+      "Rice, Malena",
+      "Blunt, Sarah",
+      "Rubenzahl, Ryan",
+      "Dalba, Paul A.",
+      "Esquerdo, Gilbert A.",
+      "Berlind, Perry",
+      "Calkins, Michael L.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-10-00",
+    "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
+    "volume": null,
     "year": "2021"
   },
   {
@@ -745,32 +745,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2011.09894",
-    "authors": [
-      "David, Trevor J.",
-      "Contardo, Gabriella",
-      "Sandoval, Angeli",
-      "Angus, Ruth",
-      "Lu, Yuxi Lucy",
-      "Bedell, Megan",
-      "Curtis, Jason L.",
-      "Foreman-Mackey, Daniel",
-      "Fulton, Benjamin J.",
-      "Grunblatt, Samuel K.",
-      "Petigura, Erik A."
-    ],
-    "citations": 18,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abf439",
-    "page": 265,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-06-00",
-    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
-    "volume": "161",
-    "year": "2021"
-  },
-  {
     "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -799,6 +773,32 @@
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F",
     "volume": "6",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2011.09894",
+    "authors": [
+      "David, Trevor J.",
+      "Contardo, Gabriella",
+      "Sandoval, Angeli",
+      "Angus, Ruth",
+      "Lu, Yuxi Lucy",
+      "Bedell, Megan",
+      "Curtis, Jason L.",
+      "Foreman-Mackey, Daniel",
+      "Fulton, Benjamin J.",
+      "Grunblatt, Samuel K.",
+      "Petigura, Erik A."
+    ],
+    "citations": 18,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abf439",
+    "page": 265,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-06-00",
+    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
+    "volume": "161",
     "year": "2021"
   },
   {
@@ -1574,26 +1574,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "Rajpaul, Vinesh"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2020-07-00",
-    "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Hey, Daniel",
       "Murphy, Simon",
       "Foreman-Mackey, Daniel",
@@ -1610,6 +1590,26 @@
     "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
     "volume": "5",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel",
+      "Rajpaul, Vinesh"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2020-07-00",
+    "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
+    "volume": null,
     "year": "2020"
   },
   {
@@ -2096,7 +2096,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2862,23 +2862,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2019-01-00",
-    "title": "bettermoments: Line-of-sight velocity calculation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Agol, Eric",
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -2895,6 +2878,23 @@
     "title": "Exact model for phase curves, eclipses, and transits of stars and their planets for TESS",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320205A",
     "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-01-00",
+    "title": "bettermoments: Line-of-sight velocity calculation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -2922,7 +2922,15 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
+      "Feinstein, Adina",
+      "Montet, Benjamin",
+      "Bedell, MEgan",
+      "Christiansen, Jessie",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina L.",
+      "Luger, Rodrigo",
+      "Saunders, Nicholas",
+      "De Miranda Cardoso, Jose Vinicius"
     ],
     "citations": 0,
     "doctype": "abstract",
@@ -2930,8 +2938,8 @@
     "page": null,
     "pub": "American Astronomical Society Meeting Abstracts #233",
     "pubdate": "2019-01-00",
-    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
+    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
     "volume": "233",
     "year": "2019"
   },
@@ -2957,15 +2965,7 @@
   {
     "arxiv": null,
     "authors": [
-      "Feinstein, Adina",
-      "Montet, Benjamin",
-      "Bedell, MEgan",
-      "Christiansen, Jessie",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina L.",
-      "Luger, Rodrigo",
-      "Saunders, Nicholas",
-      "De Miranda Cardoso, Jose Vinicius"
+      "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
     "doctype": "abstract",
@@ -2973,8 +2973,8 @@
     "page": null,
     "pub": "American Astronomical Society Meeting Abstracts #233",
     "pubdate": "2019-01-00",
-    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -4246,7 +4246,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 878,
+    "citations": 879,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5180,7 +5180,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5816,
+    "citations": 5820,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
