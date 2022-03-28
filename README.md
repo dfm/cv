@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 77 / first author: 9 / citations: 11385 / h-index: 39
-(2022-03-27)
+refereed: 77 / first author: 9 / citations: 11383 / h-index: 39
+(2022-03-28)
 
 ### Refereed publications
 
@@ -147,6 +147,13 @@ Journal Supplement Series, **255**, 6
 ([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
 
+Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
+*[starry\_process: Interpretable Gaussian processes for stellar light
+curves](http://dx.doi.org/10.21105/joss.03071)*, The Journal of Open
+Source Software, **6**, 3071
+([arXiv:2102.01774](http://arxiv.org/abs/2102.01774)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L)\]
+
 Hitchcock, James A.; Hundertmark, Markus; **Foreman-Mackey, Daniel**;
 Bachelet, Etienne; *et al.*, 2021, *[PyTorchDIA: a flexible,
 GPU-accelerated numerical approach to Difference Image
@@ -154,13 +161,6 @@ Analysis](http://dx.doi.org/10.1093/mnras/stab1114)*, Monthly Notices of
 the Royal Astronomical Society, **504**, 3561
 ([arXiv:2104.13715](http://arxiv.org/abs/2104.13715)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
-
-Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
-*[starry\_process: Interpretable Gaussian processes for stellar light
-curves](http://dx.doi.org/10.21105/joss.03071)*, The Journal of Open
-Source Software, **6**, 3071
-([arXiv:2102.01774](http://arxiv.org/abs/2102.01774)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L)\]
 
 **Foreman-Mackey, Daniel**; Luger, Rodrigo; Agol, Eric; Barclay, Thomas;
 *et al.*, 2021, *[exoplanet: Gradient-based probabilistic inference for
@@ -641,7 +641,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5820
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5818
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

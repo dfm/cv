@@ -20,6 +20,25 @@
     "year": "2022"
   },
   {
+    "arxiv": "2111.06672",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1051/0004-6361/202141298",
+    "page": null,
+    "pub": "Astronomy and Astrophysics",
+    "pubdate": "2022-02-00",
+    "title": "Three-dimensional dust density structure of the Orion, Cygnus X, Taurus, and Perseus star-forming regions",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022A&A...658A.166D",
+    "volume": "658",
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -37,25 +56,6 @@
     "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2111.06672",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1051/0004-6361/202141298",
-    "page": null,
-    "pub": "Astronomy and Astrophysics",
-    "pubdate": "2022-02-00",
-    "title": "Three-dimensional dust density structure of the Orion, Cygnus X, Taurus, and Perseus star-forming regions",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022A&A...658A.166D",
-    "volume": "658",
     "year": "2022"
   },
   {
@@ -655,6 +655,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01774",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.21105/joss.03071",
+    "page": 3071,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2021-07-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
+    "volume": "6",
+    "year": "2021"
+  },
+  {
     "arxiv": "2104.13715",
     "authors": [
       "Hitchcock, James A.",
@@ -674,24 +692,6 @@
     "title": "PyTorchDIA: a flexible, GPU-accelerated numerical approach to Difference Image Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H",
     "volume": "504",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01774",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.21105/joss.03071",
-    "page": 3071,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2021-07-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L",
-    "volume": "6",
     "year": "2021"
   },
   {
@@ -1147,24 +1147,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2009.11831",
-    "authors": [
-      "Tamayo, Daniel",
-      "Gilbertson, Christian",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 5,
-    "doctype": "article",
-    "doi": "10.1093/mnras/staa3887",
-    "page": 4798,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2021-03-00",
-    "title": "Stability constrained characterization of multiplanet systems",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
-    "volume": "501",
-    "year": "2021"
-  },
-  {
     "arxiv": "2103.06275",
     "authors": [
       "Luger, Rodrigo",
@@ -1181,6 +1163,24 @@
     "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L",
     "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": "2009.11831",
+    "authors": [
+      "Tamayo, Daniel",
+      "Gilbertson, Christian",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 5,
+    "doctype": "article",
+    "doi": "10.1093/mnras/staa3887",
+    "page": 4798,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2021-03-00",
+    "title": "Stability constrained characterization of multiplanet systems",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
+    "volume": "501",
     "year": "2021"
   },
   {
@@ -1574,6 +1574,26 @@
   {
     "arxiv": null,
     "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel",
+      "Rajpaul, Vinesh"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2020-07-00",
+    "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
+    "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Hey, Daniel",
       "Murphy, Simon",
       "Foreman-Mackey, Daniel",
@@ -1590,26 +1610,6 @@
     "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
     "volume": "5",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "Rajpaul, Vinesh"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2020-07-00",
-    "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
-    "volume": null,
     "year": "2020"
   },
   {
@@ -1895,26 +1895,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Luger, R.",
-      "Bedell, M.",
-      "Foreman-Mackey, D.",
-      "Angus, R.",
-      "Hogg, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Surface Maps of Stars and Exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Hattori, S.",
       "Foreman-Mackey, D.",
       "Hogg, D.",
@@ -1949,6 +1929,26 @@
     "pubdate": "2020-01-00",
     "title": "Measuring Stellar Rotation in the K2 Sample",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, R.",
+      "Bedell, M.",
+      "Foreman-Mackey, D.",
+      "Angus, R.",
+      "Hogg, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Surface Maps of Stars and Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
     "volume": "235",
     "year": "2020"
   },
@@ -2862,6 +2862,23 @@
   {
     "arxiv": null,
     "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2019-01-00",
+    "title": "bettermoments: Line-of-sight velocity calculation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Agol, Eric",
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -2883,23 +2900,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2019-01-00",
-    "title": "bettermoments: Line-of-sight velocity calculation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft01009T",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Angus, Ruth",
       "Morton, Timothy D.",
       "Brewer, John",
@@ -2916,6 +2916,22 @@
     "pubdate": "2019-01-00",
     "title": "An age-dating method that combines stellar evolution models with gyrochronology",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23323509A",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -2959,22 +2975,6 @@
     "pubdate": "2019-01-00",
     "title": "Hundreds of New Planet Candidates from K2",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -5180,7 +5180,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5820,
+    "citations": 5818,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
