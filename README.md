@@ -52,7 +52,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 120 stars / 7 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 122 stars / 7 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -65,7 +65,7 @@ Render probabilistic graphical models using matplotlib
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 45 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 46 stars /
 6 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 77 / first author: 9 / citations: 11393 / h-index: 39
-(2022-03-30)
+refereed: 77 / first author: 9 / citations: 11400 / h-index: 39
+(2022-03-31)
 
 ### Refereed publications
 
@@ -295,7 +295,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[79
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[80
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -488,7 +488,7 @@ Identification of Stellar Phase-space Structures Purely by
 Chemical-abundance
 Similarity](http://dx.doi.org/10.3847/1538-4357/833/2/262)*, The
 Astrophysical Journal, **833**, 262
-([arXiv:1601.05413](http://arxiv.org/abs/1601.05413)) \[[60
+([arXiv:1601.05413](http://arxiv.org/abs/1601.05413)) \[[61
 citations](https://ui.adsabs.harvard.edu/abs/2016ApJ...833..262H)\]
 
 Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
@@ -641,7 +641,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5822
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5827
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
