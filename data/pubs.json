@@ -886,7 +886,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -1399,7 +1399,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1574,26 +1574,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "Rajpaul, Vinesh"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2020-07-00",
-    "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Hey, Daniel",
       "Murphy, Simon",
       "Foreman-Mackey, Daniel",
@@ -1610,6 +1590,26 @@
     "title": "Maelstrom: A Python package for identifying companions to pulsating stars from their light travel time variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H",
     "volume": "5",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel",
+      "Rajpaul, Vinesh"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2020-07-00",
+    "title": "GProtation: Measuring stellar rotation periods with Gaussian processes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft07001A",
+    "volume": null,
     "year": "2020"
   },
   {
@@ -1862,7 +1862,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -2068,7 +2068,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2580,7 +2580,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2748,7 +2748,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jose Vinicius de Miranda"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3369,7 +3369,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3436,7 +3436,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 346,
+    "citations": 347,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5025,7 +5025,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5180,7 +5180,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5829,
+    "citations": 5830,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
