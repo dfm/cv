@@ -20,6 +20,44 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2022-03-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ascl.soft03006L",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Bartoli{\\'c}, Fran",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Howell, Robert R.",
+      "Rathbun, Julie A."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/PSJ/ac2a3e",
+    "page": 67,
+    "pub": "The Planetary Science Journal",
+    "pubdate": "2022-03-00",
+    "title": "Occultation Mapping of Io's Surface in the Near-infrared. I. Inferring Static Maps",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022PSJ.....3...67B",
+    "volume": "3",
+    "year": "2022"
+  },
+  {
     "arxiv": "2111.06672",
     "authors": [
       "Dharmawardena, T. E.",
@@ -500,7 +538,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -519,7 +557,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -1242,7 +1280,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 69,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1280,7 +1318,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -1862,7 +1900,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -2043,7 +2081,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2261,7 +2299,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2805,7 +2843,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3192,7 +3230,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -3332,7 +3370,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3385,7 +3423,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 58,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3436,7 +3474,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 347,
+    "citations": 350,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4208,7 +4246,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4246,7 +4284,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 884,
+    "citations": 885,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4317,7 +4355,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -5180,7 +5218,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5837,
+    "citations": 5846,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
