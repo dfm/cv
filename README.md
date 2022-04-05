@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 78 / first author: 9 / citations: 11447 / h-index: 39
-(2022-04-04)
+refereed: 78 / first author: 9 / citations: 11444 / h-index: 39
+(2022-04-05)
 
 ### Refereed publications
 
@@ -92,7 +92,7 @@ Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
 Robert R.; & Rathbun, Julie A., 2022, *[Occultation Mapping of Io’s
 Surface in the Near-infrared. I. Inferring Static
 Maps](http://dx.doi.org/10.3847/PSJ/ac2a3e)*, The Planetary Science
-Journal, **3**, 67
+Journal, **3**, 67 ([arXiv:2103.03758](http://arxiv.org/abs/2103.03758))
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.; &
 **Foreman-Mackey, Daniel**, 2022, *[Three-dimensional dust density
@@ -700,12 +700,6 @@ Daniel**, 2021, Analytic Light Curves in Reflected Light: Phase Curves,
 Occultations, and Non-Lambertian Scattering for Spherical Planets and
 Moons, ArXiv ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L)\]
-
-Bartolić, Fran; Luger, Rodrigo; **Foreman-Mackey, Daniel**; Howell,
-Robert R.; & Rathbun, Julie A., 2021, Occultation mapping of Io’s
-surface in the near-infrared I: Inferring static maps, ArXiv
-([arXiv:2103.03758](http://arxiv.org/abs/2103.03758)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain

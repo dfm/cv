@@ -38,7 +38,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
       "Luger, Rodrigo",
@@ -614,6 +614,31 @@
     "pubdate": "2021-08-00",
     "title": "VizieR Online Data Catalog: Compared rotation periods for 1189 CKS host stars (David+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..51610265D",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Starkman, Nathaniel",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Foreman-Mackey, Dan",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Major, Syrtis"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.5057630",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-07-02",
+    "title": "adrn/gala:",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5057630P",
     "volume": null,
     "year": "2021"
   },
@@ -1222,26 +1247,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2103.03758",
-    "authors": [
-      "Bartoli{\\'c}, Fran",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Howell, Robert R.",
-      "Rathbun, Julie A."
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-03-00",
-    "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2010.01074",
     "authors": [
       "Agol, Eric",
@@ -1363,7 +1368,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -5063,7 +5068,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
