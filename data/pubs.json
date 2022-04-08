@@ -853,7 +853,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -1217,7 +1217,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2623,7 +2623,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -3497,7 +3497,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -4273,7 +4273,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -4289,7 +4289,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 886,
+    "citations": 889,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5223,7 +5223,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5855,
+    "citations": 5864,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
