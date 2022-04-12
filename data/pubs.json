@@ -1174,7 +1174,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.591491",
     "page": null,
@@ -1442,7 +1442,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -1501,7 +1501,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3937526",
     "page": null,
@@ -1746,7 +1746,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 76,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2111,7 +2111,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 47,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3198,7 +3198,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -4528,7 +4528,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4744,7 +4744,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 120,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -5223,7 +5223,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5874,
+    "citations": 5870,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
