@@ -20,6 +20,34 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Starkman, Nathaniel",
+      "NGC",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Wagg, Tom",
+      "Akeemlh",
+      "Foreman-Mackey, Dan",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Major, Syrtis"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.593786",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-03-03",
+    "title": "adrn/gala: v1.5",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
@@ -803,7 +831,7 @@
     "pub": "Zenodo",
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...1998447F",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1998447F",
     "volume": null,
     "year": "2021"
   },
@@ -914,30 +942,6 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Johnson, Ben",
-      "Foreman-Mackey, Dan",
-      "Sick, Jonathan",
-      "Leja, Joel",
-      "Byler, Nell",
-      "Walmsley, Mike",
-      "Tollerud, Erik",
-      "Leung, Henry",
-      "Scott, Spencer"
-    ],
-    "citations": 3,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.4737461",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-05-04",
-    "title": "dfm/python-fsps: python-fsps v0.4.1rc1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4737461J",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2101.07886",
     "authors": [
       "Gordon, Tyler A.",
@@ -985,80 +989,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Prochaska, J. Xavier",
-      "Hennawi, Joseph",
-      "Cooke, Ryan",
-      "Westfall, Kyle",
-      "Wang, Feige",
-      "EmAstro",
-      "Debs",
-      "Roberson, Milan",
-      "Pickering, T. E.",
-      "Tiffanyhsyu",
-      "Wasserman, Asher",
-      "Badpandabear",
-      "Villaume, Alexa",
-      "Holden, Brad",
-      "Marijana777",
-      "Schindler, JT",
-      "Young, David",
-      "Fl{\\\"o}rs, Andreas",
-      "Wilde, Matt",
-      "Simha, Sunil",
-      "Tejos, Nicolas",
-      "Tang, S.",
-      "Tollerud, Erik",
-      "Isbell, Jacob",
-      "Thyng, Kristen",
-      "Ellsworth Bowers, Timothy",
-      "Foreman-Mackey, Dan",
-      "Jones, David",
-      "Betts, Edward",
-      "Vasovi{\\'c}, Zlatan"
-    ],
-    "citations": 3,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.3506872",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-04-23",
-    "title": "pypeit/PypeIt: Version 1.4.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3506872P",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Willard, Brandon T.",
-      "Osthege, Michael",
-      "Ho, George",
-      "Vieira, Ricardo",
-      "Wiecki, Thomas",
-      "Foreman-Mackey, Dan",
-      "Chaudhari, Kaustubh",
-      "Legrand, Nicolas",
-      "Kumar, Ravin",
-      "Lao, Junpeng",
-      "Abril-Pla, Oriol",
-      "Fonnesbeck, Chris",
-      "Goldman, Robert P.",
-      "Gorelli, Marco"
-    ],
-    "citations": 2,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.4695331",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-04-15",
-    "title": "pymc-devs/aesara:",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4695331W",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Barentsen, Geert",
       "Hedges, Christina",
       "Vin{\\'\\i}cius, Z{\\'e}",
@@ -1097,7 +1027,7 @@
     "pub": "Zenodo",
     "pubdate": "2021-03-31",
     "title": "lightkurve/lightkurve: Lightkurve v2.0.9",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...1181928B",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1181928B",
     "volume": null,
     "year": "2021"
   },
@@ -1182,30 +1112,6 @@
     "pubdate": "2021-03-09",
     "title": "dfm/corner.py: corner.py v.2.2.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....591491F",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Johnson, Ben",
-      "Foreman-Mackey, Dan",
-      "Sick, Jonathan",
-      "Leja, Joel",
-      "Byler, Nell",
-      "Walmsley, Mike",
-      "Tollerud, Erik",
-      "Leung, Henry",
-      "Scott, Spencer"
-    ],
-    "citations": 5,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.4577191",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-03-03",
-    "title": "dfm/python-fsps: python-fsps v0.4.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4577191J",
     "volume": null,
     "year": "2021"
   },
@@ -1351,31 +1257,6 @@
     "pubdate": "2020-11-00",
     "title": "wobble: Time-series spectra analyzer",
     "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft11012B",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Price-Whelan, Adrian",
-      "Sip{\\'{o}}cz, Brigitta",
-      "Lenz, Daniel",
-      "Greco, Johnny",
-      "Starkman, Nathaniel",
-      "Foreman-Mackey, Dan",
-      "Lim, P. L.",
-      "Oh, Semyeong",
-      "Koposov, Sergey",
-      "Major, Syrtis"
-    ],
-    "citations": 14,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.4159870",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2020-10-30",
-    "title": "adrn/gala: v1.3",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...4159870P",
     "volume": null,
     "year": "2020"
   },
@@ -1776,27 +1657,6 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Luger, Rodrigo",
-      "Czekala, Ian",
-      "Agol, Eric",
-      "Price-Whelan, Adrian",
-      "Barclay, Tom"
-    ],
-    "citations": 5,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.3785072",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2020-05-04",
-    "title": "exoplanet-dev/exoplanet: exoplanet v0.3.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3785072F",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": "2003.02379",
     "authors": [
       "Hey, Daniel R.",
@@ -1869,7 +1729,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3669395",
     "page": null,
@@ -1994,86 +1854,6 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
     "volume": "235",
     "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Czekala, Ian",
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Barclay, Tom"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.3595344",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-12-30",
-    "title": "dfm/exoplanet: exoplanet v0.2.4",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3595344F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Fulton, BJ",
-      "Blunt, Sarah",
-      "Hurt, Spencer",
-      "Mills, Sean",
-      "Cpsdoppler",
-      "Sinukoff",
-      "Hadden, Sam",
-      "Bouma, Luke",
-      "Zhexingli",
-      "Iancrossfield",
-      "Dos Santos, Leonardo",
-      "Benneke, Bj{\\\"o}rn",
-      "Weiss, Lauren",
-      "Yee, Samuel",
-      "Rosenthal, Lee",
-      "Petigura, Erik",
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.3586003",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-12-20",
-    "title": "California-Planet-Search/radvel: Version 1.3.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3586003F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Farr, Will M.",
-      "Sinha, Manodeep",
-      "Archibald, Anne M.",
-      "Hogg, David W.",
-      "Sanders, Jeremy S.",
-      "Zuntz, Joe",
-      "Williams, Peter K. G.",
-      "Nelson, Andrew R. J.",
-      "De Val-Borro, Miguel",
-      "Erhardt, Tobias",
-      "Pashchenko, Ilya",
-      "Abril Pla, Oriol"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.3543502",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-11-15",
-    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3543502F",
-    "volume": null,
-    "year": "2019"
   },
   {
     "arxiv": "1910.04563",
@@ -2278,7 +2058,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3414932",
     "page": null,
@@ -2481,27 +2261,6 @@
     "title": "stardate: Combining dating methods for better stellar ages",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
     "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Czekala, Ian",
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Barentsen, Geert",
-      "Barclay, Tom"
-    ],
-    "citations": 3,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.3359880",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-08-04",
-    "title": "dfm/exoplanet: exoplanet v0.2.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3359880F",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -2737,48 +2496,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2650526",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/celerite: celerite v0.3.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Barentsen, Geert",
-      "Barclay, Tom"
-    ],
-    "citations": 8,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2651251",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/exoplanet: exoplanet v0.1.6",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Feinstein, Adina D.",
       "Montet, Benjamin T.",
       "Foreman-Mackey, Daniel",
@@ -2827,7 +2544,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.2561395",
     "page": null,
@@ -3069,23 +2786,6 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Barentsen, Geert"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2249795",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2018-12-13",
-    "title": "dfm/exoplanet: exoplanet v0.1.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...2249795F",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1810.10009",
     "authors": [
       "Brewer, John M.",
@@ -3150,51 +2850,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Dan",
-      "Meierjurgen Farr, Will",
-      "Tollerud, Erik",
-      "Hogg, David W.",
-      "Kern, Nicholas",
-      "Williams, Peter",
-      "Sanders, Jeremy",
-      "Sinha, Manodeep",
-      "Lang, Dustin",
-      "Nelson, Andrew",
-      "B{\\'e}ky, Bence",
-      "joezuntz",
-      "Vousden, Will",
-      "de Val-Borro, Miguel",
-      "Ilya",
-      "Tazzari, Marco",
-      "Erhardt, Tobias",
-      "Walker, Simon",
-      "Watkins, Laura",
-      "Price-Whelan, Adrian",
-      "Hoffimann, J{\\'u}lio",
-      "Davies, Jason",
-      "Guillochon, James",
-      "Davenport, James",
-      "Privon, George C.",
-      "Beaujean, Frederik",
-      "Sipocz, Brigitta",
-      "Rose, Benjamin",
-      "Scopatz, Anthony",
-      "Mohammed, AQNOUCH"
-    ],
-    "citations": 6,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1436565",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2018-09-27",
-    "title": "Dfm/Emcee: Emcee V3.0Rc2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1436565F",
-    "volume": null,
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
@@ -3244,25 +2899,6 @@
     "title": "A Robust Method to Measure Centroids of Spectral Lines",
     "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
     "volume": "2",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Morton, Timothy",
-      "benbaror",
-      "iancrossfield",
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1313708",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2018-07-17",
-    "title": "Timothydmorton/Vespa: Tests Upgrade, Minor Bugfixes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1313708M",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -3322,51 +2958,6 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Meierjurgen Farr, Will",
-      "Hogg, David W.",
-      "Kern, Nicholas",
-      "Williams, Peter",
-      "Sanders, Jeremy",
-      "Tollerud, Erik",
-      "Sinha, Manodeep",
-      "Lang, Dustin",
-      "Nelson, Andrew",
-      "B{\\'e}ky, Bence",
-      "joezuntz",
-      "Vousden, Will",
-      "de Val-Borro, Miguel",
-      "Ilya",
-      "Tazzari, Marco",
-      "Erhardt, Tobias",
-      "Walker, Simon",
-      "Watkins, Laura",
-      "Price-Whelan, Adrian",
-      "Hoffimann, J{\\'u}lio",
-      "Davies, Jason",
-      "Guillochon, James",
-      "Davenport, James",
-      "Privon, George C.",
-      "Beaujean, Frederik",
-      "Sipocz, Brigitta",
-      "Rose, Benjamin",
-      "Scopatz, Anthony",
-      "Mohammed, AQNOUCH"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1297477",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2018-06-25",
-    "title": "Dfm/Emcee: Emcee V3.0Rc1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1297477F",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1805.10290",
     "authors": [
       "Teague, Richard",
@@ -3375,7 +2966,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 165,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3437,22 +3028,6 @@
     "title": "Scalable Backpropagation for Gaussian Processes using Celerite",
     "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F",
     "volume": "2",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1160614",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2018-01-25",
-    "title": "Dfm/Celerite-Grad: Celerite-Grad V0.0.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1160614F",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -3557,30 +3132,6 @@
     "title": "Linear Models for Systematics and Nuisances",
     "url": "https://ui.adsabs.harvard.edu/abs/2017RNAAS...1....7L",
     "volume": "1",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 4,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1048287",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2017-11-13",
-    "title": "Dfm/Celerite: Celerite V0.3.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017zndo...1048287F",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -3801,30 +3352,6 @@
     "pubdate": "2017-08-00",
     "title": "VizieR Online Data Catalog: K2 Campaign 9 added events (Henderson+, 2016)",
     "url": "https://ui.adsabs.harvard.edu/abs/2017yCat..61293401H",
-    "volume": null,
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.806847",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2017-06-12",
-    "title": "Dfm/Celerite: Celerite V0.2.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017zndo....806847F",
     "volume": null,
     "year": "2017"
   },
@@ -4138,40 +3665,6 @@
     "year": "2016"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Morton, Timothy"
-    ],
-    "citations": 2,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.159478",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-10-06",
-    "title": "Dfm/Transit: Version 0.3.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159478F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Morton, Timothy",
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.159487",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-10-06",
-    "title": "Timothydmorton/Exosyspop: Initial Release",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159487M",
-    "volume": null,
-    "year": "2016"
-  },
-  {
     "arxiv": "1607.00524",
     "authors": [
       "Luger, Rodrigo",
@@ -4289,7 +3782,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 891,
+    "citations": 892,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4397,12 +3890,12 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A.",
+      "Caswell, Thomas A",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
@@ -4411,12 +3904,12 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
-    "page": 53155,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2016-05-00",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-05-26",
     "title": "corner.py: corner.py v2.0.0",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....53155F",
     "volume": null,
@@ -4504,38 +3997,6 @@
     "pubdate": "2016-03-00",
     "title": "Python in Astronomy 2016 Unproceedings",
     "url": "https://ui.adsabs.harvard.edu/abs/2016pyas.confE..35R",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Vousden, Will",
-      "Price-Whelan, Adrian",
-      "Pitkin, Matt",
-      "Zabalza, Victor",
-      "Ryan, Geoffrey",
-      "Emily",
-      "Smith, Michael",
-      "Ashton, Gregory",
-      "Cruz, Kelle",
-      "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
-      "Hoyer, Stephan",
-      "Barbary, Kyle",
-      "Czekala, Ian",
-      "Hogg, David W.",
-      "Brewer, Brendon J."
-    ],
-    "citations": 50,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.45906",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-02-11",
-    "title": "Corner.Py: Corner.Py V1.0.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
     "year": "2016"
   },
@@ -5096,29 +4557,6 @@
     "year": "2014"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Price-Whelan, Adrian",
-      "Ryan, Geoffrey",
-      "Rice, Emily",
-      "Smith, Michael",
-      "Barbary, Kyle",
-      "Hogg, David W.",
-      "Brewer, Brendon J."
-    ],
-    "citations": 4,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.10598",
-    "page": 10598,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-06-00",
-    "title": "triangle.py: triangle.py v0.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....10598F",
-    "volume": null,
-    "year": "2014"
-  },
-  {
     "arxiv": "1310.4179",
     "authors": [
       "Dorman, Claire E.",
@@ -5223,7 +4661,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5870,
+    "citations": 5873,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
