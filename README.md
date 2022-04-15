@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1214 stars / 417 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1215 stars / 417 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 78 / first author: 9 / citations: 11497 / h-index: 39
-(2022-04-14)
+refereed: 78 / first author: 9 / citations: 11511 / h-index: 39
+(2022-04-15)
 
 ### Refereed publications
 
@@ -230,7 +230,7 @@ through Radial Variations in Chemical Abundances of Its Field Star and
 Globular Cluster
 Populations](http://dx.doi.org/10.3847/1538-4357/aba616)*, The
 Astrophysical Journal, **900**, 95
-([arXiv:2006.16280](http://arxiv.org/abs/2006.16280)) \[[5
+([arXiv:2006.16280](http://arxiv.org/abs/2006.16280)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2020ApJ...900...95V)\]
 
 Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
@@ -303,7 +303,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[81
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[82
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -436,7 +436,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[350
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[351
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -472,7 +472,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[212
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[213
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -649,7 +649,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5881
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5891
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -667,6 +667,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
+Daniel**; & Hayward, Christopher C., 2022, Empirical Dust Attenuation
+Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies, ArXiv
+([arXiv:2204.06449](http://arxiv.org/abs/2204.06449))
 
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
 Daniel**; & Hayward, Christopher C., 2022, A Bayesian Population Model
