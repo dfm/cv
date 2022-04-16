@@ -10,7 +10,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 417,
+              "forkCount": 418,
               "stargazers": {
                 "totalCount": 1215
               },
@@ -40,7 +40,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 7,
+              "forkCount": 8,
               "stargazers": {
                 "totalCount": 130
               },
