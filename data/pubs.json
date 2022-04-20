@@ -1,25 +1,5 @@
 [
   {
-    "arxiv": "2202.04686",
-    "authors": [
-      "Hitchcock, J. A.",
-      "Bramich, D. M.",
-      "Foreman-Mackey, D.",
-      "Hogg, David W.",
-      "Hundertmark, M."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac427",
-    "page": 5372,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-04-00",
-    "title": "The Thresher: Lucky imaging without the waste",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.5372H",
-    "volume": "511",
-    "year": "2022"
-  },
-  {
     "arxiv": "2204.06449",
     "authors": [
       "Nagaraj, Gautam",
@@ -37,6 +17,26 @@
     "title": "Empirical Dust Attenuation Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220406449N",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.04686",
+    "authors": [
+      "Hitchcock, J. A.",
+      "Bramich, D. M.",
+      "Foreman-Mackey, D.",
+      "Hogg, David W.",
+      "Hundertmark, M."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac427",
+    "page": 5372,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2022-04-00",
+    "title": "The Thresher: Lucky imaging without the waste",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.5372H",
+    "volume": "511",
     "year": "2022"
   },
   {
@@ -5226,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5904,
+    "citations": 5907,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
