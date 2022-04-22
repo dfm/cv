@@ -1288,7 +1288,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1961,26 +1961,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Gordon, T.",
-      "Davenport, J.",
-      "Angus, R.",
-      "Agol, E.",
-      "Foreman-Mackey, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Measuring Stellar Rotation in the K2 Sample",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Luger, R.",
       "Bedell, M.",
       "Foreman-Mackey, D.",
@@ -1995,6 +1975,26 @@
     "pubdate": "2020-01-00",
     "title": "Surface Maps of Stars and Exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Gordon, T.",
+      "Davenport, J.",
+      "Angus, R.",
+      "Agol, E.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Measuring Stellar Rotation in the K2 Sample",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
     "volume": "235",
     "year": "2020"
   },
@@ -2984,6 +2984,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Kruse, Ethan",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "Hundreds of New Planet Candidates from K2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Feinstein, Adina",
       "Montet, Benjamin",
       "Bedell, MEgan",
@@ -3002,25 +3021,6 @@
     "pubdate": "2019-01-00",
     "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Kruse, Ethan",
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "Hundreds of New Planet Candidates from K2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
     "volume": "233",
     "year": "2019"
   },
@@ -3415,7 +3415,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3431,7 +3431,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3482,7 +3482,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 355,
+    "citations": 356,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4292,7 +4292,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 895,
+    "citations": 897,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4363,7 +4363,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 194,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -4414,7 +4414,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 26,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -4584,7 +4584,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4728,7 +4728,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 295,
+    "citations": 296,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5110,7 +5110,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 7,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,
@@ -5226,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5912,
+    "citations": 5914,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -5250,7 +5250,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "software",
     "doi": null,
     "page": null,
