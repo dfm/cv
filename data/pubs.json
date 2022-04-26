@@ -825,37 +825,6 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Barclay, Thomas",
-      "Bouma, Luke G.",
-      "Brandt, Timothy D.",
-      "Czekala, Ian",
-      "David, Trevor J.",
-      "Dong, Jiayin",
-      "Gilbert, Emily A.",
-      "Gordon, Tyler A.",
-      "Hedges, Christina",
-      "Hey, Daniel R.",
-      "Morris, Brett M.",
-      "Price-Whelan, Adrian M.",
-      "Savel, Arjun B."
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1998447",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-06-21",
-    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1998447F",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -5226,7 +5195,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5926,
+    "citations": 5924,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
