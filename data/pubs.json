@@ -1851,7 +1851,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2307,7 +2307,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2626,7 +2626,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -2794,7 +2794,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jose Vinicius de Miranda"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2851,7 +2851,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3415,7 +3415,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3482,7 +3482,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 359,
+    "citations": 361,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4292,7 +4292,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 898,
+    "citations": 901,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4728,7 +4728,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 299,
+    "citations": 300,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5226,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5929,
+    "citations": 5936,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
