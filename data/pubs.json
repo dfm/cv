@@ -924,7 +924,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1749,7 +1749,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1851,7 +1851,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2089,7 +2089,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2851,7 +2851,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -2984,25 +2984,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Kruse, Ethan",
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "Hundreds of New Planet Candidates from K2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Feinstein, Adina",
       "Montet, Benjamin",
       "Bedell, MEgan",
@@ -3021,6 +3002,25 @@
     "pubdate": "2019-01-00",
     "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Kruse, Ethan",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "Hundreds of New Planet Candidates from K2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
     "volume": "233",
     "year": "2019"
   },
@@ -3482,7 +3482,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 364,
+    "citations": 365,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3551,7 +3551,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -3972,34 +3972,6 @@
     "year": "2016"
   },
   {
-    "arxiv": "1601.05413",
-    "authors": [
-      "Hogg, David W.",
-      "Casey, Andrew R.",
-      "Ness, Melissa",
-      "Rix, Hans-Walter",
-      "Foreman-Mackey, Daniel",
-      "Hasselquist, Sten",
-      "Ho, Anna Y. Q.",
-      "Holtzman, Jon A.",
-      "Majewski, Steven R.",
-      "Martell, Sarah L.",
-      "M{\\'e}sz{\\'a}ros, Szabolcs",
-      "Nidever, David L.",
-      "Shetrone, Matthew"
-    ],
-    "citations": 62,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/833/2/262",
-    "page": 262,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2016-12-00",
-    "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...833..262H",
-    "volume": "833",
-    "year": "2016"
-  },
-  {
     "arxiv": "1512.09142",
     "authors": [
       "Henderson, Calen B.",
@@ -4138,6 +4110,34 @@
     "title": "Campaign 9 of the K2 Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
     "url": "https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1601.05413",
+    "authors": [
+      "Hogg, David W.",
+      "Casey, Andrew R.",
+      "Ness, Melissa",
+      "Rix, Hans-Walter",
+      "Foreman-Mackey, Daniel",
+      "Hasselquist, Sten",
+      "Ho, Anna Y. Q.",
+      "Holtzman, Jon A.",
+      "Majewski, Steven R.",
+      "Martell, Sarah L.",
+      "M{\\'e}sz{\\'a}ros, Szabolcs",
+      "Nidever, David L.",
+      "Shetrone, Matthew"
+    ],
+    "citations": 62,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/833/2/262",
+    "page": 262,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2016-12-00",
+    "title": "Chemical Tagging Can Work: Identification of Stellar Phase-space Structures Purely by Chemical-abundance Similarity",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...833..262H",
+    "volume": "833",
     "year": "2016"
   },
   {
@@ -4292,7 +4292,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 905,
+    "citations": 906,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5226,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5964,
+    "citations": 5969,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
