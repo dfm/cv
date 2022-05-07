@@ -52,7 +52,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 143 stars / 11 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 144 stars / 11 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 78 / first author: 9 / citations: 11672 / h-index: 39
-(2022-05-06)
+refereed: 78 / first author: 9 / citations: 11686 / h-index: 39
+(2022-05-07)
 
 ### Refereed publications
 
@@ -122,7 +122,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[24
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -296,14 +296,14 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[46
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[84
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[85
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -341,13 +341,13 @@ Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, The Astronomical
 Journal, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[61
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
 *et al.* (incl. **DFM**), 2019, The Next Decade of Astroinformatics and
 Astrostatistics, Bulletin of the American Astronomical Society, **51**,
-355 ([arXiv:1903.06796](http://arxiv.org/abs/1903.06796)) \[[3
+355 ([arXiv:1903.06796](http://arxiv.org/abs/1903.06796)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
@@ -452,7 +452,7 @@ Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
 Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
 Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
 Journal, **154**, 254
-([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[43
+([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
@@ -566,7 +566,7 @@ of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a
 Planet Receiving Earth-like
 Insolation](http://dx.doi.org/10.1088/0004-637X/809/1/25)*, The
 Astrophysical Journal, **809**, 25
-([arXiv:1503.07866](http://arxiv.org/abs/1503.07866)) \[[109
+([arXiv:1503.07866](http://arxiv.org/abs/1503.07866)) \[[110
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...809...25M)\]
 
 Barclay, Thomas; Quintana, Elisa V.; Adams, Fred C.; Ciardi, David R.;
@@ -649,7 +649,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5969
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5975
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
