@@ -56,7 +56,7 @@ Make some beautiful corner plots
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 629 stars / 116 forks  
+[**daft**](https://github.com/daft-dev/daft) — 630 stars / 116 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 78 / first author: 9 / citations: 11701 / h-index: 39
-(2022-05-11)
+refereed: 78 / first author: 9 / citations: 11708 / h-index: 39
+(2022-05-12)
 
 ### Refereed publications
 
@@ -649,7 +649,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5983
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5989
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -676,7 +676,8 @@ Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies, ArXiv
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
 Daniel**; & Hayward, Christopher C., 2022, A Bayesian Population Model
 for the Observed Dust Attenuation in Galaxies, ArXiv
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102))
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N)\]
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, A Mirage or an Oasis? Water
