@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 78 / first author: 9 / citations: 11708 / h-index: 39
-(2022-05-12)
+refereed: 78 / first author: 9 / citations: 11716 / h-index: 39
+(2022-05-13)
 
 ### Refereed publications
 
@@ -122,7 +122,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[26
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -190,7 +190,7 @@ Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
 for Modified Spin-down](http://dx.doi.org/10.3847/1538-4357/abf63e)*,
 The Astrophysical Journal, **913**, 70
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[11
+([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G)\]
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
@@ -296,7 +296,7 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[47
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[48
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
@@ -421,7 +421,7 @@ Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, Monthly Notices of
 the Royal Astronomical Society, **474**, 2094
-([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[109
+([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[110
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -649,7 +649,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5989
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[5993
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

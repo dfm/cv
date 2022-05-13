@@ -366,7 +366,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -997,7 +997,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -2114,7 +2114,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3415,7 +3415,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -4292,7 +4292,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 909,
+    "citations": 911,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5226,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5989,
+    "citations": 5993,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
