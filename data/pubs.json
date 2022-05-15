@@ -1749,7 +1749,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1961,26 +1961,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Luger, R.",
-      "Bedell, M.",
-      "Foreman-Mackey, D.",
-      "Angus, R.",
-      "Hogg, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Surface Maps of Stars and Exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gordon, T.",
       "Davenport, J.",
       "Angus, R.",
@@ -1995,6 +1975,26 @@
     "pubdate": "2020-01-00",
     "title": "Measuring Stellar Rotation in the K2 Sample",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, R.",
+      "Bedell, M.",
+      "Foreman-Mackey, D.",
+      "Angus, R.",
+      "Hogg, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Surface Maps of Stars and Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
     "volume": "235",
     "year": "2020"
   },
@@ -2114,7 +2114,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3378,7 +3378,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 167,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3415,7 +3415,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3431,7 +3431,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3482,7 +3482,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 367,
+    "citations": 368,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3533,7 +3533,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -3868,7 +3868,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 216,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4292,7 +4292,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 911,
+    "citations": 914,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4847,7 +4847,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -5226,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 5996,
+    "citations": 6001,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
