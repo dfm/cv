@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
       "David, Trevor J.",
@@ -28,7 +28,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -505,46 +505,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2110.10707",
-    "authors": [
-      "Johnson, Marshall C.",
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Isaacson, Howard T.",
-      "Van Zandt, Judah",
-      "Ilyin, Ilya",
-      "Strassmeier, Klaus",
-      "Mallonn, Matthias",
-      "Zhou, George",
-      "Mann, Andrew W.",
-      "Livingston, John H.",
-      "Luger, Rodrigo",
-      "Dai, Fei",
-      "Weiss, Lauren M.",
-      "Mo{\\v{c}}nik, Teo",
-      "Giacalone, Steven",
-      "Hill, Michelle L.",
-      "Rice, Malena",
-      "Blunt, Sarah",
-      "Rubenzahl, Ryan",
-      "Dalba, Paul A.",
-      "Esquerdo, Gilbert A.",
-      "Berlind, Perry",
-      "Calkins, Michael L.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Dong, J.",
@@ -915,7 +875,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -941,7 +901,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -964,7 +924,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1133,7 +1093,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 0,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -1328,7 +1288,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 76,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1789,7 +1749,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 80,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2129,7 +2089,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 62,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2220,7 +2180,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -2347,7 +2307,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 109,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2366,7 +2326,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 38,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -2852,7 +2812,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 20,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -2891,7 +2851,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 122,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3261,7 +3221,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 114,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3455,7 +3415,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 112,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3471,7 +3431,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 66,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3522,7 +3482,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 369,
+    "citations": 368,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4225,7 +4185,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 197,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4332,7 +4292,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 917,
+    "citations": 914,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4648,7 +4608,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 111,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -4671,7 +4631,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 28,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -5266,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6019,
+    "citations": 6003,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
