@@ -974,7 +974,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -1093,7 +1093,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -1177,7 +1177,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 0,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.591491",
     "page": null,
@@ -1201,7 +1201,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -1504,7 +1504,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 8,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3937526",
     "page": null,
@@ -1833,7 +1833,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3747801",
     "page": null,
@@ -1872,7 +1872,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3669395",
     "page": null,
@@ -2007,7 +2007,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3595344",
     "page": null,
@@ -2039,7 +2039,7 @@
       "Petigura, Erik",
       "Foreman-Mackey, Dan"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3586003",
     "page": null,
@@ -2067,7 +2067,7 @@
       "Pashchenko, Ilya",
       "Abril Pla, Oriol"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3543502",
     "page": null,
@@ -2142,7 +2142,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2237,7 +2237,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 12,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -2257,7 +2257,7 @@
       "Montet, Benjamin",
       "Luger, Rodrigo"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3438282",
     "page": null,
@@ -2281,7 +2281,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3414932",
     "page": null,
@@ -2496,7 +2496,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.3359880",
     "page": null,
@@ -2744,7 +2744,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 14,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.2651251",
     "page": null,
@@ -2812,7 +2812,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 14,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -2894,7 +2894,7 @@
       "Foreman-Mackey, Dan",
       "Barentsen, Geert"
     ],
-    "citations": 12,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.2536576",
     "page": null,
@@ -3184,7 +3184,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 11,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -3257,7 +3257,7 @@
       "iancrossfield",
       "Foreman-Mackey, Dan"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.1313708",
     "page": null,
@@ -3358,7 +3358,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.1297477",
     "page": null,
@@ -3378,7 +3378,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 168,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3447,7 +3447,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.1160614",
     "page": null,
@@ -3482,7 +3482,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 368,
+    "citations": 369,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4414,7 +4414,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -5019,7 +5019,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 15,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -5226,7 +5226,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6003,
+    "citations": 6005,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
