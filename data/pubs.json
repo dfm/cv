@@ -40,6 +40,28 @@
     "year": "2022"
   },
   {
+    "arxiv": "2205.08901",
+    "authors": [
+      "Angus, Ruth",
+      "Price-Whelan, Adrian M.",
+      "Zinn, Joel C.",
+      "Bedell, Megan",
+      "Yuxi",
+      "Lu",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-05-00",
+    "title": "The 3D Galactocentric velocities of Kepler stars: marginalizing over missing RVs",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220508901A",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2204.06449",
     "authors": [
       "Nagaraj, Gautam",
@@ -1961,26 +1983,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Gordon, T.",
-      "Davenport, J.",
-      "Angus, R.",
-      "Agol, E.",
-      "Foreman-Mackey, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Measuring Stellar Rotation in the K2 Sample",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Luger, R.",
       "Bedell, M.",
       "Foreman-Mackey, D.",
@@ -1995,6 +1997,26 @@
     "pubdate": "2020-01-00",
     "title": "Surface Maps of Stars and Exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Gordon, T.",
+      "Davenport, J.",
+      "Angus, R.",
+      "Agol, E.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Measuring Stellar Rotation in the K2 Sample",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
     "volume": "235",
     "year": "2020"
   },
@@ -2114,7 +2136,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3395,7 +3417,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5226,7 +5248,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6008,
+    "citations": 6016,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -5250,7 +5272,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "software",
     "doi": null,
     "page": null,
