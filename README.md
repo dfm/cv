@@ -56,7 +56,7 @@ Make some beautiful corner plots
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 631 stars / 116 forks  
+[**daft**](https://github.com/daft-dev/daft) — 631 stars / 117 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 79 / first author: 9 / citations: 11907 / h-index: 39
-(2022-05-22)
+refereed: 79 / first author: 9 / citations: 11916 / h-index: 39
+(2022-05-23)
 
 ### Refereed publications
 
@@ -136,7 +136,7 @@ Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[HD 183579b: a warm sub-Neptune transiting a
 solar twin detected by TESS](http://dx.doi.org/10.1093/mnras/stab2224)*,
 Monthly Notices of the Royal Astronomical Society, **507**, 2220
-([arXiv:2107.14015](http://arxiv.org/abs/2107.14015)) \[[2
+([arXiv:2107.14015](http://arxiv.org/abs/2107.14015)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2220G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -197,7 +197,7 @@ Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
 for Modified Spin-down](http://dx.doi.org/10.3847/1538-4357/abf63e)*,
 The Astrophysical Journal, **913**, 70
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[12
+([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G)\]
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
@@ -310,7 +310,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[86
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[88
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -405,7 +405,7 @@ Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
 to Measure Centroids of Spectral
 Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
 the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[45
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
@@ -497,15 +497,6 @@ The Astronomical Journal, **152**, 206
 ([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
-Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
-A.; *et al.* (incl. **DFM**), 2016, *[Campaign 9 of the K2 Mission:
-Observational Parameters, Scientific Drivers, and Community Involvement
-for a Simultaneous Space- and Ground-based Microlensing
-Survey](http://dx.doi.org/10.1088/1538-3873/128/970/124401)*,
-Publications of the Astronomical Society of the Pacific, **128**, 124401
-([arXiv:1512.09142](http://arxiv.org/abs/1512.09142)) \[[60
-citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H)\]
-
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
 *et al.* (incl. **DFM**), 2016, *[Chemical Tagging Can Work:
 Identification of Stellar Phase-space Structures Purely by
@@ -514,6 +505,15 @@ Similarity](http://dx.doi.org/10.3847/1538-4357/833/2/262)*, The
 Astrophysical Journal, **833**, 262
 ([arXiv:1601.05413](http://arxiv.org/abs/1601.05413)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2016ApJ...833..262H)\]
+
+Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
+A.; *et al.* (incl. **DFM**), 2016, *[Campaign 9 of the K2 Mission:
+Observational Parameters, Scientific Drivers, and Community Involvement
+for a Simultaneous Space- and Ground-based Microlensing
+Survey](http://dx.doi.org/10.1088/1538-3873/128/970/124401)*,
+Publications of the Astronomical Society of the Pacific, **128**, 124401
+([arXiv:1512.09142](http://arxiv.org/abs/1512.09142)) \[[60
+citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H)\]
 
 Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
@@ -539,7 +539,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[197
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[198
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -656,7 +656,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6024
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6027
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
