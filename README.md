@@ -60,7 +60,7 @@ The tiniest of Gaussian Process libraries
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 169 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 168 stars
 / 45 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 79 / first author: 9 / citations: 11916 / h-index: 39
-(2022-05-23)
+refereed: 79 / first author: 9 / citations: 11907 / h-index: 39
+(2022-05-24)
 
 ### Refereed publications
 
@@ -136,7 +136,7 @@ Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[HD 183579b: a warm sub-Neptune transiting a
 solar twin detected by TESS](http://dx.doi.org/10.1093/mnras/stab2224)*,
 Monthly Notices of the Royal Astronomical Society, **507**, 2220
-([arXiv:2107.14015](http://arxiv.org/abs/2107.14015)) \[[3
+([arXiv:2107.14015](http://arxiv.org/abs/2107.14015)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2220G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -197,7 +197,7 @@ Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
 for Modified Spin-down](http://dx.doi.org/10.3847/1538-4357/abf63e)*,
 The Astrophysical Journal, **913**, 70
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[13
+([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G)\]
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
@@ -310,7 +310,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[88
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[86
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -405,7 +405,7 @@ Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
 to Measure Centroids of Spectral
 Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
 the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[46
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
@@ -539,7 +539,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[198
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[197
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -656,7 +656,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6027
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6024
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
