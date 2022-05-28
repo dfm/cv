@@ -50,7 +50,7 @@
       "Lu",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -608,7 +608,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -923,7 +923,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -1983,26 +1983,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Gordon, T.",
-      "Davenport, J.",
-      "Angus, R.",
-      "Agol, E.",
-      "Foreman-Mackey, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Measuring Stellar Rotation in the K2 Sample",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Luger, R.",
       "Bedell, M.",
       "Foreman-Mackey, D.",
@@ -2017,6 +1997,26 @@
     "pubdate": "2020-01-00",
     "title": "Surface Maps of Stars and Exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Gordon, T.",
+      "Davenport, J.",
+      "Angus, R.",
+      "Agol, E.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Measuring Stellar Rotation in the K2 Sample",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
     "volume": "235",
     "year": "2020"
   },
@@ -2164,7 +2164,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2648,7 +2648,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -3437,7 +3437,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -3504,7 +3504,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 370,
+    "citations": 371,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3522,7 +3522,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3927,7 +3927,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4314,7 +4314,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 924,
+    "citations": 926,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4630,7 +4630,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -4750,7 +4750,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 304,
+    "citations": 306,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5248,7 +5248,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6033,
+    "citations": 6041,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
