@@ -40,6 +40,29 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": "2205.08901",
     "authors": [
       "Angus, Ruth",
@@ -428,7 +451,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -897,7 +920,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1771,7 +1794,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 81,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1873,7 +1896,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2164,7 +2187,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2329,7 +2352,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 111,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2873,7 +2896,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3243,7 +3266,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3453,7 +3476,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3504,7 +3527,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 371,
+    "citations": 373,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3522,7 +3545,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3616,7 +3639,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -3890,7 +3913,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 218,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -3982,7 +4005,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -4207,7 +4230,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 196,
+    "citations": 197,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4244,7 +4267,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -4298,7 +4321,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -4314,7 +4337,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 927,
+    "citations": 929,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4571,7 +4594,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -4750,7 +4773,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 306,
+    "citations": 307,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -4790,7 +4813,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -5248,7 +5271,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6044,
+    "citations": 6053,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
