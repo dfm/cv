@@ -40,7 +40,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2106.15063",
     "authors": [
       "Hattori, Soichiro",
       "Foreman-Mackey, Daniel",
@@ -51,7 +51,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 0,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -889,7 +889,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 106,
+    "citations": 64,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -955,29 +955,6 @@
     "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
     "volume": "161",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 8,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-06-00",
-    "title": "The unpopular Package: a Data-driven Approach to De-trend TESS Full Frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210615063H",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -1138,7 +1115,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 30,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -1416,7 +1393,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 23,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -1794,7 +1771,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 83,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2187,7 +2164,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 88,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2352,7 +2329,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 113,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3266,7 +3243,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 113,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3527,7 +3504,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 373,
+    "citations": 372,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3545,7 +3522,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 65,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -3639,7 +3616,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -3913,7 +3890,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 219,
+    "citations": 218,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4005,7 +3982,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 69,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -4230,7 +4207,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 197,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4267,7 +4244,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -4321,7 +4298,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -4337,7 +4314,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 929,
+    "citations": 928,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4459,7 +4436,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 26,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -4576,7 +4553,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 67,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -4594,7 +4571,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -4813,7 +4790,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 103,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -5045,7 +5022,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 127,
+    "citations": 77,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5064,7 +5041,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 15,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -5116,7 +5093,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 72,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5271,7 +5248,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6053,
+    "citations": 6045,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
