@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 80 / first author: 9 / citations: 11958 / h-index: 39
-(2022-06-01)
+refereed: 80 / first author: 9 / citations: 11965 / h-index: 39
+(2022-06-02)
 
 ### Refereed publications
 
@@ -603,7 +603,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
 Astrophysical Journal, **806**, 215
-([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[102
+([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[103
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
@@ -664,7 +664,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6049
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6055
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
