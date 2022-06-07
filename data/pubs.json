@@ -1282,7 +1282,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -1369,7 +1369,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 77,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2223,7 +2223,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 88,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2277,7 +2277,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -2893,7 +2893,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 22,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -2958,7 +2958,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 103,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3563,7 +3563,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 377,
+    "citations": 375,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4373,7 +4373,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 933,
+    "citations": 931,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4809,7 +4809,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 308,
+    "citations": 307,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5307,7 +5307,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6083,
+    "citations": 6075,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
