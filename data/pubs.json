@@ -317,7 +317,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -1830,7 +1830,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -1989,7 +1989,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -2170,7 +2170,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 63,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2388,7 +2388,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 112,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -2958,7 +2958,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3512,7 +3512,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3563,7 +3563,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 376,
+    "citations": 377,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4373,7 +4373,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 932,
+    "citations": 936,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4809,7 +4809,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 307,
+    "citations": 308,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5307,7 +5307,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6089,
+    "citations": 6099,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
