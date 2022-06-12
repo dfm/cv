@@ -1,5 +1,43 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Powell, Brian P.",
+      "Kruse, Ethan",
+      "Montet, Benjamin T.",
+      "Feinstein, Adina D.",
+      "Lewis, Hannah M.",
+      "Foreman-Mackey, Daniel",
+      "Barclay, Thomas",
+      "Quintana, Elisa V.",
+      "Col{\\'o}n, Knicole D.",
+      "Kostov, Veselin B.",
+      "Boyd, Patricia",
+      "Smale, Alan P.",
+      "Mullally, Susan E.",
+      "Schlieder, Joshua E.",
+      "Schnittman, Jeremy D.",
+      "Carroll, Mark L.",
+      "Carriere, Laura E.",
+      "Salmon, Ellen M.",
+      "Strong, Savannah L.",
+      "Acks, Nicko D.",
+      "Pfaff, Bruce E.",
+      "Gerner, Lyn E.",
+      "Burch, Timothy M."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/ac74c4",
+    "page": 111,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
+    "volume": "6",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -60,44 +98,6 @@
     "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
     "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Powell, Brian P.",
-      "Kruse, Ethan",
-      "Montet, Benjamin T.",
-      "Feinstein, Adina D.",
-      "Lewis, Hannah M.",
-      "Foreman-Mackey, Daniel",
-      "Barclay, Thomas",
-      "Quintana, Elisa V.",
-      "Col{\\'o}n, Knicole D.",
-      "Kostov, Veselin B.",
-      "Boyd, Patricia",
-      "Smale, Alan P.",
-      "Mullally, Susan E.",
-      "Schlieder, Joshua E.",
-      "Schnittman, Jeremy D.",
-      "Carroll, Mark L.",
-      "Carriere, Laura E.",
-      "Salmon, Ellen M.",
-      "Strong, Savannah L.",
-      "Acks, Nicko D.",
-      "Pfaff, Bruce E.",
-      "Gerner, Lyn E.",
-      "Burch, Timothy M."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/ac74c4",
-    "page": 111,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
-    "volume": "6",
     "year": "2022"
   },
   {
@@ -531,7 +531,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1830,7 +1830,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 84,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2223,7 +2223,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3319,7 +3319,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -4373,7 +4373,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 936,
+    "citations": 938,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5307,7 +5307,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6099,
+    "citations": 6105,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
