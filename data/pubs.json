@@ -2,6 +2,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Bartoli{\\'c}, Fran",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac4017",
+    "page": 4,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-07-00",
+    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L",
+    "volume": "164",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Powell, Brian P.",
       "Kruse, Ethan",
       "Montet, Benjamin T.",
@@ -220,7 +239,7 @@
       "Howell, Robert R.",
       "Rathbun, Julie A."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/PSJ/ac2a3e",
     "page": 67,
@@ -531,7 +550,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -690,7 +709,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -709,7 +728,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -1932,7 +1951,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2223,7 +2242,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2932,7 +2951,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 125,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3220,7 +3239,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4373,7 +4392,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 938,
+    "citations": 940,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4712,7 +4731,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -5307,7 +5326,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6105,
+    "citations": 6114,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
