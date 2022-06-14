@@ -52,7 +52,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 146 stars / 11 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 147 stars / 11 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 82 / first author: 9 / citations: 12081 / h-index: 40
-(2022-06-13)
+refereed: 82 / first author: 9 / citations: 12067 / h-index: 40
+(2022-06-14)
 
 ### Refereed publications
 
@@ -87,6 +87,8 @@ Daniel**, 2022, *[Analytic Light Curves in Reflected Light: Phase
 Curves, Occultations, and Non-Lambertian Scattering for Spherical
 Planets and Moons](http://dx.doi.org/10.3847/1538-3881/ac4017)*, The
 Astronomical Journal, **164**, 4
+([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L)\]
 
 Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
 D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
@@ -120,7 +122,7 @@ Robert R.; & Rathbun, Julie A., 2022, *[Occultation Mapping of Io’s
 Surface in the Near-infrared. I. Inferring Static
 Maps](http://dx.doi.org/10.3847/PSJ/ac2a3e)*, The Planetary Science
 Journal, **3**, 67 ([arXiv:2103.03758](http://arxiv.org/abs/2103.03758))
-\[[4 citations](https://ui.adsabs.harvard.edu/abs/2022PSJ.....3...67B)\]
+\[[3 citations](https://ui.adsabs.harvard.edu/abs/2022PSJ.....3...67B)\]
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.; &
 **Foreman-Mackey, Daniel**, 2022, *[Three-dimensional dust density
@@ -164,7 +166,7 @@ Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model
 for Light Curves](http://dx.doi.org/10.3847/1538-3881/abfdb9)*, The
 Astronomical Journal, **162**, 124
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[13
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
@@ -172,7 +174,7 @@ David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[16
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
@@ -301,7 +303,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[67
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[66
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -331,7 +333,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[89
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[88
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -382,7 +384,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[127
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[125
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -677,7 +679,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6114
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6107
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -723,12 +725,6 @@ Ian J. M.; *et al.*, 2021, Mapping stellar surfaces III: An Efficient,
 Scalable, and Open-Source Doppler Imaging Model, ArXiv
 ([arXiv:2110.06271](http://arxiv.org/abs/2110.06271)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L)\]
-
-Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
-Daniel**, 2021, Analytic Light Curves in Reflected Light: Phase Curves,
-Occultations, and Non-Lambertian Scattering for Spherical Planets and
-Moons, ArXiv ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[4
-citations](https://ui.adsabs.harvard.edu/abs/2021arXiv210306275L)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
 Bernhard, 2017, A pixel-level model for event discovery in time-domain
