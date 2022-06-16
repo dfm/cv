@@ -296,7 +296,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -998,7 +998,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 35,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1097,7 +1097,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -1830,7 +1830,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2170,7 +2170,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2388,7 +2388,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3512,7 +3512,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3563,7 +3563,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 377,
+    "citations": 378,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3986,7 +3986,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4373,7 +4373,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 938,
+    "citations": 939,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4828,7 +4828,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -5307,7 +5307,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6112,
+    "citations": 6121,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
