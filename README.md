@@ -47,7 +47,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 395 stars / 203
+[**corner.py**](https://github.com/dfm/corner.py) — 395 stars / 204
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -65,7 +65,7 @@ Render probabilistic graphical models using matplotlib
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 47 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 48 stars /
 6 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 82 / first author: 9 / citations: 12098 / h-index: 40
-(2022-06-17)
+refereed: 82 / first author: 9 / citations: 12106 / h-index: 40
+(2022-06-18)
 
 ### Refereed publications
 
@@ -144,7 +144,7 @@ Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
 giant planet with 2.7 per cent deep transits and a bound white dwarf
 companion](http://dx.doi.org/10.1093/mnras/stab2129)*, Monthly Notices
 of the Royal Astronomical Society, **507**, 4132
-([arXiv:2101.02707](http://arxiv.org/abs/2101.02707)) \[[6
+([arXiv:2101.02707](http://arxiv.org/abs/2101.02707)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.4132M)\]
 
 Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
@@ -341,7 +341,7 @@ Benjamin T.; & Luger, Rodrigo, 2019, *[WOBBLE: A Data-driven Analysis
 Technique for Time-series Stellar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ab40a7)*, The Astronomical
 Journal, **158**, 164
-([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[27
+([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..164B)\]
 
 Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
@@ -562,7 +562,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[200
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[201
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -679,7 +679,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6125
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6130
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
