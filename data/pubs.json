@@ -120,6 +120,26 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2205.08901",
     "authors": [
       "Angus, Ruth",
@@ -751,7 +771,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1932,7 +1952,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2932,7 +2952,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4373,7 +4393,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 941,
+    "citations": 944,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4612,7 +4632,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -5307,7 +5327,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6137,
+    "citations": 6144,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
