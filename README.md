@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1223 stars / 418 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1224 stars / 418 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 83 / first author: 9 / citations: 12125 / h-index: 40
-(2022-06-20)
+refereed: 83 / first author: 9 / citations: 12115 / h-index: 40
+(2022-06-21)
 
 ### Refereed publications
 
@@ -116,6 +116,8 @@ Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
 for the Observed Dust Attenuation in
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
 Astrophysical Journal, **932**, 54
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
 David W.; & Hundertmark, M., 2022, *[The Thresher: Lucky imaging without
@@ -309,7 +311,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[67
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[66
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -390,7 +392,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[126
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[125
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -685,7 +687,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6144
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6136
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -713,12 +715,6 @@ Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
 Daniel**; & Hayward, Christopher C., 2022, Empirical Dust Attenuation
 Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies, ArXiv
 ([arXiv:2204.06449](http://arxiv.org/abs/2204.06449))
-
-Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
-Daniel**; & Hayward, Christopher C., 2022, A Bayesian Population Model
-for the Observed Dust Attenuation in Galaxies, ArXiv
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N)\]
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, A Mirage or an Oasis? Water

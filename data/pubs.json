@@ -120,7 +120,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
       "Forbes, John C.",
@@ -128,7 +128,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 0,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -305,26 +305,6 @@
     "title": "Three-dimensional dust density structure of the Orion, Cygnus X, Taurus, and Perseus star-forming regions",
     "url": "https://ui.adsabs.harvard.edu/abs/2022A&A...658A.166D",
     "volume": "658",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-02-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220205102N",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -771,7 +751,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1952,7 +1932,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 67,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2952,7 +2932,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 126,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4393,7 +4373,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 944,
+    "citations": 941,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5327,7 +5307,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6144,
+    "citations": 6136,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
