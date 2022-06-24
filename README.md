@@ -43,11 +43,11 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1223 stars / 418 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1222 stars / 419 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 396 stars / 204
+[**corner.py**](https://github.com/dfm/corner.py) — 397 stars / 204
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 83 / first author: 9 / citations: 12127 / h-index: 40
-(2022-06-23)
+(2022-06-24)
 
 ### Refereed publications
 
