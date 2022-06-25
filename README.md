@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 83 / first author: 9 / citations: 12127 / h-index: 40
-(2022-06-24)
+(2022-06-25)
 
 ### Refereed publications
 
@@ -705,6 +705,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
+Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
+Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries, ArXiv
+([arXiv:2206.11275](http://arxiv.org/abs/2206.11275))
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
 *et al.* (incl. **DFM**), 2022, The 3D Galactocentric velocities of
