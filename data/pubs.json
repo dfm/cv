@@ -357,7 +357,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -550,7 +550,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1340,7 +1340,7 @@
       "Gilbertson, Christian",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/staa3887",
     "page": 4798,
@@ -1851,7 +1851,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2191,7 +2191,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2244,7 +2244,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3497,7 +3497,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4007,7 +4007,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4378,7 +4378,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -4394,7 +4394,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 948,
+    "citations": 951,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5328,7 +5328,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6158,
+    "citations": 6168,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -5352,7 +5352,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "software",
     "doi": null,
     "page": null,
