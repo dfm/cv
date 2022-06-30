@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 83 / first author: 9 / citations: 12174 / h-index: 40
-(2022-06-29)
+refereed: 83 / first author: 9 / citations: 12188 / h-index: 40
+(2022-06-30)
 
 ### Refereed publications
 
@@ -116,7 +116,7 @@ Benjamin T.; *et al.*, 2022, *[The unpopular Package: A Data-driven
 Approach to Detrending TESS Full-frame Image Light
 Curves](http://dx.doi.org/10.3847/1538-3881/ac625a)*, The Astronomical
 Journal, **163**, 284
-([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[9
+([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
@@ -213,7 +213,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[37
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -357,7 +357,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[115
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[116
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -459,7 +459,7 @@ Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, Monthly Notices of
 the Royal Astronomical Society, **474**, 2094
-([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[113
+([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[114
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -687,7 +687,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6165
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6174
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -724,7 +724,7 @@ Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies, ArXiv
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, A Mirage or an Oasis? Water
 Vapor in the Atmosphere of the Warm Neptune TOI-674 b, ArXiv
-([arXiv:2201.04197](http://arxiv.org/abs/2201.04197)) \[[2
+([arXiv:2201.04197](http://arxiv.org/abs/2201.04197)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220104197B)\]
 
 Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,

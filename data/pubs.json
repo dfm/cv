@@ -57,6 +57,27 @@
     "year": "2022"
   },
   {
+    "arxiv": "2206.11275",
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew",
+      "David, Trevor",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -117,27 +138,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2206.11275",
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2106.15063",
     "authors": [
       "Hattori, Soichiro",
@@ -149,7 +149,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -389,7 +389,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1019,7 +1019,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2409,7 +2409,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3517,7 +3517,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -4394,7 +4394,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 950,
+    "citations": 952,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4830,7 +4830,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 308,
+    "citations": 309,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5328,7 +5328,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6165,
+    "citations": 6174,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
