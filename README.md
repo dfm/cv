@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 83 / first author: 9 / citations: 12188 / h-index: 40
-(2022-06-30)
+refereed: 83 / first author: 9 / citations: 12200 / h-index: 40
+(2022-07-01)
 
 ### Refereed publications
 
@@ -182,7 +182,7 @@ David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[15
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
@@ -228,7 +228,7 @@ Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
 for Modified Spin-down](http://dx.doi.org/10.3847/1538-4357/abf63e)*,
 The Astrophysical Journal, **913**, 70
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[13
+([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G)\]
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
@@ -276,7 +276,7 @@ Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
 Rotation Using Galactic
 Kinematics](http://dx.doi.org/10.3847/1538-3881/ab91b2)*, The
 Astronomical Journal, **160**, 90
-([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[21
+([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A)\]
 
 Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
@@ -334,7 +334,7 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[53
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
@@ -357,7 +357,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[116
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[117
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -444,7 +444,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[172
+\[[173
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -687,7 +687,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6174
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6180
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -710,6 +710,12 @@ Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
 Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
 Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries, ArXiv
 ([arXiv:2206.11275](http://arxiv.org/abs/2206.11275))
+
+The Astropy Collaboration; Price-Whelan, Adrian M.; Lian Lim, Pey; Earl,
+Nicholas; *et al.* (incl. **DFM**), 2022, The Astropy Project:
+Sustaining and Growing a Community-oriented Open-source Project and the
+Latest Major Release (v5.0) of the Core Package, ArXiv
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220))
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
 *et al.* (incl. **DFM**), 2022, The 3D Galactocentric velocities of
