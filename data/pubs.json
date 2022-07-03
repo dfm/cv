@@ -138,29 +138,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.14220",
     "authors": [
       "The Astropy Collaboration",
@@ -309,6 +286,29 @@
     "title": "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220614220T",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 10,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
     "year": "2022"
   },
   {
@@ -722,7 +722,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2367,7 +2367,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2560,7 +2560,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4545,7 +4545,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 954,
+    "citations": 955,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5479,7 +5479,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6184,
+    "citations": 6188,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
