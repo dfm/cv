@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 83 / first author: 9 / citations: 12220 / h-index: 40
-(2022-07-03)
+refereed: 84 / first author: 9 / citations: 12220 / h-index: 40
+(2022-07-04)
 
 ### Refereed publications
 
@@ -89,6 +89,12 @@ Planets and Moons](http://dx.doi.org/10.3847/1538-3881/ac4017)*, The
 Astronomical Journal, **164**, 4
 ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L)\]
+
+Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
+*et al.* (incl. **DFM**), 2022, *[The 3D Galactocentric Velocities of
+Kepler Stars: Marginalizing Over Missing Radial
+Velocities](http://dx.doi.org/10.3847/1538-3881/ac6fea)*, The
+Astronomical Journal, **164**, 25
 
 Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
 D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
@@ -706,16 +712,16 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 <div class="list">
 
 
-Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
-Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
-Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries, ArXiv
-([arXiv:2206.11275](http://arxiv.org/abs/2206.11275))
-
 The Astropy Collaboration; Price-Whelan, Adrian M.; Lian Lim, Pey; Earl,
 Nicholas; *et al.* (incl. **DFM**), 2022, The Astropy Project:
 Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core Package, ArXiv
 ([arXiv:2206.14220](http://arxiv.org/abs/2206.14220))
+
+Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
+Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
+Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries, ArXiv
+([arXiv:2206.11275](http://arxiv.org/abs/2206.11275))
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
 *et al.* (incl. **DFM**), 2022, The 3D Galactocentric velocities of
