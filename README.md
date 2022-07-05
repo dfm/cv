@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1226 stars / 419 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1227 stars / 419 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -52,7 +52,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 149 stars / 11 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 150 stars / 11 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12220 / h-index: 40
-(2022-07-04)
+refereed: 84 / first author: 9 / citations: 12219 / h-index: 40
+(2022-07-05)
 
 ### Refereed publications
 
@@ -95,6 +95,7 @@ Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
 Kepler Stars: Marginalizing Over Missing Radial
 Velocities](http://dx.doi.org/10.3847/1538-3881/ac6fea)*, The
 Astronomical Journal, **164**, 25
+([arXiv:2205.08901](http://arxiv.org/abs/2205.08901))
 
 Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
 D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
@@ -693,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6188
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6187
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -722,11 +723,6 @@ Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
 Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
 Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries, ArXiv
 ([arXiv:2206.11275](http://arxiv.org/abs/2206.11275))
-
-Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
-*et al.* (incl. **DFM**), 2022, The 3D Galactocentric velocities of
-Kepler stars: marginalizing over missing RVs, ArXiv
-([arXiv:2205.08901](http://arxiv.org/abs/2205.08901))
 
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
 Daniel**; & Hayward, Christopher C., 2022, Empirical Dust Attenuation
