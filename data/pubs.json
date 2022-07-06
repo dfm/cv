@@ -1,24 +1,5 @@
 [
   {
-    "arxiv": "2103.06275",
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Bartoli{\\'c}, Fran",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac4017",
-    "page": 4,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-07-00",
-    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L",
-    "volume": "164",
-    "year": "2022"
-  },
-  {
     "arxiv": "2205.08901",
     "authors": [
       "Angus, Ruth",
@@ -36,6 +17,25 @@
     "pubdate": "2022-07-00",
     "title": "The 3D Galactocentric Velocities of Kepler Stars: Marginalizing Over Missing Radial Velocities",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164...25A",
+    "volume": "164",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2103.06275",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Bartoli{\\'c}, Fran",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac4017",
+    "page": 4,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-07-00",
+    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L",
     "volume": "164",
     "year": "2022"
   },
@@ -249,6 +249,27 @@
     "year": "2022"
   },
   {
+    "arxiv": "2206.11275",
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew",
+      "David, Trevor",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -286,27 +307,6 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2206.11275",
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -2445,7 +2445,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4595,7 +4595,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 955,
+    "citations": 956,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6187,
+    "citations": 6192,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

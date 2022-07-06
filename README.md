@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1227 stars / 419 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1227 stars / 420 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -74,13 +74,20 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12219 / h-index: 40
-(2022-07-05)
+refereed: 84 / first author: 9 / citations: 12225 / h-index: 40
+(2022-07-06)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
+*et al.* (incl. **DFM**), 2022, *[The 3D Galactocentric Velocities of
+Kepler Stars: Marginalizing Over Missing Radial
+Velocities](http://dx.doi.org/10.3847/1538-3881/ac6fea)*, The
+Astronomical Journal, **164**, 25
+([arXiv:2205.08901](http://arxiv.org/abs/2205.08901))
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
 Daniel**, 2022, *[Analytic Light Curves in Reflected Light: Phase
@@ -89,13 +96,6 @@ Planets and Moons](http://dx.doi.org/10.3847/1538-3881/ac4017)*, The
 Astronomical Journal, **164**, 4
 ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L)\]
-
-Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
-*et al.* (incl. **DFM**), 2022, *[The 3D Galactocentric Velocities of
-Kepler Stars: Marginalizing Over Missing Radial
-Velocities](http://dx.doi.org/10.3847/1538-3881/ac6fea)*, The
-Astronomical Journal, **164**, 25
-([arXiv:2205.08901](http://arxiv.org/abs/2205.08901))
 
 Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
 D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
@@ -348,7 +348,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[88
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[89
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6187
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6192
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
