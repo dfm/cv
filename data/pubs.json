@@ -40,44 +40,6 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Powell, Brian P.",
-      "Kruse, Ethan",
-      "Montet, Benjamin T.",
-      "Feinstein, Adina D.",
-      "Lewis, Hannah M.",
-      "Foreman-Mackey, Daniel",
-      "Barclay, Thomas",
-      "Quintana, Elisa V.",
-      "Col{\\'o}n, Knicole D.",
-      "Kostov, Veselin B.",
-      "Boyd, Patricia",
-      "Smale, Alan P.",
-      "Mullally, Susan E.",
-      "Schlieder, Joshua E.",
-      "Schnittman, Jeremy D.",
-      "Carroll, Mark L.",
-      "Carriere, Laura E.",
-      "Salmon, Ellen M.",
-      "Strong, Savannah L.",
-      "Acks, Nicko D.",
-      "Pfaff, Bruce E.",
-      "Gerner, Lyn E.",
-      "Burch, Timothy M."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/ac74c4",
-    "page": 111,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
-    "volume": "6",
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.14220",
     "authors": [
       "The Astropy Collaboration",
@@ -226,6 +188,44 @@
     "title": "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220614220T",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Powell, Brian P.",
+      "Kruse, Ethan",
+      "Montet, Benjamin T.",
+      "Feinstein, Adina D.",
+      "Lewis, Hannah M.",
+      "Foreman-Mackey, Daniel",
+      "Barclay, Thomas",
+      "Quintana, Elisa V.",
+      "Col{\\'o}n, Knicole D.",
+      "Kostov, Veselin B.",
+      "Boyd, Patricia",
+      "Smale, Alan P.",
+      "Mullally, Susan E.",
+      "Schlieder, Joshua E.",
+      "Schnittman, Jeremy D.",
+      "Carroll, Mark L.",
+      "Carriere, Laura E.",
+      "Salmon, Ellen M.",
+      "Strong, Savannah L.",
+      "Acks, Nicko D.",
+      "Pfaff, Bruce E.",
+      "Gerner, Lyn E.",
+      "Burch, Timothy M."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/ac74c4",
+    "page": 111,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
+    "volume": "6",
     "year": "2022"
   },
   {
@@ -518,7 +518,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -2610,7 +2610,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3681,7 +3681,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 173,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3916,7 +3916,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4595,7 +4595,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 956,
+    "citations": 957,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5031,7 +5031,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 309,
+    "citations": 310,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6192,
+    "citations": 6198,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
