@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12234 / h-index: 40
-(2022-07-07)
+refereed: 84 / first author: 9 / citations: 12236 / h-index: 40
+(2022-07-08)
 
 ### Refereed publications
 
@@ -577,7 +577,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[203
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[204
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6198
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6199
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

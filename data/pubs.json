@@ -229,26 +229,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -267,6 +247,26 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -4666,7 +4666,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 203,
+    "citations": 204,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6198,
+    "citations": 6199,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
