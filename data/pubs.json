@@ -335,25 +335,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Casey, Andy",
-      "Ballard, Sarah"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian",
       "Kreidberg, Laura",
@@ -380,6 +361,25 @@
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Casey, Andy",
+      "Ballard, Sarah"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
     "volume": "54",
     "year": "2022"
   },
@@ -751,7 +751,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -4488,7 +4488,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 197,
+    "citations": 198,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -4525,7 +4525,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6199,
+    "citations": 6204,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
