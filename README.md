@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1229 stars / 420 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1230 stars / 420 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 84 / first author: 9 / citations: 12242 / h-index: 40
-(2022-07-11)
+(2022-07-12)
 
 ### Refereed publications
 
