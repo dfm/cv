@@ -590,7 +590,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1591,7 +1591,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2052,7 +2052,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2610,7 +2610,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4171,7 +4171,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4595,7 +4595,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 960,
+    "citations": 962,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6216,
+    "citations": 6218,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
