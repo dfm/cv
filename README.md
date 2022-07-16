@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1232 stars / 420 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1233 stars / 420 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12268 / h-index: 40
-(2022-07-15)
+refereed: 84 / first author: 9 / citations: 12278 / h-index: 40
+(2022-07-16)
 
 ### Refereed publications
 
@@ -108,7 +108,7 @@ Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
 for the Observed Dust Attenuation in
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
 Astrophysical Journal, **932**, 54
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[3
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
 Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
@@ -220,7 +220,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[40
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -250,7 +250,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[77
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[78
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -318,7 +318,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[67
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -348,7 +348,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[89
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[90
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -399,7 +399,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[128
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[129
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -481,7 +481,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[384
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[385
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -517,7 +517,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[220
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[221
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6218
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6220
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
