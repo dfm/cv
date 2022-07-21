@@ -258,7 +258,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -3541,7 +3541,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -4595,7 +4595,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 965,
+    "citations": 967,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5031,7 +5031,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 315,
+    "citations": 316,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6229,
+    "citations": 6241,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
