@@ -1220,7 +1220,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 42,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2154,7 +2154,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2445,7 +2445,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3154,7 +3154,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3681,7 +3681,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 174,
+    "citations": 175,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3734,7 +3734,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4595,7 +4595,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 969,
+    "citations": 971,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5031,7 +5031,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 319,
+    "citations": 320,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6261,
+    "citations": 6267,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
