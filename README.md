@@ -43,11 +43,11 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1237 stars / 423 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1237 stars / 422 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 400 stars / 203
+[**corner.py**](https://github.com/dfm/corner.py) — 401 stars / 203
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -56,11 +56,11 @@ Make some beautiful corner plots
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 634 stars / 117 forks  
+[**daft**](https://github.com/daft-dev/daft) — 635 stars / 117 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 168 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 169 stars
 / 49 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 84 / first author: 9 / citations: 12370 / h-index: 40
-(2022-07-31)
+(2022-08-01)
 
 ### Refereed publications
 
