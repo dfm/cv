@@ -179,7 +179,7 @@
       "ZHANG, Chen",
       "Zonca, Andrea"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1748,7 +1748,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -3681,7 +3681,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -3698,7 +3698,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3785,7 +3785,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 390,
+    "citations": 391,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4595,7 +4595,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 982,
+    "citations": 985,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5529,7 +5529,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6290,
+    "citations": 6293,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
