@@ -461,6 +461,34 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.6325733",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-03-03",
+    "title": "adrn/gala: v1.5",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6325733P",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Starkman, Nathaniel",
+      "NGC",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Wagg, Tom",
+      "Akeemlh",
+      "Foreman-Mackey, Dan",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Major, Syrtis"
+    ],
     "citations": 0,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
@@ -1296,7 +1324,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 5,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3504,7 +3532,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 10,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -4834,7 +4862,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -5303,7 +5331,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
