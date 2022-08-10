@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12408 / h-index: 40
-(2022-08-09)
+refereed: 84 / first author: 9 / citations: 12412 / h-index: 40
+(2022-08-10)
 
 ### Refereed publications
 
@@ -348,7 +348,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[92
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[93
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6294
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6296
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -717,7 +717,7 @@ The Astropy Collaboration; Price-Whelan, Adrian M.; Lian Lim, Pey; Earl,
 Nicholas; *et al.* (incl. **DFM**), 2022, The Astropy Project:
 Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core Package, ArXiv
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220614220T)\]
 
 Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
