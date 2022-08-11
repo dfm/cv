@@ -179,7 +179,7 @@
       "ZHANG, Chen",
       "Zonca, Andrea"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -3726,7 +3726,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 96,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4623,7 +4623,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 985,
+    "citations": 986,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5557,7 +5557,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6296,
+    "citations": 6299,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
