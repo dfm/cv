@@ -1619,7 +1619,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 85,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1657,7 +1657,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -3813,7 +3813,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 393,
+    "citations": 394,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4199,7 +4199,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 224,
+    "citations": 223,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4607,7 +4607,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -5078,7 +5078,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 126,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -5402,7 +5402,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 41,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5557,7 +5557,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6322,
+    "citations": 6314,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
