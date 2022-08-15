@@ -217,7 +217,7 @@
       "Gerner, Lyn E.",
       "Burch, Timothy M."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ac74c4",
     "page": 111,
@@ -258,7 +258,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -779,7 +779,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2638,7 +2638,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4623,7 +4623,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 988,
+    "citations": 989,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5557,7 +5557,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6314,
+    "citations": 6315,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
