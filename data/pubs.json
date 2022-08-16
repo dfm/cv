@@ -405,6 +405,26 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Yadav, Sachin",
+      "Tronsgaard, Ren{\\'e}",
+      "Schmerler, Steve",
+      "Theorashid"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.6473662",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-04-20",
+    "title": "dfm/tinygp: tinygp v0.2.2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6473662F",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2204.06449",
     "authors": [
       "Nagaraj, Gautam",
@@ -1324,7 +1344,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -1702,7 +1722,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -4623,7 +4643,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 989,
+    "citations": 988,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5402,7 +5422,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5557,7 +5577,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6315,
+    "citations": 6314,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
