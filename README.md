@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12475 / h-index: 40
-(2022-08-20)
+refereed: 84 / first author: 9 / citations: 12483 / h-index: 40
+(2022-08-21)
 
 ### Refereed publications
 
@@ -283,7 +283,7 @@ Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
 Rotation Using Galactic
 Kinematics](http://dx.doi.org/10.3847/1538-3881/ab91b2)*, The
 Astronomical Journal, **160**, 90
-([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[23
+([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A)\]
 
 Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6325
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6332
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
