@@ -1237,7 +1237,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1320,7 +1320,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -1471,6 +1471,32 @@
     "pubdate": "2021-03-31",
     "title": "lightkurve/lightkurve: Lightkurve v2.0.9",
     "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1181928B",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Savel, Arjun",
+      "Luger, Rodrigo",
+      "Czekala, Ian",
+      "Agol, Eric",
+      "Price-Whelan, Adrian",
+      "Hedges, Christina",
+      "Emilygilbert",
+      "Bouma, Luke",
+      "Brandt, Timothy D",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4604868",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-03-15",
+    "title": "exoplanet-dev/exoplanet: exoplanet v0.4.5",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4604868F",
     "volume": null,
     "year": "2021"
   },
@@ -2139,7 +2165,7 @@
       "Price-Whelan, Adrian",
       "Barclay, Tom"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3785072",
     "page": null,
@@ -2358,7 +2384,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3595344",
     "page": null,
@@ -2588,7 +2614,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 12,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -2847,7 +2873,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.3359880",
     "page": null,
@@ -3095,7 +3121,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 14,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.2651251",
     "page": null,
@@ -3163,7 +3189,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 13,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -3181,7 +3207,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 15,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.2561395",
     "page": null,
@@ -3245,7 +3271,7 @@
       "Foreman-Mackey, Dan",
       "Barentsen, Geert"
     ],
-    "citations": 13,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.2536576",
     "page": null,
@@ -5577,7 +5603,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6331,
+    "citations": 6332,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

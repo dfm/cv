@@ -43,7 +43,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1244 stars / 422 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1243 stars / 422 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -61,7 +61,7 @@ Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 170 stars
-/ 49 forks  
+/ 48 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12477 / h-index: 40
-(2022-08-22)
+refereed: 84 / first author: 9 / citations: 12478 / h-index: 40
+(2022-08-23)
 
 ### Refereed publications
 
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6331
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6332
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
