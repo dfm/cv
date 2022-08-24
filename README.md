@@ -43,11 +43,11 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1243 stars / 422 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1244 stars / 422 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 402 stars / 203
+[**corner.py**](https://github.com/dfm/corner.py) — 402 stars / 204
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12478 / h-index: 40
-(2022-08-23)
+refereed: 84 / first author: 9 / citations: 12489 / h-index: 40
+(2022-08-24)
 
 ### Refereed publications
 
@@ -220,7 +220,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[47
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[48
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6332
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6342
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
