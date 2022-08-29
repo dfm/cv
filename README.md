@@ -74,13 +74,20 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 84 / first author: 9 / citations: 12515 / h-index: 40
-(2022-08-28)
+refereed: 85 / first author: 9 / citations: 12515 / h-index: 40
+(2022-08-29)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Astropy Collaboration; Price-Whelan, Adrian M.; Lim, Pey Lian; Earl,
+Nicholas; *et al.* (incl. **DFM**), 2022, *[The Astropy Project:
+Sustaining and Growing a Community-oriented Open-source Project and the
+Latest Major Release (v5.0) of the Core
+Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
+Journal, **935**, 167
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
 *et al.* (incl. **DFM**), 2022, *[The 3D Galactocentric Velocities of
