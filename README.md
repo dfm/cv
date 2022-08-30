@@ -65,7 +65,7 @@ Render probabilistic graphical models using matplotlib
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 48 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 49 stars /
 6 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
@@ -75,7 +75,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 85 / first author: 9 / citations: 12515 / h-index: 40
-(2022-08-29)
+(2022-08-30)
 
 ### Refereed publications
 
