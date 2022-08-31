@@ -47,7 +47,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 402 stars / 204
+[**corner.py**](https://github.com/dfm/corner.py) — 403 stars / 204
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -65,7 +65,7 @@ Render probabilistic graphical models using matplotlib
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 49 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 50 stars /
 6 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
@@ -74,8 +74,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 85 / first author: 9 / citations: 12515 / h-index: 40
-(2022-08-30)
+refereed: 85 / first author: 9 / citations: 12514 / h-index: 40
+(2022-08-31)
 
 ### Refereed publications
 
@@ -88,6 +88,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220))
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
 *et al.* (incl. **DFM**), 2022, *[The 3D Galactocentric Velocities of
@@ -115,7 +116,7 @@ Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
 for the Observed Dust Attenuation in
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
 Astrophysical Journal, **932**, 54
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[6
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
 Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
@@ -640,7 +641,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
 Astrophysical Journal, **806**, 215
-([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[103
+([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[104
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
@@ -701,7 +702,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6349
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6351
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -719,13 +720,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-The Astropy Collaboration; Price-Whelan, Adrian M.; Lian Lim, Pey; Earl,
-Nicholas; *et al.* (incl. **DFM**), 2022, The Astropy Project:
-Sustaining and Growing a Community-oriented Open-source Project and the
-Latest Major Release (v5.0) of the Core Package, ArXiv
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[5
-citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220614220T)\]
 
 Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
 Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
