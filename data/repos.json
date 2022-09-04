@@ -70,7 +70,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 48,
+              "forkCount": 49,
               "stargazers": {
                 "totalCount": 170
               },
@@ -85,7 +85,7 @@
               "description": "Fast & scalable Gaussian Processes in one dimension",
               "url": "https://github.com/exoplanet-dev/celerite2",
               "homepageUrl": "https://celerite2.readthedocs.io",
-              "forkCount": 6,
+              "forkCount": 7,
               "stargazers": {
                 "totalCount": 50
               },

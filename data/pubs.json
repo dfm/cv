@@ -2029,7 +2029,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2516-1",
     "page": null,
@@ -2565,7 +2565,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4715,7 +4715,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 997,
+    "citations": 999,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5151,7 +5151,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 327,
+    "citations": 329,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5649,7 +5649,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6367,
+    "citations": 6369,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -5673,7 +5673,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "software",
     "doi": null,
     "page": null,
