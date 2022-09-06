@@ -1390,7 +1390,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3225,24 +3225,6 @@
     "pubdate": "2019-04-00",
     "title": "eleanor: Extracted and systematics-corrected light curves for TESS-observed stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft04022F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Barentsen, Geert",
-      "Barclay, Tom"
-    ],
-    "citations": 12,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2587222",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-03-08",
-    "title": "dfm/exoplanet: exoplanet v0.1.5",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2587222F",
     "volume": null,
     "year": "2019"
   },
@@ -5423,7 +5405,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5494,7 +5476,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
