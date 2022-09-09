@@ -1,5 +1,26 @@
 [
   {
+    "arxiv": "2209.02725",
+    "authors": [
+      "Eilers, Anna-Christina",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Foreman-Mackey, Daniel",
+      "Davies, Frederick B.",
+      "Schindler, Jan-Torge"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-09-00",
+    "title": "A Generative Model for Quasar Spectra",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220902725E",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.14220",
     "authors": [
       "Astropy Collaboration",
@@ -2603,7 +2624,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -3800,7 +3821,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3887,7 +3908,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 395,
+    "citations": 397,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4697,7 +4718,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 999,
+    "citations": 1000,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5631,7 +5652,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6372,
+    "citations": 6382,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
