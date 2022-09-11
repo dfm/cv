@@ -10,8 +10,8 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
  <span class="sans-serif">dfm@dfm.io,
 https://dfm.io</span>  
-Associate Research Scientist, Center for Computational Astrophysics,
-Flatiron Institute  
+Research Scientist, Center for Computational Astrophysics, Flatiron
+Institute  
 
 ## Education
 
@@ -32,7 +32,9 @@ BSc 2008, Department of Physics, McGill University, Canada.
 <div class="list">
 
 
-Associate Research Scientist, Flatiron Institute, 2017–present.
+Research Scientist, Flatiron Institute, 2022–present.
+
+Associate Research Scientist, Flatiron Institute, 2017–2022.
 
 Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
