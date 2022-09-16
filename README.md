@@ -76,8 +76,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 85 / first author: 9 / citations: 12596 / h-index: 40
-(2022-09-15)
+refereed: 85 / first author: 9 / citations: 12613 / h-index: 40
+(2022-09-16)
 
 ### Refereed publications
 
@@ -193,7 +193,7 @@ Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model
 for Light Curves](http://dx.doi.org/10.3847/1538-3881/abfdb9)*, The
 Astronomical Journal, **162**, 124
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[13
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
@@ -240,7 +240,7 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
 Journal, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[23
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
@@ -315,7 +315,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[A planet within the debris disk around
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
-**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[94
+**582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248)) \[[96
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -345,7 +345,7 @@ David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[68
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[70
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -376,7 +376,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[125
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[126
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -493,7 +493,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[401
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[402
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -569,7 +569,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, The
 Astronomical Journal, **152**, 100
-([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[199
+([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[200
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -706,7 +706,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6399
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6407
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
