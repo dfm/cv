@@ -21,6 +21,23 @@
     "year": "2022"
   },
   {
+    "arxiv": "2209.08940",
+    "authors": [
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-09-00",
+    "title": "Gaussian Process regression for astronomical time-series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220908940A",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.14220",
     "authors": [
       "Astropy Collaboration",
@@ -3841,7 +3858,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -5561,7 +5578,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -5652,7 +5669,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6422,
+    "citations": 6426,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
