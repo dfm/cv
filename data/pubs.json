@@ -2422,26 +2422,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Luger, R.",
-      "Bedell, M.",
-      "Foreman-Mackey, D.",
-      "Angus, R.",
-      "Hogg, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Surface Maps of Stars and Exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gordon, T.",
       "Davenport, J.",
       "Angus, R.",
@@ -2456,6 +2436,26 @@
     "pubdate": "2020-01-00",
     "title": "Measuring Stellar Rotation in the K2 Sample",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, R.",
+      "Bedell, M.",
+      "Foreman-Mackey, D.",
+      "Angus, R.",
+      "Hogg, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Surface Maps of Stars and Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
     "volume": "235",
     "year": "2020"
   },
@@ -4974,7 +4974,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -5514,7 +5514,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
