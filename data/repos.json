@@ -27,7 +27,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 204,
               "stargazers": {
-                "totalCount": 404
+                "totalCount": 405
               },
               "watchers": {
                 "totalCount": 19
@@ -40,7 +40,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 11,
+              "forkCount": 12,
               "stargazers": {
                 "totalCount": 164
               },
