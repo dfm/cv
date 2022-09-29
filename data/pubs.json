@@ -178,7 +178,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1063,7 +1063,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -1082,7 +1082,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -1749,7 +1749,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -1879,7 +1879,7 @@
       "Brodie, Jean",
       "Strader, Jay"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aba616",
     "page": 95,
@@ -2312,7 +2312,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2422,26 +2422,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Gordon, T.",
-      "Davenport, J.",
-      "Angus, R.",
-      "Agol, E.",
-      "Foreman-Mackey, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Measuring Stellar Rotation in the K2 Sample",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Luger, R.",
       "Bedell, M.",
       "Foreman-Mackey, D.",
@@ -2456,6 +2436,26 @@
     "pubdate": "2020-01-00",
     "title": "Surface Maps of Stars and Exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Gordon, T.",
+      "Davenport, J.",
+      "Angus, R.",
+      "Agol, E.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Measuring Stellar Rotation in the K2 Sample",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
     "volume": "235",
     "year": "2020"
   },
@@ -2575,7 +2575,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2603,7 +2603,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2768,7 +2768,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 126,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3294,7 +3294,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 136,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3838,7 +3838,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -3874,7 +3874,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -3925,7 +3925,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 404,
+    "citations": 405,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -3976,7 +3976,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -4697,7 +4697,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -4719,7 +4719,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 5,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -4735,7 +4735,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1009,
+    "citations": 1011,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5669,7 +5669,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6436,
+    "citations": 6453,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
