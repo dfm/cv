@@ -1321,7 +1321,38 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 70,
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.5834934",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-06-21",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5834934F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Barclay, Thomas",
+      "Bouma, Luke G.",
+      "Brandt, Timothy D.",
+      "Czekala, Ian",
+      "David, Trevor J.",
+      "Dong, Jiayin",
+      "Gilbert, Emily A.",
+      "Gordon, Tyler A.",
+      "Hedges, Christina",
+      "Hey, Daniel R.",
+      "Morris, Brett M.",
+      "Price-Whelan, Adrian M.",
+      "Savel, Arjun B."
+    ],
+    "citations": 71,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3263,6 +3294,24 @@
     "pubdate": "2019-04-00",
     "title": "eleanor: Extracted and systematics-corrected light curves for TESS-observed stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ascl.soft04022F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 12,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2587222",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-03-08",
+    "title": "dfm/exoplanet: exoplanet v0.1.5",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2587222F",
     "volume": null,
     "year": "2019"
   },
@@ -5443,7 +5492,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
