@@ -76,7 +76,7 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 86 / first author: 9 / citations: 13139 / h-index: 40
+refereed: 86 / first author: 9 / citations: 13,139 / h-index: 40
 (2022-10-09)
 
 ### Refereed publications
