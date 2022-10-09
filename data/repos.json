@@ -10,9 +10,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 422,
+              "forkCount": 424,
               "stargazers": {
-                "totalCount": 1240
+                "totalCount": 1252
               },
               "watchers": {
                 "totalCount": 87
@@ -25,9 +25,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 203,
+              "forkCount": 206,
               "stargazers": {
-                "totalCount": 402
+                "totalCount": 408
               },
               "watchers": {
                 "totalCount": 19
@@ -40,9 +40,9 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 11,
+              "forkCount": 12,
               "stargazers": {
-                "totalCount": 156
+                "totalCount": 166
               },
               "watchers": {
                 "totalCount": 7
@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 117,
               "stargazers": {
-                "totalCount": 636
+                "totalCount": 637
               },
               "watchers": {
                 "totalCount": 17
@@ -70,9 +70,9 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 49,
+              "forkCount": 50,
               "stargazers": {
-                "totalCount": 170
+                "totalCount": 173
               },
               "watchers": {
                 "totalCount": 20
@@ -85,9 +85,9 @@
               "description": "Fast & scalable Gaussian Processes in one dimension",
               "url": "https://github.com/exoplanet-dev/celerite2",
               "homepageUrl": "https://celerite2.readthedocs.io",
-              "forkCount": 6,
+              "forkCount": 7,
               "stargazers": {
-                "totalCount": 48
+                "totalCount": 51
               },
               "watchers": {
                 "totalCount": 7
