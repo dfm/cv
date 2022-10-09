@@ -76,13 +76,19 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 85 / first author: 9 / citations: 12813 / h-index: 40
+refereed: 86 / first author: 9 / citations: 13139 / h-index: 40
 (2022-10-09)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
+**Foreman-Mackey, Daniel**; *et al.*, 2022, *[The three-dimensional
+structure of galactic molecular cloud complexes out to 2.5
+kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
+Royal Astronomical Society
 
 Astropy Collaboration; Price-Whelan, Adrian M.; Lim, Pey Lian; Earl,
 Nicholas; *et al.* (incl. **DFM**), 2022, *[The Astropy Project:
@@ -201,7 +207,7 @@ David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[17
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
@@ -323,7 +329,7 @@ Timothy R.; *et al.*, 2020, *[Forward Modeling the Orbits of Companions
 to Pulsating Stars from Their Light Travel Time
 Variations](http://dx.doi.org/10.3847/1538-3881/ab7d38)*, The
 Astronomical Journal, **159**, 202
-([arXiv:2003.02379](http://arxiv.org/abs/2003.02379)) \[[10
+([arXiv:2003.02379](http://arxiv.org/abs/2003.02379)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..202H)\]
 
 Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
@@ -353,7 +359,7 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[63
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
@@ -440,7 +446,7 @@ Brewer, Brendon; & **Foreman-Mackey, Daniel**, 2018, *[DNest4: Diffusive
 Nested Sampling in C++ and
 Python](http://dx.doi.org/10.18637/jss.v086.i07)*, Journal of
 Statistical Software, **86**, 1
-([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[30
+([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[34
 citations](https://scholar.google.com/scholar?cites=789224875040810871)\]
 
 Luger, Rodrigo; Kruse, Ethan; **Foreman-Mackey, Daniel**; Agol, Eric; &
@@ -470,7 +476,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[104
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[105
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -485,7 +491,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[80
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[81
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -594,13 +600,13 @@ citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
 Python](http://dx.doi.org/10.21105/joss.00024)*, The Journal of Open
-Source Software, **1**, 2 \[[1290
+Source Software, **1**, 2 \[[1560
 citations](https://scholar.google.com/scholar?cites=1835087844145558435,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,17415935839493019063)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2016, *[Modeling confounding by half-sibling
 regression](http://dx.doi.org/10.1073/pnas.1511656113)*, PNAS, **113**,
-27 \[[55
+27 \[[56
 citations](https://scholar.google.com/scholar?cites=2429561747341807338)\]
 
 Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
@@ -638,7 +644,7 @@ Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
 Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
 targets](http://dx.doi.org/10.1093/mnras/stv423)*, Monthly Notices of
 the Royal Astronomical Society, **450**, 1787
-([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[128
+([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[129
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
 **Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
@@ -675,7 +681,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, The
 Astrophysical Journal, **795**, 64
-([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[202
+([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[203
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -706,7 +712,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6485
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6527
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -747,7 +753,7 @@ Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies, ArXiv
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, A Mirage or an Oasis? Water
 Vapor in the Atmosphere of the Warm Neptune TOI-674 b, ArXiv
-([arXiv:2201.04197](http://arxiv.org/abs/2201.04197)) \[[4
+([arXiv:2201.04197](http://arxiv.org/abs/2201.04197)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220104197B)\]
 
 Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,
