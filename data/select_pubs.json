@@ -1,9 +1,10 @@
 [
-    {"key": "arxiv", "value": "1607.08237"},
-    {"key": "arxiv", "value": "1503.07866"},
-    {"key": "arxiv", "value": "1406.3020"},
-    {"key": "arxiv", "value": "1704.09712"},
-    {"key": "arxiv", "value": "1202.3665"},
-    {"key": "doi", "value": "10.21105/joss.00024"},
-    {"key": "arxiv", "value": "1502.04715"}
+  { "key": "arxiv", "value": "1607.08237" },
+  { "key": "arxiv", "value": "1704.09712" },
+  { "key": "arxiv", "value": "1202.3665" },
+  { "key": "doi", "value": "10.21105/joss.00024" },
+  { "key": "arxiv", "value": "2105.01994" },
+  { "key": "arxiv", "value": "1911.07688" },
+  { "key": "arxiv", "value": "1703.09710" },
+  { "key": "arxiv", "value": "1403.6015" }
 ]
