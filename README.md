@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 86 / first author: 9 / citations: 13,139 / h-index: 40
-(2022-10-10)
+(2022-10-11)
 
 ### Refereed publications
 
@@ -730,6 +730,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
+**Foreman-Mackey, Daniel**; *et al.*, 2022, The three-dimensional
+structure of Galactic molecular cloud complexes out to 2.5 kpc, ArXiv
+([arXiv:2210.03615](http://arxiv.org/abs/2210.03615))
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2022, Gaussian Process
 regression for astronomical time-series, ArXiv
