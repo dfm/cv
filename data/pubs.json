@@ -696,7 +696,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -768,7 +768,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -2652,7 +2652,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 64,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -5266,7 +5266,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 340,
+    "citations": 339,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5285,7 +5285,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 129,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -5520,7 +5520,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 203,
+    "citations": 202,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -5764,7 +5764,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6527,
+    "citations": 6525,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
