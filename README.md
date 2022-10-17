@@ -76,13 +76,23 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 86 / first author: 9 / citations: 13,195 / h-index: 40
-(2022-10-16)
+refereed: 88 / first author: 9 / citations: 13,209 / h-index: 40
+(2022-10-17)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Eilers, Anna-Christina; Hogg, David W.; Schölkopf, Bernhard;
+**Foreman-Mackey, Daniel**; *et al.*, 2022, *[A Generative Model for
+Quasar Spectra](http://dx.doi.org/10.3847/1538-4357/ac8ead)*, The
+Astrophysical Journal, **938**, 17
+
+Farrell, Eoin; Jermyn, Adam S.; Cantiello, Matteo; & **Foreman-Mackey,
+Daniel**, 2022, *[The Initial Magnetic Field Distribution in AB
+Stars](http://dx.doi.org/10.3847/1538-4357/ac8423)*, The Astrophysical
+Journal, **938**, 10
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 **Foreman-Mackey, Daniel**; *et al.*, 2022, *[The three-dimensional
@@ -239,7 +249,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[54
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[55
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -269,7 +279,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[95
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[97
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -383,7 +393,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[130
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[131
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -560,7 +570,7 @@ Identification of Stellar Phase-space Structures Purely by
 Chemical-abundance
 Similarity](http://dx.doi.org/10.3847/1538-4357/833/2/262)*, The
 Astrophysical Journal, **833**, 262
-([arXiv:1601.05413](http://arxiv.org/abs/1601.05413)) \[[64
+([arXiv:1601.05413](http://arxiv.org/abs/1601.05413)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2016ApJ...833..262H)\]
 
 Henderson, Calen B.; Poleski, Radosław; Penny, Matthew; Street, Rachel
@@ -713,7 +723,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6554
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6563
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

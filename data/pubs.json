@@ -23,6 +23,46 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Eilers, Anna-Christina",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard",
+      "Foreman-Mackey, Daniel",
+      "Davies, Frederick B.",
+      "Schindler, Jan-Torge"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac8ead",
+    "page": 17,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-10-00",
+    "title": "A Generative Model for Quasar Spectra",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938...17E",
+    "volume": "938",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Farrell, Eoin",
+      "Jermyn, Adam S.",
+      "Cantiello, Matteo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac8423",
+    "page": 10,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-10-00",
+    "title": "The Initial Magnetic Field Distribution in AB Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938...10F",
+    "volume": "938",
+    "year": "2022"
+  },
+  {
     "arxiv": "2209.08940",
     "authors": [
       "Aigrain, Suzanne",
@@ -1429,7 +1469,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1826,7 +1866,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 95,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2845,7 +2885,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4526,7 +4566,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -4830,7 +4870,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1038,
+    "citations": 1040,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4952,7 +4992,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 26,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -5764,7 +5804,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6554,
+    "citations": 6563,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
