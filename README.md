@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1254 stars / 424 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1255 stars / 424 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 88 / first author: 9 / citations: 13,209 / h-index: 40
-(2022-10-17)
+(2022-10-18)
 
 ### Refereed publications
 
@@ -88,6 +88,7 @@ Eilers, Anna-Christina; Hogg, David W.; Schölkopf, Bernhard;
 **Foreman-Mackey, Daniel**; *et al.*, 2022, *[A Generative Model for
 Quasar Spectra](http://dx.doi.org/10.3847/1538-4357/ac8ead)*, The
 Astrophysical Journal, **938**, 17
+([arXiv:2209.02725](http://arxiv.org/abs/2209.02725))
 
 Farrell, Eoin; Jermyn, Adam S.; Cantiello, Matteo; & **Foreman-Mackey,
 Daniel**, 2022, *[The Initial Magnetic Field Distribution in AB
@@ -750,11 +751,6 @@ structure of Galactic molecular cloud complexes out to 2.5 kpc, ArXiv
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2022, Gaussian Process
 regression for astronomical time-series, ArXiv
 ([arXiv:2209.08940](http://arxiv.org/abs/2209.08940))
-
-Eilers, Anna-Christina; Hogg, David W.; Schölkopf, Bernhard;
-**Foreman-Mackey, Daniel**; *et al.*, 2022, A Generative Model for
-Quasar Spectra, ArXiv
-([arXiv:2209.02725](http://arxiv.org/abs/2209.02725))
 
 Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
 Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining

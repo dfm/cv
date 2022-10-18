@@ -23,7 +23,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2209.02725",
     "authors": [
       "Eilers, Anna-Christina",
       "Hogg, David W.",
@@ -76,27 +76,6 @@
     "pubdate": "2022-09-00",
     "title": "Gaussian Process regression for astronomical time-series",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220908940A",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2209.02725",
-    "authors": [
-      "Eilers, Anna-Christina",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard",
-      "Foreman-Mackey, Daniel",
-      "Davies, Frederick B.",
-      "Schindler, Jan-Torge"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-09-00",
-    "title": "A Generative Model for Quasar Spectra",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220902725E",
     "volume": null,
     "year": "2022"
   },
@@ -1438,7 +1417,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 73,
+    "citations": 75,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1545,7 +1524,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3779,7 +3758,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 21,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -5578,7 +5557,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
