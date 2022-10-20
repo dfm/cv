@@ -1448,7 +1448,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 55,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1845,7 +1845,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 97,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2306,7 +2306,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -2646,7 +2646,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -2864,7 +2864,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 131,
+    "citations": 130,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3653,7 +3653,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -4849,7 +4849,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1040,
+    "citations": 1039,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5285,7 +5285,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 339,
+    "citations": 340,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5783,7 +5783,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6563,
+    "citations": 6558,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
