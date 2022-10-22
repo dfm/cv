@@ -63,6 +63,25 @@
     "year": "2022"
   },
   {
+    "arxiv": "2210.11180",
+    "authors": [
+      "Farrell, Eoin",
+      "Jermyn, Adam S.",
+      "Cantiello, Matteo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-10-00",
+    "title": "The Initial Magnetic Field Distribution in AB Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221011180F",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2209.08940",
     "authors": [
       "Aigrain, Suzanne",
@@ -243,7 +262,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 27,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3183,7 +3202,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -4462,7 +4481,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4849,7 +4868,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1040,
+    "citations": 1041,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4920,7 +4939,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 210,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -5165,7 +5184,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -5285,7 +5304,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 341,
+    "citations": 342,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5783,7 +5802,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6570,
+    "citations": 6578,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -5807,7 +5826,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "software",
     "doi": null,
     "page": null,

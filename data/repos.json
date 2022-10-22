@@ -40,9 +40,9 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 13,
+              "forkCount": 14,
               "stargazers": {
-                "totalCount": 167
+                "totalCount": 168
               },
               "watchers": {
                 "totalCount": 7
@@ -55,7 +55,7 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 117,
+              "forkCount": 116,
               "stargazers": {
                 "totalCount": 636
               },
