@@ -44,7 +44,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2210.11180",
     "authors": [
       "Farrell, Eoin",
       "Jermyn, Adam S.",
@@ -262,7 +262,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1147,7 +1147,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -1166,7 +1166,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 19,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -1467,7 +1467,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1864,7 +1864,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2537,26 +2537,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Luger, R.",
-      "Bedell, M.",
-      "Foreman-Mackey, D.",
-      "Angus, R.",
-      "Hogg, D."
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #235",
-    "pubdate": "2020-01-00",
-    "title": "Surface Maps of Stars and Exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
-    "volume": "235",
-    "year": "2020"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gordon, T.",
       "Davenport, J.",
       "Angus, R.",
@@ -2571,6 +2551,26 @@
     "pubdate": "2020-01-00",
     "title": "Measuring Stellar Rotation in the K2 Sample",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23514801G",
+    "volume": "235",
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, R.",
+      "Bedell, M.",
+      "Foreman-Mackey, D.",
+      "Angus, R.",
+      "Hogg, D."
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #235",
+    "pubdate": "2020-01-00",
+    "title": "Surface Maps of Stars and Exoplanets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23513201L",
     "volume": "235",
     "year": "2020"
   },
@@ -2690,7 +2690,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2718,7 +2718,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 104,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2902,7 +2902,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -3202,7 +3202,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -3427,7 +3427,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 141,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3797,7 +3797,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -3814,7 +3814,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -3954,7 +3954,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4007,7 +4007,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4058,7 +4058,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 417,
+    "citations": 420,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4076,7 +4076,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -4444,7 +4444,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 230,
+    "citations": 231,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4481,7 +4481,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4868,7 +4868,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1041,
+    "citations": 1044,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -4939,7 +4939,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 211,
+    "citations": 212,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -5107,7 +5107,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -5647,7 +5647,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 47,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5802,7 +5802,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6578,
+    "citations": 6594,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
