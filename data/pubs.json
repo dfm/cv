@@ -1,5 +1,37 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Brande, Jonathan",
+      "Crossfield, Ian J. M.",
+      "Kreidberg, Laura",
+      "Oklop{\\v{c}}i{\\'c}, Antonija",
+      "Polanski, Alex S.",
+      "Barman, Travis",
+      "Benneke, Bj{\\\"o}rn",
+      "Christiansen, Jessie L.",
+      "Dragomir, Diana",
+      "Foreman-Mackey, Daniel",
+      "Fortney, Jonathan J.",
+      "Greene, Thomas P.",
+      "Howard, Andrew W.",
+      "Knutson, Heather A.",
+      "Lothringer, Joshua D.",
+      "Mikal-Evans, Thomas",
+      "Morley, Caroline V."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac8b7e",
+    "page": 197,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-11-00",
+    "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..197B",
+    "volume": "164",
+    "year": "2022"
+  },
+  {
     "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
@@ -118,6 +150,46 @@
     "pubdate": "2022-09-00",
     "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
     "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2592D",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Johnson, M. C.",
+      "David, T. J.",
+      "Petigura, E. A.",
+      "Isaacson, H. T.",
+      "van Zandt, J.",
+      "Ilyin, I.",
+      "Strassmeier, K.",
+      "Mallonn, M.",
+      "Zhou, G.",
+      "Mann, A. W.",
+      "Livingston, J. H.",
+      "Luger, R.",
+      "Dai, F.",
+      "Weiss, L. M.",
+      "Mocnik, T.",
+      "Giacalone, S.",
+      "Hill, M. L.",
+      "Rice, M.",
+      "Blunt, S.",
+      "Rubenzahl, R.",
+      "Dalba, P. A.",
+      "Esquerdo, G. A.",
+      "Berlind, P.",
+      "Calkins, M. L.",
+      "Foreman-Mackey, D."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2022-09-00",
+    "title": "VizieR Online Data Catalog: HIRES, PEPSI {\\&} TRES radial velocities of V1298 Tau (Johnson+, 2022)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..51630247J",
     "volume": null,
     "year": "2022"
   },
@@ -262,7 +334,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1147,7 +1219,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -1467,7 +1539,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3427,7 +3499,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 143,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4007,7 +4079,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4058,7 +4130,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 420,
+    "citations": 422,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4481,7 +4553,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -4868,7 +4940,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1044,
+    "citations": 1045,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5184,7 +5256,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -5304,7 +5376,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 342,
+    "citations": 343,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5378,7 +5450,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 45,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -5802,7 +5874,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6594,
+    "citations": 6604,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
