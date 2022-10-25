@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2201.04197",
     "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian J. M.",
@@ -653,7 +653,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -855,38 +855,6 @@
     "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
     "volume": "925",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2201.04197",
-    "authors": [
-      "Brande, Jonathan",
-      "Crossfield, Ian J. M.",
-      "Kreidberg, Laura",
-      "Oklop{\\v{c}}i{\\'c}, Antonija",
-      "Polanski, Alex S.",
-      "Barman, Travis",
-      "Benneke, Bj{\\\"o}rn",
-      "Christiansen, Jessie L.",
-      "Dragomir, Diana",
-      "Foreman-Mackey, Daniel",
-      "Fortney, Jonathan J.",
-      "Greene, Thomas P.",
-      "Howard, Andrew W.",
-      "Knutson, Heather A.",
-      "Lothringer, Joshua D.",
-      "Mikal-Evans, Thomas",
-      "Morley, Caroline V."
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-01-00",
-    "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220104197B",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -1689,7 +1657,7 @@
       "Goldman, Robert P.",
       "Gorelli, Marco"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4695331",
     "page": null,
@@ -5179,7 +5147,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -5648,7 +5616,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5719,7 +5687,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,

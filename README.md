@@ -76,8 +76,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 89 / first author: 9 / citations: 13,311 / h-index: 40
-(2022-10-24)
+refereed: 89 / first author: 9 / citations: 13,307 / h-index: 40
+(2022-10-25)
 
 ### Refereed publications
 
@@ -89,6 +89,7 @@ Antonija; *et al.* (incl. **DFM**), 2022, *[A Mirage or an Oasis? Water
 Vapor in the Atmosphere of the Warm Neptune TOI-674
 b](http://dx.doi.org/10.3847/1538-3881/ac8b7e)*, The Astronomical
 Journal, **164**, 197
+([arXiv:2201.04197](http://arxiv.org/abs/2201.04197))
 
 Eilers, Anna-Christina; Hogg, David W.; Schölkopf, Bernhard;
 **Foreman-Mackey, Daniel**; *et al.*, 2022, *[A Generative Model for
@@ -773,12 +774,6 @@ Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
 Daniel**; & Hayward, Christopher C., 2022, Empirical Dust Attenuation
 Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies, ArXiv
 ([arXiv:2204.06449](http://arxiv.org/abs/2204.06449))
-
-Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
-Antonija; *et al.* (incl. **DFM**), 2022, A Mirage or an Oasis? Water
-Vapor in the Atmosphere of the Warm Neptune TOI-674 b, ArXiv
-([arXiv:2201.04197](http://arxiv.org/abs/2201.04197)) \[[4
-citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220104197B)\]
 
 Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,
 Ian J. M.; *et al.*, 2021, Mapping stellar surfaces III: An Efficient,
