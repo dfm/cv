@@ -20,7 +20,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 0,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -55,6 +55,25 @@
     "year": "2022"
   },
   {
+    "arxiv": "2210.11180",
+    "authors": [
+      "Farrell, Eoin",
+      "Jermyn, Adam S.",
+      "Cantiello, Matteo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac8423",
+    "page": 10,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-10-00",
+    "title": "The Initial Magnetic Field Distribution in AB Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938...10F",
+    "volume": "938",
+    "year": "2022"
+  },
+  {
     "arxiv": "2209.02725",
     "authors": [
       "Eilers, Anna-Christina",
@@ -72,25 +91,6 @@
     "pubdate": "2022-10-00",
     "title": "A Generative Model for Quasar Spectra",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938...17E",
-    "volume": "938",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2210.11180",
-    "authors": [
-      "Farrell, Eoin",
-      "Jermyn, Adam S.",
-      "Cantiello, Matteo",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac8423",
-    "page": 10,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-10-00",
-    "title": "The Initial Magnetic Field Distribution in AB Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938...10F",
     "volume": "938",
     "year": "2022"
   },
@@ -334,7 +334,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 31,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1187,7 +1187,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -1507,7 +1507,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 56,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2923,7 +2923,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3467,7 +3467,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 144,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4047,7 +4047,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 84,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4098,7 +4098,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 422,
+    "citations": 420,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4908,7 +4908,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1045,
+    "citations": 1044,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5418,7 +5418,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 47,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -5463,7 +5463,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -5842,7 +5842,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6604,
+    "citations": 6600,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
