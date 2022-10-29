@@ -54,11 +54,11 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 168 stars / 14 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 169 stars / 15 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 637 stars / 116 forks  
+[**daft**](https://github.com/daft-dev/daft) — 638 stars / 116 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -76,8 +76,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 89 / first author: 9 / citations: 13,320 / h-index: 40
-(2022-10-28)
+refereed: 89 / first author: 9 / citations: 13,345 / h-index: 41
+(2022-10-29)
 
 ### Refereed publications
 
@@ -116,7 +116,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[33
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -236,7 +236,7 @@ Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
 Catalog and Observed Eccentricity Distribution for Year
 1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
 Journal Supplement Series, **255**, 6
-([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[5
+([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -358,7 +358,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[78
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[79
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -381,7 +381,7 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[66
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[67
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
@@ -404,7 +404,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[132
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[134
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -412,7 +412,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[39
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -491,7 +491,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[184
+\[[186
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -521,7 +521,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[423
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[424
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -666,7 +666,7 @@ Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
 Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
 targets](http://dx.doi.org/10.1093/mnras/stv423)*, Monthly Notices of
 the Royal Astronomical Society, **450**, 1787
-([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[129
+([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[130
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
 **Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
@@ -734,7 +734,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6602
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6613
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -897,17 +897,17 @@ University).
 
 
 NSF-CDS&E (PI: Agol) *Development of fast, multi-dimensional Gaussian
-Processes for Exoplanet discovery and beyond*, $471,048.00, 2019–2022
+Processes for Exoplanet discovery and beyond*, \$471,048.00, 2019–2022
 
 NSF-AAG (PI: Agol), *Collaborative Research: Masses and architectures of
-(potentially habitable) exoplanet systems*, $491,950, 2016–2018
+(potentially habitable) exoplanet systems*, \$491,950, 2016–2018
 
 K2 Guest Observer – Cycle 3 (PI: Penny), *Free-Floating and Bound Planet
 Mass Measurements with K2: Ground- and Space-Based Photometry, Event
-Detection and Modeling*, $84,000, 2016–2017
+Detection and Modeling*, \$84,000, 2016–2017
 
 K2 Guest Observer – Cycle 3 (PI: Hogg), *Ultra-precise photometry in
-crowded fields: A self-calibration approach*, $100,000, 2016–2017
+crowded fields: A self-calibration approach*, \$100,000, 2016–2017
 
 XSEDE (PI: Foreman-Mackey), *A systematic search for transiting
 exoplanets using K2*, 100,000 CPU hours, 2015–2016
