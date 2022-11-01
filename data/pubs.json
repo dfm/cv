@@ -707,6 +707,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Yadav, Sachin",
+      "Tronsgaard, Ren{\\'e}",
+      "Theorashid"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.6389738",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-03-28",
+    "title": "dfm/tinygp: tinygp v0.2.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6389738F",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Price-Whelan, Adrian",
       "Sip{\\'{o}}cz, Brigitta",
       "Starkman, Nathaniel",
@@ -1476,7 +1495,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 75,
+    "citations": 126,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1583,7 +1602,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 12,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -1702,7 +1721,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 18,
+    "citations": 32,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -2623,7 +2642,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3595344",
     "page": null,
@@ -5616,7 +5635,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5635,7 +5654,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
