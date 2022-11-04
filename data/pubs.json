@@ -334,7 +334,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 37,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -516,7 +516,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -3486,7 +3486,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 143,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3512,7 +3512,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 108,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -3873,7 +3873,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -4135,7 +4135,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -4168,7 +4168,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -4927,7 +4927,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1050,
+    "citations": 1051,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5482,7 +5482,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -5861,7 +5861,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6624,
+    "citations": 6630,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
