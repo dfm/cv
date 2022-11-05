@@ -334,7 +334,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5706,7 +5706,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 72,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -5861,7 +5861,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6630,
+    "citations": 6632,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
