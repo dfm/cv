@@ -20,7 +20,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -29,6 +29,26 @@
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..197B",
     "volume": "164",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Dan",
+      "Hayward, Christopher C."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac9477",
+    "page": 29,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-11-00",
+    "title": "Empirical Dust Attenuation Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...939...29N",
+    "volume": "939",
     "year": "2022"
   },
   {
@@ -334,7 +354,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 42,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -453,7 +473,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -1526,7 +1546,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 55,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1552,7 +1572,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -1625,7 +1645,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -2486,7 +2506,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -2543,7 +2563,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -2749,7 +2769,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 68,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -2777,7 +2797,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 108,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -2815,7 +2835,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -2942,7 +2962,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 134,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3261,7 +3281,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -3486,7 +3506,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 144,
+    "citations": 146,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4050,7 +4070,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -4117,7 +4137,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 426,
+    "citations": 428,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4503,7 +4523,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 230,
+    "citations": 231,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4927,7 +4947,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1052,
+    "citations": 1054,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5243,7 +5263,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -5363,7 +5383,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 346,
+    "citations": 348,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5617,7 +5637,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 203,
+    "citations": 204,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -5861,7 +5881,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6643,
+    "citations": 6658,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
