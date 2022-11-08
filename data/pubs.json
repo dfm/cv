@@ -32,7 +32,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2204.06449",
     "authors": [
       "Nagaraj, Gautam",
       "Forbes, John C.",
@@ -681,26 +681,6 @@
     "pubdate": "2022-04-12",
     "title": "joshspeagle/dynesty: v1.2.2",
     "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6456387K",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2204.06449",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Dan",
-      "Hayward, Christopher C."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-04-00",
-    "title": "Empirical Dust Attenuation Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220406449N",
     "volume": null,
     "year": "2022"
   },
@@ -1515,7 +1495,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 126,
+    "citations": 77,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1598,7 +1578,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -1622,7 +1602,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 16,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -5655,7 +5635,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 90,
+    "citations": 148,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5726,7 +5706,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,

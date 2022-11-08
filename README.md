@@ -49,12 +49,12 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 411 stars / 206
+[**corner.py**](https://github.com/dfm/corner.py) — 412 stars / 206
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 170 stars / 14 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 171 stars / 14 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 90 / first author: 9 / citations: 13,443 / h-index: 41
-(2022-11-07)
+(2022-11-08)
 
 ### Refereed publications
 
@@ -97,6 +97,7 @@ Daniel**; & Hayward, Christopher C., 2022, *[Empirical Dust Attenuation
 Model Leads to More Realistic UVJ Diagram for TNG100
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac9477)*, The
 Astrophysical Journal, **939**, 29
+([arXiv:2204.06449](http://arxiv.org/abs/2204.06449))
 
 Eilers, Anna-Christina; Hogg, David W.; Schölkopf, Bernhard;
 **Foreman-Mackey, Daniel**; *et al.*, 2022, *[A Generative Model for
@@ -776,11 +777,6 @@ Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
 Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
 Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries, ArXiv
 ([arXiv:2206.11275](http://arxiv.org/abs/2206.11275))
-
-Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
-Daniel**; & Hayward, Christopher C., 2022, Empirical Dust Attenuation
-Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies, ArXiv
-([arXiv:2204.06449](http://arxiv.org/abs/2204.06449))
 
 Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,
 Ian J. M.; *et al.*, 2021, Mapping stellar surfaces III: An Efficient,
