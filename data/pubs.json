@@ -52,6 +52,24 @@
     "year": "2022"
   },
   {
+    "arxiv": "2211.06397",
+    "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-11-00",
+    "title": "flowMC: Normalizing-flow enhanced sampling package for probabilistic inference in Jax",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221106397W",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2209.02725",
     "authors": [
       "Eilers, Anna-Christina",
@@ -410,6 +428,51 @@
   {
     "arxiv": null,
     "authors": [
+      "Koposov, Sergey",
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Buchner, Johannes",
+      "Scheffler, Carl",
+      "Cook, Ben",
+      "Talbot, Colm",
+      "Guillochon, James",
+      "Cubillos, Patricio",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Johnson, Ben",
+      "Lang, Dustin",
+      "Ilya",
+      "Dartiailh, Matthieu",
+      "Nitz, Alex",
+      "McCluskey, Andrew",
+      "Archibald, Anne",
+      "Deil, Christoph",
+      "Foreman-Mackey, Dan",
+      "Goldstein, Danny",
+      "Tollerud, Erik",
+      "Leja, Joel",
+      "Kirk, Matthew",
+      "Pitkin, Matt",
+      "Sheehan, Patrick",
+      "Cargile, Phillip",
+      "Ruskin23",
+      "Angus, Ruth",
+      "Daylan, Tansu"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.6609296",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-06-03",
+    "title": "joshspeagle/dynesty: v1.2.3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6609296K",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Powell, Brian P.",
       "Kruse, Ethan",
       "Montet, Benjamin T.",
@@ -630,7 +693,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -714,7 +777,7 @@
       "Tronsgaard, Ren{\\'e}",
       "Theorashid"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389738",
     "page": null,
@@ -2008,7 +2071,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 34,
+    "citations": 23,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -3531,7 +3594,7 @@
       "Foreman-Mackey, Dan",
       "Barentsen, Geert"
     ],
-    "citations": 7,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.2536576",
     "page": null,
@@ -5168,7 +5231,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 35,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
