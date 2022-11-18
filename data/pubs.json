@@ -32,6 +32,24 @@
     "year": "2022"
   },
   {
+    "arxiv": "2211.06397",
+    "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-11-00",
+    "title": "flowMC: Normalizing-flow enhanced sampling package for probabilistic inference in Jax",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221106397W",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2204.06449",
     "authors": [
       "Nagaraj, Gautam",
@@ -49,24 +67,6 @@
     "title": "Empirical Dust Attenuation Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...939...29N",
     "volume": "939",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2211.06397",
-    "authors": [
-      "Wong, Kaze W. K.",
-      "Gabri{\\'e}, Marylou",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-11-00",
-    "title": "flowMC: Normalizing-flow enhanced sampling package for probabilistic inference in Jax",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221106397W",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -374,7 +374,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 48,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2842,7 +2842,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3577,7 +3577,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4078,7 +4078,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4182,7 +4182,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 428,
+    "citations": 429,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4233,7 +4233,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -4568,7 +4568,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 231,
+    "citations": 230,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -4992,7 +4992,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1057,
+    "citations": 1058,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5308,7 +5308,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 118,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -5926,7 +5926,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6673,
+    "citations": 6678,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
