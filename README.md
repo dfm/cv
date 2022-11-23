@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 90 / first author: 9 / citations: 13,560 / h-index: 42
-(2022-11-22)
+(2022-11-23)
 
 ### Refereed publications
 
@@ -764,6 +764,11 @@ Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2022,
 flowMC: Normalizing-flow enhanced sampling package for probabilistic
 inference in Jax, ArXiv
 ([arXiv:2211.06397](http://arxiv.org/abs/2211.06397))
+
+Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
+E.; *et al.* (incl. **DFM**), 2022, Early Release Science of the
+Exoplanet WASP-39b with JWST NIRSpec G395H, ArXiv
+([arXiv:2211.10488](http://arxiv.org/abs/2211.10488))
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 **Foreman-Mackey, Daniel**; *et al.*, 2022, The three-dimensional
