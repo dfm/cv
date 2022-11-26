@@ -186,7 +186,7 @@
       "Davies, Frederick B.",
       "Schindler, Jan-Torge"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac8ead",
     "page": 17,
@@ -228,7 +228,7 @@
       "Cantiello, Matteo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac8423",
     "page": 10,
@@ -481,7 +481,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2095,7 +2095,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 99,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4675,7 +4675,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 230,
+    "citations": 231,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5099,7 +5099,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1066,
+    "citations": 1067,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5535,7 +5535,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 348,
+    "citations": 349,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6033,7 +6033,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6706,
+    "citations": 6715,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
