@@ -481,7 +481,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -645,7 +645,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -4185,7 +4185,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4202,7 +4202,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 109,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5099,7 +5099,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1067,
+    "citations": 1070,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6033,7 +6033,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6715,
+    "citations": 6728,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
