@@ -481,7 +481,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -645,7 +645,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -2045,7 +2045,7 @@
       "Gilbertson, Christian",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/staa3887",
     "page": 4798,
@@ -2949,7 +2949,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4675,7 +4675,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 231,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5099,7 +5099,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1070,
+    "citations": 1074,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5415,7 +5415,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -5789,7 +5789,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 204,
+    "citations": 205,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6033,7 +6033,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6728,
+    "citations": 6737,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
