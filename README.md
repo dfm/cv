@@ -49,7 +49,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 414 stars / 207
+[**corner.py**](https://github.com/dfm/corner.py) — 414 stars / 208
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 90 / first author: 9 / citations: 13,592 / h-index: 41
-(2022-11-28)
+(2022-11-29)
 
 ### Refereed publications
 

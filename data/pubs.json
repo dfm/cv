@@ -566,7 +566,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1119,6 +1119,31 @@
     "pubdate": "2021-11-00",
     "title": "VizieR Online Data Catalog: New M87 GCs metallicities from Keck {\\&} MMT sp. (Villaume+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..19000095V",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Dan",
+      "Lustig-Yaeger, Jacob",
+      "Hedges, Christina",
+      "Fleming, David",
+      "Head, Tim",
+      "Bartoli{\\'c}, Fran",
+      "Morris, Brett M.",
+      "Schlawin, Everett"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.5567781",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-10-13",
+    "title": "rodluger/starry: v1.2.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5567781L",
     "volume": null,
     "year": "2021"
   },
@@ -2178,7 +2203,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 25,
+    "citations": 37,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -5807,7 +5832,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
