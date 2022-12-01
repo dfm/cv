@@ -177,6 +177,31 @@
     "year": "2022"
   },
   {
+    "arxiv": "2211.16461",
+    "authors": [
+      "Jo, Yongseok",
+      "Genel, Shy",
+      "Wandelt, Benjamin",
+      "Somerville, Rachel",
+      "Villaescusa-Navarro, Francisco",
+      "Bryan, Greg L.",
+      "Angles-Alcazar, Daniel",
+      "Foreman-Mackey, Daniel",
+      "Nelson, Dylan",
+      "Kim, Ji-hoon"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-11-00",
+    "title": "Calibrating cosmological simulations with implicit likelihood inference using galaxy growth observables",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221116461J",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2209.02725",
     "authors": [
       "Eilers, Anna-Christina",
@@ -481,7 +506,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4314,7 +4339,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 432,
+    "citations": 433,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6058,7 +6083,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6727,
+    "citations": 6728,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
