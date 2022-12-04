@@ -10,7 +10,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 426,
+              "forkCount": 427,
               "stargazers": {
                 "totalCount": 1276
               },
@@ -25,9 +25,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 208,
+              "forkCount": 209,
               "stargazers": {
-                "totalCount": 414
+                "totalCount": 416
               },
               "watchers": {
                 "totalCount": 19
@@ -57,7 +57,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 118,
               "stargazers": {
-                "totalCount": 644
+                "totalCount": 645
               },
               "watchers": {
                 "totalCount": 17
