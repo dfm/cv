@@ -49,16 +49,16 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 416 stars / 209
+[**corner.py**](https://github.com/dfm/corner.py) — 417 stars / 209
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 181 stars / 14 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 182 stars / 14 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**daft**](https://github.com/daft-dev/daft) — 645 stars / 118 forks  
+[**daft**](https://github.com/daft-dev/daft) — 646 stars / 118 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 90 / first author: 9 / citations: 13,586 / h-index: 42
-(2022-12-07)
+(2022-12-08)
 
 ### Refereed publications
 
