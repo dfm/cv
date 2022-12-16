@@ -157,26 +157,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2204.06449",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Dan",
-      "Hayward, Christopher C."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac9477",
-    "page": 29,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-11-00",
-    "title": "Empirical Dust Attenuation Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...939...29N",
-    "volume": "939",
-    "year": "2022"
-  },
-  {
     "arxiv": "2211.16461",
     "authors": [
       "Jo, Yongseok",
@@ -199,6 +179,26 @@
     "title": "Calibrating cosmological simulations with implicit likelihood inference using galaxy growth observables",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221116461J",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2204.06449",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Dan",
+      "Hayward, Christopher C."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac9477",
+    "page": 29,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-11-00",
+    "title": "Empirical Dust Attenuation Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...939...29N",
+    "volume": "939",
     "year": "2022"
   },
   {
@@ -506,7 +506,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 79,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -710,7 +710,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -1062,7 +1062,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -1269,7 +1269,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1335,7 +1335,7 @@
       "Wright, Duncan J.",
       "Zhang, Hui"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2224",
     "page": 2220,
@@ -2463,7 +2463,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2516-1",
     "page": null,
@@ -2946,7 +2946,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4252,7 +4252,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 110,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4339,7 +4339,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 437,
+    "citations": 438,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5149,7 +5149,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1077,
+    "citations": 1080,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5220,7 +5220,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 213,
+    "citations": 214,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -5967,7 +5967,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 7,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,
@@ -6083,7 +6083,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6791,
+    "citations": 6803,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
