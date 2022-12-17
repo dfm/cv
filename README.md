@@ -76,8 +76,8 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 90 / first author: 9 / citations: 13,726 / h-index: 42
-(2022-12-16)
+refereed: 90 / first author: 9 / citations: 13,731 / h-index: 42
+(2022-12-17)
 
 ### Refereed publications
 
@@ -530,7 +530,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[438
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[439
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -743,7 +743,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6803
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6807
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
