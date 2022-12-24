@@ -76,7 +76,7 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 90 / first author: 9 / citations: 13,787 / h-index: 42
+refereed: 90 / first author: 9 / citations: 14,030 / h-index: 42
 (2022-12-24)
 
 ### Refereed publications
@@ -477,7 +477,7 @@ Brewer, Brendon; & **Foreman-Mackey, Daniel**, 2018, *[DNest4: Diffusive
 Nested Sampling in C++ and
 Python](http://dx.doi.org/10.18637/jss.v086.i07)*, Journal of
 Statistical Software, **86**, 1
-([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[34
+([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[36
 citations](https://scholar.google.com/scholar?cites=789224875040810871)\]
 
 Luger, Rodrigo; Kruse, Ethan; **Foreman-Mackey, Daniel**; Agol, Eric; &
@@ -631,13 +631,13 @@ citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
 Python](http://dx.doi.org/10.21105/joss.00024)*, The Journal of Open
-Source Software, **1**, 2 \[[1560
+Source Software, **1**, 2 \[[1660
 citations](https://scholar.google.com/scholar?cites=1835087844145558435,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,17415935839493019063)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2016, *[Modeling confounding by half-sibling
 regression](http://dx.doi.org/10.1073/pnas.1511656113)*, PNAS, **113**,
-27 \[[56
+27 \[[61
 citations](https://scholar.google.com/scholar?cites=2429561747341807338)\]
 
 Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
@@ -651,8 +651,8 @@ Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;
 Hogg, David W.; & O’Neil, Michael, 2016, *[Fast Direct Methods for
 Gaussian Processes](http://dx.doi.org/10.1109/TPAMI.2015.2448083)*, IEEE
 Transactions on Pattern Analysis and Machine Intelligence, **38**, 252
-([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[427
-citations](https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489)\]
+([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[563
+citations](https://scholar.google.com/scholar?cites=7122560326210979193,5194420368165307096,3347404430934682534)\]
 
 Montet, Benjamin T.; Morton, Timothy D.; **Foreman-Mackey, Daniel**;
 Johnson, John Asher; *et al.*, 2015, *[Stellar and Planetary Properties
