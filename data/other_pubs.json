@@ -4,7 +4,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1560,
+    "citations": 1660,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 2,
@@ -26,7 +26,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 56,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 27,
@@ -68,14 +68,14 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 427,
+    "citations": 563,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
     "pub": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
     "pubdate": "2016-02-00",
     "title": "Fast Direct Methods for Gaussian Processes",
-    "url": "https://scholar.google.com/scholar?cites=4840899390891567426,9641158393712381489",
+    "url": "https://scholar.google.com/scholar?cites=7122560326210979193,5194420368165307096,3347404430934682534",
     "volume": "38",
     "year": "2016"
   },
@@ -85,7 +85,7 @@
       "Brewer, Brendon",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 34,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.18637/jss.v086.i07",
     "page": 1,
