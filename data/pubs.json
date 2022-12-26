@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Henshaw, J."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac2790",
+    "page": 228,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2023-02-00",
+    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
+    "volume": "519",
+    "year": "2023"
+  },
+  {
     "arxiv": "2211.10488",
     "authors": [
       "Alderson, Lili",
@@ -299,29 +322,6 @@
     "pubdate": "2022-09-00",
     "title": "Gaussian Process regression for astronomical time-series",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220908940A",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac2790",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2022-09-00",
-    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.tmp.2592D",
     "volume": null,
     "year": "2022"
   },
@@ -2999,7 +2999,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4288,7 +4288,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4339,7 +4339,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 441,
+    "citations": 443,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4390,7 +4390,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -5149,7 +5149,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1094,
+    "citations": 1097,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5388,7 +5388,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 36,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6083,7 +6083,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6839,
+    "citations": 6844,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

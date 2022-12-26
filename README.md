@@ -76,13 +76,19 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 90 / first author: 9 / citations: 14,045 / h-index: 42
-(2022-12-25)
+refereed: 90 / first author: 9 / citations: 14,055 / h-index: 42
+(2022-12-26)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
+**Foreman-Mackey, Daniel**; *et al.*, 2023, *[The three-dimensional
+structure of galactic molecular cloud complexes out to 2.5
+kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
+Royal Astronomical Society, **519**, 228
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, *[A Mirage or an Oasis? Water
@@ -111,12 +117,6 @@ Daniel**, 2022, *[The Initial Magnetic Field Distribution in AB
 Stars](http://dx.doi.org/10.3847/1538-4357/ac8423)*, The Astrophysical
 Journal, **938**, 10
 ([arXiv:2210.11180](http://arxiv.org/abs/2210.11180))
-
-Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
-**Foreman-Mackey, Daniel**; *et al.*, 2022, *[The three-dimensional
-structure of galactic molecular cloud complexes out to 2.5
-kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
-Royal Astronomical Society
 
 Astropy Collaboration; Price-Whelan, Adrian M.; Lim, Pey Lian; Earl,
 Nicholas; *et al.* (incl. **DFM**), 2022, *[The Astropy Project:
@@ -397,7 +397,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[117
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[118
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -522,7 +522,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[88
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[89
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -530,7 +530,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[441
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[443
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -546,7 +546,7 @@ Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
 Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
 Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
 Journal, **154**, 254
-([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[53
+([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
@@ -743,7 +743,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6839
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[6844
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
