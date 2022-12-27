@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
       "Bailer-Jones, C. A. L.",
@@ -243,29 +243,6 @@
     "title": "A Generative Model for Quasar Spectra",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...938...17E",
     "volume": "938",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2210.03615",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-10-00",
-    "title": "The three-dimensional structure of Galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221003615D",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -1717,7 +1694,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 79,
+    "citations": 82,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1824,7 +1801,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -1943,7 +1920,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 19,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -2864,7 +2841,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.3595344",
     "page": null,
@@ -3625,7 +3602,7 @@
       "Czekala, Ian",
       "Casey, Andy"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.2650526",
     "page": null,
@@ -4058,7 +4035,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -5388,7 +5365,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 36,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -5928,7 +5905,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 41,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,

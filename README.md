@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 90 / first author: 9 / citations: 14,055 / h-index: 42
-(2022-12-26)
+(2022-12-27)
 
 ### Refereed publications
 
@@ -89,6 +89,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 structure of galactic molecular cloud complexes out to 2.5
 kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
 Royal Astronomical Society, **519**, 228
+([arXiv:2210.03615](http://arxiv.org/abs/2210.03615))
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, *[A Mirage or an Oasis? Water
@@ -777,11 +778,6 @@ Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel;
 *et al.* (incl. **DFM**), 2022, Calibrating cosmological simulations
 with implicit likelihood inference using galaxy growth observables,
 ArXiv ([arXiv:2211.16461](http://arxiv.org/abs/2211.16461))
-
-Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
-**Foreman-Mackey, Daniel**; *et al.*, 2022, The three-dimensional
-structure of Galactic molecular cloud complexes out to 2.5 kpc, ArXiv
-([arXiv:2210.03615](http://arxiv.org/abs/2210.03615))
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2022, Gaussian Process
 regression for astronomical time-series, ArXiv
