@@ -54,7 +54,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 186 stars / 16 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 187 stars / 16 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 90 / first author: 9 / citations: 14,054 / h-index: 42
-(2023-01-01)
+(2023-01-02)
 
 ### Refereed publications
 
@@ -158,13 +158,6 @@ Astrophysical Journal, **932**, 54
 ([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
-Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
-Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
-Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
-The Astronomical Journal, **163**, 247
-([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[7
-citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
-
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2022, *[The unpopular Package: A Data-driven
 Approach to Detrending TESS Full-frame Image Light
@@ -172,6 +165,13 @@ Curves](http://dx.doi.org/10.3847/1538-3881/ac625a)*, The Astronomical
 Journal, **163**, 284
 ([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
+
+Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
+Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
+Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
+The Astronomical Journal, **163**, 247
+([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[7
+citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
 David W.; & Hundertmark, M., 2022, *[The Thresher: Lucky imaging without

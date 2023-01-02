@@ -659,6 +659,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 15,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -695,29 +718,6 @@
     "pubdate": "2022-06-00",
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
-    "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 15,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
     "volume": "163",
     "year": "2022"
   },
@@ -5365,7 +5365,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 51,
+    "citations": 36,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
