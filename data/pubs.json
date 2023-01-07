@@ -291,7 +291,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -483,7 +483,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3802,6 +3802,22 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Feinstein, Adina",
       "Montet, Benjamin",
       "Bedell, MEgan",
@@ -3820,22 +3836,6 @@
     "pubdate": "2019-01-00",
     "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -4212,7 +4212,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 194,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4316,7 +4316,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 441,
+    "citations": 442,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5126,7 +5126,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1095,
+    "citations": 1096,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6060,7 +6060,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6848,
+    "citations": 6855,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
