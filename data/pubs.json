@@ -23,6 +23,34 @@
     "year": "2023"
   },
   {
+    "arxiv": "2301.03209",
+    "authors": [
+      "Mikal-Evans, Thomas",
+      "Sing, David K.",
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel",
+      "Kataria, Tiffany",
+      "Barstow, Joanna K.",
+      "Goyal, Jayesh M.",
+      "Lewis, Nikole K.",
+      "Lothringer, Joshua D.",
+      "Mayne, Nathan J.",
+      "Wakeford, Hannah R.",
+      "Christie, Duncan A.",
+      "Rustamkulov, Zafar"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-01-00",
+    "title": "A JWST NIRSpec phase curve for WASP-121b: dayside emission strongest eastward of the substellar point and nightside conditions conducive to cloud formation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230103209M",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2211.10488",
     "authors": [
       "Alderson, Lili",
@@ -483,7 +511,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 106,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1573,7 +1601,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -3736,7 +3764,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 117,
+    "citations": 116,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4237,7 +4265,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 197,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5151,7 +5179,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1098,
+    "citations": 1097,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5587,7 +5615,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 354,
+    "citations": 353,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6085,7 +6113,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6872,
+    "citations": 6867,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -6109,7 +6137,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 82,
+    "citations": 81,
     "doctype": "software",
     "doi": null,
     "page": null,
