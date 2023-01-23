@@ -148,7 +148,7 @@
     ],
     "citations": 5,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2211.10488",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2022-11-00",
@@ -511,7 +511,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 127,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -830,7 +830,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -1276,7 +1276,7 @@
     ],
     "citations": 12,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2110.06271",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2021-10-00",
@@ -1722,7 +1722,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 83,
+    "citations": 137,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2738,7 +2738,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -3029,7 +3029,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3599,7 +3599,7 @@
     ],
     "citations": 5,
     "doctype": "article",
-    "doi": null,
+    "doi": "10.48550/arXiv.1903.06796",
     "page": 355,
     "pub": "Bulletin of the American Astronomical Society",
     "pubdate": "2019-05-00",
@@ -3738,7 +3738,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -3855,6 +3855,9 @@
   {
     "arxiv": null,
     "authors": [
+      "Kruse, Ethan",
+      "Agol, Eric",
+      "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
@@ -3863,8 +3866,8 @@
     "page": null,
     "pub": "American Astronomical Society Meeting Abstracts #233",
     "pubdate": "2019-01-00",
-    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
+    "title": "Hundreds of New Planet Candidates from K2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
     "volume": "233",
     "year": "2019"
   },
@@ -3895,9 +3898,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Kruse, Ethan",
-      "Agol, Eric",
-      "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
@@ -3906,8 +3906,8 @@
     "page": null,
     "pub": "American Astronomical Society Meeting Abstracts #233",
     "pubdate": "2019-01-00",
-    "title": "Hundreds of New Planet Candidates from K2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -4282,7 +4282,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4318,7 +4318,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4369,7 +4369,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 446,
+    "citations": 448,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4378,24 +4378,6 @@
     "title": "Fast and Scalable Gaussian Process Modeling with Applications to Astronomical Time Series",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 71,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -4429,6 +4411,24 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 71,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
     "year": "2017"
   },
   {
@@ -5143,7 +5143,7 @@
     ],
     "citations": 58,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.1608.06919",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2016-08-00",
@@ -5179,7 +5179,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1106,
+    "citations": 1109,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5615,7 +5615,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 356,
+    "citations": 357,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -5869,7 +5869,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 207,
+    "citations": 208,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6051,7 +6051,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.1309.0654",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2013-09-00",
@@ -6078,7 +6078,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.1309.0653",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2013-09-00",
@@ -6113,7 +6113,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6915,
+    "citations": 6924,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
