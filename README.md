@@ -54,7 +54,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 191 stars / 16 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 192 stars / 16 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -62,7 +62,7 @@ The tiniest of Gaussian Process libraries
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 176 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 177 stars
 / 51 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 90 / first author: 9 / citations: 14,233 / h-index: 43
-(2023-01-23)
+(2023-01-24)
 
 ### Refereed publications
 
@@ -765,9 +765,10 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
-Daniel**; *et al.*, 2023, A JWST NIRSpec phase curve for WASP-121b:
+Daniel**; *et al.*, 2023, *[A JWST NIRSpec phase curve for WASP-121b:
 dayside emission strongest eastward of the substellar point and
-nightside conditions conducive to cloud formation, ArXiv
+nightside conditions conducive to cloud
+formation](http://dx.doi.org/10.48550/arXiv.2301.03209)*, ArXiv
 ([arXiv:2301.03209](http://arxiv.org/abs/2301.03209))
 
 Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
@@ -778,23 +779,26 @@ G395H](http://dx.doi.org/10.48550/arXiv.2211.10488)*, ArXiv
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv221110488A)\]
 
 Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2022,
-flowMC: Normalizing-flow enhanced sampling package for probabilistic
-inference in Jax, ArXiv
+*[flowMC: Normalizing-flow enhanced sampling package for probabilistic
+inference in Jax](http://dx.doi.org/10.48550/arXiv.2211.06397)*, ArXiv
 ([arXiv:2211.06397](http://arxiv.org/abs/2211.06397))
 
 Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel;
-*et al.* (incl. **DFM**), 2022, Calibrating cosmological simulations
-with implicit likelihood inference using galaxy growth observables,
-ArXiv ([arXiv:2211.16461](http://arxiv.org/abs/2211.16461))
+*et al.* (incl. **DFM**), 2022, *[Calibrating cosmological simulations
+with implicit likelihood inference using galaxy growth
+observables](http://dx.doi.org/10.48550/arXiv.2211.16461)*, ArXiv
+([arXiv:2211.16461](http://arxiv.org/abs/2211.16461))
 
-Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2022, Gaussian Process
-regression for astronomical time-series, ArXiv
+Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2022, *[Gaussian Process
+regression for astronomical
+time-series](http://dx.doi.org/10.48550/arXiv.2209.08940)*, ArXiv
 ([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220908940A)\]
 
 Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
-Andrew; *et al.*, 2022, paired: A Statistical Framework for Determining
-Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries, ArXiv
+Andrew; *et al.*, 2022, *[paired: A Statistical Framework for
+Determining Stellar Binarity with Gaia RVs. I. Planet Hosting
+Binaries](http://dx.doi.org/10.48550/arXiv.2206.11275)*, ArXiv
 ([arXiv:2206.11275](http://arxiv.org/abs/2206.11275))
 
 Luger, Rodrigo; Bedell, Megan; **Foreman-Mackey, Daniel**; Crossfield,
@@ -805,9 +809,9 @@ Model](http://dx.doi.org/10.48550/arXiv.2110.06271)*, ArXiv
 citations](https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L)\]
 
 Wang, Dun; Hogg, David W.; **Foreman-Mackey, Daniel**; & Schölkopf,
-Bernhard, 2017, A pixel-level model for event discovery in time-domain
-imaging, ArXiv ([arXiv:1710.02428](http://arxiv.org/abs/1710.02428))
-\[[10
+Bernhard, 2017, *[A pixel-level model for event discovery in time-domain
+imaging](http://dx.doi.org/10.48550/arXiv.1710.02428)*, ArXiv
+([arXiv:1710.02428](http://arxiv.org/abs/1710.02428)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2017arXiv171002428W)\]
 
 Barnes, Rory; Deitrick, Russell; Luger, Rodrigo; Driscoll, Peter E.;
