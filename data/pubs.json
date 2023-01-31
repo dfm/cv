@@ -253,6 +253,51 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Koposov, Sergey",
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Bennett, Ed",
+      "Buchner, Johannes",
+      "Scheffler, Carl",
+      "Cook, Ben",
+      "Talbot, Colm",
+      "Guillochon, James",
+      "Cubillos, Patricio",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Johnson, Ben",
+      "Lang, Dustin",
+      "Ilya",
+      "Dartiailh, Matthieu",
+      "Nitz, Alex",
+      "McCluskey, Andrew",
+      "Archibald, Anne",
+      "Deil, Christoph",
+      "Foreman-Mackey, Dan",
+      "Goldstein, Danny",
+      "Tollerud, Erik",
+      "Leja, Joel",
+      "Kirk, Matthew",
+      "Pitkin, Matt",
+      "Sheehan, Patrick",
+      "Cargile, Phillip",
+      "Ruskin23",
+      "Angus, Ruth"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7215695",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-10-17",
+    "title": "joshspeagle/dynesty: v2.0.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...7215695K",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2209.02725",
     "authors": [
       "Eilers, Anna-Christina",
@@ -875,7 +920,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -1722,7 +1767,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1948,7 +1993,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 20,
+    "citations": 34,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -4334,7 +4379,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.1160614",
     "page": null,
@@ -5958,7 +6003,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 73,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
