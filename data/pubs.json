@@ -556,7 +556,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 136,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1798,7 +1798,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 67,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1824,7 +1824,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -3046,7 +3046,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 73,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3074,7 +3074,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 119,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3783,7 +3783,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 159,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4310,7 +4310,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 201,
+    "citations": 200,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4363,7 +4363,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 93,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4414,7 +4414,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 453,
+    "citations": 452,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5224,7 +5224,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1115,
+    "citations": 1114,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6003,7 +6003,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 73,
+    "citations": 41,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -6158,7 +6158,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6954,
+    "citations": 6948,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
