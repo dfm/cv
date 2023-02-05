@@ -556,7 +556,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 137,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1298,7 +1298,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1798,7 +1798,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1824,7 +1824,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -2220,7 +2220,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3239,7 +3239,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3809,7 +3809,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 119,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4447,7 +4447,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -4892,7 +4892,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -5224,7 +5224,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1119,
+    "citations": 1121,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6158,7 +6158,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6967,
+    "citations": 6971,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
