@@ -23,7 +23,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2301.03209",
     "authors": [
       "Mikal-Evans, Thomas",
       "Sing, David K.",
@@ -48,34 +48,6 @@
     "title": "A JWST NIRSpec Phase Curve for WASP-121b: Dayside Emission Strongest Eastward of the Substellar Point and Nightside Conditions Conducive to Cloud Formation",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...943L..17M",
     "volume": "943",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2301.03209",
-    "authors": [
-      "Mikal-Evans, Thomas",
-      "Sing, David K.",
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel",
-      "Kataria, Tiffany",
-      "Barstow, Joanna K.",
-      "Goyal, Jayesh M.",
-      "Lewis, Nikole K.",
-      "Lothringer, Joshua D.",
-      "Mayne, Nathan J.",
-      "Wakeford, Hannah R.",
-      "Christie, Duncan A.",
-      "Rustamkulov, Zafar"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2301.03209",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-01-00",
-    "title": "A JWST NIRSpec phase curve for WASP-121b: dayside emission strongest eastward of the substellar point and nightside conditions conducive to cloud formation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230103209M",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -4161,7 +4133,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -5960,7 +5932,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -5979,7 +5951,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 18,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,

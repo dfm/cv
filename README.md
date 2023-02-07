@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**emcee**](https://github.com/dfm/emcee) — 1291 stars / 429 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1292 stars / 429 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 91 / first author: 9 / citations: 14,360 / h-index: 43
-(2023-02-06)
+(2023-02-07)
 
 ### Refereed publications
 
@@ -97,6 +97,7 @@ Dayside Emission Strongest Eastward of the Substellar Point and
 Nightside Conditions Conducive to Cloud
 Formation](http://dx.doi.org/10.3847/2041-8213/acb049)*, The
 Astrophysical Journal, **943**
+([arXiv:2301.03209](http://arxiv.org/abs/2301.03209))
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, *[A Mirage or an Oasis? Water
@@ -770,13 +771,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
-Daniel**; *et al.*, 2023, *[A JWST NIRSpec phase curve for WASP-121b:
-dayside emission strongest eastward of the substellar point and
-nightside conditions conducive to cloud
-formation](http://dx.doi.org/10.48550/arXiv.2301.03209)*, ArXiv
-([arXiv:2301.03209](http://arxiv.org/abs/2301.03209))
 
 Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2022, *[Early Release Science of the
