@@ -556,7 +556,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 139,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1686,7 +1686,7 @@
       "Street, Rachel",
       "Tsapras, Yiannis"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1114",
     "page": 3561,
@@ -3074,7 +3074,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4310,7 +4310,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 201,
+    "citations": 203,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4414,7 +4414,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 454,
+    "citations": 455,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5208,7 +5208,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -5224,7 +5224,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1122,
+    "citations": 1124,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5660,7 +5660,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 360,
+    "citations": 361,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6158,7 +6158,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6972,
+    "citations": 6977,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
