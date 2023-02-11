@@ -51,6 +51,29 @@
     "year": "2023"
   },
   {
+    "arxiv": "2302.04703",
+    "authors": [
+      "Eadie, Gwendolyn M.",
+      "Speagle, Joshua S.",
+      "Cisewski-Kehe, Jessi",
+      "Foreman-Mackey, Daniel",
+      "Huppenkothen, Daniela",
+      "Jones, David E.",
+      "Springford, Aaron",
+      "Tak, Hyungsuk"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Practical Guidance for Bayesian Inference in Astronomy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2211.10488",
     "authors": [
       "Alderson, Lili",
@@ -556,7 +579,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 145,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2220,7 +2243,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3074,7 +3097,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4347,7 +4370,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 128,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -4800,7 +4823,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 235,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5224,7 +5247,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1126,
+    "citations": 1129,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5295,7 +5318,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 216,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -5660,7 +5683,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 362,
+    "citations": 364,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6158,7 +6181,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6979,
+    "citations": 6985,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
