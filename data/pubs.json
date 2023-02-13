@@ -28,29 +28,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2210.03615",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac2790",
-    "page": 228,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2023-02-00",
-    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
-    "volume": "519",
-    "year": "2023"
-  },
-  {
     "arxiv": "2302.04703",
     "authors": [
       "Eadie, Gwendolyn M.",
@@ -71,6 +48,29 @@
     "title": "Practical Guidance for Bayesian Inference in Astronomy",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2210.03615",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Henshaw, J."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac2790",
+    "page": 228,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2023-02-00",
+    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
+    "volume": "519",
     "year": "2023"
   },
   {
@@ -579,7 +579,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 151,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2243,7 +2243,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
