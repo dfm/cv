@@ -67,7 +67,7 @@ Render probabilistic graphical models using matplotlib
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 52 stars /
+[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 54 stars /
 7 forks  
 Fast & scalable Gaussian Processes in one dimension
 [\[docs\]](https://celerite2.readthedocs.io)
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 91 / first author: 9 / citations: 14,394 / h-index: 43
-(2023-02-13)
+(2023-02-14)
 
 ### Refereed publications
 
@@ -777,6 +777,16 @@ Eadie, Gwendolyn M.; Speagle, Joshua S.; Cisewski-Kehe, Jessi;
 Bayesian Inference in
 Astronomy](http://dx.doi.org/10.48550/arXiv.2302.04703)*, ArXiv
 ([arXiv:2302.04703](http://arxiv.org/abs/2302.04703))
+
+Edwards, Thomas D. P.; Wong, Kaze W. K.; Lam, Kelvin K. H.; Coogan,
+Adam; *et al.* (incl. **DFM**), 2023, ripple: Differentiable and
+Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis,
+ArXiv ([arXiv:2302.05329](http://arxiv.org/abs/2302.05329))
+
+Yahalomi, Daniel A.; Angus, Ruth; Spergel, David N.; & **Foreman-Mackey,
+Daniel**, 2023, Detecting Solar System Analogs through Joint Radial
+Velocity/Astrometric Surveys, ArXiv
+([arXiv:2302.05064](http://arxiv.org/abs/2302.05064))
 
 Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2022, *[Early Release Science of the

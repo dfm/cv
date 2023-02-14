@@ -74,6 +74,47 @@
     "year": "2023"
   },
   {
+    "arxiv": "2302.05329",
+    "authors": [
+      "Edwards, Thomas D. P.",
+      "Wong, Kaze W. K.",
+      "Lam, Kelvin K. H.",
+      "Coogan, Adam",
+      "Foreman-Mackey, Daniel",
+      "Isi, Maximiliano",
+      "Zimmerman, Aaron"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2302.05064",
+    "authors": [
+      "Yahalomi, Daniel A.",
+      "Angus, Ruth",
+      "Spergel, David N.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2211.10488",
     "authors": [
       "Alderson, Lili",
@@ -664,7 +705,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1790,7 +1831,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2016,7 +2057,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 34,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -2326,7 +2367,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 25,
+    "citations": 43,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -3192,7 +3233,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 12,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -5955,7 +5996,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 95,
+    "citations": 157,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6026,7 +6067,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 41,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
