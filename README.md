@@ -62,7 +62,7 @@ The tiniest of Gaussian Process libraries
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 178 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 179 stars
 / 51 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -77,7 +77,7 @@ Fast & scalable Gaussian Processes in one dimension
 ## Publications
 
 refereed: 91 / first author: 9 / citations: 14,394 / h-index: 43
-(2023-02-14)
+(2023-02-15)
 
 ### Refereed publications
 
@@ -779,13 +779,15 @@ Astronomy](http://dx.doi.org/10.48550/arXiv.2302.04703)*, ArXiv
 ([arXiv:2302.04703](http://arxiv.org/abs/2302.04703))
 
 Edwards, Thomas D. P.; Wong, Kaze W. K.; Lam, Kelvin K. H.; Coogan,
-Adam; *et al.* (incl. **DFM**), 2023, ripple: Differentiable and
-Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis,
-ArXiv ([arXiv:2302.05329](http://arxiv.org/abs/2302.05329))
+Adam; *et al.* (incl. **DFM**), 2023, *[ripple: Differentiable and
+Hardware-Accelerated Waveforms for Gravitational Wave Data
+Analysis](http://dx.doi.org/10.48550/arXiv.2302.05329)*, ArXiv
+([arXiv:2302.05329](http://arxiv.org/abs/2302.05329))
 
 Yahalomi, Daniel A.; Angus, Ruth; Spergel, David N.; & **Foreman-Mackey,
-Daniel**, 2023, Detecting Solar System Analogs through Joint Radial
-Velocity/Astrometric Surveys, ArXiv
+Daniel**, 2023, *[Detecting Solar System Analogs through Joint Radial
+Velocity/Astrometric
+Surveys](http://dx.doi.org/10.48550/arXiv.2302.05064)*, ArXiv
 ([arXiv:2302.05064](http://arxiv.org/abs/2302.05064))
 
 Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
