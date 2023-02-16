@@ -74,6 +74,25 @@
     "year": "2023"
   },
   {
+    "arxiv": "2302.05064",
+    "authors": [
+      "Yahalomi, Daniel A.",
+      "Angus, Ruth",
+      "Spergel, David N.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.05064",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2302.05329",
     "authors": [
       "Edwards, Thomas D. P.",
@@ -92,25 +111,6 @@
     "pubdate": "2023-02-00",
     "title": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2302.05064",
-    "authors": [
-      "Yahalomi, Daniel A.",
-      "Angus, Ruth",
-      "Spergel, David N.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05064",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
     "volume": null,
     "year": "2023"
   },
@@ -285,7 +285,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2211.06397",
     "page": null,
@@ -1862,7 +1862,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2745,7 +2745,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3085,7 +3085,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4427,7 +4427,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4478,7 +4478,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 458,
+    "citations": 459,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5288,7 +5288,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1128,
+    "citations": 1129,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6222,7 +6222,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 6993,
+    "citations": 7001,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
