@@ -76,7 +76,7 @@ Fast & scalable Gaussian Processes in one dimension
 
 ## Publications
 
-refereed: 91 / first author: 9 / citations: 14,427 / h-index: 43
+refereed: 91 / first author: 9 / citations: 14,453 / h-index: 43
 (2023-02-17)
 
 ### Refereed publications
@@ -133,7 +133,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[153
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[156
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -253,7 +253,7 @@ Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
 Catalog and Observed Eccentricity Distribution for Year
 1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
 Journal Supplement Series, **255**, 6
-([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[9
+([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -276,7 +276,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[70
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[71
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -306,7 +306,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[120
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[121
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -376,7 +376,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[88
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[89
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -422,7 +422,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[143
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[146
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -430,7 +430,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[42
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -458,7 +458,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[161
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[162
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -525,14 +525,14 @@ Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, Monthly Notices of
 the Royal Astronomical Society, **474**, 2094
-([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[130
+([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[131
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[96
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[97
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -540,7 +540,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[460
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[462
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -576,7 +576,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[236
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[237
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -616,7 +616,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, The
 Astronomical Journal, **152**, 100
-([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[205
+([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[206
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -636,7 +636,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[217
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[218
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -722,7 +722,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, The
 Astrophysical Journal, **795**, 64
-([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[208
+([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[209
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -753,7 +753,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7007
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7011
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -860,8 +860,17 @@ era](http://dx.doi.org/10.48550/arXiv.1309.0653)*, ArXiv
 <div class="list">
 
 
-*Methods for scalable probabilistic inference*, 2021, Invited Talk,
-Institute for Pure & Applied Mathematics, UCLA.
+*Open software for Astrophysics*, 2023, Invited Plenary, 241st AAS
+Meeting, Seattle.
+
+*Gaussian Processes for EPRV*, 2022, Invited Tutorial, University of
+Oxford, UK.
+
+*Methods for scalable probabilistic inference*, 2022, Colloquium,
+University of Illinois Urbana-Champaign.  
+2022, Colloquium, UC Berkeley.  
+2022, Colloquium, University of Oxford, UK.  
+2021, Invited Talk, Institute for Pure & Applied Mathematics, UCLA.
 
 *Advanced probabilistic modeling*, 2021, Tutorial, Harley Wood Winter
 School of Astronomy, Australia.
@@ -893,26 +902,19 @@ Colloquium, Center for Statistics and Machine Learning, Princeton.
 
 *Data-driven discovery in the astronomical time domain*, 2018,
 Colloquium, Institute for Theory and Computation, Harvard-Smithsonian
-Center for Astrophysics.
-
-*Data-driven discovery in the astronomical time domain*, 2018,
-Colloquium, University of California, Santa Cruz.
+Center for Astrophysics.  
+2018, Colloquium, University of California, Santa Cruz.  
+2017, Interdisciplinary Colloquium, CIERA, Northwestern University.
 
 *A practical introduction to Gaussian Processes for astronomy*, 2017,
 Invited Talk, Statistical Challenges in Astrophysics, University of New
 South Wales, Australia.
 
-*Data-driven discovery in the astronomical time domain*, 2017,
-Interdisciplinary Colloquium, CIERA, Northwestern University.
-
 *Long-period transiting planets & their population*, 2016, Invited talk,
-Exoplanets I, Davos.
-
-*Long-period transiting planets & their population*, 2016, Invited talk,
-Statistical Challenges of Modern Astrophysics, Carnegie Mellon.
-
-*Long-period transiting planets & their population*, 2016, Colloquium,
-Villanova.
+Exoplanets I, Davos.  
+2016, Invited talk, Statistical Challenges of Modern Astrophysics,
+Carnegie Mellon.  
+2016, Colloquium, Villanova.
 
 *Scalable Gaussian processes & the search for transiting exoplanets*,
 2015, Data Science at the LHC, CERN, Geneva.
@@ -987,7 +989,7 @@ NSERC Undergraduate Summer Research Award, 2007.
 <div class="list">
 
 
-Topic Editor — Journal of Open Source Software
+Associate Editor-in-Chief — Journal of Open Source Software
 
 Active Referee — AAS Journals, MNRAS, PASP, A&A, Journal of Statistical
 Software, Journal on Uncertainty Quantification, Journal of Open Source
