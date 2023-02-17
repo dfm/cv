@@ -51,6 +51,25 @@
     "year": "2023"
   },
   {
+    "arxiv": "2302.05064",
+    "authors": [
+      "Yahalomi, Daniel A.",
+      "Angus, Ruth",
+      "Spergel, David N.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.05064",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
@@ -71,25 +90,6 @@
     "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
     "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
     "volume": "519",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2302.05064",
-    "authors": [
-      "Yahalomi, Daniel A.",
-      "Angus, Ruth",
-      "Spergel, David N.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05064",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -620,7 +620,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 150,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -755,6 +755,46 @@
     "year": "2022"
   },
   {
+    "arxiv": "2110.10707",
+    "authors": [
+      "Johnson, Marshall C.",
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Isaacson, Howard T.",
+      "Van Zandt, Judah",
+      "Ilyin, Ilya",
+      "Strassmeier, Klaus",
+      "Mallonn, Matthias",
+      "Zhou, George",
+      "Mann, Andrew W.",
+      "Livingston, John H.",
+      "Luger, Rodrigo",
+      "Dai, Fei",
+      "Weiss, Lauren M.",
+      "Mo{\\v{c}}nik, Teo",
+      "Giacalone, Steven",
+      "Hill, Michelle L.",
+      "Rice, Malena",
+      "Blunt, Sarah",
+      "Rubenzahl, Ryan",
+      "Dalba, Paul A.",
+      "Esquerdo, Gilbert A.",
+      "Berlind, Perry",
+      "Calkins, Michael L.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac6271",
+    "page": 247,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -815,46 +855,6 @@
     "pubdate": "2022-06-00",
     "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2110.10707",
-    "authors": [
-      "Johnson, Marshall C.",
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Isaacson, Howard T.",
-      "Van Zandt, Judah",
-      "Ilyin, Ilya",
-      "Strassmeier, Klaus",
-      "Mallonn, Matthias",
-      "Zhou, George",
-      "Mann, Andrew W.",
-      "Livingston, John H.",
-      "Luger, Rodrigo",
-      "Dai, Fei",
-      "Weiss, Lauren M.",
-      "Mo{\\v{c}}nik, Teo",
-      "Giacalone, Steven",
-      "Hill, Michelle L.",
-      "Rice, Malena",
-      "Blunt, Sarah",
-      "Rubenzahl, Ryan",
-      "Dalba, Paul A.",
-      "Esquerdo, Gilbert A.",
-      "Berlind, Perry",
-      "Calkins, Michael L.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 7,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac6271",
-    "page": 247,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
     "year": "2022"
   },
@@ -1136,7 +1136,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -1710,7 +1710,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -1862,7 +1862,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2745,7 +2745,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4114,7 +4114,7 @@
       "Hogg, David W.",
       "Angus, Ruth"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aadb40",
     "page": 15,
@@ -4411,7 +4411,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 129,
+    "citations": 130,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -4427,7 +4427,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4478,7 +4478,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 459,
+    "citations": 460,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5250,7 +5250,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1608.06919",
     "page": null,
@@ -5288,7 +5288,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1129,
+    "citations": 1130,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6222,7 +6222,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7001,
+    "citations": 7007,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
