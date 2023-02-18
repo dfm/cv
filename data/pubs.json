@@ -620,7 +620,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 156,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2284,7 +2284,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 121,
+    "citations": 122,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3303,7 +3303,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 146,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4411,7 +4411,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 131,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -4478,7 +4478,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 462,
+    "citations": 464,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4626,7 +4626,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -4901,7 +4901,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 85,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -5288,7 +5288,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1130,
+    "citations": 1134,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6222,7 +6222,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7011,
+    "citations": 7024,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
