@@ -60,6 +60,8 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: results
+          target-folder: tex
           branch: main-pdf
           commit-message: "updating pdfs"
+          clean: true
           single-commit: true
