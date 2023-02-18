@@ -7,6 +7,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -47,13 +50,24 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Compile
-        run: ./scripts/compile
+        run: |
+          ./scripts/compile
+          mkdir -p results
+          cp tex/*.pdf results
         env:
           XDG_CACHE_HOME: cache
-      - uses: dfm/force-push-branch-action@v1
-        continue-on-error: true
+      - name: Push documents
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          branch-suffix: "-pdf"
+          folder: results
+          branch: main-pdf
           commit-message: "updating pdfs"
-          path: "tex/*.pdf"
+          single-commit: true
+          
+#       - uses: dfm/force-push-branch-action@v1
+#         continue-on-error: true
+#         with:
+#           github-token: ${{ secrets.GITHUB_TOKEN }}
+#           branch-suffix: "-pdf"
+#           commit-message: "updating pdfs"
+#           path: "tex/*.pdf"
