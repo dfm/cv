@@ -42,9 +42,12 @@ jobs:
           git add .
           git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating data"
           git push https://github.com/$GITHUB_REPOSITORY
-      - uses: docker://ghcr.io/dfm/tectonic-image:main
+      - name: Install tectonic
+        uses: wtfjoke/setup-tectonic@v2
         with:
-          entrypoint: scripts/compile
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Compile
+        run: ./scripts/compile
         env:
           XDG_CACHE_HOME: /github/workspace/cache
       - uses: dfm/force-push-branch-action@v1
