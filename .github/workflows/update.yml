@@ -49,7 +49,7 @@ jobs:
       - name: Compile
         run: ./scripts/compile
         env:
-          XDG_CACHE_HOME: /github/workspace/cache
+          XDG_CACHE_HOME: cache
       - uses: dfm/force-push-branch-action@v1
         continue-on-error: true
         with:
