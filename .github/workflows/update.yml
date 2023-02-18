@@ -63,11 +63,3 @@ jobs:
           branch: main-pdf
           commit-message: "updating pdfs"
           single-commit: true
-          
-#       - uses: dfm/force-push-branch-action@v1
-#         continue-on-error: true
-#         with:
-#           github-token: ${{ secrets.GITHUB_TOKEN }}
-#           branch-suffix: "-pdf"
-#           commit-message: "updating pdfs"
-#           path: "tex/*.pdf"
