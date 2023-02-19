@@ -6,6 +6,36 @@
         "edges": [
           {
             "node": {
+              "name": "tinygp",
+              "description": "The tiniest of Gaussian Process libraries",
+              "url": "https://github.com/dfm/tinygp",
+              "homepageUrl": "https://tinygp.readthedocs.io",
+              "forkCount": 18,
+              "stargazers": {
+                "totalCount": 203
+              },
+              "watchers": {
+                "totalCount": 7
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "showyourwork",
+              "description": "Fully reproducible, open source scientific articles in LaTeX.",
+              "url": "https://github.com/showyourwork/showyourwork",
+              "homepageUrl": "https://show-your.work",
+              "forkCount": 28,
+              "stargazers": {
+                "totalCount": 401
+              },
+              "watchers": {
+                "totalCount": 5
+              }
+            }
+          },
+          {
+            "node": {
               "name": "emcee",
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
@@ -36,36 +66,6 @@
           },
           {
             "node": {
-              "name": "tinygp",
-              "description": "The tiniest of Gaussian Process libraries",
-              "url": "https://github.com/dfm/tinygp",
-              "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 18,
-              "stargazers": {
-                "totalCount": 203
-              },
-              "watchers": {
-                "totalCount": 7
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "daft",
-              "description": "Render probabilistic graphical models using matplotlib",
-              "url": "https://github.com/daft-dev/daft",
-              "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 116,
-              "stargazers": {
-                "totalCount": 648
-              },
-              "watchers": {
-                "totalCount": 17
-              }
-            }
-          },
-          {
-            "node": {
               "name": "exoplanet",
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
@@ -81,16 +81,16 @@
           },
           {
             "node": {
-              "name": "celerite2",
-              "description": "Fast & scalable Gaussian Processes in one dimension",
-              "url": "https://github.com/exoplanet-dev/celerite2",
-              "homepageUrl": "https://celerite2.readthedocs.io",
-              "forkCount": 7,
+              "name": "daft",
+              "description": "Render probabilistic graphical models using matplotlib",
+              "url": "https://github.com/daft-dev/daft",
+              "homepageUrl": "https://docs.daft-pgm.org",
+              "forkCount": 116,
               "stargazers": {
-                "totalCount": 54
+                "totalCount": 648
               },
               "watchers": {
-                "totalCount": 7
+                "totalCount": 17
               }
             }
           }

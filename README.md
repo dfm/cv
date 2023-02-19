@@ -45,6 +45,15 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
+[**tinygp**](https://github.com/dfm/tinygp) — 203 stars / 18 forks  
+The tiniest of Gaussian Process libraries
+[\[docs\]](https://tinygp.readthedocs.io)
+
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 401
+stars / 28 forks  
+Fully reproducible, open source scientific articles in LaTeX.
+[\[docs\]](https://show-your.work)
+
 [**emcee**](https://github.com/dfm/emcee) — 1294 stars / 429 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
@@ -54,29 +63,20 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 203 stars / 18 forks  
-The tiniest of Gaussian Process libraries
-[\[docs\]](https://tinygp.readthedocs.io)
-
-[**daft**](https://github.com/daft-dev/daft) — 648 stars / 116 forks  
-Render probabilistic graphical models using matplotlib
-[\[docs\]](https://docs.daft-pgm.org)
-
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 178 stars
 / 51 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 54 stars /
-7 forks  
-Fast & scalable Gaussian Processes in one dimension
-[\[docs\]](https://celerite2.readthedocs.io)
+[**daft**](https://github.com/daft-dev/daft) — 648 stars / 116 forks  
+Render probabilistic graphical models using matplotlib
+[\[docs\]](https://docs.daft-pgm.org)
 
 </div>
 
 ## Publications
 
-refereed: 91 / first author: 9 / citations: 14,481 / h-index: 43
+refereed: 92 / first author: 9 / citations: 14,499 / h-index: 43
 (2023-02-19)
 
 ### Refereed publications
@@ -98,6 +98,12 @@ structure of galactic molecular cloud complexes out to 2.5
 kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
 Royal Astronomical Society, **519**, 228
 ([arXiv:2210.03615](http://arxiv.org/abs/2210.03615))
+
+Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
+*et al.* (incl. **DFM**), 2023, *[Calibrating Cosmological Simulations
+with Implicit Likelihood Inference Using Galaxy Growth
+Observables](http://dx.doi.org/10.3847/1538-4357/aca8fe)*, The
+Astrophysical Journal, **944**, 67
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, *[A Mirage or an Oasis? Water
@@ -647,7 +653,7 @@ citations](https://scholar.google.com/scholar?cites=1835087844145558435,17325274
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2016, *[Modeling confounding by half-sibling
 regression](http://dx.doi.org/10.1073/pnas.1511656113)*, PNAS, **113**,
-27 \[[61
+27 \[[62
 citations](https://scholar.google.com/scholar?cites=2429561747341807338)\]
 
 Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
@@ -661,7 +667,7 @@ Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;
 Hogg, David W.; & O’Neil, Michael, 2016, *[Fast Direct Methods for
 Gaussian Processes](http://dx.doi.org/10.1109/TPAMI.2015.2448083)*, IEEE
 Transactions on Pattern Analysis and Machine Intelligence, **38**, 252
-([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[563
+([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[580
 citations](https://scholar.google.com/scholar?cites=7122560326210979193,5194420368165307096,3347404430934682534)\]
 
 Montet, Benjamin T.; Morton, Timothy D.; **Foreman-Mackey, Daniel**;
