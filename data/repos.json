@@ -22,7 +22,7 @@
           {
             "node": {
               "name": "showyourwork",
-              "description": "Fully reproducible, open source scientific articles in LaTeX.",
+              "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
               "forkCount": 28,

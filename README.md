@@ -51,7 +51,7 @@ The tiniest of Gaussian Process libraries
 
 [**showyourwork**](https://github.com/showyourwork/showyourwork) — 401
 stars / 28 forks  
-Fully reproducible, open source scientific articles in LaTeX.
+A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
 [**emcee**](https://github.com/dfm/emcee) — 1294 stars / 429 forks  
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 92 / first author: 9 / citations: 14,499 / h-index: 43
-(2023-02-19)
+(2023-02-20)
 
 ### Refereed publications
 
