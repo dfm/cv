@@ -115,7 +115,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2211.16461",
     "authors": [
       "Jo, Yongseok",
       "Genel, Shy",
@@ -174,6 +174,51 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24110302G",
     "volume": "55",
     "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Koposov, Sergey",
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Bennett, Ed",
+      "Buchner, Johannes",
+      "Scheffler, Carl",
+      "Cook, Ben",
+      "Talbot, Colm",
+      "Guillochon, James",
+      "Cubillos, Patricio",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Johnson, Ben",
+      "Lang, Dustin",
+      "Ilya",
+      "Dartiailh, Matthieu",
+      "Nitz, Alex",
+      "McCluskey, Andrew",
+      "Archibald, Anne",
+      "Deil, Christoph",
+      "Foreman-Mackey, Dan",
+      "Goldstein, Danny",
+      "Tollerud, Erik",
+      "Leja, Joel",
+      "Kirk, Matthew",
+      "Pitkin, Matt",
+      "Sheehan, Patrick",
+      "Cargile, Phillip",
+      "Ruskin23",
+      "Angus, Ruth"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7388523",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-12-02",
+    "title": "joshspeagle/dynesty: v2.0.3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...7388523K",
+    "volume": null,
+    "year": "2022"
   },
   {
     "arxiv": "2211.10488",
@@ -312,31 +357,6 @@
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..197B",
     "volume": "164",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2211.16461",
-    "authors": [
-      "Jo, Yongseok",
-      "Genel, Shy",
-      "Wandelt, Benjamin",
-      "Somerville, Rachel",
-      "Villaescusa-Navarro, Francisco",
-      "Bryan, Greg L.",
-      "Angles-Alcazar, Daniel",
-      "Foreman-Mackey, Daniel",
-      "Nelson, Dylan",
-      "Kim, Ji-hoon"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2211.16461",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-11-00",
-    "title": "Calibrating cosmological simulations with implicit likelihood inference using galaxy growth observables",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221116461J",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -1892,7 +1912,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 143,
+    "citations": 88,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -4258,7 +4278,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -5785,7 +5805,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 364,
+    "citations": 363,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,

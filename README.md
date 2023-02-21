@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 92 / first author: 9 / citations: 14,499 / h-index: 43
-(2023-02-20)
+(2023-02-21)
 
 ### Refereed publications
 
@@ -104,6 +104,7 @@ Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
 with Implicit Likelihood Inference Using Galaxy Growth
 Observables](http://dx.doi.org/10.3847/1538-4357/aca8fe)*, The
 Astrophysical Journal, **944**, 67
+([arXiv:2211.16461](http://arxiv.org/abs/2211.16461))
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
 Antonija; *et al.* (incl. **DFM**), 2022, *[A Mirage or an Oasis? Water
@@ -802,12 +803,6 @@ Exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.48550/arXiv.2211.10488)*, ArXiv
 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv221110488A)\]
-
-Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel;
-*et al.* (incl. **DFM**), 2022, *[Calibrating cosmological simulations
-with implicit likelihood inference using galaxy growth
-observables](http://dx.doi.org/10.48550/arXiv.2211.16461)*, ArXiv
-([arXiv:2211.16461](http://arxiv.org/abs/2211.16461))
 
 Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2022,
 *[flowMC: Normalizing-flow enhanced sampling package for probabilistic
