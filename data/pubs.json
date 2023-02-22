@@ -93,28 +93,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.05329",
-    "authors": [
-      "Edwards, Thomas D. P.",
-      "Wong, Kaze W. K.",
-      "Lam, Kelvin K. H.",
-      "Coogan, Adam",
-      "Foreman-Mackey, Daniel",
-      "Isi, Maximiliano",
-      "Zimmerman, Aaron"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05329",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2211.16461",
     "authors": [
       "Jo, Yongseok",
@@ -137,6 +115,28 @@
     "title": "Calibrating Cosmological Simulations with Implicit Likelihood Inference Using Galaxy Growth Observables",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...944...67J",
     "volume": "944",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2302.05329",
+    "authors": [
+      "Edwards, Thomas D. P.",
+      "Wong, Kaze W. K.",
+      "Lam, Kelvin K. H.",
+      "Coogan, Adam",
+      "Foreman-Mackey, Daniel",
+      "Isi, Maximiliano",
+      "Zimmerman, Aaron"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.05329",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -4278,7 +4278,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 24,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6187,7 +6187,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 4,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,

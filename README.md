@@ -45,12 +45,12 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 203 stars / 18 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 205 stars / 18 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 401
-stars / 28 forks  
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 402
+stars / 31 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
@@ -58,7 +58,7 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 421 stars / 209
+[**corner.py**](https://github.com/dfm/corner.py) — 422 stars / 209
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 92 / first author: 9 / citations: 14,499 / h-index: 43
-(2023-02-21)
+(2023-02-22)
 
 ### Refereed publications
 
