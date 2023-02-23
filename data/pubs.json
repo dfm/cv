@@ -366,7 +366,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2211.06397",
     "page": null,
@@ -701,7 +701,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 161,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1943,7 +1943,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -1969,7 +1969,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -5369,7 +5369,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1134,
+    "citations": 1135,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5805,7 +5805,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 363,
+    "citations": 364,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6303,7 +6303,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7024,
+    "citations": 7028,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

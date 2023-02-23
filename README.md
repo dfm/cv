@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 205 stars / 18 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 206 stars / 18 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -58,12 +58,12 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 422 stars / 209
+[**corner.py**](https://github.com/dfm/corner.py) — 423 stars / 209
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 178 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 179 stars
 / 51 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 92 / first author: 9 / citations: 14,499 / h-index: 43
-(2023-02-22)
+refereed: 92 / first author: 9 / citations: 14,507 / h-index: 43
+(2023-02-23)
 
 ### Refereed publications
 
@@ -140,7 +140,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[161
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[162
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -283,7 +283,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[71
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[72
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -291,7 +291,7 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
 Journal, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[31
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
@@ -760,7 +760,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7024
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7028
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -807,7 +807,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2022arXiv221110488A)\]
 Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2022,
 *[flowMC: Normalizing-flow enhanced sampling package for probabilistic
 inference in Jax](http://dx.doi.org/10.48550/arXiv.2211.06397)*, ArXiv
-([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[2
+([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv221106397W)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2022, *[Gaussian Process
