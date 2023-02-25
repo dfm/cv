@@ -701,7 +701,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 165,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1530,7 +1530,7 @@
       "Wright, Duncan J.",
       "Zhang, Hui"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2224",
     "page": 2220,
@@ -3219,7 +3219,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5369,7 +5369,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1138,
+    "citations": 1140,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6303,7 +6303,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7037,
+    "citations": 7043,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

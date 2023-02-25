@@ -58,7 +58,7 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 423 stars / 209
+[**corner.py**](https://github.com/dfm/corner.py) — 423 stars / 210
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 92 / first author: 9 / citations: 14,527 / h-index: 43
-(2023-02-24)
+refereed: 92 / first author: 9 / citations: 14,538 / h-index: 43
+(2023-02-25)
 
 ### Refereed publications
 
@@ -140,7 +140,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[165
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[168
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -237,7 +237,7 @@ Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[HD 183579b: a warm sub-Neptune transiting a
 solar twin detected by TESS](http://dx.doi.org/10.1093/mnras/stab2224)*,
 Monthly Notices of the Royal Astronomical Society, **507**, 2220
-([arXiv:2107.14015](http://arxiv.org/abs/2107.14015)) \[[3
+([arXiv:2107.14015](http://arxiv.org/abs/2107.14015)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2220G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -413,7 +413,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[120
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[121
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -760,7 +760,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7037
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7043
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
