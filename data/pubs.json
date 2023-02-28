@@ -2448,7 +2448,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 43,
+    "citations": 25,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -4524,7 +4524,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.1160614",
     "page": null,
@@ -6077,7 +6077,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 157,
+    "citations": 96,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6303,7 +6303,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7059,
+    "citations": 7061,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
