@@ -50,7 +50,7 @@ The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
 [**showyourwork**](https://github.com/showyourwork/showyourwork) — 404
-stars / 31 forks  
+stars / 32 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 92 / first author: 9 / citations: 14,592 / h-index: 43
-(2023-03-03)
+refereed: 92 / first author: 9 / citations: 14,596 / h-index: 43
+(2023-03-04)
 
 ### Refereed publications
 
@@ -576,7 +576,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2017RNAAS...1....7L)\]
 Price-Whelan, Adrian M.; & **Foreman-Mackey, Daniel**, 2017,
 *[schwimmbad: A uniform interface to parallel processing pools in
 Python](http://dx.doi.org/10.21105/joss.00357)*, The Journal of Open
-Source Software, **2**, 357 \[[20
+Source Software, **2**, 357 \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2017JOSS....2..357P)\]
 
 Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
@@ -760,7 +760,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7070
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7073
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
