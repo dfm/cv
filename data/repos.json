@@ -25,9 +25,9 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 32,
+              "forkCount": 33,
               "stargazers": {
-                "totalCount": 407
+                "totalCount": 408
               },
               "watchers": {
                 "totalCount": 5
@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 430,
               "stargazers": {
-                "totalCount": 1294
+                "totalCount": 1296
               },
               "watchers": {
                 "totalCount": 88
@@ -57,7 +57,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 211,
               "stargazers": {
-                "totalCount": 424
+                "totalCount": 425
               },
               "watchers": {
                 "totalCount": 19
@@ -72,7 +72,7 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 51,
               "stargazers": {
-                "totalCount": 181
+                "totalCount": 182
               },
               "watchers": {
                 "totalCount": 20
