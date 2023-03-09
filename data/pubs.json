@@ -701,7 +701,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 177,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -836,6 +836,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -914,29 +937,6 @@
     "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
     "volume": "932",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
     "year": "2022"
   },
   {
@@ -4503,7 +4503,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5400,7 +5400,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1146,
+    "citations": 1147,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5910,7 +5910,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -6004,6 +6004,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Wang, Dun",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 1,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
@@ -6030,25 +6049,6 @@
     "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
     "volume": null,
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Wang, Dun",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
-    "volume": "225",
     "year": "2015"
   },
   {
@@ -6334,7 +6334,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7076,
+    "citations": 7079,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
