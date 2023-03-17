@@ -10,7 +10,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 18,
+              "forkCount": 19,
               "stargazers": {
                 "totalCount": 210
               },
@@ -40,7 +40,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 431,
+              "forkCount": 430,
               "stargazers": {
                 "totalCount": 1297
               },
@@ -55,7 +55,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 211,
+              "forkCount": 210,
               "stargazers": {
                 "totalCount": 428
               },
