@@ -123,7 +123,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -701,7 +701,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 193,
+    "citations": 197,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4590,7 +4590,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 472,
+    "citations": 471,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5400,7 +5400,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1156,
+    "citations": 1155,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6334,7 +6334,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7127,
+    "citations": 7129,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
