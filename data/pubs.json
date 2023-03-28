@@ -786,7 +786,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1881,6 +1881,37 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
+    "citations": 88,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1998447",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-06-21",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1998447F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Barclay, Thomas",
+      "Bouma, Luke G.",
+      "Brandt, Timothy D.",
+      "Czekala, Ian",
+      "David, Trevor J.",
+      "Dong, Jiayin",
+      "Gilbert, Emily A.",
+      "Gordon, Tyler A.",
+      "Hedges, Christina",
+      "Hey, Daniel R.",
+      "Morris, Brett M.",
+      "Price-Whelan, Adrian M.",
+      "Savel, Arjun B."
+    ],
     "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
@@ -2019,7 +2050,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 23,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -5608,7 +5639,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 36,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6077,7 +6108,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 161,
+    "citations": 98,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6148,7 +6179,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 41,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
