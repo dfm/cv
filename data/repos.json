@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 430,
               "stargazers": {
-                "totalCount": 1297
+                "totalCount": 1298
               },
               "watchers": {
                 "totalCount": 87
@@ -70,7 +70,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 51,
+              "forkCount": 50,
               "stargazers": {
                 "totalCount": 182
               },
