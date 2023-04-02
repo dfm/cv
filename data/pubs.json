@@ -1,5 +1,23 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.21105/joss.05021",
+    "page": 5021,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2023-03-00",
+    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
+    "volume": "8",
+    "year": "2023"
+  },
+  {
     "arxiv": "2211.10488",
     "authors": [
       "Alderson, Lili",
@@ -836,49 +854,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 18,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
-    "year": "2022"
-  },
-  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -937,6 +912,49 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 10,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 18,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
     "year": "2022"
   },
   {
@@ -2857,7 +2875,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -5400,7 +5418,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1167,
+    "citations": 1169,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5522,7 +5540,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 26,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -6179,7 +6197,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 41,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -6218,7 +6236,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 7,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,
@@ -6334,7 +6352,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7200,
+    "citations": 7204,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
