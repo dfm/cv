@@ -719,7 +719,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 223,
+    "citations": 227,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2018,7 +2018,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -3433,7 +3433,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4608,7 +4608,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 477,
+    "citations": 478,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4677,7 +4677,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -4994,7 +4994,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 241,
+    "citations": 242,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5418,7 +5418,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1169,
+    "citations": 1172,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5854,7 +5854,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 378,
+    "citations": 379,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6352,7 +6352,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7204,
+    "citations": 7209,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
