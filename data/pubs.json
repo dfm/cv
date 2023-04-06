@@ -719,7 +719,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 227,
+    "citations": 224,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -813,6 +813,26 @@
     "title": "joshspeagle/dynesty: v1.2.3",
     "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6609296K",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 10,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -912,26 +932,6 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -2018,7 +2018,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 34,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4608,7 +4608,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 478,
+    "citations": 477,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -4677,7 +4677,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 20,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -4994,7 +4994,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 242,
+    "citations": 241,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5418,7 +5418,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1172,
+    "citations": 1169,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5854,7 +5854,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 379,
+    "citations": 378,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6352,7 +6352,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7209,
+    "citations": 7204,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
