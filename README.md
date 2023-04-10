@@ -54,7 +54,7 @@ stars / 33 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1303 stars / 428 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1304 stars / 428 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 94 / first author: 9 / citations: 14,906 / h-index: 43
-(2023-04-09)
+(2023-04-10)
 
 ### Refereed publications
 
