@@ -158,7 +158,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -764,7 +764,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 253,
+    "citations": 259,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -861,26 +861,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 10,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -907,7 +887,7 @@
       "Gerner, Lyn E.",
       "Burch, Timothy M."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ac74c4",
     "page": 111,
@@ -916,6 +896,26 @@
     "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
     "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
     "volume": "6",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 10,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -2037,7 +2037,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2459,7 +2459,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 132,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2944,7 +2944,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3087,7 +3087,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 96,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -3325,7 +3325,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -3543,7 +3543,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 155,
+    "citations": 157,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4113,7 +4113,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 131,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4667,7 +4667,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4718,7 +4718,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 484,
+    "citations": 485,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5104,7 +5104,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 242,
+    "citations": 243,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5421,7 +5421,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 211,
+    "citations": 212,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -5528,7 +5528,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1182,
+    "citations": 1186,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5844,7 +5844,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -5964,7 +5964,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 381,
+    "citations": 383,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6371,7 +6371,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -6462,7 +6462,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7277,
+    "citations": 7302,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -6486,7 +6486,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "software",
     "doi": null,
     "page": null,
