@@ -10,7 +10,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 19,
+              "forkCount": 20,
               "stargazers": {
                 "totalCount": 217
               },
@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 428,
               "stargazers": {
-                "totalCount": 1308
+                "totalCount": 1309
               },
               "watchers": {
                 "totalCount": 88
