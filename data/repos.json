@@ -12,7 +12,7 @@
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 20,
               "stargazers": {
-                "totalCount": 217
+                "totalCount": 218
               },
               "watchers": {
                 "totalCount": 8
@@ -25,7 +25,7 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 33,
+              "forkCount": 34,
               "stargazers": {
                 "totalCount": 422
               },
@@ -55,9 +55,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 210,
+              "forkCount": 211,
               "stargazers": {
-                "totalCount": 432
+                "totalCount": 433
               },
               "watchers": {
                 "totalCount": 19
