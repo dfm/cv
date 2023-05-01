@@ -49,8 +49,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 422
-stars / 34 forks  
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 425
+stars / 36 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
@@ -63,7 +63,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 182 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 181 stars
 / 50 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 94 / first author: 9 / citations: 15,215 / h-index: 43
-(2023-04-30)
+refereed: 94 / first author: 9 / citations: 15,226 / h-index: 43
+(2023-05-01)
 
 ### Refereed publications
 
@@ -154,7 +154,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[274
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[276
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -220,7 +220,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.; &
 structure of the Orion, Cygnus X, Taurus, and Perseus star-forming
 regions](http://dx.doi.org/10.1051/0004-6361/202141298)*, Astronomy and
 Astrophysics, **658**
-([arXiv:2111.06672](http://arxiv.org/abs/2111.06672)) \[[6
+([arXiv:2111.06672](http://arxiv.org/abs/2111.06672)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...658A.166D)\]
 
 Feinstein, Adina D.; David, Trevor J.; Montet, Benjamin T.;
@@ -266,7 +266,7 @@ David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[29
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
@@ -479,7 +479,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[171
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[172
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -531,7 +531,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[208
+\[[209
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -774,7 +774,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7313
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7318
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

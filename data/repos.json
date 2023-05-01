@@ -25,9 +25,9 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 34,
+              "forkCount": 36,
               "stargazers": {
-                "totalCount": 422
+                "totalCount": 425
               },
               "watchers": {
                 "totalCount": 5
@@ -72,7 +72,7 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 50,
               "stargazers": {
-                "totalCount": 182
+                "totalCount": 181
               },
               "watchers": {
                 "totalCount": 18
