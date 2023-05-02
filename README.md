@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 94 / first author: 9 / citations: 15,226 / h-index: 43
-(2023-05-01)
+(2023-05-02)
 
 ### Refereed publications
 
@@ -179,6 +179,13 @@ Set](http://dx.doi.org/10.3847/2515-5172/ac74c4)*, Research Notes of the
 American Astronomical Society, **6**, 111 \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P)\]
 
+Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
+Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
+Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
+The Astronomical Journal, **163**, 247
+([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[7
+citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
+
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
 Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
 for the Observed Dust Attenuation in
@@ -194,13 +201,6 @@ Curves](http://dx.doi.org/10.3847/1538-3881/ac625a)*, The Astronomical
 Journal, **163**, 284
 ([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
-
-Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
-Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
-Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
-The Astronomical Journal, **163**, 247
-([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[7
-citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
 David W.; & Hundertmark, M., 2022, *[The Thresher: Lucky imaging without
