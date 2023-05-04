@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": "2305.00988",
+    "authors": [
+      "Tran, Quang H.",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-05-00",
+    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Wong, Kaze W. K.",

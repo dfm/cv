@@ -45,16 +45,16 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 220 stars / 20 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 221 stars / 20 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 425
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 426
 stars / 36 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1312 stars / 428 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1313 stars / 428 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 94 / first author: 9 / citations: 15,207 / h-index: 43
-(2023-05-03)
+(2023-05-04)
 
 ### Refereed publications
 
@@ -792,6 +792,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
+Rodrigo, 2023, Joint Modeling of Radial Velocities and Photometry with a
+Gaussian Process Framework, ArXiv
+([arXiv:2305.00988](http://arxiv.org/abs/2305.00988))
 
 Eadie, Gwendolyn M.; Speagle, Joshua S.; Cisewski-Kehe, Jessi;
 **Foreman-Mackey, Daniel**; *et al.*, 2023, *[Practical Guidance for
