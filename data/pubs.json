@@ -813,7 +813,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 282,
+    "citations": 287,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2112,7 +2112,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 34,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -2508,7 +2508,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2665,7 +2665,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -3374,7 +3374,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4523,7 +4523,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -4663,7 +4663,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 210,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4680,7 +4680,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5577,7 +5577,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1185,
+    "citations": 1187,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5893,7 +5893,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 123,
+    "citations": 122,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6013,7 +6013,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 385,
+    "citations": 386,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6511,7 +6511,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7321,
+    "citations": 7331,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
