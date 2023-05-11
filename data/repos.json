@@ -25,12 +25,12 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 36,
+              "forkCount": 37,
               "stargazers": {
-                "totalCount": 435
+                "totalCount": 438
               },
               "watchers": {
-                "totalCount": 4
+                "totalCount": 5
               }
             }
           },
