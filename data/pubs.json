@@ -813,7 +813,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 302,
+    "citations": 303,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1576,7 +1576,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -1735,7 +1735,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -1754,7 +1754,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -2993,7 +2993,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4767,7 +4767,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 490,
+    "citations": 492,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5577,7 +5577,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1193,
+    "citations": 1194,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6087,7 +6087,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -6511,7 +6511,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7363,
+    "citations": 7369,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
