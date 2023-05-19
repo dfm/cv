@@ -28,6 +28,12 @@ JOURNAL_MAP = {
 def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
+
+    # Hack: Handle missing hyphens
+    pub["authors"] = [
+        a.replace("Foreman Mackey", "Foreman-Mackey") for a in pub["authors"]
+    ]
+
     n = [
         i
         for i in range(len(pub["authors"]))
@@ -67,9 +73,7 @@ def format_pub(args):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if pub["citations"] > 1:
-        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(
-            pub["url"], pub["citations"]
-        )
+        fmt += " [\\href{{{0}}}{{{1} citations}}]".format(pub["url"], pub["citations"])
 
     return fmt
 
@@ -121,8 +125,7 @@ if __name__ == "__main__":
     hindex = sum(c >= i for i, c in enumerate(cites))
 
     summary = (
-        "refereed: {1} / first author: {2} / citations: {3:,} / "
-        "h-index: {4} ({0})"
+        "refereed: {1} / first author: {2} / citations: {3:,} / " "h-index: {4} ({0})"
     ).format(date.today(), npapers, nfirst, ncitations, hindex)
     with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
@@ -144,9 +147,7 @@ if __name__ == "__main__":
                 selected.append(doc)
                 break
     selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
-    selected = list(
-        map(format_pub, zip(range(len(selected), 0, -1), selected))
-    )
+    selected = list(map(format_pub, zip(range(len(selected), 0, -1), selected)))
     with open("tex/pubs_select.tex", "w") as f:
         f.write("\n\n".join(selected))
 
