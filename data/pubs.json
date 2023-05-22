@@ -197,7 +197,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -833,7 +833,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 320,
+    "citations": 321,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5597,7 +5597,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1196,
+    "citations": 1197,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6052,7 +6052,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6287,7 +6287,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 213,
+    "citations": 214,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6531,7 +6531,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7385,
+    "citations": 7395,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
