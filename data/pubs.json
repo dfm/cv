@@ -563,7 +563,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -2075,7 +2075,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5834934",
     "page": null,
@@ -2182,7 +2182,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 24,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -2264,6 +2264,51 @@
     "pubdate": "2021-04-15",
     "title": "pymc-devs/aesara:",
     "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4695331W",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Barentsen, Geert",
+      "Hedges, Christina",
+      "Vin{\\'\\i}cius, Z{\\'e}",
+      "Saunders, Nicholas",
+      "Gully",
+      "Lee, Sam",
+      "Rebekah9969",
+      "Bell, Keaton",
+      "Sagear, Sheila",
+      "Smith, Jeff",
+      "Barclay, Tom",
+      "Burke, Colin J.",
+      "KenMighell",
+      "Lerma, Jose A",
+      "Cody, Ann Marie",
+      "Foreman-Mackey, Dan",
+      "Homeier, Derek",
+      "Turtelboom, Emma",
+      "Davies, Guy",
+      "Colman, Isabel",
+      "Zhang, Johnny",
+      "Douglas, Stephanie",
+      "Sundaram, Anand",
+      "Vincello, Brennan",
+      "Daniel",
+      "Higgins00",
+      "Bado, Jero",
+      "Mart{\\'\\i}nez-Palomera, Jorge",
+      "Cui, Kaiming",
+      "Ramos Carvalho, Nuno"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4654522",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-03-31",
+    "title": "lightkurve/lightkurve: Lightkurve v2.0.9",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4654522B",
     "volume": null,
     "year": "2021"
   },
@@ -2460,7 +2505,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 6,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -4506,7 +4551,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 26,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -4576,22 +4621,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2018-07-00",
-    "title": "kplr: Tools for working with Kepler data using Python",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft07027F",
-    "volume": null,
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Luger, Rodrigo",
       "Agol, Eric",
       "Kruse, Ethan",
@@ -4608,6 +4637,22 @@
     "pubdate": "2018-07-00",
     "title": "EVEREST: Tools for de-trending stellar photometry",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft07029L",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2018-07-00",
+    "title": "kplr: Tools for working with Kepler data using Python",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft07027F",
     "volume": null,
     "year": "2018"
   },
@@ -4799,6 +4844,24 @@
     "year": "2017"
   },
   {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 71,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
+    "year": "2017"
+  },
+  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -4829,24 +4892,6 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 71,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -6305,7 +6350,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
