@@ -39,6 +39,23 @@
     "year": "2023"
   },
   {
+    "arxiv": "2305.14220",
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-05-00",
+    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230514220D",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Wong, Kaze W. K.",
@@ -290,7 +307,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,

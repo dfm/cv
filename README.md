@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 94 / first author: 9 / citations: 15,476 / h-index: 43
-(2023-05-25)
+refereed: 94 / first author: 9 / citations: 15,477 / h-index: 43
+(2023-05-26)
 
 ### Refereed publications
 
@@ -111,7 +111,8 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 structure of galactic molecular cloud complexes out to 2.5
 kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
 Royal Astronomical Society, **519**, 228
-([arXiv:2210.03615](http://arxiv.org/abs/2210.03615))
+([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D)\]
 
 Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
 *et al.* (incl. **DFM**), 2023, *[Calibrating Cosmological Simulations
@@ -805,6 +806,10 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
 Classification of Supernovae using Host Galaxy Information and Shallow
 Learning](http://dx.doi.org/10.48550/arXiv.2305.08894)*, ArXiv
 ([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
+
+Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, A Hierarchical
+Bayesian Framework for Inferring the Stellar Obliquity Distribution,
+ArXiv ([arXiv:2305.14220](http://arxiv.org/abs/2305.14220))
 
 Eadie, Gwendolyn M.; Speagle, Joshua S.; Cisewski-Kehe, Jessi;
 **Foreman-Mackey, Daniel**; *et al.*, 2023, *[Practical Guidance for
