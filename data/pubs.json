@@ -1,24 +1,5 @@
 [
   {
-    "arxiv": "2305.00988",
-    "authors": [
-      "Tran, Quang H.",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.00988",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -39,6 +20,25 @@
     "year": "2023"
   },
   {
+    "arxiv": "2305.00988",
+    "authors": [
+      "Tran, Quang H.",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2305.00988",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-05-00",
+    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.14220",
     "authors": [
       "Dong, Jiayin",
@@ -46,7 +46,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2305.14220",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2023-05-00",
@@ -277,25 +277,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.05064",
-    "authors": [
-      "Yahalomi, Daniel A.",
-      "Angus, Ruth",
-      "Spergel, David N.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05064",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
@@ -319,6 +300,25 @@
     "year": "2023"
   },
   {
+    "arxiv": "2302.05064",
+    "authors": [
+      "Yahalomi, Daniel A.",
+      "Angus, Ruth",
+      "Spergel, David N.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.05064",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2211.16461",
     "authors": [
       "Jo, Yongseok",
@@ -332,7 +332,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -850,7 +850,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 325,
+    "citations": 328,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1613,7 +1613,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 18,
+    "citations": 20,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3693,7 +3693,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4463,7 +4463,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -4588,7 +4588,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -4762,7 +4762,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5272,7 +5272,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -5552,7 +5552,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 212,
+    "citations": 213,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -5659,7 +5659,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1198,
+    "citations": 1199,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6095,7 +6095,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 388,
+    "citations": 389,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6123,6 +6123,27 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 104,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
     "year": "2015"
   },
   {
@@ -6156,27 +6177,6 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 104,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -6349,7 +6349,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 213,
+    "citations": 214,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6593,7 +6593,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7396,
+    "citations": 7405,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
