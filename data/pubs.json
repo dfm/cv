@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": "2305.00988",
+    "authors": [
+      "Tran, Quang H.",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2305.00988",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-05-00",
+    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -16,25 +35,6 @@
     "pubdate": "2023-05-00",
     "title": "First Impressions: Early-Time Classification of Supernovae using Host Galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230508894G",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.00988",
-    "authors": [
-      "Tran, Quang H.",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.00988",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
     "volume": null,
     "year": "2023"
   },
@@ -850,7 +850,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 328,
+    "citations": 333,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3481,7 +3481,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3509,7 +3509,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4762,7 +4762,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 127,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -4849,7 +4849,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 493,
+    "citations": 494,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5659,7 +5659,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1199,
+    "citations": 1202,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6593,7 +6593,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7405,
+    "citations": 7411,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

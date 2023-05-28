@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 94 / first author: 9 / citations: 15,499 / h-index: 43
-(2023-05-27)
+refereed: 94 / first author: 9 / citations: 15,514 / h-index: 43
+(2023-05-28)
 
 ### Refereed publications
 
@@ -156,7 +156,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[328
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[333
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -422,14 +422,14 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[76
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[77
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[135
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[136
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -540,7 +540,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[127
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[128
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -563,7 +563,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[493
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[494
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -776,7 +776,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7405
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7411
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -795,17 +795,17 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 <div class="list">
 
 
-Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
-Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
-Classification of Supernovae using Host Galaxy Information and Shallow
-Learning](http://dx.doi.org/10.48550/arXiv.2305.08894)*, ArXiv
-([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
-
 Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
 Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
 a Gaussian Process
 Framework](http://dx.doi.org/10.48550/arXiv.2305.00988)*, ArXiv
 ([arXiv:2305.00988](http://arxiv.org/abs/2305.00988))
+
+Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
+Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
+Classification of Supernovae using Host Galaxy Information and Shallow
+Learning](http://dx.doi.org/10.48550/arXiv.2305.08894)*, ArXiv
+([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
 
 Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
 Bayesian Framework for Inferring the Stellar Obliquity
