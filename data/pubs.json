@@ -850,7 +850,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 335,
+    "citations": 341,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1091,6 +1091,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Casey, Andy",
+      "Ballard, Sarah"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian",
       "Kreidberg, Laura",
@@ -1117,25 +1136,6 @@
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Casey, Andy",
-      "Ballard, Sarah"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
     "volume": "54",
     "year": "2022"
   },
@@ -2123,7 +2123,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3481,7 +3481,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 77,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3693,7 +3693,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -5327,7 +5327,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -5659,7 +5659,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1203,
+    "citations": 1206,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6095,7 +6095,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 390,
+    "citations": 391,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6114,7 +6114,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6349,7 +6349,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 214,
+    "citations": 215,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6438,7 +6438,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 48,
+    "citations": 41,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -6593,7 +6593,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7416,
+    "citations": 7427,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
