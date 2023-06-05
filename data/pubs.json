@@ -76,6 +76,42 @@
   {
     "arxiv": null,
     "authors": [
+      "Gillen, E.",
+      "Briegal, J. T.",
+      "Hodgkin, S. T.",
+      "Foreman-Mackey, D.",
+      "van Leeuwen, F.",
+      "Jackman, J. A. G.",
+      "McCormac, J.",
+      "West, R. G.",
+      "Queloz, D.",
+      "Bayliss, D.",
+      "Goad, M. R.",
+      "Watson, C. A.",
+      "Wheatley, P. J.",
+      "Belardi, C.",
+      "Burleigh, M. R.",
+      "Casewell, S. L.",
+      "Jenkins, J. S.",
+      "Raynard, L.",
+      "Smith, A. M. S.",
+      "Tilbrook, R. H.",
+      "Vines, J. I."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2023-03-00",
+    "title": "VizieR Online Data Catalog: NGTS clusters survey - I. Rotation in Blanco 1 (Gillen+, 2020)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023yCat..74921008G",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Koposov, Sergey",
       "Speagle, Josh",
       "Barbary, Kyle",
@@ -850,7 +886,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 347,
+    "citations": 348,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2590,7 +2626,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 139,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3509,7 +3545,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 136,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6593,7 +6629,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7439,
+    "citations": 7440,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
