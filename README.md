@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 94 / first author: 9 / citations: 15,596 / h-index: 43
-(2023-06-05)
+(2023-06-06)
 
 ### Refereed publications
 
@@ -795,17 +795,17 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 <div class="list">
 
 
-Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
-Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
-a Gaussian Process
-Framework](http://dx.doi.org/10.48550/arXiv.2305.00988)*, ArXiv
-([arXiv:2305.00988](http://arxiv.org/abs/2305.00988))
-
 Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
 Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
 Classification of Supernovae using Host Galaxy Information and Shallow
 Learning](http://dx.doi.org/10.48550/arXiv.2305.08894)*, ArXiv
 ([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
+
+Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
+Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
+a Gaussian Process
+Framework](http://dx.doi.org/10.48550/arXiv.2305.00988)*, ArXiv
+([arXiv:2305.00988](http://arxiv.org/abs/2305.00988))
 
 Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
 Bayesian Framework for Inferring the Stellar Obliquity

@@ -1,24 +1,5 @@
 [
   {
-    "arxiv": "2305.00988",
-    "authors": [
-      "Tran, Quang H.",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.00988",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -35,6 +16,25 @@
     "pubdate": "2023-05-00",
     "title": "First Impressions: Early-Time Classification of Supernovae using Host Galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230508894G",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2305.00988",
+    "authors": [
+      "Tran, Quang H.",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2305.00988",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-05-00",
+    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
     "volume": null,
     "year": "2023"
   },
@@ -2049,6 +2049,32 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Savel, Arjun",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Czekala, Ian",
+      "Price-Whelan, Adrian",
+      "Hedges, Christina",
+      "Emilygilbert",
+      "Bouma, Luke",
+      "Brandt, Timothy D",
+      "Barclay, Tom"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.5006644",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-06-21",
+    "title": "exoplanet-dev/exoplanet: exoplanet v0.5.1rc1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5006644F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -2066,7 +2092,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 93,
+    "citations": 158,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2211,7 +2237,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -2235,7 +2261,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -2399,7 +2425,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 21,
+    "citations": 37,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -3640,7 +3666,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
