@@ -886,7 +886,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 348,
+    "citations": 350,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3571,7 +3571,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 137,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5350,7 +5350,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -5721,7 +5721,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1207,
+    "citations": 1210,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6655,7 +6655,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7440,
+    "citations": 7445,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
