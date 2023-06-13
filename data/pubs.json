@@ -58,24 +58,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Wong, Kaze W. K.",
-      "Gabri{\\'e}, Marylou",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.21105/joss.05021",
-    "page": 5021,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2023-03-00",
-    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
-    "volume": "8",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gillen, E.",
       "Briegal, J. T.",
       "Hodgkin, S. T.",
@@ -107,6 +89,24 @@
     "title": "VizieR Online Data Catalog: NGTS clusters survey - I. Rotation in Blanco 1 (Gillen+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2023yCat..74921008G",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.21105/joss.05021",
+    "page": 5021,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2023-03-00",
+    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
+    "volume": "8",
     "year": "2023"
   },
   {
@@ -2092,7 +2092,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 158,
+    "citations": 94,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2261,7 +2261,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3666,7 +3666,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -5960,7 +5960,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 52,
+    "citations": 71,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6429,7 +6429,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 100,
+    "citations": 166,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6500,7 +6500,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 41,
+    "citations": 48,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
