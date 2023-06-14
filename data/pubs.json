@@ -404,6 +404,22 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2023-01-00",
+    "title": "Open-source software for data analysis in astronomy, and some of the things I've learned along the way",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24145801F",
+    "volume": "55",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Gagliano, Alexander",
       "Contardo, Gabriella",
       "Foreman-Mackey, Daniel",
@@ -418,22 +434,6 @@
     "pubdate": "2023-01-00",
     "title": "A First Impressions Network: Early-Time Supernova Classification using Host Galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24110302G",
-    "volume": "55",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
-    "pubdate": "2023-01-00",
-    "title": "Open-source software for data analysis in astronomy, and some of the things I've learned along the way",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24145801F",
     "volume": "55",
     "year": "2023"
   },
