@@ -250,7 +250,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 26,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -368,7 +368,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -1032,7 +1032,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 20,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -2185,7 +2185,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 96,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2652,7 +2652,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 141,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3280,7 +3280,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 102,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -3337,7 +3337,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 34,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -3518,7 +3518,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 93,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4280,7 +4280,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 178,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4547,7 +4547,7 @@
       "Hogg, David W.",
       "Angus, Ruth"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aadb40",
     "page": 15,
@@ -4650,7 +4650,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 125,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -4844,7 +4844,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 145,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -4860,7 +4860,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 114,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -4911,7 +4911,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 502,
+    "citations": 501,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5389,7 +5389,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 76,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -5417,7 +5417,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -5614,7 +5614,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 215,
+    "citations": 214,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -5721,7 +5721,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1215,
+    "citations": 1219,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5792,7 +5792,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 224,
+    "citations": 225,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -6037,7 +6037,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6157,7 +6157,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 394,
+    "citations": 395,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6210,7 +6210,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 51,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -6411,7 +6411,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 215,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6655,7 +6655,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7481,
+    "citations": 7476,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
