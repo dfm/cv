@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 94 / first author: 9 / citations: 15,693 / h-index: 43
-(2023-06-16)
+(2023-06-17)
 
 ### Refereed publications
 
@@ -514,6 +514,13 @@ Statistical Software, **86**, 1
 ([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[36
 citations](https://scholar.google.com/scholar?cites=789224875040810871)\]
 
+Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
+to Measure Centroids of Spectral
+Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
+the American Astronomical Society, **2**, 173
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[63
+citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
+
 Luger, Rodrigo; Kruse, Ethan; **Foreman-Mackey, Daniel**; Agol, Eric; &
 Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
@@ -521,13 +528,6 @@ Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 Journal, **156**, 99
 ([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[124
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
-
-Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
-to Measure Centroids of Spectral
-Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
-the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[63
-citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
@@ -795,6 +795,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
+*et al.* (incl. **DFM**), 2023, Overfitting Affects the Reliability of
+Radial Velocity Mass Estimates of the V1298 Tau Planets, ArXiv
+([arXiv:2306.08145](http://arxiv.org/abs/2306.08145))
 
 Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
 Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
