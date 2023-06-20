@@ -626,6 +626,28 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Yadav, Sachin",
+      "Theorashid",
+      "Fowlie, Andrew",
+      "Tronsgaard, Ren{\\'e}",
+      "Schmerler, Steve",
+      "Killestein, Thomas"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7269074",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-10-31",
+    "title": "dfm/tinygp: v0.2.3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...7269074F",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Koposov, Sergey",
       "Speagle, Josh",
       "Barbary, Kyle",
@@ -657,7 +679,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -1246,7 +1268,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -1291,7 +1313,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -1330,7 +1352,7 @@
       "Tronsgaard, Ren{\\'e}",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389738",
     "page": null,
@@ -2133,7 +2155,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 94,
+    "citations": 93,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3700,6 +3722,43 @@
   {
     "arxiv": null,
     "authors": [
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Buchner, Johannes",
+      "Cook, Ben",
+      "Guillochon, James",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Abonaca",
+      "Cubillos, Patricio",
+      "Ilya",
+      "Lang, Dustin",
+      "Johnson, Ben",
+      "Jtmendel",
+      "Daylan, Tansu",
+      "Angus, Ruth",
+      "Cargile, Phillip",
+      "Pitkin, Matt",
+      "Leja, Joel",
+      "Goldstein, Danny",
+      "Foreman-Mackey, Dan",
+      "Talbot, Colm",
+      "Deil, Christoph"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3461261",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-09-26",
+    "title": "joshspeagle/dynesty: Version 1.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...3461261S",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Dan",
       "Czekala, Ian",
       "Agol, Eric",
@@ -4238,7 +4297,7 @@
       "Czekala, Ian",
       "Casey, Andy"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.2650526",
     "page": null,
@@ -4671,7 +4730,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6001,7 +6060,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 71,
+    "citations": 52,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6470,7 +6529,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 166,
+    "citations": 167,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
