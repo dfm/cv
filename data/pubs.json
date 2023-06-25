@@ -291,7 +291,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 29,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -445,22 +445,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
-    "pubdate": "2023-01-00",
-    "title": "Open-source software for data analysis in astronomy, and some of the things I've learned along the way",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24145801F",
-    "volume": "55",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gagliano, Alexander",
       "Contardo, Gabriella",
       "Foreman-Mackey, Daniel",
@@ -475,6 +459,22 @@
     "pubdate": "2023-01-00",
     "title": "A First Impressions Network: Early-Time Supernova Classification using Host Galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24110302G",
+    "volume": "55",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts",
+    "pubdate": "2023-01-00",
+    "title": "Open-source software for data analysis in astronomy, and some of the things I've learned along the way",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24145801F",
     "volume": "55",
     "year": "2023"
   },
@@ -949,7 +949,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 382,
+    "citations": 388,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2665,7 +2665,7 @@
       "Gilbertson, Christian",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/staa3887",
     "page": 4798,
@@ -2715,7 +2715,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4406,7 +4406,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 141,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5397,7 +5397,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 245,
+    "citations": 246,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5821,7 +5821,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1226,
+    "citations": 1228,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6257,7 +6257,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 395,
+    "citations": 396,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6736,7 +6736,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 36,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -6755,7 +6755,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7506,
+    "citations": 7516,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
