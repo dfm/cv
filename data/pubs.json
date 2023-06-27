@@ -41,7 +41,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2305.00988",
     "authors": [
       "Tran, Quang H.",
       "Bedell, Megan",
@@ -76,25 +76,6 @@
     "pubdate": "2023-05-00",
     "title": "First Impressions: Early-Time Classification of Supernovae using Host Galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230508894G",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.00988",
-    "authors": [
-      "Tran, Quang H.",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.00988",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230500988T",
     "volume": null,
     "year": "2023"
   },
@@ -1399,7 +1380,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6325733",
     "page": null,
@@ -2174,7 +2155,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2343,7 +2324,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -2558,7 +2539,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.4604868",
     "page": null,
@@ -3764,7 +3745,7 @@
       "Talbot, Colm",
       "Deil, Christoph"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3461261",
     "page": null,
@@ -4749,7 +4730,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6548,7 +6529,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 167,
+    "citations": 103,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6567,7 +6548,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -6619,7 +6600,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 42,
+    "citations": 49,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,

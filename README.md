@@ -54,7 +54,7 @@ stars / 37 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1327 stars / 428 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1328 stars / 428 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -68,7 +68,7 @@ Make some beautiful corner plots
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 655 stars / 117 forks  
+[**daft**](https://github.com/daft-dev/daft) — 656 stars / 117 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 95 / first author: 9 / citations: 15,814 / h-index: 43
-(2023-06-26)
+(2023-06-27)
 
 ### Refereed publications
 
@@ -89,6 +89,7 @@ Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
 a Gaussian Process
 Framework](http://dx.doi.org/10.3847/1538-4357/acd05c)*, The
 Astrophysical Journal, **950**, 162
+([arXiv:2305.00988](http://arxiv.org/abs/2305.00988))
 
 Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2023,
 *[flowMC: Normalizing flow enhanced sampling package for probabilistic
@@ -813,12 +814,6 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
 Classification of Supernovae using Host Galaxy Information and Shallow
 Learning](http://dx.doi.org/10.48550/arXiv.2305.08894)*, ArXiv
 ([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
-
-Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
-Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
-a Gaussian Process
-Framework](http://dx.doi.org/10.48550/arXiv.2305.00988)*, ArXiv
-([arXiv:2305.00988](http://arxiv.org/abs/2305.00988))
 
 Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
 Bayesian Framework for Inferring the Stellar Obliquity
