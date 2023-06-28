@@ -55,9 +55,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 213,
+              "forkCount": 214,
               "stargazers": {
-                "totalCount": 437
+                "totalCount": 438
               },
               "watchers": {
                 "totalCount": 19
@@ -72,7 +72,7 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 50,
               "stargazers": {
-                "totalCount": 185
+                "totalCount": 186
               },
               "watchers": {
                 "totalCount": 18
