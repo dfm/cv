@@ -41,7 +41,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2305.00988",
     "authors": [
       "Tran, Quang H.",
       "Bedell, Megan",
@@ -99,6 +99,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.21105/joss.05021",
+    "page": 5021,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2023-03-00",
+    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
+    "volume": "8",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Gillen, E.",
       "Briegal, J. T.",
       "Hodgkin, S. T.",
@@ -130,24 +148,6 @@
     "title": "VizieR Online Data Catalog: NGTS clusters survey - I. Rotation in Blanco 1 (Gillen+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2023yCat..74921008G",
     "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Wong, Kaze W. K.",
-      "Gabri{\\'e}, Marylou",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.21105/joss.05021",
-    "page": 5021,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2023-03-00",
-    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
-    "volume": "8",
     "year": "2023"
   },
   {
@@ -196,7 +196,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2211.10488",
     "authors": [
       "Alderson, Lili",
       "Wakeford, Hannah R.",
@@ -303,7 +303,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2301.03209",
     "authors": [
       "Mikal-Evans, Thomas",
       "Sing, David K.",
@@ -319,7 +319,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -354,7 +354,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
       "Bailer-Jones, C. A. L.",
@@ -396,7 +396,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2211.16461",
     "authors": [
       "Jo, Yongseok",
       "Genel, Shy",
@@ -554,7 +554,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2201.04197",
     "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian J. M.",
@@ -574,7 +574,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -586,7 +586,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2204.06449",
     "authors": [
       "Nagaraj, Gautam",
       "Forbes, John C.",
@@ -612,7 +612,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2211.06397",
     "page": null,
@@ -691,7 +691,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2209.02725",
     "authors": [
       "Eilers, Anna-Christina",
       "Hogg, David W.",
@@ -712,7 +712,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2210.11180",
     "authors": [
       "Farrell, Eoin",
       "Jermyn, Adam S.",
@@ -757,7 +757,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 12,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2209.08940",
     "page": null,
@@ -809,7 +809,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2206.14220",
     "authors": [
       "Astropy Collaboration",
       "Price-Whelan, Adrian M.",
@@ -949,7 +949,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 395,
+    "citations": 393,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -961,7 +961,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2205.08901",
     "authors": [
       "Angus, Ruth",
       "Price-Whelan, Adrian M.",
@@ -982,7 +982,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2103.06275",
     "authors": [
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -1072,7 +1072,7 @@
       "Gerner, Lyn E.",
       "Burch, Timothy M."
     ],
-    "citations": 9,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ac74c4",
     "page": 111,
@@ -1084,7 +1084,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2106.15063",
     "authors": [
       "Hattori, Soichiro",
       "Foreman-Mackey, Daniel",
@@ -1107,7 +1107,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
       "David, Trevor J.",
@@ -1147,7 +1147,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
       "Forbes, John C.",
@@ -1190,6 +1190,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Casey, Andy",
+      "Ballard, Sarah"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian",
       "Kreidberg, Laura",
@@ -1216,25 +1235,6 @@
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Casey, Andy",
-      "Ballard, Sarah"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
     "volume": "54",
     "year": "2022"
   },
@@ -1325,7 +1325,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2202.04686",
     "authors": [
       "Hitchcock, J. A.",
       "Bramich, D. M.",
@@ -1420,7 +1420,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
       "Luger, Rodrigo",
@@ -1458,7 +1458,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2111.06672",
     "authors": [
       "Dharmawardena, T. E.",
       "Bailer-Jones, C. A. L.",
@@ -1496,7 +1496,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2111.08660",
     "authors": [
       "Feinstein, Adina D.",
       "David, Trevor J.",
@@ -1517,7 +1517,7 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2101.02707",
     "authors": [
       "Martin, David V.",
       "El-Badry, Kareem",
@@ -1616,7 +1616,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, V.",
       "Astudillo-Defru, N.",
@@ -1712,7 +1712,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 33,
+    "citations": 21,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -1724,7 +1724,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2107.14015",
     "authors": [
       "Gan, Tianjun",
       "Bedell, Megan",
@@ -1865,7 +1865,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2102.01697",
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -1883,7 +1883,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -1913,7 +1913,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -1976,7 +1976,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.01970",
     "authors": [
       "Dong, Jiayin",
       "Huang, Chelsea X.",
@@ -2051,7 +2051,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2102.01774",
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -2069,7 +2069,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2104.13715",
     "authors": [
       "Hitchcock, James A.",
       "Hundertmark, Markus",
@@ -2229,7 +2229,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo",
@@ -2260,7 +2260,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2011.09894",
     "authors": [
       "David, Trevor J.",
       "Contardo, Gabriella",
@@ -2336,7 +2336,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2101.07886",
     "authors": [
       "Gordon, Tyler A.",
       "Davenport, James R. A.",
@@ -2659,7 +2659,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2009.11831",
     "authors": [
       "Tamayo, Daniel",
       "Gilbertson, Christian",
@@ -2677,7 +2677,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2010.01074",
     "authors": [
       "Agol, Eric",
       "Dorn, Caroline",
@@ -2715,7 +2715,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 145,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -2727,7 +2727,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2102.00044",
     "authors": [
       "Hedges, Christina",
       "Luger, Rodrigo",
@@ -2747,7 +2747,7 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
+    "arxiv": "2007.05799",
     "authors": [
       "Gordon, Tyler A.",
       "Agol, Eric",
@@ -2837,7 +2837,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.16280",
     "authors": [
       "Villaume, Alexa",
       "Foreman-Mackey, Daniel",
@@ -2857,7 +2857,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2005.09387",
     "authors": [
       "Angus, Ruth",
       "Beane, Angus",
@@ -3078,7 +3078,7 @@
       "Pope, Benjamin",
       "Hogg, David"
     ],
-    "citations": 6,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.21105/joss.02125",
     "page": 2125,
@@ -3110,7 +3110,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2006.13248",
     "authors": [
       "Plavchan, Peter",
       "Barclay, Thomas",
@@ -3292,7 +3292,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "2003.02379",
     "authors": [
       "Hey, Daniel R.",
       "Murphy, Simon J.",
@@ -3337,7 +3337,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1908.03222",
     "authors": [
       "Agol, Eric",
       "Luger, Rodrigo",
@@ -3376,7 +3376,7 @@
     "year": "2020"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.09705",
     "authors": [
       "Gillen, Edward",
       "Briegal, Joshua T.",
@@ -3571,7 +3571,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1910.04563",
     "authors": [
       "David, Trevor J.",
       "Petigura, Erik A.",
@@ -3593,7 +3593,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1908.07528",
     "authors": [
       "Angus, Ruth",
       "Morton, Timothy D.",
@@ -3618,7 +3618,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.07688",
     "authors": [
       "Foreman-Mackey, Daniel",
       "Farr, Will",
@@ -3664,7 +3664,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1901.00503",
     "authors": [
       "Bedell, Megan",
       "Hogg, David W.",
@@ -3688,7 +3688,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 10,
+    "citations": 5,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -3822,7 +3822,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1903.09152",
     "authors": [
       "Feinstein, Adina D.",
       "Montet, Benjamin T.",
@@ -3836,7 +3836,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 158,
+    "citations": 157,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3848,7 +3848,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.10806",
     "authors": [
       "Kruse, Ethan",
       "Agol, Eric",
@@ -4004,7 +4004,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 20,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -4037,7 +4037,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1903.08017",
     "authors": [
       "Kostov, Veselin B.",
       "Schlieder, Joshua E.",
@@ -4184,7 +4184,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1903.06796",
     "authors": [
       "Siemiginowska, Aneta",
       "Eadie, Gwendolyn",
@@ -4241,7 +4241,7 @@
     ],
     "citations": 5,
     "doctype": "article",
-    "doi": null,
+    "doi": "10.48550/arXiv.1903.06796",
     "page": 355,
     "pub": "Bulletin of the American Astronomical Society",
     "pubdate": "2019-05-00",
@@ -4323,7 +4323,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jose Vinicius de Miranda"
     ],
-    "citations": 4,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4371,7 +4371,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1810.06559",
     "authors": [
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -4392,7 +4392,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1807.00549",
     "authors": [
       "Van Eylen, Vincent",
       "Albrecht, Simon",
@@ -4440,7 +4440,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4618,7 +4618,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1810.10009",
     "authors": [
       "Brewer, John M.",
       "Wang, Songhu",
@@ -4637,7 +4637,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1805.04519",
     "authors": [
       "Ness, Melissa K.",
       "Silva Aguirre, Victor",
@@ -4668,7 +4668,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 7,
+    "citations": 4,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4742,7 +4742,24 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1809.10295",
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 68,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aae265",
+    "page": 173,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2018-09-00",
+    "title": "A Robust Method to Measure Centroids of Spectral Lines",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
+    "volume": "2",
+    "year": "2018"
+  },
+  {
+    "arxiv": "1702.05488",
     "authors": [
       "Luger, Rodrigo",
       "Kruse, Ethan",
@@ -4759,23 +4776,6 @@
     "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
     "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
     "volume": "156",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 64,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/aae265",
-    "page": 173,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2018-09-00",
-    "title": "A Robust Method to Measure Centroids of Spectral Lines",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
-    "volume": "2",
     "year": "2018"
   },
   {
@@ -4802,7 +4802,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4824,7 +4824,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -4899,7 +4899,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1805.10290",
     "authors": [
       "Teague, Richard",
       "Bae, Jaehan",
@@ -4919,7 +4919,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1710.06068",
     "authors": [
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
@@ -4936,7 +4936,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1706.05459",
     "authors": [
       "Angus, Ruth",
       "Morton, Timothy",
@@ -4956,7 +4956,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1801.10156",
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
@@ -5004,7 +5004,7 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
+    "arxiv": "1703.09710",
     "authors": [
       "Foreman-Mackey, Daniel",
       "Agol, Eric",
@@ -5023,7 +5023,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
       "Huber, Daniel",
@@ -5056,13 +5056,13 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1705.07928",
     "authors": [
       "Montet, Benjamin T.",
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 74,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -5074,7 +5074,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1710.11136",
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -5123,7 +5123,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 19,
+    "citations": 11,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1710.02428",
     "page": null,
@@ -5142,7 +5142,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 40,
+    "citations": 24,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -5159,7 +5159,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 34,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -5361,7 +5361,7 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1703.04166",
     "authors": [
       "Luger, Rodrigo",
       "Sestovic, Marko",
@@ -5427,14 +5427,14 @@
     "year": "2017"
   },
   {
-    "arxiv": null,
+    "arxiv": "1610.07602",
     "authors": [
       "Price-Whelan, Adrian M.",
       "Hogg, David W.",
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 93,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -5450,7 +5450,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 12,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -5489,7 +5489,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 138,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -5517,7 +5517,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 128,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -5658,7 +5658,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 102,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -5714,7 +5714,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 391,
+    "citations": 215,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -5751,7 +5751,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 43,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -5783,7 +5783,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 98,
+    "citations": 60,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1608.06919",
     "page": null,
@@ -5805,7 +5805,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 16,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -5821,7 +5821,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2162,
+    "citations": 1230,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -5892,7 +5892,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 380,
+    "citations": 225,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -5909,7 +5909,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 43,
+    "citations": 24,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1606.03757",
     "page": null,
@@ -5943,7 +5943,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 26,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -6060,7 +6060,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 66,
+    "citations": 37,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6078,7 +6078,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 47,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -6113,7 +6113,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 19,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -6137,7 +6137,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 216,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6160,7 +6160,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 57,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -6178,7 +6178,7 @@
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "abstract",
     "doi": null,
     "page": 2258352,
@@ -6186,24 +6186,6 @@
     "pubdate": "2015-08-00",
     "title": "The search for single exoplanet transits in the Kepler light curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258352F",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258396,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "Probabilistic stellar rotation periods with Gaussian processes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
     "volume": "29",
     "year": "2015"
   },
@@ -6234,6 +6216,24 @@
     "arxiv": null,
     "authors": [
       "Angus, Ruth",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258396,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "Probabilistic stellar rotation periods with Gaussian processes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
       "Johnson, John",
       "Foreman-Mackey, Daniel"
     ],
@@ -6257,7 +6257,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 647,
+    "citations": 397,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6276,7 +6276,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 254,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6285,27 +6285,6 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 189,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
     "year": "2015"
   },
   {
@@ -6331,7 +6310,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 93,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -6339,6 +6318,27 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 104,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -6376,7 +6376,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 113,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -6511,7 +6511,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 381,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6577,7 +6577,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 129,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -6600,7 +6600,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 76,
+    "citations": 42,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -6639,7 +6639,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 7,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,
@@ -6664,7 +6664,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 92,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -6673,33 +6673,6 @@
     "title": "A New Approach to Detailed Structural Decomposition from the SPLASH and PHAT Surveys: Kicked-up Disk Stars in the Andromeda Galaxy?",
     "url": "https://ui.adsabs.harvard.edu/abs/2013ApJ...779..103D",
     "volume": "779",
-    "year": "2013"
-  },
-  {
-    "arxiv": "1309.0653",
-    "authors": [
-      "Hogg, David W.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Lang, Dustin",
-      "Montet, Benjamin T.",
-      "Schiminovich, David",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1309.0653",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
-    "volume": null,
     "year": "2013"
   },
   {
@@ -6730,13 +6703,40 @@
     "year": "2013"
   },
   {
+    "arxiv": "1309.0653",
+    "authors": [
+      "Hogg, David W.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Lang, Dustin",
+      "Montet, Benjamin T.",
+      "Schiminovich, David",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.1309.0653",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
+    "volume": null,
+    "year": "2013"
+  },
+  {
     "arxiv": "1211.5805",
     "authors": [
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 66,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1088/0004-6256/146/1/7",
     "page": 7,
@@ -6755,7 +6755,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 13432,
+    "citations": 7530,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -6779,7 +6779,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 149,
+    "citations": 86,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -6810,7 +6810,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 60,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
