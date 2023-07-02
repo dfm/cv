@@ -29,7 +29,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2306.08145",
     "page": null,
@@ -757,7 +757,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2209.08940",
     "page": null,
@@ -949,7 +949,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 393,
+    "citations": 401,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1147,26 +1147,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 12,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -1188,22 +1168,23 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
+    "arxiv": "2202.05102",
     "authors": [
-      "Chance, Quadry",
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
       "Foreman-Mackey, Daniel",
-      "Casey, Andy",
-      "Ballard, Sarah"
+      "Hayward, Christopher C."
     ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
+    "citations": 12,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
     "pubdate": "2022-06-00",
-    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
-    "volume": "54",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -1235,6 +1216,25 @@
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Casey, Andy",
+      "Ballard, Sarah"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
     "volume": "54",
     "year": "2022"
   },
@@ -2248,7 +2248,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3200,7 +3200,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 133,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4380,7 +4380,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 178,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4406,7 +4406,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4625,7 +4625,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -4960,7 +4960,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5489,7 +5489,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -5821,7 +5821,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1230,
+    "citations": 1234,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6257,7 +6257,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 397,
+    "citations": 398,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6755,7 +6755,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7530,
+    "citations": 7536,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
