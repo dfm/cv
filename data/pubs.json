@@ -949,7 +949,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 407,
+    "citations": 402,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1268,7 +1268,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -1712,7 +1712,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2155,7 +2155,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2798,7 +2798,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -3766,7 +3766,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 9,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -5821,7 +5821,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1235,
+    "citations": 1234,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6060,7 +6060,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 37,
+    "citations": 52,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6310,7 +6310,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 51,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -6600,7 +6600,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 42,
+    "citations": 49,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -6755,7 +6755,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7543,
+    "citations": 7538,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
