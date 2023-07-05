@@ -12,7 +12,7 @@
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 19,
               "stargazers": {
-                "totalCount": 223
+                "totalCount": 225
               },
               "watchers": {
                 "totalCount": 8
@@ -27,7 +27,7 @@
               "homepageUrl": "https://show-your.work",
               "forkCount": 37,
               "stargazers": {
-                "totalCount": 453
+                "totalCount": 454
               },
               "watchers": {
                 "totalCount": 5
@@ -40,9 +40,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 427,
+              "forkCount": 428,
               "stargazers": {
-                "totalCount": 1331
+                "totalCount": 1332
               },
               "watchers": {
                 "totalCount": 88
