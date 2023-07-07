@@ -25,7 +25,7 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 37,
+              "forkCount": 38,
               "stargazers": {
                 "totalCount": 454
               },
@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 428,
               "stargazers": {
-                "totalCount": 1333
+                "totalCount": 1334
               },
               "watchers": {
                 "totalCount": 88
