@@ -1,24 +1,5 @@
 [
   {
-    "arxiv": "2305.00988",
-    "authors": [
-      "Tran, Quang H.",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/acd05c",
-    "page": 162,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2023-06-00",
-    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...950..162T",
-    "volume": "950",
-    "year": "2023"
-  },
-  {
     "arxiv": "2306.08145",
     "authors": [
       "Blunt, Sarah",
@@ -57,6 +38,25 @@
     "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230608145B",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2305.00988",
+    "authors": [
+      "Tran, Quang H.",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/acd05c",
+    "page": 162,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2023-06-00",
+    "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...950..162T",
+    "volume": "950",
     "year": "2023"
   },
   {
@@ -6755,7 +6755,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7550,
+    "citations": 7548,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
