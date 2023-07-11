@@ -291,7 +291,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -512,7 +512,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -752,6 +752,30 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Byler, Nell",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7113363",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-09-26",
+    "title": "dfm/python-fsps: python-fsps v0.4.2rc1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...7113363J",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2209.08940",
     "authors": [
       "Aigrain, Suzanne",
@@ -949,7 +973,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 408,
+    "citations": 413,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1712,7 +1736,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2155,7 +2179,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2248,7 +2272,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2274,7 +2298,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -2647,7 +2671,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 10,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -3343,7 +3367,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4380,7 +4404,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 179,
+    "citations": 180,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4907,7 +4931,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 214,
+    "citations": 215,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -4960,7 +4984,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 113,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5011,7 +5035,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 508,
+    "citations": 510,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5159,7 +5183,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -5517,7 +5541,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -6755,7 +6779,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7548,
+    "citations": 7558,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
