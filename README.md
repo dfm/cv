@@ -68,7 +68,7 @@ Make some beautiful corner plots
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 656 stars / 118 forks  
+[**daft**](https://github.com/daft-dev/daft) — 657 stars / 118 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 95 / first author: 9 / citations: 15,889 / h-index: 43
-(2023-07-11)
+(2023-07-12)
 
 ### Refereed publications
 
