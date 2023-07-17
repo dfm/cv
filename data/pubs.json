@@ -781,7 +781,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2209.08940",
     "page": null,
@@ -1736,7 +1736,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2739,7 +2739,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 147,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5738,7 +5738,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 217,
+    "citations": 218,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -5775,7 +5775,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -5845,7 +5845,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1247,
+    "citations": 1248,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6779,7 +6779,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7586,
+    "citations": 7589,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
