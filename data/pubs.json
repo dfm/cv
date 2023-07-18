@@ -679,7 +679,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -1058,7 +1058,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1337,7 +1337,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -2179,7 +2179,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 96,
+    "citations": 97,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2348,7 +2348,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 17,
+    "citations": 28,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -2671,7 +2671,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 6,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -4754,7 +4754,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -5845,7 +5845,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1248,
+    "citations": 1247,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6084,7 +6084,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 53,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6553,7 +6553,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6779,7 +6779,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7589,
+    "citations": 7587,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
