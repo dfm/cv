@@ -54,11 +54,11 @@ stars / 38 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1339 stars / 427 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1340 stars / 427 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 441 stars / 214
+[**corner.py**](https://github.com/dfm/corner.py) — 442 stars / 214
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 95 / first author: 9 / citations: 15,977 / h-index: 43
-(2023-07-18)
+(2023-07-19)
 
 ### Refereed publications
 
