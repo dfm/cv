@@ -27,7 +27,7 @@
               "homepageUrl": "https://show-your.work",
               "forkCount": 38,
               "stargazers": {
-                "totalCount": 459
+                "totalCount": 460
               },
               "watchers": {
                 "totalCount": 5
@@ -55,7 +55,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 214,
+              "forkCount": 215,
               "stargazers": {
                 "totalCount": 442
               },
@@ -70,7 +70,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 50,
+              "forkCount": 49,
               "stargazers": {
                 "totalCount": 187
               },
