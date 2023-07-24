@@ -1,5 +1,46 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Blunt, Sarah",
+      "Carvalho, Adolfo",
+      "David, Trevor J.",
+      "Beichman, Charles",
+      "Zink, Jon K.",
+      "Gaidos, Eric",
+      "Behmard, Aida",
+      "Bouma, Luke G.",
+      "Cody, Devin",
+      "Dai, Fei",
+      "Foreman-Mackey, Daniel",
+      "Grunblatt, Sam",
+      "Howard, Andrew W.",
+      "Kosiarek, Molly",
+      "Knutson, Heather A.",
+      "Rubenzahl, Ryan A.",
+      "Beard, Corey",
+      "Chontos, Ashley",
+      "Giacalone, Steven",
+      "Hirano, Teruyuki",
+      "Johnson, Marshall C.",
+      "Lubin, Jack",
+      "Akana Murphy, Joseph M.",
+      "Petigura, Erik A.",
+      "Van Zandt, Judah",
+      "Weiss, Lauren"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/acde78",
+    "page": 62,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-08-00",
+    "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166...62B",
+    "volume": "166",
+    "year": "2023"
+  },
+  {
     "arxiv": "2306.08145",
     "authors": [
       "Blunt, Sarah",
@@ -781,7 +822,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2209.08940",
     "page": null,
@@ -973,7 +1014,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 450,
+    "citations": 456,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -994,7 +1035,7 @@
       "Lu, Yuxi (Lucy)",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6fea",
     "page": 25,
@@ -1136,7 +1177,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -1529,7 +1570,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -1583,7 +1624,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -1715,7 +1756,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2272,7 +2313,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 98,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3224,7 +3265,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 137,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3605,7 +3646,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 97,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4430,7 +4471,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 143,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5035,7 +5076,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 515,
+    "citations": 517,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6281,7 +6322,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 400,
+    "citations": 401,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6688,7 +6729,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1088/0004-637X/779/2/103",
     "page": 103,
@@ -6779,7 +6820,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7618,
+    "citations": 7626,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
