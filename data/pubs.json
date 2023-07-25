@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2306.08145",
     "authors": [
       "Blunt, Sarah",
       "Carvalho, Adolfo",
@@ -38,47 +38,6 @@
     "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166...62B",
     "volume": "166",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2306.08145",
-    "authors": [
-      "Blunt, Sarah",
-      "Carvalho, Adolfo",
-      "David, Trevor J.",
-      "Beichman, Charles",
-      "Zink, Jon K.",
-      "Gaidos, Eric",
-      "Behmard, Aida",
-      "Bouma, Luke G.",
-      "Cody, Devin",
-      "Dai, Fei",
-      "Foreman-Mackey, Daniel",
-      "Grunblatt, Sam",
-      "Howard, Andrew W.",
-      "Kosiarek, Molly",
-      "Knutson, Heather A.",
-      "Rubenzahl, Ryan A.",
-      "Beard, Corey",
-      "Chontos, Ashley",
-      "Giacalone, Steven",
-      "Hirano, Teruyuki",
-      "Johnson, Marshall C.",
-      "Lubin, Jack",
-      "Akana Murphy, Joseph M.",
-      "Petigura, Erik A",
-      "Van Zandt, Judah",
-      "Weiss, Lauren"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2306.08145",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-06-00",
-    "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230608145B",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -225,7 +184,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -675,7 +634,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -2220,7 +2179,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2863,7 +2822,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 29,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -4795,7 +4754,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 19,
+    "citations": 31,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6008,7 +5967,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 15,
+    "citations": 26,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -6125,7 +6084,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 53,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6594,7 +6553,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 104,
+    "citations": 171,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6665,7 +6624,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 42,
+    "citations": 75,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,

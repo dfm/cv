@@ -58,12 +58,12 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 442 stars / 215
+[**corner.py**](https://github.com/dfm/corner.py) — 442 stars / 216
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 187 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 188 stars
 / 49 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 96 / first author: 9 / citations: 16,088 / h-index: 43
-(2023-07-24)
+refereed: 96 / first author: 9 / citations: 16,087 / h-index: 43
+(2023-07-25)
 
 ### Refereed publications
 
@@ -89,6 +89,7 @@ Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
 Radial Velocity Mass Estimates of the V1298 Tau
 Planets](http://dx.doi.org/10.3847/1538-3881/acde78)*, The Astronomical
 Journal, **166**, 62
+([arXiv:2306.08145](http://arxiv.org/abs/2306.08145))
 
 Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
 Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
@@ -809,12 +810,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
-*et al.* (incl. **DFM**), 2023, *[Overfitting Affects the Reliability of
-Radial Velocity Mass Estimates of the V1298 Tau
-Planets](http://dx.doi.org/10.48550/arXiv.2306.08145)*, ArXiv
-([arXiv:2306.08145](http://arxiv.org/abs/2306.08145))
 
 Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
 Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
