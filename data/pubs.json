@@ -60,6 +60,47 @@
     "year": "2023"
   },
   {
+    "arxiv": "2306.08145",
+    "authors": [
+      "Blunt, Sarah",
+      "Carvalho, Adolfo",
+      "David, Trevor J.",
+      "Beichman, Charles",
+      "Zink, Jon K.",
+      "Gaidos, Eric",
+      "Behmard, Aida",
+      "Bouma, Luke G.",
+      "Cody, Devin",
+      "Dai, Fei",
+      "Foreman-Mackey, Daniel",
+      "Grunblatt, Sam",
+      "Howard, Andrew W.",
+      "Kosiarek, Molly",
+      "Knutson, Heather A.",
+      "Rubenzahl, Ryan A.",
+      "Beard, Corey",
+      "Chontos, Ashley",
+      "Giacalone, Steven",
+      "Hirano, Teruyuki",
+      "Johnson, Marshall C.",
+      "Lubin, Jack",
+      "Akana Murphy, Joseph M.",
+      "Petigura, Erik A",
+      "Van Zandt, Judah",
+      "Weiss, Lauren"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2306.08145",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-06-00",
+    "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230608145B",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -700,7 +741,7 @@
       "Davies, Frederick B.",
       "Schindler, Jan-Torge"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac8ead",
     "page": 17,
@@ -973,7 +1014,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 451,
+    "citations": 455,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1895,7 +1936,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -1914,7 +1955,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -2272,7 +2313,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4404,7 +4445,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4766,6 +4807,23 @@
     "year": "2018"
   },
   {
+    "arxiv": "1809.10295",
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 69,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aae265",
+    "page": 173,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2018-09-00",
+    "title": "A Robust Method to Measure Centroids of Spectral Lines",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
+    "volume": "2",
+    "year": "2018"
+  },
+  {
     "arxiv": "1702.05488",
     "authors": [
       "Luger, Rodrigo",
@@ -4783,23 +4841,6 @@
     "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
     "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
     "volume": "156",
-    "year": "2018"
-  },
-  {
-    "arxiv": "1809.10295",
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 69,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/aae265",
-    "page": 173,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2018-09-00",
-    "title": "A Robust Method to Measure Centroids of Spectral Lines",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
-    "volume": "2",
     "year": "2018"
   },
   {
@@ -4931,7 +4972,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 215,
+    "citations": 216,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5421,7 +5462,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 247,
+    "citations": 248,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6300,7 +6341,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 144,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6779,7 +6820,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7621,
+    "citations": 7624,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
