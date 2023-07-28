@@ -60,47 +60,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2306.08145",
-    "authors": [
-      "Blunt, Sarah",
-      "Carvalho, Adolfo",
-      "David, Trevor J.",
-      "Beichman, Charles",
-      "Zink, Jon K.",
-      "Gaidos, Eric",
-      "Behmard, Aida",
-      "Bouma, Luke G.",
-      "Cody, Devin",
-      "Dai, Fei",
-      "Foreman-Mackey, Daniel",
-      "Grunblatt, Sam",
-      "Howard, Andrew W.",
-      "Kosiarek, Molly",
-      "Knutson, Heather A.",
-      "Rubenzahl, Ryan A.",
-      "Beard, Corey",
-      "Chontos, Ashley",
-      "Giacalone, Steven",
-      "Hirano, Teruyuki",
-      "Johnson, Marshall C.",
-      "Lubin, Jack",
-      "Akana Murphy, Joseph M.",
-      "Petigura, Erik A",
-      "Van Zandt, Judah",
-      "Weiss, Lauren"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2306.08145",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-06-00",
-    "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230608145B",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -360,7 +319,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -450,7 +409,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -1014,7 +973,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 455,
+    "citations": 457,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1756,7 +1715,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2780,7 +2739,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 149,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3699,7 +3658,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 141,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3901,7 +3860,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 160,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4471,7 +4430,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 144,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4690,7 +4649,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -5886,7 +5845,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1254,
+    "citations": 1256,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6322,7 +6281,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 401,
+    "citations": 402,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6820,7 +6779,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7624,
+    "citations": 7632,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
