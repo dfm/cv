@@ -431,7 +431,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.05329",
     "page": null,
@@ -973,7 +973,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 457,
+    "citations": 460,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1736,7 +1736,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3224,7 +3224,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 138,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3630,7 +3630,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 81,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4430,7 +4430,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5513,7 +5513,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -5845,7 +5845,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1256,
+    "citations": 1257,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6779,7 +6779,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7631,
+    "citations": 7638,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
