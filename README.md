@@ -45,16 +45,16 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 228 stars / 19 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 230 stars / 19 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 462
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 465
 stars / 37 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1346 stars / 426 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1348 stars / 426 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 96 / first author: 9 / citations: 16,207 / h-index: 43
-(2023-08-12)
+refereed: 96 / first author: 9 / citations: 16,228 / h-index: 43
+(2023-08-13)
 
 ### Refereed publications
 
@@ -171,7 +171,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[488
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[494
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -186,7 +186,7 @@ Daniel**, 2022, *[Analytic Light Curves in Reflected Light: Phase
 Curves, Occultations, and Non-Lambertian Scattering for Spherical
 Planets and Moons](http://dx.doi.org/10.3847/1538-3881/ac4017)*, The
 Astronomical Journal, **164**, 4
-([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[6
+([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L)\]
 
 Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
@@ -452,7 +452,7 @@ Benjamin T.; & Luger, Rodrigo, 2019, *[WOBBLE: A Data-driven Analysis
 Technique for Time-series Stellar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ab40a7)*, The Astronomical
 Journal, **158**, 164
-([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[36
+([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..164B)\]
 
 Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
@@ -474,7 +474,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
 *[stardate: Combining dating methods for better stellar
 ages](http://dx.doi.org/10.21105/joss.01469)*, The Journal of Open
-Source Software, **4**, 1469 \[[11
+Source Software, **4**, 1469 \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A)\]
 
 Kostov, Veselin B.; Schlieder, Joshua E.; Barclay, Thomas; Quintana,
@@ -578,16 +578,8 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[519
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[521
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
-
-Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
-*et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
-Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
-Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
-Journal, **154**, 254
-([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[58
-citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
 2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
@@ -596,6 +588,14 @@ Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
 Journal, **851**, 116
 ([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[73
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
+
+Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
+*et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
+Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
+Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
+Journal, **154**, 254
+([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[58
+citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
 *[Linear Models for Systematics and
@@ -674,7 +674,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[228
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[229
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -791,7 +791,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7679
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7688
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
