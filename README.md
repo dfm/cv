@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 230 stars / 19 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 232 stars / 19 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 96 / first author: 9 / citations: 16,228 / h-index: 43
-(2023-08-13)
+refereed: 96 / first author: 9 / citations: 16,245 / h-index: 43
+(2023-08-14)
 
 ### Refereed publications
 
@@ -171,7 +171,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[494
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[498
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -261,7 +261,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[53
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -468,7 +468,7 @@ Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
 Binaries in K2 Campaigns
 0-8](http://dx.doi.org/10.3847/1538-4365/ab346b)*, The Astrophysical
 Journal Supplement Series, **244**, 11
-([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[48
+([arXiv:1907.10806](http://arxiv.org/abs/1907.10806)) \[[49
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K)\]
 
 Angus, Ruth; Morton, Timothy; & **Foreman-Mackey, Daniel**, 2019,
@@ -548,7 +548,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[219
+\[[220
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -578,7 +578,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[521
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[522
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -791,7 +791,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7688
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7697
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
