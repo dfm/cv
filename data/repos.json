@@ -12,7 +12,7 @@
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 19,
               "stargazers": {
-                "totalCount": 232
+                "totalCount": 235
               },
               "watchers": {
                 "totalCount": 8
@@ -27,7 +27,7 @@
               "homepageUrl": "https://show-your.work",
               "forkCount": 37,
               "stargazers": {
-                "totalCount": 465
+                "totalCount": 464
               },
               "watchers": {
                 "totalCount": 5
@@ -85,9 +85,9 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 118,
+              "forkCount": 119,
               "stargazers": {
-                "totalCount": 657
+                "totalCount": 658
               },
               "watchers": {
                 "totalCount": 17
