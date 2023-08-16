@@ -54,7 +54,7 @@ stars / 37 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1349 stars / 426 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1350 stars / 426 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,7 +76,7 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 96 / first author: 9 / citations: 16,235 / h-index: 43
+refereed: 96 / first author: 9 / citations: 16,352 / h-index: 43
 (2023-08-16)
 
 ### Refereed publications
@@ -171,7 +171,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[497
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[498
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -344,7 +344,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[150
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[151
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -503,7 +503,7 @@ Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, The
 Astronomical Journal, **157**, 61
-([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[147
+([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[148
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
@@ -525,7 +525,7 @@ Brewer, Brendon; & **Foreman-Mackey, Daniel**, 2018, *[DNest4: Diffusive
 Nested Sampling in C++ and
 Python](http://dx.doi.org/10.18637/jss.v086.i07)*, Journal of
 Statistical Software, **86**, 1
-([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[36
+([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[38
 citations](https://scholar.google.com/scholar?cites=789224875040810871)\]
 
 Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
@@ -679,7 +679,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
 Python](http://dx.doi.org/10.21105/joss.00024)*, The Journal of Open
-Source Software, **1**, 2 \[[1700
+Source Software, **1**, 2 \[[1800
 citations](https://scholar.google.com/scholar?cites=1835087844145558435,17325274697099535179,14220488595059618709,12820425635803494730,7284810048757141243,17415935839493019063)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
@@ -699,7 +699,7 @@ Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;
 Hogg, David W.; & O’Neil, Michael, 2016, *[Fast Direct Methods for
 Gaussian Processes](http://dx.doi.org/10.1109/TPAMI.2015.2448083)*, IEEE
 Transactions on Pattern Analysis and Machine Intelligence, **38**, 252
-([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[627
+([arXiv:1403.6015](http://arxiv.org/abs/1403.6015)) \[[636
 citations](https://scholar.google.com/scholar?cites=7122560326210979193,5194420368165307096,3347404430934682534)\]
 
 Montet, Benjamin T.; Morton, Timothy D.; **Foreman-Mackey, Daniel**;
@@ -791,7 +791,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7691
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7694
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
