@@ -447,7 +447,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.05329",
     "page": null,
@@ -989,7 +989,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 498,
+    "citations": 503,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2755,7 +2755,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5437,7 +5437,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 249,
+    "citations": 250,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5861,7 +5861,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1275,
+    "citations": 1277,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6795,7 +6795,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7694,
+    "citations": 7704,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
