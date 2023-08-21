@@ -1,5 +1,22 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ace105",
+    "page": 112,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-09-00",
+    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
+    "volume": "166",
+    "year": "2023"
+  },
+  {
     "arxiv": "2306.08145",
     "authors": [
       "Blunt, Sarah",
@@ -989,7 +1006,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 504,
+    "citations": 508,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5823,7 +5840,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1608.06919",
     "page": null,
@@ -5861,7 +5878,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1279,
+    "citations": 1280,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6350,7 +6367,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -6795,7 +6812,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7709,
+    "citations": 7714,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
