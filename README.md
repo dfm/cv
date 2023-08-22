@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 97 / first author: 9 / citations: 16,395 / h-index: 43
-(2023-08-21)
+refereed: 97 / first author: 9 / citations: 16,394 / h-index: 43
+(2023-08-22)
 
 ### Refereed publications
 
@@ -88,6 +88,7 @@ Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
 Bayesian Framework for Inferring the Stellar Obliquity
 Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
 Astronomical Journal, **166**, 112
+([arXiv:2305.14220](http://arxiv.org/abs/2305.14220))
 
 Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
 *et al.* (incl. **DFM**), 2023, *[Overfitting Affects the Reliability of
@@ -820,11 +821,6 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
 Classification of Supernovae using Host Galaxy Information and Shallow
 Learning](http://dx.doi.org/10.48550/arXiv.2305.08894)*, ArXiv
 ([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
-
-Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
-Bayesian Framework for Inferring the Stellar Obliquity
-Distribution](http://dx.doi.org/10.48550/arXiv.2305.14220)*, ArXiv
-([arXiv:2305.14220](http://arxiv.org/abs/2305.14220))
 
 Eadie, Gwendolyn M.; Speagle, Joshua S.; Cisewski-Kehe, Jessi;
 **Foreman-Mackey, Daniel**; *et al.*, 2023, *[Practical Guidance for

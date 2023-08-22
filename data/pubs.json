@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2305.14220",
     "authors": [
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
@@ -14,6 +14,31 @@
     "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
     "volume": "166",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Byler, Nell",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer",
+      "Park, Minjung"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.8230430",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-08-09",
+    "title": "dfm/python-fsps: v0.4.4",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8230430J",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -93,23 +118,6 @@
     "pubdate": "2023-05-00",
     "title": "First Impressions: Early-Time Classification of Supernovae using Host Galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230508894G",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.14220",
-    "authors": [
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.14220",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230514220D",
     "volume": null,
     "year": "2023"
   },
@@ -1370,7 +1378,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -2212,7 +2220,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 168,
+    "citations": 98,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2243,7 +2251,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -2357,7 +2365,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -2704,7 +2712,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 10,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
