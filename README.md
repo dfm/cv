@@ -49,8 +49,8 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 467
-stars / 37 forks  
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 468
+stars / 38 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 97 / first author: 9 / citations: 16,394 / h-index: 43
-(2023-08-22)
+refereed: 97 / first author: 9 / citations: 16,384 / h-index: 43
+(2023-08-23)
 
 ### Refereed publications
 
@@ -177,7 +177,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[508
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[504
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -732,20 +732,20 @@ the Royal Astronomical Society, **450**, 1787
 ([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[145
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
-Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
-Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
-Function in M31
-Clusters](http://dx.doi.org/10.1088/0004-637X/806/2/198)*, The
-Astrophysical Journal, **806**, 198
-([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[55
-citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
-
 **Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
 Astrophysical Journal, **806**, 215
 ([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[104
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
+
+Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
+Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
+Function in M31
+Clusters](http://dx.doi.org/10.1088/0004-637X/806/2/198)*, The
+Astrophysical Journal, **806**, 198
+([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[54
+citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2015, Removing systematic errors for exoplanet
@@ -797,7 +797,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7714
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7708
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
