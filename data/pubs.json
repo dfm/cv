@@ -425,7 +425,7 @@
       "Spergel, David N.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.05064",
     "page": null,
@@ -1014,7 +1014,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 509,
+    "citations": 513,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2412,7 +2412,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -6202,7 +6202,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6341,7 +6341,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 145,
+    "citations": 146,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6820,7 +6820,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7711,
+    "citations": 7719,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
