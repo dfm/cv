@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 97 / first author: 9 / citations: 16,410 / h-index: 43
-(2023-08-25)
+refereed: 97 / first author: 9 / citations: 16,427 / h-index: 43
+(2023-08-26)
 
 ### Refereed publications
 
@@ -177,7 +177,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[513
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[517
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -524,7 +524,7 @@ Matteo; *et al.* (incl. **DFM**), 2018, *[Inference of Stellar
 Parameters from Brightness
 Variations](http://dx.doi.org/10.3847/1538-4357/aadb40)*, The
 Astrophysical Journal, **866**, 15
-([arXiv:1805.04519](http://arxiv.org/abs/1805.04519)) \[[8
+([arXiv:1805.04519](http://arxiv.org/abs/1805.04519)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...866...15N)\]
 
 Brewer, Brendon; & **Foreman-Mackey, Daniel**, 2018, *[DNest4: Diffusive
@@ -620,7 +620,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[250
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[251
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -680,7 +680,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[229
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[230
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -797,7 +797,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7719
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7729
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
