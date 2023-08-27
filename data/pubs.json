@@ -1014,7 +1014,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 517,
+    "citations": 525,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3408,7 +3408,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4445,7 +4445,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 188,
+    "citations": 190,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4972,7 +4972,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 219,
+    "citations": 222,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5207,7 +5207,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 25,
+    "citations": 27,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -5582,7 +5582,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -5886,7 +5886,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1281,
+    "citations": 1282,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6178,7 +6178,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -6820,7 +6820,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7729,
+    "citations": 7733,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
