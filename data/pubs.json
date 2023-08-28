@@ -19,6 +19,26 @@
   {
     "arxiv": null,
     "authors": [
+      "Gagliano, Alexander",
+      "Contardo, Gabriella",
+      "Foreman-Mackey, Daniel",
+      "Malz, Alex I.",
+      "Aleo, Patrick D."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ace326",
+    "page": 6,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2023-09-00",
+    "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
+    "volume": "954",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Johnson, Ben",
       "Foreman-Mackey, Dan",
       "Sick, Jonathan",
@@ -332,7 +352,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -450,7 +470,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -1014,7 +1034,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 525,
+    "citations": 530,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2313,7 +2333,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3265,7 +3285,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3671,7 +3691,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -3901,7 +3921,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 162,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4812,7 +4832,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -5025,7 +5045,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5076,7 +5096,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 523,
+    "citations": 524,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5886,7 +5906,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1282,
+    "citations": 1283,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6322,7 +6342,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 408,
+    "citations": 409,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6820,7 +6840,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7733,
+    "citations": 7737,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
