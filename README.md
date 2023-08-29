@@ -54,7 +54,7 @@ stars / 39 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1353 stars / 425 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1354 stars / 425 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 98 / first author: 9 / citations: 16,464 / h-index: 44
-(2023-08-28)
+(2023-08-29)
 
 ### Refereed publications
 
@@ -95,6 +95,7 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-time
 Classification of Supernovae Using Host-galaxy Information and Shallow
 Learning](http://dx.doi.org/10.3847/1538-4357/ace326)*, The
 Astrophysical Journal, **954**, 6
+([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
 
 Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
 *et al.* (incl. **DFM**), 2023, *[Overfitting Affects the Reliability of
@@ -821,12 +822,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
-Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-Time
-Classification of Supernovae using Host Galaxy Information and Shallow
-Learning](http://dx.doi.org/10.48550/arXiv.2305.08894)*, ArXiv
-([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
 
 Eadie, Gwendolyn M.; Speagle, Joshua S.; Cisewski-Kehe, Jessi;
 **Foreman-Mackey, Daniel**; *et al.*, 2023, *[Practical Guidance for

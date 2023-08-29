@@ -17,7 +17,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
       "Contardo, Gabriella",
@@ -103,6 +103,51 @@
     "year": "2023"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Koposov, Sergey",
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Bennett, Ed",
+      "Buchner, Johannes",
+      "Scheffler, Carl",
+      "Cook, Ben",
+      "Talbot, Colm",
+      "Guillochon, James",
+      "Cubillos, Patricio",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Johnson, Ben",
+      "Lang, Dustin",
+      "Ilya",
+      "Dartiailh, Matthieu",
+      "Nitz, Alex",
+      "McCluskey, Andrew",
+      "Archibald, Anne",
+      "Deil, Christoph",
+      "Foreman-Mackey, Dan",
+      "Goldstein, Danny",
+      "Tollerud, Erik",
+      "Leja, Joel",
+      "Kirk, Matthew",
+      "Pitkin, Matt",
+      "Sheehan, Patrick",
+      "Cargile, Phillip",
+      "Patel, Ruskin",
+      "Angus, Ruth"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7995596",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-06-01",
+    "title": "joshspeagle/dynesty: v2.1.2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...7995596K",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.00988",
     "authors": [
       "Tran, Quang H.",
@@ -119,26 +164,6 @@
     "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...950..162T",
     "volume": "950",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.08894",
-    "authors": [
-      "Gagliano, Alexander",
-      "Contardo, Gabriella",
-      "Foreman-Mackey, Daniel",
-      "Malz, Alex I.",
-      "Aleo, Patrick D."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.08894",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "First Impressions: Early-Time Classification of Supernovae using Host Galaxy Information and Shallow Learning",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230508894G",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -245,7 +270,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -740,7 +765,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -1398,7 +1423,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -2240,7 +2265,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -6145,7 +6170,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 53,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6685,7 +6710,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 42,
+    "citations": 49,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
