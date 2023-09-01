@@ -377,7 +377,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -867,7 +867,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 16,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2209.08940",
     "page": null,
@@ -1059,7 +1059,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 528,
+    "citations": 534,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1257,26 +1257,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 12,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -1295,6 +1275,26 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -5034,7 +5034,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 134,
+    "citations": 135,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5931,7 +5931,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1282,
+    "citations": 1284,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6367,7 +6367,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 409,
+    "citations": 410,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6621,7 +6621,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 220,
+    "citations": 221,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -6865,7 +6865,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7736,
+    "citations": 7749,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
