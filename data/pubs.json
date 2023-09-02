@@ -451,7 +451,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -495,7 +495,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -1059,7 +1059,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 534,
+    "citations": 536,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1257,6 +1257,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -1275,26 +1295,6 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -1575,7 +1575,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -1801,7 +1801,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2358,7 +2358,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2825,7 +2825,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 153,
+    "citations": 154,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3453,7 +3453,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 108,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -3744,7 +3744,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4265,7 +4265,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 84,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -4490,7 +4490,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 191,
+    "citations": 192,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4516,7 +4516,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 148,
+    "citations": 149,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5507,7 +5507,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 251,
+    "citations": 252,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6247,7 +6247,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 124,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6710,7 +6710,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 49,
+    "citations": 42,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -6865,7 +6865,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7749,
+    "citations": 7757,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
