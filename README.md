@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 99 / first author: 9 / citations: 16,557 / h-index: 44
-(2023-09-04)
+refereed: 99 / first author: 9 / citations: 16,541 / h-index: 44
+(2023-09-05)
 
 ### Refereed publications
 
@@ -108,6 +108,7 @@ Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
 Regression for Astronomical Time
 Series](http://dx.doi.org/10.1146/annurev-astro-052920-103508)*, Annual
 Review of Astronomy and Astrophysics, **61**, 329
+([arXiv:2209.08940](http://arxiv.org/abs/2209.08940))
 
 Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
 Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
@@ -853,12 +854,6 @@ Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2022,
 inference in Jax](http://dx.doi.org/10.48550/arXiv.2211.06397)*, ArXiv
 ([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2022arXiv221106397W)\]
-
-Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2022, *[Gaussian Process
-regression for astronomical
-time-series](http://dx.doi.org/10.48550/arXiv.2209.08940)*, ArXiv
-([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[16
-citations](https://ui.adsabs.harvard.edu/abs/2022arXiv220908940A)\]
 
 Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
 Andrew; *et al.*, 2022, *[paired: A Statistical Framework for

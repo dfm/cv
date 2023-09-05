@@ -103,7 +103,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2209.08940",
     "authors": [
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
@@ -287,7 +287,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -875,23 +875,6 @@
     "pubdate": "2022-09-26",
     "title": "dfm/python-fsps: python-fsps v0.4.2rc1",
     "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...7113363J",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2209.08940",
-    "authors": [
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 16,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2209.08940",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-09-00",
-    "title": "Gaussian Process regression for astronomical time-series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220908940A",
     "volume": null,
     "year": "2022"
   },
@@ -2282,7 +2265,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2925,7 +2908,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 52,
+    "citations": 30,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6187,7 +6170,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 53,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6656,7 +6639,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 107,
+    "citations": 176,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
