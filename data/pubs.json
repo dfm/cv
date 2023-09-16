@@ -468,7 +468,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1133,7 +1133,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 562,
+    "citations": 566,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2046,7 +2046,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -3720,7 +3720,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4494,7 +4494,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 192,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5935,7 +5935,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1298,
+    "citations": 1300,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6251,7 +6251,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6390,7 +6390,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 147,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6869,7 +6869,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7811,
+    "citations": 7820,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
