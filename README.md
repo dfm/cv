@@ -68,7 +68,7 @@ Make some beautiful corner plots
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 658 stars / 119 forks  
+[**daft**](https://github.com/daft-dev/daft) — 657 stars / 119 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 99 / first author: 9 / citations: 16,651 / h-index: 44
-(2023-09-16)
+refereed: 99 / first author: 9 / citations: 16,669 / h-index: 44
+(2023-09-17)
 
 ### Refereed publications
 
@@ -128,7 +128,7 @@ Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
 exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
-664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[48
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[49
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
@@ -191,7 +191,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[566
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[572
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -575,7 +575,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[137
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[138
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -601,14 +601,6 @@ Journal, **154**, 220
 ([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[527
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
-Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
-2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
-Magnetic Cycles of Sun-like
-Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
-Journal, **851**, 116
-([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[74
-citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
-
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
 *et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
 Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
@@ -616,6 +608,14 @@ Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
 Journal, **154**, 254
 ([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[59
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
+
+Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
+2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
+Magnetic Cycles of Sun-like
+Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
+Journal, **851**, 116
+([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[74
+citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
 *[Linear Models for Systematics and
@@ -634,7 +634,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[252
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[253
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -811,7 +811,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7820
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[7829
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

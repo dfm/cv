@@ -468,7 +468,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1133,7 +1133,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 566,
+    "citations": 572,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5038,7 +5038,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 137,
+    "citations": 138,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5137,24 +5137,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 74,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
-    "year": "2017"
-  },
-  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -5185,6 +5167,24 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 74,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
     "year": "2017"
   },
   {
@@ -5511,7 +5511,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 252,
+    "citations": 253,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5935,7 +5935,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1300,
+    "citations": 1304,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6371,7 +6371,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 414,
+    "citations": 415,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6869,7 +6869,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7820,
+    "citations": 7829,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -6893,7 +6893,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "software",
     "doi": null,
     "page": null,
