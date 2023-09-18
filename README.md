@@ -58,7 +58,7 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 448 stars / 217
+[**corner.py**](https://github.com/dfm/corner.py) — 448 stars / 218
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
