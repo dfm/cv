@@ -138,7 +138,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1133,7 +1133,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 576,
+    "citations": 575,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4494,7 +4494,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 194,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4520,7 +4520,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 150,
+    "citations": 149,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5074,7 +5074,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 119,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6445,7 +6445,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 56,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
