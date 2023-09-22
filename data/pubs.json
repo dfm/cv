@@ -25,7 +25,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -468,7 +468,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1133,7 +1133,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 580,
+    "citations": 587,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2046,7 +2046,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -2404,7 +2404,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2779,7 +2779,7 @@
       "Gilbertson, Christian",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/staa3887",
     "page": 4798,
@@ -3457,7 +3457,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -3748,7 +3748,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 144,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4269,7 +4269,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5137,6 +5137,24 @@
     "year": "2017"
   },
   {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 74,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
+    "year": "2017"
+  },
+  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -5167,24 +5185,6 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 74,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -5511,7 +5511,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 253,
+    "citations": 254,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5935,7 +5935,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1304,
+    "citations": 1308,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6006,7 +6006,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 231,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -6371,7 +6371,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 415,
+    "citations": 416,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6869,7 +6869,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7832,
+    "citations": 7848,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
