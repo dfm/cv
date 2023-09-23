@@ -1,5 +1,27 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Willard, Brandon",
+      "Louf, R{\\'e}mi",
+      "Chaudhari, Kaustubh",
+      "Mares, Ben",
+      "Lunagariya, Smit",
+      "Foreman-Mackey, Dan",
+      "Gerlanc, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4635498",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-09-21",
+    "title": "Aesara",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...4635498W",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -6869,7 +6891,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7848,
+    "citations": 7847,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
