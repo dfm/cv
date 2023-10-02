@@ -119,7 +119,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -490,7 +490,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 52,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -564,7 +564,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -1155,7 +1155,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 615,
+    "citations": 620,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1353,26 +1353,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -1391,6 +1371,26 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -2217,7 +2217,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -2851,7 +2851,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 156,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3336,7 +3336,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3479,7 +3479,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 111,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4516,7 +4516,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 193,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4903,7 +4903,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 128,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -5043,7 +5043,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5147,7 +5147,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 530,
+    "citations": 532,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5216,7 +5216,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 19,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -5278,7 +5278,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -5533,7 +5533,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 256,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -5570,7 +5570,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -5625,7 +5625,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 80,
+    "citations": 78,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -5957,7 +5957,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1316,
+    "citations": 1322,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6393,7 +6393,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 417,
+    "citations": 419,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6433,7 +6433,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 105,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -6467,7 +6467,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -6891,7 +6891,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7885,
+    "citations": 7905,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -6915,7 +6915,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 92,
+    "citations": 93,
     "doctype": "software",
     "doi": null,
     "page": null,
