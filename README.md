@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 249 stars / 20 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 250 stars / 20 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 99 / first author: 9 / citations: 16,894 / h-index: 44
-(2023-10-09)
+(2023-10-10)
 
 ### Refereed publications
 
