@@ -490,7 +490,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 55,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -773,7 +773,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -1155,7 +1155,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 642,
+    "citations": 658,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1869,7 +1869,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -1890,7 +1890,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2426,7 +2426,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 106,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2851,7 +2851,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 162,
+    "citations": 164,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3536,7 +3536,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -3717,7 +3717,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4542,7 +4542,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -4878,6 +4878,26 @@
     "year": "2018"
   },
   {
+    "arxiv": "1702.05488",
+    "authors": [
+      "Luger, Rodrigo",
+      "Kruse, Ethan",
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Saunders, Nicholas"
+    ],
+    "citations": 128,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/aad230",
+    "page": 99,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2018-09-00",
+    "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
+    "volume": "156",
+    "year": "2018"
+  },
+  {
     "arxiv": "1809.10295",
     "authors": [
       "Teague, Richard",
@@ -4892,26 +4912,6 @@
     "title": "A Robust Method to Measure Centroids of Spectral Lines",
     "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
     "volume": "2",
-    "year": "2018"
-  },
-  {
-    "arxiv": "1702.05488",
-    "authors": [
-      "Luger, Rodrigo",
-      "Kruse, Ethan",
-      "Foreman-Mackey, Daniel",
-      "Agol, Eric",
-      "Saunders, Nicholas"
-    ],
-    "citations": 127,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/aad230",
-    "page": 99,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2018-09-00",
-    "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
-    "volume": "156",
     "year": "2018"
   },
   {
@@ -5043,7 +5043,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5060,7 +5060,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5080,7 +5080,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 145,
+    "citations": 146,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -5096,7 +5096,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 119,
+    "citations": 122,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5147,7 +5147,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 530,
+    "citations": 532,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5180,7 +5180,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -5570,7 +5570,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -5850,7 +5850,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -5957,7 +5957,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1326,
+    "citations": 1334,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6393,7 +6393,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 417,
+    "citations": 420,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6412,7 +6412,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 150,
+    "citations": 151,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6891,7 +6891,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7915,
+    "citations": 7935,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
