@@ -2,6 +2,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, D.",
+      "Agol, E.",
+      "Ambikasaran, S.",
+      "Angus, R."
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2023-10-00",
+    "title": "celerite2: Fast and scalable Gaussian Processes in one dimension",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ascl.soft10001F",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Willard, Brandon",
       "Louf, R{\\'e}mi",
       "Chaudhari, Kaustubh",
@@ -286,7 +305,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -490,7 +509,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1155,7 +1174,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 658,
+    "citations": 668,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1301,7 +1320,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -1890,7 +1909,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2851,7 +2870,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 164,
+    "citations": 167,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3770,7 +3789,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 147,
+    "citations": 149,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -3972,7 +3991,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 165,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -3991,7 +4010,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4291,7 +4310,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -4903,7 +4922,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 69,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -5147,7 +5166,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 532,
+    "citations": 535,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5198,7 +5217,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -5957,7 +5976,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1334,
+    "citations": 1341,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6273,7 +6292,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 127,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6393,7 +6412,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 420,
+    "citations": 422,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6891,7 +6910,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7935,
+    "citations": 7944,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
