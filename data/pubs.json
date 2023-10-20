@@ -509,7 +509,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 57,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1174,7 +1174,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 670,
+    "citations": 682,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1888,7 +1888,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 58,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3355,7 +3355,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -3736,7 +3736,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4780,7 +4780,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -4922,7 +4922,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -5976,7 +5976,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1343,
+    "citations": 1346,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6412,7 +6412,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 420,
+    "citations": 422,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6431,7 +6431,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6910,7 +6910,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 7951,
+    "citations": 7964,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
