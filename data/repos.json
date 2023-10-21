@@ -27,7 +27,7 @@
               "homepageUrl": "https://show-your.work",
               "forkCount": 41,
               "stargazers": {
-                "totalCount": 482
+                "totalCount": 485
               },
               "watchers": {
                 "totalCount": 5
@@ -55,7 +55,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 217,
+              "forkCount": 216,
               "stargazers": {
                 "totalCount": 449
               },
