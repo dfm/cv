@@ -19,6 +19,25 @@
     "year": "2023"
   },
   {
+    "arxiv": "2310.14990",
+    "authors": [
+      "Lu, Yuxi",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Hattori, Soichiro"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-10-00",
+    "title": "In this Day and Age: An Empirical Gyrochronology Relation for Partially and Fully Convective Single Field Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv231014990L",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Willard, Brandon",
@@ -554,7 +573,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 61,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
