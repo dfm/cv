@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 251 stars / 20 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 252 stars / 20 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -54,7 +54,7 @@ stars / 41 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1370 stars / 429 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1371 stars / 429 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 99 / first author: 9 / citations: 17,150 / h-index: 44
-(2023-10-27)
+(2023-10-28)
 
 ### Refereed publications
 
@@ -95,7 +95,7 @@ Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
 Bayesian Framework for Inferring the Stellar Obliquity
 Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
 Astronomical Journal, **166**, 112
-([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[4
+([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
@@ -834,8 +834,9 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 
 Lu, Yuxi; Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori, Soichiro,
-2023, In this Day and Age: An Empirical Gyrochronology Relation for
-Partially and Fully Convective Single Field Stars, ArXiv
+2023, *[In this Day and Age: An Empirical Gyrochronology Relation for
+Partially and Fully Convective Single Field
+Stars](http://dx.doi.org/10.48550/arXiv.2310.14990)*, ArXiv
 ([arXiv:2310.14990](http://arxiv.org/abs/2310.14990))
 
 Eadie, Gwendolyn M.; Speagle, Joshua S.; Cisewski-Kehe, Jessi;

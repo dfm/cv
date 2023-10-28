@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": "2310.14990",
+    "authors": [
+      "Lu, Yuxi",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Hattori, Soichiro"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2310.14990",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-10-00",
+    "title": "In this Day and Age: An Empirical Gyrochronology Relation for Partially and Fully Convective Single Field Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv231014990L",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, D.",
@@ -15,25 +34,6 @@
     "pubdate": "2023-10-00",
     "title": "celerite2: Fast and scalable Gaussian Processes in one dimension",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ascl.soft10001F",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2310.14990",
-    "authors": [
-      "Lu, Yuxi",
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Hattori, Soichiro"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-10-00",
-    "title": "In this Day and Age: An Empirical Gyrochronology Relation for Partially and Fully Convective Single Field Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv231014990L",
     "volume": null,
     "year": "2023"
   },
@@ -85,7 +85,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -262,7 +262,7 @@
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd05c",
     "page": 162,
