@@ -421,7 +421,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -466,7 +466,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -2416,7 +2416,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 178,
+    "citations": 104,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3017,7 +3017,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -3499,7 +3499,7 @@
       "Price-Whelan, Adrian",
       "Barclay, Tom"
     ],
-    "citations": 6,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.3785072",
     "page": null,
@@ -4492,7 +4492,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.2651251",
     "page": null,
@@ -4560,7 +4560,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -6748,7 +6748,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 181,
+    "citations": 113,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
