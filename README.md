@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 99 / first author: 9 / citations: 17,189 / h-index: 44
-(2023-11-01)
+refereed: 99 / first author: 9 / citations: 17,199 / h-index: 44
+(2023-11-02)
 
 ### Refereed publications
 
@@ -193,7 +193,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[716
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[719
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -226,14 +226,6 @@ The Astronomical Journal, **163**, 247
 ([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
 
-Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
-Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
-for the Observed Dust Attenuation in
-Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
-Astrophysical Journal, **932**, 54
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[14
-citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
-
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2022, *[The unpopular Package: A Data-driven
 Approach to Detrending TESS Full-frame Image Light
@@ -241,6 +233,14 @@ Curves](http://dx.doi.org/10.3847/1538-3881/ac625a)*, The Astronomical
 Journal, **163**, 284
 ([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
+
+Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
+Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
+for the Observed Dust Attenuation in
+Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
+Astrophysical Journal, **932**, 54
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[15
+citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
 David W.; & Hundertmark, M., 2022, *[The Thresher: Lucky imaging without
@@ -375,7 +375,7 @@ Daniel**; & Barentsen, Geert, 2021, *[Multiwavelength Photometry Derived
 from Monochromatic Kepler
 Data](http://dx.doi.org/10.3847/1538-3881/abd31c)*, The Astronomical
 Journal, **161**, 95
-([arXiv:2102.00044](http://arxiv.org/abs/2102.00044)) \[[3
+([arXiv:2102.00044](http://arxiv.org/abs/2102.00044)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161...95H)\]
 
 Gordon, Tyler A.; Agol, Eric; & **Foreman-Mackey, Daniel**, 2020, *[A
@@ -753,7 +753,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
 Astrophysical Journal, **806**, 215
-([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[104
+([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[105
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
@@ -814,7 +814,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8010
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8014
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
