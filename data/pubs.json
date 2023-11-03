@@ -85,7 +85,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1238,7 +1238,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 719,
+    "citations": 721,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1401,7 +1401,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -3800,7 +3800,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -3825,7 +3825,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4055,7 +4055,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4966,7 +4966,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -5143,7 +5143,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6040,7 +6040,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1356,
+    "citations": 1358,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6974,7 +6974,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8014,
+    "citations": 8028,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

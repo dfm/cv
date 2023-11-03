@@ -12,7 +12,7 @@
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 20,
               "stargazers": {
-                "totalCount": 253
+                "totalCount": 252
               },
               "watchers": {
                 "totalCount": 9
@@ -25,7 +25,7 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 40,
+              "forkCount": 41,
               "stargazers": {
                 "totalCount": 488
               },
@@ -40,9 +40,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 429,
+              "forkCount": 430,
               "stargazers": {
-                "totalCount": 1373
+                "totalCount": 1375
               },
               "watchers": {
                 "totalCount": 87
