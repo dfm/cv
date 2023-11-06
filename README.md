@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 252 stars / 20 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 252 stars / 21 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 99 / first author: 9 / citations: 17,270 / h-index: 44
-(2023-11-05)
+refereed: 99 / first author: 9 / citations: 17,273 / h-index: 44
+(2023-11-06)
 
 ### Refereed publications
 
@@ -193,7 +193,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[732
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[735
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -746,7 +746,7 @@ Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
 Amy, 2015, *[Calibrating gyrochronology using Kepler asteroseismic
 targets](http://dx.doi.org/10.1093/mnras/stv423)*, Monthly Notices of
 the Royal Astronomical Society, **450**, 1787
-([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[152
+([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[153
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
 **Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
@@ -814,7 +814,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8048
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8047
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

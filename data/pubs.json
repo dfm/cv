@@ -916,7 +916,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -1238,7 +1238,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 732,
+    "citations": 735,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1323,7 +1323,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 11,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1436,26 +1436,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 15,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -1474,6 +1454,26 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 15,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -2585,7 +2585,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 20,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -6495,7 +6495,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 152,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6748,7 +6748,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 113,
+    "citations": 183,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6974,7 +6974,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8048,
+    "citations": 8047,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
