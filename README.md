@@ -50,7 +50,7 @@ The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
 [**showyourwork**](https://github.com/showyourwork/showyourwork) — 487
-stars / 41 forks  
+stars / 42 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
@@ -64,7 +64,7 @@ Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 192 stars
-/ 50 forks  
+/ 51 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 99 / first author: 9 / citations: 17,296 / h-index: 44
-(2023-11-09)
+refereed: 99 / first author: 9 / citations: 17,317 / h-index: 44
+(2023-11-10)
 
 ### Refereed publications
 
@@ -193,7 +193,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[740
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[746
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -223,7 +223,7 @@ Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
 Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
 Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
 The Astronomical Journal, **163**, 247
-([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[11
+([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
 
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
@@ -284,7 +284,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[63
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -367,7 +367,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[172
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[174
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -483,7 +483,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[172
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[173
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -505,7 +505,7 @@ Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, The Astronomical
 Journal, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[92
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[93
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
@@ -593,7 +593,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[126
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[127
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -601,7 +601,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[541
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[542
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -697,7 +697,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[236
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[237
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -814,7 +814,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8059
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8064
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -832,6 +832,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;
+*et al.* (incl. **DFM**), 2023, The Future of Astronomical Data
+Infrastructure: Meeting Report, ArXiv
+([arXiv:2311.04272](http://arxiv.org/abs/2311.04272))
 
 Lu, Yuxi; Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori, Soichiro,
 2023, *[In this Day and Age: An Empirical Gyrochronology Relation for
@@ -888,7 +893,7 @@ Barnes, Rory; Deitrick, Russell; Luger, Rodrigo; Driscoll, Peter E.;
 *et al.* (incl. **DFM**), 2016, *[The Habitability of Proxima Centauri b
 I: Evolutionary
 Scenarios](http://dx.doi.org/10.48550/arXiv.1608.06919)*, ArXiv
-([arXiv:1608.06919](http://arxiv.org/abs/1608.06919)) \[[62
+([arXiv:1608.06919](http://arxiv.org/abs/1608.06919)) \[[63
 citations](https://ui.adsabs.harvard.edu/abs/2016arXiv160806919B)\]
 
 Montet, Benjamin T.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
