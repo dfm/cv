@@ -77,7 +77,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2311.04272",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2023-11-00",
@@ -121,6 +121,30 @@
     "pubdate": "2023-10-00",
     "title": "celerite2: Fast and scalable Gaussian Processes in one dimension",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ascl.soft10001F",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer",
+      "Park, Minjung"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.8384410",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-09-27",
+    "title": "dfm/python-fsps: python-fsps v0.4.5rc1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8384410J",
     "volume": null,
     "year": "2023"
   },
@@ -234,7 +258,7 @@
     "pub": "Zenodo",
     "pubdate": "2023-08-05",
     "title": "adrn/gala: v1.7.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo....593786P",
     "volume": null,
     "year": "2023"
   },
@@ -244,7 +268,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -285,7 +309,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -508,7 +532,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -553,7 +577,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -660,7 +684,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1133,7 +1157,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -1325,7 +1349,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 746,
+    "citations": 760,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1365,7 +1389,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4017",
     "page": 4,
@@ -1488,7 +1512,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -1511,7 +1535,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -1588,7 +1612,7 @@
     "doctype": "abstract",
     "doi": null,
     "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts",
+    "pub": "American Astronomical Society Meeting #240",
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
@@ -1853,7 +1877,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -2060,7 +2084,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2427,7 +2451,7 @@
       "Street, Rachel",
       "Tsapras, Yiannis"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1114",
     "page": 3561,
@@ -2536,12 +2560,12 @@
     ],
     "citations": 3,
     "doctype": "software",
-    "doi": "10.5281/zenodo.7191939",
+    "doi": "10.5281/zenodo.5834934",
     "page": null,
     "pub": "Zenodo",
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5834934F",
     "volume": null,
     "year": "2021"
   },
@@ -2567,12 +2591,12 @@
     ],
     "citations": 3,
     "doctype": "software",
-    "doi": "10.5281/zenodo.5834934",
+    "doi": "10.5281/zenodo.7191939",
     "page": null,
     "pub": "Zenodo",
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5834934F",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
     "volume": null,
     "year": "2021"
   },
@@ -2672,7 +2696,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 33,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -2953,7 +2977,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 10,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -3021,7 +3045,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 174,
+    "citations": 175,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3670,7 +3694,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.3669395",
     "page": null,
@@ -3805,7 +3829,7 @@
       "Luger, Rodrigo",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.3595344",
     "page": null,
@@ -4576,24 +4600,6 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
-      "Barentsen, Geert",
-      "Barclay, Tom"
-    ],
-    "citations": 9,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2651251",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/exoplanet: exoplanet v0.1.6",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
       "Agol, Eric",
       "Angus, Ruth",
       "Brewer, Brendon J.",
@@ -4611,6 +4617,24 @@
     "pubdate": "2019-04-25",
     "title": "dfm/celerite: celerite v0.3.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 9,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2651251",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-04-25",
+    "title": "dfm/exoplanet: exoplanet v0.1.6",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
     "volume": null,
     "year": "2019"
   },
@@ -5978,23 +6002,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Dan",
-      "Morton, Timothy"
-    ],
-    "citations": 2,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.159478",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-10-06",
-    "title": "dfm/transit: Version 0.3.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159478F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Morton, Timothy",
       "Foreman-Mackey, Dan"
     ],
@@ -6006,6 +6013,23 @@
     "pubdate": "2016-10-06",
     "title": "timothydmorton/exosyspop: Initial release",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159487M",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Morton, Timothy"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.159478",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-10-06",
+    "title": "dfm/transit: Version 0.3.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159478F",
     "volume": null,
     "year": "2016"
   },
@@ -6443,7 +6467,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 127,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6594,27 +6618,6 @@
     "year": "2015"
   },
   {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 105,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -6645,6 +6648,27 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 106,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -6835,7 +6859,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7061,7 +7085,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8076,
+    "citations": 8077,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
