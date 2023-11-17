@@ -258,7 +258,7 @@
     "pub": "Zenodo",
     "pubdate": "2023-08-05",
     "title": "adrn/gala: v1.7.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo....593786P",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
     "volume": null,
     "year": "2023"
   },
@@ -577,7 +577,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -684,7 +684,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -905,7 +905,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1072,7 +1072,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -1349,7 +1349,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 763,
+    "citations": 774,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1389,7 +1389,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4017",
     "page": 4,
@@ -1434,7 +1434,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 12,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1535,7 +1535,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 24,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -1612,7 +1612,7 @@
     "doctype": "abstract",
     "doi": null,
     "page": null,
-    "pub": "American Astronomical Society Meeting #240",
+    "pub": "American Astronomical Society Meeting Abstracts",
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
@@ -1713,7 +1713,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -2084,7 +2084,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2336,7 +2336,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5057630",
     "page": null,
@@ -2451,7 +2451,7 @@
       "Street, Rachel",
       "Tsapras, Yiannis"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1114",
     "page": 3561,
@@ -2527,7 +2527,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 105,
+    "citations": 181,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2535,6 +2535,37 @@
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
     "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1998447F",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Barclay, Thomas",
+      "Bouma, Luke G.",
+      "Brandt, Timothy D.",
+      "Czekala, Ian",
+      "David, Trevor J.",
+      "Dong, Jiayin",
+      "Gilbert, Emily A.",
+      "Gordon, Tyler A.",
+      "Hedges, Christina",
+      "Hey, Daniel R.",
+      "Morris, Brett M.",
+      "Price-Whelan, Adrian M.",
+      "Savel, Arjun B."
+    ],
+    "citations": 5,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7191939",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-06-21",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
     "volume": null,
     "year": "2021"
   },
@@ -2570,37 +2601,6 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Barclay, Thomas",
-      "Bouma, Luke G.",
-      "Brandt, Timothy D.",
-      "Czekala, Ian",
-      "David, Trevor J.",
-      "Dong, Jiayin",
-      "Gilbert, Emily A.",
-      "Gordon, Tyler A.",
-      "Hedges, Christina",
-      "Hey, Daniel R.",
-      "Morris, Brett M.",
-      "Price-Whelan, Adrian M.",
-      "Savel, Arjun B."
-    ],
-    "citations": 3,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.7191939",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-06-21",
-    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2105.01994",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -2620,7 +2620,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2672,7 +2672,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -2696,7 +2696,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 20,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -2770,7 +2770,7 @@
       "Goldman, Robert P.",
       "Gorelli, Marco"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4695331",
     "page": null,
@@ -2953,7 +2953,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.4592454",
     "page": null,
@@ -2977,7 +2977,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 6,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -3045,7 +3045,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3128,7 +3128,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 33,
+    "citations": 59,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -3261,7 +3261,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 5,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.3937526",
     "page": null,
@@ -3285,7 +3285,7 @@
       "Guillochon, James",
       "Meierjurgen Farr, Will"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3934421",
     "page": null,
@@ -3589,7 +3589,7 @@
       "Vincello, Brennan",
       "Sundaram, Anand"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3836658",
     "page": null,
@@ -3655,7 +3655,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3747801",
     "page": null,
@@ -3673,7 +3673,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -3694,7 +3694,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3669395",
     "page": null,
@@ -3730,7 +3730,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -3861,7 +3861,7 @@
       "Petigura, Erik",
       "Foreman-Mackey, Dan"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3586003",
     "page": null,
@@ -3936,7 +3936,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 87,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4116,7 +4116,7 @@
       "Montet, Benjamin",
       "Luger, Rodrigo"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3438282",
     "page": null,
@@ -4140,7 +4140,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3414932",
     "page": null,
@@ -4166,7 +4166,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 173,
+    "citations": 175,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4355,7 +4355,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3359880",
     "page": null,
@@ -4600,6 +4600,24 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
+      "Barentsen, Geert",
+      "Barclay, Tom"
+    ],
+    "citations": 15,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2651251",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-04-25",
+    "title": "dfm/exoplanet: exoplanet v0.1.6",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
       "Agol, Eric",
       "Angus, Ruth",
       "Brewer, Brendon J.",
@@ -4609,7 +4627,7 @@
       "Czekala, Ian",
       "Casey, Andy"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.2650526",
     "page": null,
@@ -4617,24 +4635,6 @@
     "pubdate": "2019-04-25",
     "title": "dfm/celerite: celerite v0.3.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Barentsen, Geert",
-      "Barclay, Tom"
-    ],
-    "citations": 9,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2651251",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/exoplanet: exoplanet v0.1.6",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
     "volume": null,
     "year": "2019"
   },
@@ -4671,7 +4671,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 13,
+    "citations": 24,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -4689,7 +4689,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 9,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.2561395",
     "page": null,
@@ -4710,7 +4710,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 199,
+    "citations": 200,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -4753,7 +4753,7 @@
       "Foreman-Mackey, Dan",
       "Barentsen, Geert"
     ],
-    "citations": 7,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.2536576",
     "page": null,
@@ -5043,7 +5043,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 6,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -5116,7 +5116,7 @@
       "Iancrossfield",
       "Foreman-Mackey, Dan"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.1313708",
     "page": null,
@@ -5138,7 +5138,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -5237,7 +5237,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 227,
+    "citations": 228,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5254,7 +5254,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 151,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5274,7 +5274,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 150,
+    "citations": 151,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -5290,7 +5290,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 127,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5341,7 +5341,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 543,
+    "citations": 545,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5392,7 +5392,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -6002,27 +6002,10 @@
   {
     "arxiv": null,
     "authors": [
-      "Morton, Timothy",
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.159487",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-10-06",
-    "title": "timothydmorton/exosyspop: Initial release",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159487M",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Dan",
       "Morton, Timothy"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.159478",
     "page": null,
@@ -6030,6 +6013,23 @@
     "pubdate": "2016-10-06",
     "title": "dfm/transit: Version 0.3.0",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159478F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Morton, Timothy",
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.159487",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-10-06",
+    "title": "timothydmorton/exosyspop: Initial release",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159487M",
     "volume": null,
     "year": "2016"
   },
@@ -6151,7 +6151,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1371,
+    "citations": 1374,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6390,7 +6390,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 53,
+    "citations": 73,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -6467,7 +6467,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 128,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -6587,7 +6587,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 424,
+    "citations": 423,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6606,7 +6606,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 152,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -6615,6 +6615,27 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 106,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
     "year": "2015"
   },
   {
@@ -6652,27 +6673,6 @@
     "year": "2015"
   },
   {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 106,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
     "arxiv": "1505.03036",
     "authors": [
       "Sch{\\\"o}lkopf, Bernhard",
@@ -6706,7 +6706,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -6859,7 +6859,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 116,
+    "citations": 187,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -6878,7 +6878,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 14,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -6930,7 +6930,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 49,
+    "citations": 76,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -6969,7 +6969,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 4,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": null,
@@ -7085,7 +7085,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8079,
+    "citations": 8092,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
