@@ -25,9 +25,9 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 42,
+              "forkCount": 43,
               "stargazers": {
-                "totalCount": 486
+                "totalCount": 487
               },
               "watchers": {
                 "totalCount": 5
@@ -55,9 +55,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 217,
+              "forkCount": 218,
               "stargazers": {
-                "totalCount": 453
+                "totalCount": 456
               },
               "watchers": {
                 "totalCount": 17
@@ -72,10 +72,10 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 51,
               "stargazers": {
-                "totalCount": 192
+                "totalCount": 193
               },
               "watchers": {
-                "totalCount": 18
+                "totalCount": 19
               }
             }
           },
