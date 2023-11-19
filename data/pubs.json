@@ -476,24 +476,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Wong, Kaze W. K.",
-      "Gabri{\\'e}, Marylou",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.21105/joss.05021",
-    "page": 5021,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2023-03-00",
-    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
-    "volume": "8",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gillen, E.",
       "Briegal, J. T.",
       "Hodgkin, S. T.",
@@ -525,6 +507,24 @@
     "title": "VizieR Online Data Catalog: NGTS clusters survey - I. Rotation in Blanco 1 (Gillen+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2023yCat..74921008G",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.21105/joss.05021",
+    "page": 5021,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2023-03-00",
+    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
+    "volume": "8",
     "year": "2023"
   },
   {
@@ -2451,7 +2451,7 @@
       "Street, Rachel",
       "Tsapras, Yiannis"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stab1114",
     "page": 3561,
@@ -5237,7 +5237,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 229,
+    "citations": 230,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6151,7 +6151,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1374,
+    "citations": 1375,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7085,7 +7085,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8092,
+    "citations": 8098,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

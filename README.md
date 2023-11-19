@@ -54,7 +54,7 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1377 stars / 431 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1377 stars / 432 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 99 / first author: 9 / citations: 17,422 / h-index: 44
-(2023-11-18)
+refereed: 99 / first author: 9 / citations: 17,430 / h-index: 44
+(2023-11-19)
 
 ### Refereed publications
 
@@ -329,7 +329,7 @@ Bachelet, Etienne; *et al.*, 2021, *[PyTorchDIA: a flexible,
 GPU-accelerated numerical approach to Difference Image
 Analysis](http://dx.doi.org/10.1093/mnras/stab1114)*, Monthly Notices of
 the Royal Astronomical Society, **504**, 3561
-([arXiv:2104.13715](http://arxiv.org/abs/2104.13715)) \[[3
+([arXiv:2104.13715](http://arxiv.org/abs/2104.13715)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 
 **Foreman-Mackey, Daniel**; Luger, Rodrigo; Agol, Eric; Barclay, Thomas;
@@ -571,7 +571,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[229
+\[[230
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -814,7 +814,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8092
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8098
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
