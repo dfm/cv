@@ -684,7 +684,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 66,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1349,7 +1349,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 786,
+    "citations": 780,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1484,6 +1484,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 24,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -1520,29 +1543,6 @@
     "pubdate": "2022-06-00",
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
-    "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 24,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
     "volume": "163",
     "year": "2022"
   },
@@ -2719,7 +2719,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 28,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -3090,7 +3090,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 177,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3247,7 +3247,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 35,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -3575,7 +3575,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 148,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4891,22 +4891,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Feinstein, Adina",
       "Montet, Benjamin",
       "Bedell, MEgan",
@@ -4925,6 +4909,22 @@
     "pubdate": "2019-01-00",
     "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "How can new data analysis methods get more out of Kepler/K2 data?",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340505F",
     "volume": "233",
     "year": "2019"
   },
@@ -5122,7 +5122,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 75,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6196,7 +6196,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1376,
+    "citations": 1375,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6318,7 +6318,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 26,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -7130,7 +7130,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8105,
+    "citations": 8101,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
