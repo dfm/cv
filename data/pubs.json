@@ -171,6 +171,23 @@
     "year": "2023"
   },
   {
+    "arxiv": "2305.14220",
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ace105",
+    "page": 112,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-09-00",
+    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
+    "volume": "166",
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -188,23 +205,6 @@
     "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
     "volume": "954",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.14220",
-    "authors": [
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ace105",
-    "page": 112,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2023-09-00",
-    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
-    "volume": "166",
     "year": "2023"
   },
   {
@@ -1349,7 +1349,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 782,
+    "citations": 787,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2063,7 +2063,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2411,7 +2411,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -3090,7 +3090,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 176,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4009,7 +4009,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 156,
+    "citations": 157,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4211,7 +4211,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5142,7 +5142,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 129,
+    "citations": 130,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -5282,7 +5282,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 230,
+    "citations": 231,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5299,7 +5299,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 153,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5386,7 +5386,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 546,
+    "citations": 547,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5534,7 +5534,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -6089,7 +6089,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 220,
+    "citations": 221,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -6196,7 +6196,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1375,
+    "citations": 1376,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6632,7 +6632,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 424,
+    "citations": 425,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7130,7 +7130,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8104,
+    "citations": 8109,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
