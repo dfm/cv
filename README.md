@@ -45,30 +45,30 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 254 stars / 21 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 253 stars / 21 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 488
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 487
 stars / 43 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1381 stars / 434 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1380 stars / 434 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 459 stars / 218
+[**corner.py**](https://github.com/dfm/corner.py) — 458 stars / 218
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 193 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 192 stars
 / 51 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 665 stars / 119 forks  
+[**daft**](https://github.com/daft-dev/daft) — 664 stars / 119 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 99 / first author: 9 / citations: 17,465 / h-index: 44
-(2023-11-24)
+(2023-11-25)
 
 ### Refereed publications
 
