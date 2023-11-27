@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Yahalomi, Daniel A.",
+      "Angus, Ruth",
+      "Spergel, David N.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ad05cc",
+    "page": 258,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-12-00",
+    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..258Y",
+    "volume": "166",
+    "year": "2023"
+  },
+  {
     "arxiv": "2311.04272",
     "authors": [
       "Blanton, Michael R.",
@@ -824,7 +843,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.05329",
     "page": null,
@@ -1005,7 +1024,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2211.06397",
     "page": null,
@@ -1349,7 +1368,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 788,
+    "citations": 790,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2084,7 +2103,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2558,7 +2577,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -5809,7 +5828,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 96,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -6267,7 +6286,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 237,
+    "citations": 238,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -6632,7 +6651,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 426,
+    "citations": 427,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7130,7 +7149,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8117,
+    "citations": 8121,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
