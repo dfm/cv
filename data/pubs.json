@@ -106,6 +106,30 @@
     "year": "2023"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer",
+      "Park, Minjung"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.10026684",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-10-20",
+    "title": "dfm/python-fsps: v0.4.6",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo..10026684J",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2310.14990",
     "authors": [
       "Lu, Yuxi",
@@ -489,6 +513,24 @@
     "pubdate": "2023-04-07",
     "title": "dfm/corner.py: corner v2.2.2rc3",
     "url": "https://ui.adsabs.harvard.edu/abs/2021zndo....591491F",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Wong, Kaze",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7706605",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-03-07",
+    "title": "kazewong/flowMC: v0.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...7706605W",
     "volume": null,
     "year": "2023"
   },
@@ -924,7 +966,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2546,7 +2588,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 181,
+    "citations": 105,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2715,7 +2757,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 33,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3041,7 +3083,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 10,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -6923,7 +6965,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 187,
+    "citations": 115,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
