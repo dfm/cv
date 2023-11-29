@@ -1,13 +1,13 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2302.05064",
     "authors": [
       "Yahalomi, Daniel A.",
       "Angus, Ruth",
       "Spergel, David N.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad05cc",
     "page": 258,
@@ -214,23 +214,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2305.14220",
-    "authors": [
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ace105",
-    "page": 112,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2023-09-00",
-    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
-    "volume": "166",
-    "year": "2023"
-  },
-  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -248,6 +231,23 @@
     "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
     "volume": "954",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2305.14220",
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ace105",
+    "page": 112,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-09-00",
+    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
+    "volume": "166",
     "year": "2023"
   },
   {
@@ -831,25 +831,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.05064",
-    "authors": [
-      "Yahalomi, Daniel A.",
-      "Angus, Ruth",
-      "Spergel, David N.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05064",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2211.16461",
     "authors": [
       "Jo, Yongseok",
@@ -1410,7 +1391,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 790,
+    "citations": 788,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6328,7 +6309,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 238,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -6693,7 +6674,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 427,
+    "citations": 426,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7191,7 +7172,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8121,
+    "citations": 8116,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
