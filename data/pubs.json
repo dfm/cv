@@ -214,6 +214,23 @@
     "year": "2023"
   },
   {
+    "arxiv": "2305.14220",
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ace105",
+    "page": 112,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-09-00",
+    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
+    "volume": "166",
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -231,23 +248,6 @@
     "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
     "volume": "954",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.14220",
-    "authors": [
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ace105",
-    "page": 112,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2023-09-00",
-    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
-    "volume": "166",
     "year": "2023"
   },
   {
@@ -1391,7 +1391,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 801,
+    "citations": 810,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1537,7 +1537,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -1632,25 +1632,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Casey, Andy",
-      "Ballard, Sarah"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian",
       "Kreidberg, Laura",
@@ -1677,6 +1658,25 @@
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Casey, Andy",
+      "Ballard, Sarah"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
     "volume": "54",
     "year": "2022"
   },
@@ -1879,7 +1879,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -3132,7 +3132,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 177,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4089,7 +4089,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -5324,7 +5324,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 231,
+    "citations": 230,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6168,7 +6168,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -6238,7 +6238,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1380,
+    "citations": 1381,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6309,7 +6309,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 238,
+    "citations": 239,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -6674,7 +6674,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 428,
+    "citations": 429,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7172,7 +7172,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8138,
+    "citations": 8145,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7196,7 +7196,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "software",
     "doi": null,
     "page": null,
