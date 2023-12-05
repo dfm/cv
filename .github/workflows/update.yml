@@ -14,7 +14,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v4
         with:
           python-version: 3.9
@@ -46,7 +46,7 @@ jobs:
           git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating data"
           git push https://github.com/$GITHUB_REPOSITORY
       - name: Install tectonic
-        uses: wtfjoke/setup-tectonic@v2
+        uses: wtfjoke/setup-tectonic@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Compile

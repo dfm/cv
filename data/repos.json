@@ -10,12 +10,12 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 19,
+              "forkCount": 21,
               "stargazers": {
-                "totalCount": 236
+                "totalCount": 256
               },
               "watchers": {
-                "totalCount": 8
+                "totalCount": 9
               }
             }
           },
@@ -25,9 +25,9 @@
               "description": "A workflow for reproducible and open scientific articles",
               "url": "https://github.com/showyourwork/showyourwork",
               "homepageUrl": "https://show-your.work",
-              "forkCount": 37,
+              "forkCount": 43,
               "stargazers": {
-                "totalCount": 464
+                "totalCount": 489
               },
               "watchers": {
                 "totalCount": 5
@@ -40,12 +40,12 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 426,
+              "forkCount": 435,
               "stargazers": {
-                "totalCount": 1349
+                "totalCount": 1384
               },
               "watchers": {
-                "totalCount": 88
+                "totalCount": 87
               }
             }
           },
@@ -55,12 +55,12 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 216,
+              "forkCount": 221,
               "stargazers": {
-                "totalCount": 444
+                "totalCount": 463
               },
               "watchers": {
-                "totalCount": 19
+                "totalCount": 18
               }
             }
           },
@@ -70,12 +70,12 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 49,
+              "forkCount": 51,
               "stargazers": {
-                "totalCount": 188
+                "totalCount": 193
               },
               "watchers": {
-                "totalCount": 18
+                "totalCount": 19
               }
             }
           },
@@ -87,7 +87,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 119,
               "stargazers": {
-                "totalCount": 658
+                "totalCount": 664
               },
               "watchers": {
                 "totalCount": 17
