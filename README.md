@@ -54,7 +54,7 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1384 stars / 436 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1385 stars / 436 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 17,771 / h-index: 44
-(2023-12-09)
+refereed: 100 / first author: 9 / citations: 17,781 / h-index: 44
+(2023-12-10)
 
 ### Refereed publications
 
@@ -92,19 +92,19 @@ Journal, **166**, 258
 ([arXiv:2302.05064](http://arxiv.org/abs/2302.05064)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..258Y)\]
 
-Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
-Bayesian Framework for Inferring the Stellar Obliquity
-Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
-Astronomical Journal, **166**, 112
-([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[4
-citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D)\]
-
 Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
 Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-time
 Classification of Supernovae Using Host-galaxy Information and Shallow
 Learning](http://dx.doi.org/10.3847/1538-4357/ace326)*, The
 Astrophysical Journal, **954**, 6
 ([arXiv:2305.08894](http://arxiv.org/abs/2305.08894))
+
+Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
+Bayesian Framework for Inferring the Stellar Obliquity
+Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
+Astronomical Journal, **166**, 112
+([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[4
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
 Regression for Astronomical Time
@@ -201,7 +201,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[827
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[833
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -483,7 +483,7 @@ Benjamin T.; & Luger, Rodrigo, 2019, *[WOBBLE: A Data-driven Analysis
 Technique for Time-series Stellar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ab40a7)*, The Astronomical
 Journal, **158**, 164
-([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[42
+([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..164B)\]
 
 Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
@@ -705,7 +705,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[238
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[239
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -822,7 +822,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8165
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8167
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

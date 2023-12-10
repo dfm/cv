@@ -214,23 +214,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2305.14220",
-    "authors": [
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ace105",
-    "page": 112,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2023-09-00",
-    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
-    "volume": "166",
-    "year": "2023"
-  },
-  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -248,6 +231,23 @@
     "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
     "volume": "954",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2305.14220",
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ace105",
+    "page": 112,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-09-00",
+    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
+    "volume": "166",
     "year": "2023"
   },
   {
@@ -1391,7 +1391,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 827,
+    "citations": 833,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4089,7 +4089,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -6238,7 +6238,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1381,
+    "citations": 1383,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6309,7 +6309,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 238,
+    "citations": 239,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7172,7 +7172,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8165,
+    "citations": 8167,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
