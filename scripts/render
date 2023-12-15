@@ -130,6 +130,15 @@ if __name__ == "__main__":
     with open("tex/pubs_summary.tex", "w") as f:
         f.write(summary)
 
+    macros = [
+        f"\\newcommand{{\\pubsdate}}{{{date.today()}}}",
+        f"\\newcommand{{\\pubsnumber}}{{{npapers}}}",
+        f"\\newcommand{{\\pubscitations}}{{{ncitations:,}}}",
+        f"\\newcommand{{\\pubshindex}}{{{hindex}}}",
+    ]
+    with open("tex/pubs_summary_macros.tex", "w") as f:
+        f.write("\n".join(macros))
+
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
     with open("tex/pubs_ref.tex", "w") as f:
