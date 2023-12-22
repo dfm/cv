@@ -889,7 +889,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -1436,7 +1436,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 870,
+    "citations": 874,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4901,7 +4901,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5637,7 +5637,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -6316,7 +6316,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1393,
+    "citations": 1394,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7250,7 +7250,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8214,
+    "citations": 8222,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
