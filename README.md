@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 17,951 / h-index: 44
-(2023-12-23)
+refereed: 100 / first author: 9 / citations: 17,967 / h-index: 44
+(2023-12-24)
 
 ### Refereed publications
 
@@ -92,6 +92,13 @@ Journal, **166**, 258
 ([arXiv:2302.05064](http://arxiv.org/abs/2302.05064)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..258Y)\]
 
+Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
+Bayesian Framework for Inferring the Stellar Obliquity
+Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
+Astronomical Journal, **166**, 112
+([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[5
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D)\]
+
 Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
 Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-time
 Classification of Supernovae Using Host-galaxy Information and Shallow
@@ -99,13 +106,6 @@ Learning](http://dx.doi.org/10.3847/1538-4357/ace326)*, The
 Astrophysical Journal, **954**, 6
 ([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G)\]
-
-Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
-Bayesian Framework for Inferring the Stellar Obliquity
-Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
-Astronomical Journal, **166**, 112
-([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[5
-citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
 Regression for Astronomical Time
@@ -203,7 +203,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[881
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[889
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -477,7 +477,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[160
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[159
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -581,7 +581,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[231
+\[[232
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -634,7 +634,7 @@ Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
 *[Linear Models for Systematics and
 Nuisances](http://dx.doi.org/10.3847/2515-5172/aa96b5)*, Research Notes
 of the American Astronomical Society, **1**, 7
-([arXiv:1710.11136](http://arxiv.org/abs/1710.11136)) \[[19
+([arXiv:1710.11136](http://arxiv.org/abs/1710.11136)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2017RNAAS...1....7L)\]
 
 Price-Whelan, Adrian M.; & **Foreman-Mackey, Daniel**, 2017,
@@ -824,7 +824,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8233
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8241
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

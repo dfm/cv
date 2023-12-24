@@ -259,6 +259,23 @@
     "year": "2023"
   },
   {
+    "arxiv": "2305.14220",
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 5,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ace105",
+    "page": 112,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2023-09-00",
+    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
+    "volume": "166",
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.08894",
     "authors": [
       "Gagliano, Alexander",
@@ -276,23 +293,6 @@
     "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
     "volume": "954",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.14220",
-    "authors": [
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 5,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ace105",
-    "page": 112,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2023-09-00",
-    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
-    "volume": "166",
     "year": "2023"
   },
   {
@@ -841,7 +841,7 @@
       "Springford, Aaron",
       "Tak, Hyungsuk"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.04703",
     "page": null,
@@ -1436,7 +1436,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 881,
+    "citations": 889,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4129,7 +4129,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 160,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5402,7 +5402,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 231,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5575,7 +5575,7 @@
       "Foreman-Mackey, Daniel",
       "Hogg, David W."
     ],
-    "citations": 19,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aa96b5",
     "page": 7,
@@ -7250,7 +7250,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8233,
+    "citations": 8241,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7274,7 +7274,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 96,
+    "citations": 95,
     "doctype": "software",
     "doi": null,
     "page": null,
