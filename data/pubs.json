@@ -442,7 +442,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -992,7 +992,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1114,7 +1114,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -1521,7 +1521,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 12,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -2614,7 +2614,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 106,
+    "citations": 185,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2645,7 +2645,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 4,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -2783,7 +2783,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 33,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -6555,7 +6555,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 53,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7015,24 +7015,6 @@
     "title": "Exoplanet Population Inference and the Abundance of Earth Analogs from Noisy, Incomplete Catalogs",
     "url": "https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F",
     "volume": "795",
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Sick, Jonathan",
-      "Johnson, Ben"
-    ],
-    "citations": 116,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.12157",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-10-09",
-    "title": "python-fsps: Python bindings to FSPS (v0.1.1)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....12157F",
-    "volume": null,
     "year": "2014"
   },
   {
