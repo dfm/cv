@@ -357,7 +357,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -398,7 +398,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1623,7 +1623,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -1965,7 +1965,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -4077,7 +4077,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -5420,7 +5420,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 158,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5507,7 +5507,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 552,
+    "citations": 553,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6317,7 +6317,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1395,
+    "citations": 1396,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7233,7 +7233,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8252,
+    "citations": 8253,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
