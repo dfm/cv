@@ -443,7 +443,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -583,6 +583,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.21105/joss.05021",
+    "page": 5021,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2023-03-00",
+    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
+    "volume": "8",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Gillen, E.",
       "Briegal, J. T.",
       "Hodgkin, S. T.",
@@ -614,24 +632,6 @@
     "title": "VizieR Online Data Catalog: NGTS clusters survey - I. Rotation in Blanco 1 (Gillen+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2023yCat..74921008G",
     "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Wong, Kaze W. K.",
-      "Gabri{\\'e}, Marylou",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.21105/joss.05021",
-    "page": 5021,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2023-03-00",
-    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
-    "volume": "8",
     "year": "2023"
   },
   {
@@ -684,7 +684,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1635,6 +1635,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 15,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -1653,26 +1673,6 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 15,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -2615,7 +2615,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 185,
+    "citations": 106,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -5226,7 +5226,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 34,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -7022,6 +7022,24 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Johnson, Ben"
+    ],
+    "citations": 116,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.12157",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-10-09",
+    "title": "python-fsps: Python bindings to FSPS (v0.1.1)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....12157F",
+    "volume": null,
+    "year": "2014"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
       "Hoyer, Stephan",
       "Bernhard, Jonah",
       "Angus, Ruth"
@@ -7078,7 +7096,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 43,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
