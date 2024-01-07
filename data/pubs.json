@@ -170,7 +170,7 @@
       "Willman, Beth",
       "Zhao, Lily"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2311.04272",
     "page": null,
@@ -819,7 +819,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -1437,7 +1437,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 902,
+    "citations": 908,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3178,7 +3178,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 191,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5420,7 +5420,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 160,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6317,7 +6317,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1398,
+    "citations": 1401,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7007,7 +7007,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 226,
+    "citations": 227,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7251,7 +7251,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8260,
+    "citations": 8274,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
