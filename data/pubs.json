@@ -357,7 +357,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -443,7 +443,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -583,24 +583,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Wong, Kaze W. K.",
-      "Gabri{\\'e}, Marylou",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 4,
-    "doctype": "article",
-    "doi": "10.21105/joss.05021",
-    "page": 5021,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2023-03-00",
-    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
-    "volume": "8",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Gillen, E.",
       "Briegal, J. T.",
       "Hodgkin, S. T.",
@@ -632,6 +614,24 @@
     "title": "VizieR Online Data Catalog: NGTS clusters survey - I. Rotation in Blanco 1 (Gillen+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2023yCat..74921008G",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Wong, Kaze W. K.",
+      "Gabri{\\'e}, Marylou",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "article",
+    "doi": "10.21105/joss.05021",
+    "page": 5021,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2023-03-00",
+    "title": "flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W",
+    "volume": "8",
     "year": "2023"
   },
   {
@@ -791,7 +791,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 67,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1437,7 +1437,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 908,
+    "citations": 916,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3110,7 +3110,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 6,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -3178,7 +3178,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4102,7 +4102,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4130,7 +4130,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 160,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4332,7 +4332,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 178,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5226,7 +5226,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 19,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -5420,7 +5420,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 161,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5507,7 +5507,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 554,
+    "citations": 557,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5930,7 +5930,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -6317,7 +6317,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1401,
+    "citations": 1404,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6753,7 +6753,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 430,
+    "citations": 431,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7025,7 +7025,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7096,7 +7096,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 43,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -7251,7 +7251,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8274,
+    "citations": 8283,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
