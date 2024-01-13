@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 261 stars / 21 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 262 stars / 21 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -68,7 +68,7 @@ Make some beautiful corner plots
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 665 stars / 119 forks  
+[**daft**](https://github.com/daft-dev/daft) — 666 stars / 119 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 100 / first author: 9 / citations: 18,110 / h-index: 44
-(2024-01-12)
+(2024-01-13)
 
 ### Refereed publications
 
