@@ -63,7 +63,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 195 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 196 stars
 / 52 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 100 / first author: 9 / citations: 18,159 / h-index: 44
-(2024-01-15)
+(2024-01-16)
 
 ### Refereed publications
 
