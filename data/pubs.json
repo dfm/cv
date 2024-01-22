@@ -290,6 +290,26 @@
     "year": "2023"
   },
   {
+    "arxiv": "2305.08894",
+    "authors": [
+      "Gagliano, Alexander",
+      "Contardo, Gabriella",
+      "Foreman-Mackey, Daniel",
+      "Malz, Alex I.",
+      "Aleo, Patrick D."
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ace326",
+    "page": 6,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2023-09-00",
+    "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
+    "volume": "954",
+    "year": "2023"
+  },
+  {
     "arxiv": "2305.14220",
     "authors": [
       "Dong, Jiayin",
@@ -304,26 +324,6 @@
     "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D",
     "volume": "166",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.08894",
-    "authors": [
-      "Gagliano, Alexander",
-      "Contardo, Gabriella",
-      "Foreman-Mackey, Daniel",
-      "Malz, Alex I.",
-      "Aleo, Patrick D."
-    ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ace326",
-    "page": 6,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2023-09-00",
-    "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
-    "volume": "954",
     "year": "2023"
   },
   {
@@ -791,7 +791,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1437,7 +1437,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 957,
+    "citations": 966,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1583,7 +1583,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -1643,7 +1643,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -2151,7 +2151,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2708,7 +2708,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3178,7 +3178,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 195,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3198,7 +3198,7 @@
       "Foreman-Mackey, Daniel",
       "Barentsen, Geert"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abd31c",
     "page": 95,
@@ -3797,7 +3797,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7d38",
     "page": 202,
@@ -4332,7 +4332,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 180,
+    "citations": 181,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4651,7 +4651,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5243,7 +5243,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -5263,7 +5263,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 134,
+    "citations": 135,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -5930,7 +5930,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -6210,7 +6210,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 226,
+    "citations": 227,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -6247,7 +6247,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -6317,7 +6317,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1411,
+    "citations": 1414,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6753,7 +6753,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 431,
+    "citations": 432,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6793,7 +6793,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -7251,7 +7251,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8324,
+    "citations": 8332,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
