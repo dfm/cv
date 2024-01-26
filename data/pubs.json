@@ -1437,7 +1437,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 962,
+    "citations": 968,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2151,7 +2151,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3178,7 +3178,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 196,
+    "citations": 197,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5507,7 +5507,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 558,
+    "citations": 559,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6317,7 +6317,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1412,
+    "citations": 1415,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6656,7 +6656,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -6753,7 +6753,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 431,
+    "citations": 432,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -6772,7 +6772,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 153,
+    "citations": 154,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7251,7 +7251,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8329,
+    "citations": 8341,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
