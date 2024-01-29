@@ -58,13 +58,13 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 474 stars / 222
+[**corner.py**](https://github.com/dfm/corner.py) — 474 stars / 223
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 196 stars
-/ 52 forks  
+/ 53 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 18,299 / h-index: 44
-(2024-01-28)
+refereed: 100 / first author: 9 / citations: 18,305 / h-index: 44
+(2024-01-29)
 
 ### Refereed publications
 
@@ -157,7 +157,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 structure of galactic molecular cloud complexes out to 2.5
 kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
 Royal Astronomical Society, **519**, 228
-([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[4
+([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D)\]
 
 Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
@@ -204,7 +204,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[981
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[983
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -271,7 +271,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.; &
 structure of the Orion, Cygnus X, Taurus, and Perseus star-forming
 regions](http://dx.doi.org/10.1051/0004-6361/202141298)*, Astronomy and
 Astrophysics, **658**
-([arXiv:2111.06672](http://arxiv.org/abs/2111.06672)) \[[14
+([arXiv:2111.06672](http://arxiv.org/abs/2111.06672)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...658A.166D)\]
 
 Feinstein, Adina D.; David, Trevor J.; Montet, Benjamin T.;
@@ -825,7 +825,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8357
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8359
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
