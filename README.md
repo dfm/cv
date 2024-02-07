@@ -58,7 +58,7 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 474 stars / 223
+[**corner.py**](https://github.com/dfm/corner.py) — 475 stars / 223
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 100 / first author: 9 / citations: 18,396 / h-index: 44
-(2024-02-06)
+(2024-02-07)
 
 ### Refereed publications
 
