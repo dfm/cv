@@ -357,7 +357,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -791,7 +791,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -842,7 +842,7 @@
       "Springford, Aaron",
       "Tak, Hyungsuk"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.04703",
     "page": null,
@@ -912,7 +912,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.05329",
     "page": null,
@@ -1093,7 +1093,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2211.06397",
     "page": null,
@@ -1437,7 +1437,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1025,
+    "citations": 1030,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1534,6 +1534,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 26,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -1569,29 +1592,6 @@
     "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
     "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
     "volume": "6",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 26,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
     "year": "2022"
   },
   {
@@ -3178,7 +3178,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 201,
+    "citations": 202,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3663,7 +3663,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 152,
+    "citations": 153,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4077,7 +4077,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 109,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4651,7 +4651,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5893,7 +5893,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 270,
+    "citations": 271,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6317,7 +6317,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1428,
+    "citations": 1429,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6753,7 +6753,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 433,
+    "citations": 434,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7251,7 +7251,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8405,
+    "citations": 8415,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
