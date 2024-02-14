@@ -49,7 +49,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 512
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 514
 stars / 43 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 18,455 / h-index: 44
-(2024-02-13)
+refereed: 100 / first author: 9 / citations: 18,454 / h-index: 44
+(2024-02-14)
 
 ### Refereed publications
 
@@ -825,7 +825,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8414
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8413
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -843,6 +843,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Garcia, Lionel; **Foreman-Mackey, Daniel**; Murray, Catriona A.;
+Aigrain, Suzanne; *et al.*, 2024, nuance: Efficient detection of planets
+transiting active stars, ArXiv
+([arXiv:2402.06835](http://arxiv.org/abs/2402.06835))
 
 Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;
 *et al.* (incl. **DFM**), 2023, *[The Future of Astronomical Data

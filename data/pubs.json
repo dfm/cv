@@ -1,5 +1,26 @@
 [
   {
+    "arxiv": "2402.06835",
+    "authors": [
+      "Garcia, Lionel",
+      "Foreman-Mackey, Daniel",
+      "Murray, Catriona A.",
+      "Aigrain, Suzanne",
+      "Feliz, Dax L.",
+      "Pozuelos, Francisco J."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-02-00",
+    "title": "nuance: Efficient detection of planets transiting active stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240206835G",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Price-Whelan, Adrian",
@@ -7272,7 +7293,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8414,
+    "citations": 8413,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
