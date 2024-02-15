@@ -54,7 +54,7 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1398 stars / 439 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1400 stars / 439 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 18,454 / h-index: 44
-(2024-02-14)
+refereed: 100 / first author: 9 / citations: 18,462 / h-index: 44
+(2024-02-15)
 
 ### Refereed publications
 
@@ -140,7 +140,7 @@ Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
 exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
-664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[72
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[73
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
@@ -204,7 +204,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1029
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1031
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -386,7 +386,7 @@ Daniel**; & Barentsen, Geert, 2021, *[Multiwavelength Photometry Derived
 from Monochromatic Kepler
 Data](http://dx.doi.org/10.3847/1538-3881/abd31c)*, The Astronomical
 Journal, **161**, 95
-([arXiv:2102.00044](http://arxiv.org/abs/2102.00044)) \[[5
+([arXiv:2102.00044](http://arxiv.org/abs/2102.00044)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161...95H)\]
 
 Gordon, Tyler A.; Agol, Eric; & **Foreman-Mackey, Daniel**, 2020, *[A
@@ -750,7 +750,7 @@ Barclay, Thomas; Quintana, Elisa V.; Adams, Fred C.; Ciardi, David R.;
 Binary System All Orbit the Primary: A Statistical and Analytical
 Analysis](http://dx.doi.org/10.1088/0004-637X/809/1/7)*, The
 Astrophysical Journal, **809**, 7
-([arXiv:1505.01845](http://arxiv.org/abs/1505.01845)) \[[33
+([arXiv:1505.01845](http://arxiv.org/abs/1505.01845)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...809....7B)\]
 
 Angus, Ruth; Aigrain, Suzanne; **Foreman-Mackey, Daniel**; & McQuillan,
@@ -825,7 +825,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8413
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8416
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -845,8 +845,9 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 
 Garcia, Lionel; **Foreman-Mackey, Daniel**; Murray, Catriona A.;
-Aigrain, Suzanne; *et al.*, 2024, nuance: Efficient detection of planets
-transiting active stars, ArXiv
+Aigrain, Suzanne; *et al.*, 2024, *[nuance: Efficient detection of
+planets transiting active
+stars](http://dx.doi.org/10.48550/arXiv.2402.06835)*, ArXiv
 ([arXiv:2402.06835](http://arxiv.org/abs/2402.06835))
 
 Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;

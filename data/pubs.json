@@ -11,7 +11,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2402.06835",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2024-02-00",
@@ -812,7 +812,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1458,7 +1458,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1029,
+    "citations": 1031,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3219,7 +3219,7 @@
       "Foreman-Mackey, Daniel",
       "Barentsen, Geert"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abd31c",
     "page": 95,
@@ -6359,7 +6359,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1429,
+    "citations": 1430,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6698,7 +6698,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -7293,7 +7293,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8413,
+    "citations": 8416,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
