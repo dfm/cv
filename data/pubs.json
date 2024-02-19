@@ -1243,14 +1243,14 @@
       "Foreman-Mackey, D."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51640025",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2022-10-00",
     "title": "VizieR Online Data Catalog: Velocity data for 148590 stars in the Kepler field (Angus+, 2022)",
     "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..51640025A",
-    "volume": null,
+    "volume": "516",
     "year": "2022"
   },
   {
@@ -1307,14 +1307,14 @@
       "Foreman-Mackey, D."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51630247",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2022-09-00",
     "title": "VizieR Online Data Catalog: HIRES, PEPSI {\\&} TRES radial velocities of V1298 Tau (Johnson+, 2022)",
     "url": "https://ui.adsabs.harvard.edu/abs/2022yCat..51630247J",
-    "volume": null,
+    "volume": "516",
     "year": "2022"
   },
   {
@@ -1458,7 +1458,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1057,
+    "citations": 1056,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2061,14 +2061,14 @@
       "Strader, J."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.19000095",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-11-00",
     "title": "VizieR Online Data Catalog: New M87 GCs metallicities from Keck {\\&} MMT sp. (Villaume+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..19000095V",
-    "volume": null,
+    "volume": "190",
     "year": "2021"
   },
   {
@@ -2335,14 +2335,14 @@
       "Shiao, B."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.22550006",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-10-00",
     "title": "VizieR Online Data Catalog: Warm Jupiters in TESS FFIs 1st year (2018-2019 July) (Dong+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..22550006D",
-    "volume": null,
+    "volume": "225",
     "year": "2021"
   },
   {
@@ -2421,14 +2421,14 @@
       "Petigura, E. A."
     ],
     "citations": 0,
-    "doctype": "catalog",
+    "doctype": "dataset",
     "doi": "10.26093/cds/vizier.51610265",
     "page": null,
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2021-08-00",
     "title": "VizieR Online Data Catalog: Compared rotation periods for 1189 CKS host stars (David+, 2021)",
     "url": "https://ui.adsabs.harvard.edu/abs/2021yCat..51610265D",
-    "volume": null,
+    "volume": "516",
     "year": "2021"
   },
   {
