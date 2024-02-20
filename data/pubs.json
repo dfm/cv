@@ -23,6 +23,31 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel",
+      "Yu, Weixiang",
+      "Yadav, Sachin",
+      "Reynolds Becker, McCoy",
+      "Caplar, Neven",
+      "Huppenkothen, Daniela",
+      "Killestein, Thomas",
+      "Tronsgaard, Ren{\\'e}",
+      "Rashid, Theo",
+      "Schmerler, Steve"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.10463641",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-01-05",
+    "title": "dfm/tinygp: The tiniest of Gaussian Process libraries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10463641F",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Price-Whelan, Adrian",
       "Wagg, Tom",
       "Sip{\\'{o}}cz, Brigitta",
@@ -464,7 +489,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -660,7 +685,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -705,7 +730,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 9,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1136,7 +1161,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -1181,7 +1206,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 6,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -1189,6 +1214,51 @@
     "pubdate": "2022-10-17",
     "title": "joshspeagle/dynesty: v2.0.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...7215695K",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Koposov, Sergey",
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Bennett, Ed",
+      "Buchner, Johannes",
+      "Scheffler, Carl",
+      "Cook, Ben",
+      "Talbot, Colm",
+      "Guillochon, James",
+      "Cubillos, Patricio",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Johnson, Ben",
+      "Lang, Dustin",
+      "Ilya",
+      "Dartiailh, Matthieu",
+      "Nitz, Alex",
+      "McCluskey, Andrew",
+      "Archibald, Anne",
+      "Deil, Christoph",
+      "Foreman-Mackey, Dan",
+      "Goldstein, Danny",
+      "Tollerud, Erik",
+      "Leja, Joel",
+      "Kirk, Matthew",
+      "Pitkin, Matt",
+      "Sheehan, Patrick",
+      "Cargile, Phillip",
+      "Ruskin23",
+      "Angus, Ruth"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.7148446",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-10-05",
+    "title": "joshspeagle/dynesty: v2.0.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...7148446K",
     "volume": null,
     "year": "2022"
   },
@@ -1543,7 +1613,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 19,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1616,26 +1686,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 16,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -1694,6 +1744,26 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 16,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -1777,7 +1847,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -1822,7 +1892,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 6,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -1861,7 +1931,7 @@
       "Tronsgaard, Ren{\\'e}",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389738",
     "page": null,
@@ -2636,7 +2706,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -6578,6 +6648,24 @@
     "year": "2016"
   },
   {
+    "arxiv": "1505.07105",
+    "authors": [
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Johnson, John A."
+    ],
+    "citations": 27,
+    "doctype": "article",
+    "doi": "10.3847/0004-637X/818/2/109",
+    "page": 109,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2016-02-00",
+    "title": "Systematics-insensitive Periodic Signal Search with K2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A",
+    "volume": "818",
+    "year": "2016"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
@@ -6598,7 +6686,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": 45906,
@@ -6607,24 +6695,6 @@
     "title": "corner.py: corner.py v1.0.2",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": "1505.07105",
-    "authors": [
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Johnson, John A."
-    ],
-    "citations": 27,
-    "doctype": "article",
-    "doi": "10.3847/0004-637X/818/2/109",
-    "page": 109,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2016-02-00",
-    "title": "Systematics-insensitive Periodic Signal Search with K2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A",
-    "volume": "818",
     "year": "2016"
   },
   {
@@ -6826,6 +6896,27 @@
     "year": "2015"
   },
   {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 109,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -6856,27 +6947,6 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 109,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -7067,7 +7137,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 119,
+    "citations": 193,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7132,7 +7202,7 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Barbary, Kyle",
       "Hogg, David W.",
@@ -7141,10 +7211,10 @@
     "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
-    "page": 11020,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-07-00",
-    "title": "triangle.py: triangle.py v0.1.1",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-07-24",
+    "title": "triangle.py v0.1.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
