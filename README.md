@@ -54,7 +54,7 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1402 stars / 438 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1401 stars / 438 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 18,546 / h-index: 44
-(2024-02-21)
+refereed: 100 / first author: 9 / citations: 18,557 / h-index: 44
+(2024-02-22)
 
 ### Refereed publications
 
@@ -204,7 +204,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1056
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1060
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -295,7 +295,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[69
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[70
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -478,7 +478,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[163
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[164
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -516,7 +516,7 @@ Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, The Astronomical
 Journal, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[95
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[96
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
@@ -825,7 +825,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8443
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8447
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
