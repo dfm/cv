@@ -1528,7 +1528,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1060,
+    "citations": 1066,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1651,7 +1651,7 @@
       "Gerner, Lyn E.",
       "Burch, Timothy M."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ac74c4",
     "page": 111,
@@ -1674,7 +1674,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -2242,7 +2242,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -4221,7 +4221,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4423,7 +4423,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 180,
+    "citations": 181,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5515,7 +5515,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 234,
+    "citations": 235,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5619,7 +5619,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 572,
+    "citations": 573,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6042,7 +6042,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -6391,7 +6391,7 @@
       "Lustig-Yaeger, Jacob",
       "Schwieterman, Eddie"
     ],
-    "citations": 65,
+    "citations": 64,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1608.06919",
     "page": null,
@@ -6429,7 +6429,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1435,
+    "citations": 1436,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7363,7 +7363,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8447,
+    "citations": 8453,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
