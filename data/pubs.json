@@ -444,7 +444,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1528,7 +1528,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1066,
+    "citations": 1073,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2242,7 +2242,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2799,7 +2799,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4221,7 +4221,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 165,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5619,7 +5619,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 573,
+    "citations": 574,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6429,7 +6429,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1436,
+    "citations": 1438,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7363,7 +7363,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8453,
+    "citations": 8456,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
