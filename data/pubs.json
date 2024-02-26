@@ -21,6 +21,43 @@
     "year": "2024"
   },
   {
+    "arxiv": "2402.10797",
+    "authors": [
+      "Cabezas, Alberto",
+      "Corenflos, Adrien",
+      "Lao, Junpeng",
+      "Louf, R{\\'e}mi",
+      "Carnec, Antoine",
+      "Chaudhari, Kaustubh",
+      "Cohn-Gordon, Reuben",
+      "Coullon, Jeremie",
+      "Deng, Wei",
+      "Duffield, Sam",
+      "Dur{\\'a}n-Mart{\\'\\i}n, Gerardo",
+      "Elantkowski, Marcin",
+      "Foreman-Mackey, Dan",
+      "Gregori, Michele",
+      "Iguaran, Carlos",
+      "Kumar, Ravin",
+      "Lysy, Martin",
+      "Murphy, Kevin",
+      "Orduz, Juan Camilo",
+      "Patel, Karm",
+      "Wang, Xi",
+      "Zinkov, Rob"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2402.10797",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-02-00",
+    "title": "BlackJAX: Composable Bayesian inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240210797C",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -1528,7 +1565,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1081,
+    "citations": 1086,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4742,7 +4779,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 97,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -6042,7 +6079,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -6896,27 +6933,6 @@
     "year": "2015"
   },
   {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 109,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -6947,6 +6963,27 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 109,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -7119,7 +7156,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 228,
+    "citations": 229,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7363,7 +7400,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8465,
+    "citations": 8471,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
