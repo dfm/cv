@@ -58,6 +58,27 @@
     "year": "2024"
   },
   {
+    "arxiv": "2402.15204",
+    "authors": [
+      "Fortune, Mark",
+      "Gibson, Neale P.",
+      "Foreman-Mackey, Daniel",
+      "Mikal-Evans, Thomas",
+      "Maguire, Cathal",
+      "Ramkumar, Swaetha"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-02-00",
+    "title": "How do wavelength correlations affect your transmission spectrum? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240215204F",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -277,7 +298,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -722,7 +743,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -1106,7 +1127,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1884,7 +1905,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -2912,7 +2933,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 35,
+    "citations": 21,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3076,7 +3097,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 39,
+    "citations": 23,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -7174,7 +7195,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 193,
+    "citations": 119,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,

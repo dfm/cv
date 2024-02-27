@@ -58,7 +58,7 @@ A workflow for reproducible and open scientific articles
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 483 stars / 226
+[**corner.py**](https://github.com/dfm/corner.py) — 484 stars / 226
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 100 / first author: 9 / citations: 18,635 / h-index: 44
-(2024-02-26)
+(2024-02-27)
 
 ### Refereed publications
 
@@ -854,6 +854,13 @@ Cabezas, Alberto; Corenflos, Adrien; Lao, Junpeng; Louf, Rémi;
 *et al.* (incl. **DFM**), 2024, *[BlackJAX: Composable Bayesian
 inference in JAX](http://dx.doi.org/10.48550/arXiv.2402.10797)*, ArXiv
 ([arXiv:2402.10797](http://arxiv.org/abs/2402.10797))
+
+Fortune, Mark; Gibson, Neale P.; **Foreman-Mackey, Daniel**;
+Mikal-Evans, Thomas; *et al.*, 2024, How do wavelength correlations
+affect your transmission spectrum? Application of a new fast and
+flexible 2D Gaussian process framework to transiting exoplanet
+spectroscopy, ArXiv
+([arXiv:2402.15204](http://arxiv.org/abs/2402.15204))
 
 Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;
 *et al.* (incl. **DFM**), 2023, *[The Future of Astronomical Data
