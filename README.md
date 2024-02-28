@@ -49,16 +49,16 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 515
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 516
 stars / 43 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1401 stars / 438 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1402 stars / 438 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 484 stars / 226
+[**corner.py**](https://github.com/dfm/corner.py) — 485 stars / 226
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 18,635 / h-index: 44
-(2024-02-27)
+refereed: 100 / first author: 9 / citations: 18,622 / h-index: 44
+(2024-02-28)
 
 ### Refereed publications
 
@@ -204,7 +204,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1086
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1080
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -363,7 +363,7 @@ Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
 for Modified Spin-down](http://dx.doi.org/10.3847/1538-4357/abf63e)*,
 The Astrophysical Journal, **913**, 70
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[29
+([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G)\]
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
@@ -411,7 +411,7 @@ Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
 Rotation Using Galactic
 Kinematics](http://dx.doi.org/10.3847/1538-3881/ab91b2)*, The
 Astronomical Journal, **160**, 90
-([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[36
+([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A)\]
 
 Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
@@ -656,7 +656,7 @@ Rix, Hans-Walter, 2017, *[The Joker: A Custom Monte Carlo Sampler for
 Binary-star and Exoplanet Radial Velocity
 Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, The Astrophysical
 Journal, **837**, 20
-([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[106
+([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[105
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
 **Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
@@ -825,7 +825,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8471
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8463
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -856,10 +856,10 @@ inference in JAX](http://dx.doi.org/10.48550/arXiv.2402.10797)*, ArXiv
 ([arXiv:2402.10797](http://arxiv.org/abs/2402.10797))
 
 Fortune, Mark; Gibson, Neale P.; **Foreman-Mackey, Daniel**;
-Mikal-Evans, Thomas; *et al.*, 2024, How do wavelength correlations
+Mikal-Evans, Thomas; *et al.*, 2024, *[How do wavelength correlations
 affect your transmission spectrum? Application of a new fast and
 flexible 2D Gaussian process framework to transiting exoplanet
-spectroscopy, ArXiv
+spectroscopy](http://dx.doi.org/10.48550/arXiv.2402.15204)*, ArXiv
 ([arXiv:2402.15204](http://arxiv.org/abs/2402.15204))
 
 Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;

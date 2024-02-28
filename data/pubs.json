@@ -69,7 +69,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2402.15204",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2024-02-00",
@@ -1586,7 +1586,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1086,
+    "citations": 1080,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2956,7 +2956,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -3484,7 +3484,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -6100,7 +6100,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 106,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7421,7 +7421,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8471,
+    "citations": 8463,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
