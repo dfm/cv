@@ -21,6 +21,27 @@
     "year": "2024"
   },
   {
+    "arxiv": "2402.15204",
+    "authors": [
+      "Fortune, Mark",
+      "Gibson, Neale P.",
+      "Foreman-Mackey, Daniel",
+      "Mikal-Evans, Thomas",
+      "Maguire, Cathal",
+      "Ramkumar, Swaetha"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2402.15204",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-02-00",
+    "title": "How do wavelength correlations affect your transmission spectrum? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240215204F",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2402.10797",
     "authors": [
       "Cabezas, Alberto",
@@ -54,27 +75,6 @@
     "pubdate": "2024-02-00",
     "title": "BlackJAX: Composable Bayesian inference in JAX",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240210797C",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": "2402.15204",
-    "authors": [
-      "Fortune, Mark",
-      "Gibson, Neale P.",
-      "Foreman-Mackey, Daniel",
-      "Mikal-Evans, Thomas",
-      "Maguire, Cathal",
-      "Ramkumar, Swaetha"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2402.15204",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-02-00",
-    "title": "How do wavelength correlations affect your transmission spectrum? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240215204F",
     "volume": null,
     "year": "2024"
   },
@@ -461,7 +461,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -895,7 +895,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1586,7 +1586,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1080,
+    "citations": 1085,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1732,7 +1732,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -2857,7 +2857,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -2956,7 +2956,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -3365,7 +3365,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -4251,7 +4251,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4481,7 +4481,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5610,7 +5610,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 158,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -5626,7 +5626,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 134,
+    "citations": 135,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5677,7 +5677,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 574,
+    "citations": 576,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6487,7 +6487,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1439,
+    "citations": 1440,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6954,6 +6954,27 @@
     "year": "2015"
   },
   {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 109,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -6984,27 +7005,6 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 109,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -7421,7 +7421,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8463,
+    "citations": 8466,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
