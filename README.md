@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 18,664 / h-index: 44
-(2024-03-01)
+refereed: 100 / first author: 9 / citations: 18,686 / h-index: 44
+(2024-03-02)
 
 ### Refereed publications
 
@@ -157,7 +157,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 structure of galactic molecular cloud complexes out to 2.5
 kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
 Royal Astronomical Society, **519**, 228
-([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[4
+([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D)\]
 
 Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
@@ -204,7 +204,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1090
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1096
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -433,7 +433,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
 **582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248))
-\[[153
+\[[154
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -463,8 +463,15 @@ David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[112
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[113
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
+
+**Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
+Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
+affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
+Journal of Open Source Software, **4**, 1864
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[169
+citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
 Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
@@ -473,13 +480,6 @@ Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
 ([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[91
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
-
-**Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
-Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
-affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
-Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[168
-citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
 Benjamin T.; & Luger, Rodrigo, 2019, *[WOBBLE: A Data-driven Analysis
@@ -612,7 +612,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[576
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[577
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -620,7 +620,7 @@ Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
 Magnetic Cycles of Sun-like
 Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
 Journal, **851**, 116
-([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[77
+([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[78
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
@@ -825,7 +825,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8475
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8485
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
