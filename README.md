@@ -54,7 +54,7 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1404 stars / 438 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1406 stars / 438 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 100 / first author: 9 / citations: 18,686 / h-index: 44
-(2024-03-02)
+refereed: 100 / first author: 9 / citations: 18,703 / h-index: 44
+(2024-03-03)
 
 ### Refereed publications
 
@@ -104,7 +104,7 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-time
 Classification of Supernovae Using Host-galaxy Information and Shallow
 Learning](http://dx.doi.org/10.3847/1538-4357/ace326)*, The
 Astrophysical Journal, **954**, 6
-([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[7
+([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
@@ -204,7 +204,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1096
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1106
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -250,7 +250,7 @@ Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
 for the Observed Dust Attenuation in
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
 Astrophysical Journal, **932**, 54
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[16
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
@@ -825,7 +825,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8485
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8490
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
