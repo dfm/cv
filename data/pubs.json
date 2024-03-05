@@ -1138,7 +1138,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 10,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1305,7 +1305,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -2805,7 +2805,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 107,
+    "citations": 108,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3138,7 +3138,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -3912,7 +3912,7 @@
       "Vincello, Brennan",
       "Sundaram, Anand"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3836658",
     "page": null,
@@ -6747,6 +6747,38 @@
     "year": "2016"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Vousden, Will",
+      "Price-Whelan, Adrian",
+      "Pitkin, Matt",
+      "Zabalza, Victor",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Ashton, Gregory",
+      "Cruz, Kelle",
+      "Kerzendorf, Wolfgang",
+      "Caswell, Thomas A",
+      "Hoyer, Stephan",
+      "Barbary, Kyle",
+      "Czekala, Ian",
+      "Hogg, David W.",
+      "Brewer, Brendon J."
+    ],
+    "citations": 54,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.45906",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-02-11",
+    "title": "corner.py: corner.py v1.0.2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
     "arxiv": "1505.07105",
     "authors": [
       "Angus, Ruth",
@@ -6762,38 +6794,6 @@
     "title": "Systematics-insensitive Periodic Signal Search with K2",
     "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A",
     "volume": "818",
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Vousden, Will",
-      "Price-Whelan, Adrian",
-      "Pitkin, Matt",
-      "Zabalza, Victor",
-      "Ryan, Geoffrey",
-      "Rice, Emily",
-      "Smith, Michael",
-      "Ashton, Gregory",
-      "Cruz, Kelle",
-      "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A.",
-      "Hoyer, Stephan",
-      "Barbary, Kyle",
-      "Czekala, Ian",
-      "Hogg, David W.",
-      "Brewer, Brendon J."
-    ],
-    "citations": 39,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.45906",
-    "page": 45906,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2016-02-00",
-    "title": "corner.py: corner.py v1.0.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
-    "volume": null,
     "year": "2016"
   },
   {
