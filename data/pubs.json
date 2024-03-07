@@ -1,5 +1,25 @@
 [
   {
+    "arxiv": "2403.02489",
+    "authors": [
+      "Hey, Daniel",
+      "Huber, Daniel",
+      "Ong, Joel",
+      "Stello, Dennis",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-03-00",
+    "title": "Precise Time-Domain Asteroseismology and a Revised Target List for TESS Solar-Like Oscillators",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240302489H",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2402.06835",
     "authors": [
       "Garcia, Lionel",
@@ -964,7 +984,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -1627,7 +1647,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1105,
+    "citations": 1109,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2898,7 +2918,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3368,7 +3388,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 205,
+    "citations": 206,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4029,7 +4049,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -5087,7 +5107,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 211,
+    "citations": 212,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5667,7 +5687,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5718,7 +5738,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 577,
+    "citations": 578,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7462,7 +7482,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8490,
+    "citations": 8491,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
