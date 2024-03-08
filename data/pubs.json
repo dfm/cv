@@ -87,7 +87,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -522,7 +522,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -627,7 +627,7 @@
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd05c",
     "page": 162,
@@ -956,7 +956,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 75,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1030,7 +1030,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -1647,7 +1647,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1109,
+    "citations": 1131,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2361,7 +2361,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2918,7 +2918,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 127,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4049,7 +4049,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4340,7 +4340,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4542,7 +4542,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5107,7 +5107,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 212,
+    "citations": 214,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5474,7 +5474,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -5687,7 +5687,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 136,
+    "citations": 138,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5738,7 +5738,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 578,
+    "citations": 579,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6478,7 +6478,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -6548,7 +6548,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1443,
+    "citations": 1445,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6984,7 +6984,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 435,
+    "citations": 436,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7003,7 +7003,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7238,7 +7238,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 229,
+    "citations": 231,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7482,7 +7482,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8491,
+    "citations": 8518,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
