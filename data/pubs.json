@@ -460,7 +460,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1647,7 +1647,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1156,
+    "citations": 1163,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2918,7 +2918,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 132,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3873,7 +3873,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 156,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4049,7 +4049,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -5107,7 +5107,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 214,
+    "citations": 215,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5671,7 +5671,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 164,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -5687,7 +5687,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 140,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6441,7 +6441,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 230,
+    "citations": 229,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -6548,7 +6548,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1451,
+    "citations": 1450,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6984,7 +6984,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 437,
+    "citations": 438,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7103,7 +7103,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 70,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -7482,7 +7482,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8557,
+    "citations": 8561,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
