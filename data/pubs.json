@@ -956,7 +956,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1007,7 +1007,7 @@
       "Springford, Aaron",
       "Tak, Hyungsuk"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.04703",
     "page": null,
@@ -1647,7 +1647,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1163,
+    "citations": 1165,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3017,7 +3017,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -4542,7 +4542,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6548,7 +6548,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1450,
+    "citations": 1451,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7003,7 +7003,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 157,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7482,7 +7482,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8561,
+    "citations": 8564,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
