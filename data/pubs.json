@@ -378,7 +378,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2310.14990",
     "page": null,
@@ -1077,7 +1077,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.05329",
     "page": null,
@@ -1647,7 +1647,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1180,
+    "citations": 1182,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2229,7 +2229,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -4315,7 +4315,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 172,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4542,7 +4542,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 185,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5651,7 +5651,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 168,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6548,7 +6548,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1455,
+    "citations": 1457,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7482,7 +7482,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8588,
+    "citations": 8598,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
