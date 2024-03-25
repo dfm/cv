@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Lu, Yuxi(Lucy)",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Hattori, Soichiro"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ad28b9",
+    "page": 159,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2024-04-00",
+    "title": "In This Day and Age: An Empirical Gyrochronology Relation for Partially and Fully Convective Single Field Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AJ....167..159L",
+    "volume": "167",
+    "year": "2024"
+  },
+  {
     "arxiv": "2403.02489",
     "authors": [
       "Hey, Daniel",
@@ -522,7 +541,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1647,7 +1666,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1190,
+    "citations": 1199,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1668,7 +1687,7 @@
       "Lu, Yuxi (Lucy)",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6fea",
     "page": 25,
@@ -3017,7 +3036,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 31,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -3388,7 +3407,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 207,
+    "citations": 208,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3545,7 +3564,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 37,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -4561,7 +4580,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4861,7 +4880,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5133,7 +5152,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5634,7 +5653,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 239,
+    "citations": 240,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5671,7 +5690,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 163,
+    "citations": 164,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -5738,7 +5757,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 583,
+    "citations": 584,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5756,7 +5775,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -6548,7 +6567,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1468,
+    "citations": 1469,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6984,7 +7003,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 438,
+    "citations": 439,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7003,7 +7022,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 158,
+    "citations": 159,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7482,7 +7501,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8616,
+    "citations": 8618,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
