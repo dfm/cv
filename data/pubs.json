@@ -390,25 +390,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2310.14990",
-    "authors": [
-      "Lu, Yuxi",
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Hattori, Soichiro"
-    ],
-    "citations": 5,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2310.14990",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-10-00",
-    "title": "In this Day and Age: An Empirical Gyrochronology Relation for Partially and Fully Convective Single Field Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv231014990L",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, D.",
@@ -627,7 +608,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -868,7 +849,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1207,7 +1188,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1751,7 +1732,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 13,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -2844,7 +2825,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 110,
+    "citations": 192,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -3177,7 +3158,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -3490,7 +3471,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6806,7 +6787,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7275,7 +7256,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 119,
+    "citations": 200,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,

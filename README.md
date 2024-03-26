@@ -45,11 +45,11 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 271 stars / 21 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 272 stars / 21 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 520
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 521
 stars / 43 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 101 / first author: 9 / citations: 19,055 / h-index: 44
-(2024-03-25)
+refereed: 101 / first author: 9 / citations: 19,050 / h-index: 44
+(2024-03-26)
 
 ### Refereed publications
 
@@ -879,13 +879,6 @@ Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;
 Infrastructure: Meeting
 Report](http://dx.doi.org/10.48550/arXiv.2311.04272)*, ArXiv
 ([arXiv:2311.04272](http://arxiv.org/abs/2311.04272))
-
-Lu, Yuxi; Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori, Soichiro,
-2023, *[In this Day and Age: An Empirical Gyrochronology Relation for
-Partially and Fully Convective Single Field
-Stars](http://dx.doi.org/10.48550/arXiv.2310.14990)*, ArXiv
-([arXiv:2310.14990](http://arxiv.org/abs/2310.14990)) \[[5
-citations](https://ui.adsabs.harvard.edu/abs/2023arXiv231014990L)\]
 
 Eadie, Gwendolyn M.; Speagle, Joshua S.; Cisewski-Kehe, Jessi;
 **Foreman-Mackey, Daniel**; *et al.*, 2023, *[Practical Guidance for
