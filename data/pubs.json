@@ -460,7 +460,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1007,7 +1007,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -1647,7 +1647,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1227,
+    "citations": 1229,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2918,7 +2918,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 135,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -5651,7 +5651,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 175,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5738,7 +5738,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 587,
+    "citations": 586,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7482,7 +7482,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8648,
+    "citations": 8642,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7506,7 +7506,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "software",
     "doi": null,
     "page": null,

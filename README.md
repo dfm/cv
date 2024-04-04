@@ -49,12 +49,12 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 521
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 522
 stars / 43 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1414 stars / 428 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1416 stars / 428 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 101 / first author: 9 / citations: 19,135 / h-index: 44
-(2024-04-03)
+refereed: 101 / first author: 9 / citations: 19,126 / h-index: 44
+(2024-04-04)
 
 ### Refereed publications
 
@@ -104,7 +104,7 @@ Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
 Bayesian Framework for Inferring the Stellar Obliquity
 Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
 Astronomical Journal, **166**, 112
-([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[9
+([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D)\]
 
 Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
@@ -165,7 +165,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 structure of galactic molecular cloud complexes out to 2.5
 kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
 Royal Astronomical Society, **519**, 228
-([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[8
+([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D)\]
 
 Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
@@ -212,7 +212,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1227
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1229
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -356,7 +356,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[135
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[134
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -597,7 +597,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[175
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[174
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -620,7 +620,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[587
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[586
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -833,7 +833,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8648
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8642
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
