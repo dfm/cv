@@ -19,6 +19,23 @@
     "year": "2024"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "AAS/Division for Extreme Solar Systems Abstracts",
+    "pubdate": "2024-04-00",
+    "title": "Deciphering Origins of Close-in Gas Giants through Stellar Obliquity Distribution",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024ESS.....540103D",
+    "volume": "56",
+    "year": "2024"
+  },
+  {
     "arxiv": "2403.02489",
     "authors": [
       "Hey, Daniel",
@@ -522,7 +539,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1647,7 +1664,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1256,
+    "citations": 1251,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3017,7 +3034,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -5651,7 +5668,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 174,
+    "citations": 175,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -7482,7 +7499,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8675,
+    "citations": 8674,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
