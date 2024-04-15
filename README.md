@@ -45,11 +45,11 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 275 stars / 21 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 276 stars / 21 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 530
+[**showyourwork**](https://github.com/showyourwork/showyourwork) — 531
 stars / 43 forks  
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
@@ -63,12 +63,12 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 199 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 200 stars
 / 54 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 670 stars / 119 forks  
+[**daft**](https://github.com/daft-dev/daft) — 671 stars / 119 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 101 / first author: 9 / citations: 19,262 / h-index: 44
-(2024-04-14)
+refereed: 101 / first author: 9 / citations: 19,280 / h-index: 44
+(2024-04-15)
 
 ### Refereed publications
 
@@ -212,7 +212,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1279
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1284
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -250,7 +250,7 @@ Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
 Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
 Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
 The Astronomical Journal, **163**, 247
-([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[19
+([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
 
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
@@ -441,7 +441,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
 **582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248))
-\[[157
+\[[158
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -456,7 +456,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[121
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[120
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -471,7 +471,7 @@ David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[117
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[118
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
@@ -620,7 +620,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[589
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[588
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -780,7 +780,7 @@ Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
 Function in M31
 Clusters](http://dx.doi.org/10.1088/0004-637X/806/2/198)*, The
 Astrophysical Journal, **806**, 198
-([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[58
+([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[59
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
@@ -833,7 +833,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8695
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8705
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -842,7 +842,7 @@ Treasury. IV. A Probabilistic Approach to Inferring the High-mass
 Stellar Initial Mass Function and Other Power-law
 Functions](http://dx.doi.org/10.1088/0004-637X/762/2/123)*, The
 Astrophysical Journal, **762**, 123
-([arXiv:1211.6105](http://arxiv.org/abs/1211.6105)) \[[31
+([arXiv:1211.6105](http://arxiv.org/abs/1211.6105)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 </div>
