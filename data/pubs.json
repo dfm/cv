@@ -821,7 +821,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -866,7 +866,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1297,7 +1297,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -1664,7 +1664,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1284,
+    "citations": 1290,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1772,7 +1772,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -1905,6 +1905,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Casey, Andy",
+      "Ballard, Sarah"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "Bulletin of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
+    "volume": "54",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian",
       "Kreidberg, Laura",
@@ -1931,25 +1950,6 @@
     "pubdate": "2022-06-00",
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
-    "volume": "54",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Casey, Andy",
-      "Ballard, Sarah"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
     "volume": "54",
     "year": "2022"
   },
@@ -2935,7 +2935,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 134,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3337,7 +3337,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -3405,7 +3405,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 207,
+    "citations": 208,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4066,7 +4066,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 120,
+    "citations": 122,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4332,7 +4332,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 178,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4559,7 +4559,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4578,7 +4578,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4878,7 +4878,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 100,
+    "citations": 101,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5124,7 +5124,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 217,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5150,7 +5150,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 167,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5474,7 +5474,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 36,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -5755,7 +5755,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 588,
+    "citations": 590,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6565,7 +6565,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1479,
+    "citations": 1480,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6804,7 +6804,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7001,7 +7001,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 441,
+    "citations": 442,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7020,7 +7020,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 160,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7273,7 +7273,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 122,
+    "citations": 204,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7499,7 +7499,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8705,
+    "citations": 8718,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
