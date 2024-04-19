@@ -1,5 +1,36 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Barclay, Thomas",
+      "Bouma, Luke G.",
+      "Brandt, Timothy D.",
+      "Czekala, Ian",
+      "David, Trevor J.",
+      "Dong, Jiayin",
+      "Gilbert, Emily A.",
+      "Gordon, Tyler A.",
+      "Hedges, Christina",
+      "Hey, Daniel R.",
+      "Morris, Brett M.",
+      "Price-Whelan, Adrian M.",
+      "Savel, Arjun B."
+    ],
+    "citations": 110,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1998447",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-04-16",
+    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1998447F",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2310.14990",
     "authors": [
       "Lu, Yuxi(Lucy)",
@@ -973,7 +1004,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1664,7 +1695,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1287,
+    "citations": 1302,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1862,6 +1893,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -1880,26 +1931,6 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -2152,7 +2183,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -2246,7 +2277,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -2842,37 +2873,6 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 110,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1998447",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-06-21",
-    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...1998447F",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Barclay, Thomas",
-      "Bouma, Luke G.",
-      "Brandt, Timothy D.",
-      "Czekala, Ian",
-      "David, Trevor J.",
-      "Dong, Jiayin",
-      "Gilbert, Emily A.",
-      "Gordon, Tyler A.",
-      "Hedges, Christina",
-      "Hey, Daniel R.",
-      "Morris, Brett M.",
-      "Price-Whelan, Adrian M.",
-      "Savel, Arjun B."
-    ],
     "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
@@ -3405,7 +3405,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 208,
+    "citations": 205,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4066,7 +4066,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 121,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4578,7 +4578,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 57,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4878,7 +4878,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 100,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5150,7 +5150,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 168,
+    "citations": 167,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5369,7 +5369,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -5668,7 +5668,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5773,7 +5773,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -6565,7 +6565,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1480,
+    "citations": 1484,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7499,7 +7499,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8711,
+    "citations": 8719,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
