@@ -19,7 +19,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 111,
+    "citations": 196,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -656,7 +656,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 14,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -897,7 +897,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1206,7 +1206,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1236,7 +1236,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1503,7 +1503,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -1780,7 +1780,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 19,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -2322,7 +2322,32 @@
       "Morris, Brett M.",
       "Schlawin, Everett"
     ],
-    "citations": 2,
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.5567790",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-10-13",
+    "title": "rodluger/starry: v1.2.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5567790L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Dan",
+      "Lustig-Yaeger, Jacob",
+      "Hedges, Christina",
+      "Fleming, David",
+      "Head, Tim",
+      "Bartoli{\\'c}, Fran",
+      "Morris, Brett M.",
+      "Schlawin, Everett"
+    ],
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.5567781",
     "page": null,
@@ -2904,7 +2929,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5834934",
     "page": null,
@@ -7273,7 +7298,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 124,
+    "citations": 206,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
