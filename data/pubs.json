@@ -570,7 +570,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1004,7 +1004,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1055,7 +1055,7 @@
       "Springford, Aaron",
       "Tak, Hyungsuk"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.04703",
     "page": null,
@@ -1695,7 +1695,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1336,
+    "citations": 1341,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2960,7 +2960,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 136,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3059,7 +3059,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 33,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -5693,7 +5693,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6590,7 +6590,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1496,
+    "citations": 1497,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7524,7 +7524,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8760,
+    "citations": 8770,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
