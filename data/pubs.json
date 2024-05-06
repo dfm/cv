@@ -570,7 +570,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 46,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1695,7 +1695,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1368,
+    "citations": 1375,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2434,7 +2434,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2455,7 +2455,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2614,7 +2614,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -2960,7 +2960,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 137,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3915,7 +3915,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 162,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4584,7 +4584,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -4603,7 +4603,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4903,7 +4903,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5149,7 +5149,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5175,7 +5175,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 168,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5266,6 +5266,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Kruse, Ethan",
+      "Agol, Eric",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "Hundreds of New Planet Candidates from K2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Feinstein, Adina",
       "Montet, Benjamin",
       "Bedell, MEgan",
@@ -5284,25 +5303,6 @@
     "pubdate": "2019-01-00",
     "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Kruse, Ethan",
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "Hundreds of New Planet Candidates from K2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23340807K",
     "volume": "233",
     "year": "2019"
   },
@@ -5729,7 +5729,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 143,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5780,7 +5780,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 600,
+    "citations": 602,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6166,7 +6166,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 272,
+    "citations": 273,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6590,7 +6590,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1505,
+    "citations": 1508,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7026,7 +7026,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 445,
+    "citations": 448,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7524,7 +7524,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8800,
+    "citations": 8813,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
