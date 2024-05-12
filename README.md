@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**tinygp**](https://github.com/dfm/tinygp) — 278 stars / 22 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 280 stars / 22 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -54,7 +54,7 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1426 stars / 430 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1428 stars / 430 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 101 / first author: 9 / citations: 19,590 / h-index: 45
-(2024-05-11)
+refereed: 101 / first author: 9 / citations: 19,621 / h-index: 45
+(2024-05-12)
 
 ### Refereed publications
 
@@ -112,14 +112,14 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-time
 Classification of Supernovae Using Host-galaxy Information and Shallow
 Learning](http://dx.doi.org/10.3847/1538-4357/ace326)*, The
 Astrophysical Journal, **954**, 6
-([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[11
+([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
 Regression for Astronomical Time
 Series](http://dx.doi.org/10.1146/annurev-astro-052920-103508)*, Annual
 Review of Astronomy and Astrophysics, **61**, 329
-([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[48
+([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2023ARA&A..61..329A)\]
 
 Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
@@ -189,7 +189,7 @@ Daniel**; & Hayward, Christopher C., 2022, *[Empirical Dust Attenuation
 Model Leads to More Realistic UVJ Diagram for TNG100
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac9477)*, The
 Astrophysical Journal, **939**, 29
-([arXiv:2204.06449](http://arxiv.org/abs/2204.06449)) \[[2
+([arXiv:2204.06449](http://arxiv.org/abs/2204.06449)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...939...29N)\]
 
 Eilers, Anna-Christina; Hogg, David W.; Schölkopf, Bernhard;
@@ -212,7 +212,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1375
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1384
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -386,7 +386,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[209
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[210
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -605,7 +605,7 @@ Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, Monthly Notices of
 the Royal Astronomical Society, **474**, 2094
-([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[164
+([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[165
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
@@ -620,7 +620,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[600
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[602
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -689,7 +689,7 @@ Observational Parameters, Scientific Drivers, and Community Involvement
 for a Simultaneous Space- and Ground-based Microlensing
 Survey](http://dx.doi.org/10.1088/1538-3873/128/970/124401)*,
 Publications of the Astronomical Society of the Pacific, **128**, 124401
-([arXiv:1512.09142](http://arxiv.org/abs/1512.09142)) \[[62
+([arXiv:1512.09142](http://arxiv.org/abs/1512.09142)) \[[63
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128l4401H)\]
 
 Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
@@ -833,7 +833,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8819
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8832
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

@@ -528,7 +528,7 @@
       "Malz, Alex I.",
       "Aleo, Patrick D."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ace326",
     "page": 6,
@@ -570,7 +570,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 48,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1288,7 +1288,7 @@
       "Foreman-Mackey, Dan",
       "Hayward, Christopher C."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac9477",
     "page": 29,
@@ -1695,7 +1695,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1375,
+    "citations": 1384,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3430,7 +3430,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 209,
+    "citations": 210,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5713,7 +5713,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -5780,7 +5780,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 600,
+    "citations": 602,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6427,7 +6427,7 @@
       "Tisserand, P.",
       "Wang, D."
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/970/124401",
     "page": 124401,
@@ -6590,7 +6590,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1512,
+    "citations": 1516,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7524,7 +7524,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8819,
+    "citations": 8832,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
