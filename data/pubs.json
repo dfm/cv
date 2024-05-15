@@ -675,7 +675,7 @@
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo"
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd05c",
     "page": 162,
@@ -1695,7 +1695,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1393,
+    "citations": 1384,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2960,7 +2960,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 138,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3430,7 +3430,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 211,
+    "citations": 210,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4091,7 +4091,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 121,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -5149,7 +5149,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 221,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5175,7 +5175,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 170,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5394,7 +5394,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 37,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -5676,7 +5676,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 244,
+    "citations": 243,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -5729,7 +5729,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 144,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5780,7 +5780,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 604,
+    "citations": 602,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6590,7 +6590,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1519,
+    "citations": 1517,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7026,7 +7026,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 449,
+    "citations": 448,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7524,7 +7524,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8843,
+    "citations": 8834,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
