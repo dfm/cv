@@ -69,7 +69,7 @@ Make some beautiful corner plots
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 671 stars / 119 forks  
+[**daft**](https://github.com/daft-dev/daft) — 671 stars / 120 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 101 / first author: 9 / citations: 19,628 / h-index: 45
-(2024-05-15)
+refereed: 101 / first author: 9 / citations: 19,635 / h-index: 45
+(2024-05-16)
 
 ### Refereed publications
 
@@ -142,7 +142,8 @@ citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..162T)\]
 Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2023,
 *[flowMC: Normalizing flow enhanced sampling package for probabilistic
 inference in JAX](http://dx.doi.org/10.21105/joss.05021)*, The Journal
-of Open Source Software, **8**, 5021 \[[4
+of Open Source Software, **8**, 5021
+([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W)\]
 
 Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
@@ -213,7 +214,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1384
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1389
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -387,7 +388,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[210
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[211
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -525,7 +526,7 @@ Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, The Astronomical
 Journal, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[99
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[100
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
@@ -657,7 +658,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[274
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[275
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -834,7 +835,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8834
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8840
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -897,12 +898,6 @@ Hardware-Accelerated Waveforms for Gravitational Wave Data
 Analysis](http://dx.doi.org/10.48550/arXiv.2302.05329)*, ArXiv
 ([arXiv:2302.05329](http://arxiv.org/abs/2302.05329)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E)\]
-
-Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2022,
-*[flowMC: Normalizing-flow enhanced sampling package for probabilistic
-inference in Jax](http://dx.doi.org/10.48550/arXiv.2211.06397)*, ArXiv
-([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[7
-citations](https://ui.adsabs.harvard.edu/abs/2022arXiv221106397W)\]
 
 Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
 Andrew; *et al.*, 2022, *[paired: A Statistical Framework for

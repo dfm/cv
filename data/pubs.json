@@ -794,7 +794,7 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
+    "arxiv": "2211.06397",
     "authors": [
       "Wong, Kaze W. K.",
       "Gabri{\\'e}, Marylou",
@@ -1300,24 +1300,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2211.06397",
-    "authors": [
-      "Wong, Kaze W. K.",
-      "Gabri{\\'e}, Marylou",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 7,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2211.06397",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-11-00",
-    "title": "flowMC: Normalizing-flow enhanced sampling package for probabilistic inference in Jax",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221106397W",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
@@ -1695,7 +1677,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1384,
+    "citations": 1389,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3430,7 +3412,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 210,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4903,7 +4885,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 99,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -6166,7 +6148,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 274,
+    "citations": 275,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6590,7 +6572,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1517,
+    "citations": 1518,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7524,7 +7506,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8834,
+    "citations": 8840,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
