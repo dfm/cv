@@ -1044,29 +1044,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2210.03615",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 9,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac2790",
-    "page": 228,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2023-02-00",
-    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
-    "volume": "519",
-    "year": "2023"
-  },
-  {
     "arxiv": "2302.04703",
     "authors": [
       "Eadie, Gwendolyn M.",
@@ -1087,6 +1064,29 @@
     "title": "Practical Guidance for Bayesian Inference in Astronomy",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2210.03615",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Henshaw, J."
+    ],
+    "citations": 9,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac2790",
+    "page": 228,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2023-02-00",
+    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
+    "volume": "519",
     "year": "2023"
   },
   {
@@ -2120,24 +2120,6 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2022-03-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ascl.soft03006L",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
@@ -2155,6 +2137,24 @@
     "title": "Occultation Mapping of Io's Surface in the Near-infrared. I. Inferring Static Maps",
     "url": "https://ui.adsabs.harvard.edu/abs/2022PSJ.....3...67B",
     "volume": "3",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2022-03-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ascl.soft03006L",
+    "volume": null,
     "year": "2022"
   },
   {
@@ -4301,28 +4301,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1910.04563",
-    "authors": [
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mamajek, Eric E.",
-      "Hillenbrand, Lynne A."
-    ],
-    "citations": 121,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ab4c99",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
-    "volume": "885",
-    "year": "2019"
-  },
-  {
     "arxiv": "1911.07688",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -4348,6 +4326,28 @@
     "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
     "volume": "4",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1910.04563",
+    "authors": [
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mamajek, Eric E.",
+      "Hillenbrand, Lynne A."
+    ],
+    "citations": 121,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ab4c99",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
+    "volume": "885",
     "year": "2019"
   },
   {
@@ -7039,6 +7039,27 @@
     "year": "2015"
   },
   {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 109,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -7069,27 +7090,6 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 109,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },

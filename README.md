@@ -55,11 +55,11 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1429 stars / 430 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1430 stars / 431 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 495 stars / 227
+[**corner.py**](https://github.com/dfm/corner.py) — 497 stars / 227
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -78,7 +78,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 101 / first author: 9 / citations: 19,740 / h-index: 46
-(2024-05-21)
+(2024-05-22)
 
 ### Refereed publications
 
@@ -469,19 +469,19 @@ Royal Astronomical Society, **492**, 1008
 ([arXiv:1911.09705](http://arxiv.org/abs/1911.09705)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 
-David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
-Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
-Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
-The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[121
-citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
-
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
 ([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[180
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
+
+David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
+Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
+Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
+The Astrophysical Journal, **885**
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[121
+citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
 Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
@@ -770,6 +770,13 @@ the Royal Astronomical Society, **450**, 1787
 ([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[161
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
+**Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
+Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
+in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
+Astrophysical Journal, **806**, 215
+([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[109
+citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
+
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
 Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
 Function in M31
@@ -777,13 +784,6 @@ Clusters](http://dx.doi.org/10.1088/0004-637X/806/2/198)*, The
 Astrophysical Journal, **806**, 198
 ([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[60
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
-
-**Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
-Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
-in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
-Astrophysical Journal, **806**, 215
-([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[109
-citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2015, Removing systematic errors for exoplanet
