@@ -19,7 +19,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 111,
+    "citations": 114,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -64,6 +64,27 @@
     "title": "Deciphering Origins of Close-in Gas Giants through Stellar Obliquity Distribution",
     "url": "https://ui.adsabs.harvard.edu/abs/2024ESS.....540103D",
     "volume": "56",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Garcia, Lionel",
+      "Foreman-Mackey, Daniel",
+      "Murray, Catriona",
+      "Aigrain, Suzanne",
+      "Feliz, Dax",
+      "Pozuelos, Francisco"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.10832081",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-03-18",
+    "title": "nuance: Efficient detection of planets transiting active stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10832081G",
+    "volume": null,
     "year": "2024"
   },
   {
@@ -656,7 +677,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 15,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -1236,7 +1257,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 8,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -3182,7 +3203,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 45,
+    "citations": 25,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
