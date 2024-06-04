@@ -2,6 +2,27 @@
   {
     "arxiv": null,
     "authors": [
+      "Garcia, Lionel J.",
+      "Foreman-Mackey, Daniel",
+      "Murray, Catriona A.",
+      "Aigrain, Suzanne",
+      "Feliz, Dax L.",
+      "Pozuelos, Francisco J."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ad3cd6",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2024-06-00",
+    "title": "nuance: Efficient Detection of Planets Transiting Active Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024AJ....167..284G",
+    "volume": "167",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -2963,7 +2984,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4151,7 +4172,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -4332,7 +4353,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4606,7 +4627,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4906,7 +4927,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5152,7 +5173,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 224,
+    "citations": 225,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5178,7 +5199,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 172,
+    "citations": 173,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5539,7 +5560,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -5732,7 +5753,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 147,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5783,7 +5804,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 610,
+    "citations": 611,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6486,7 +6507,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 233,
+    "citations": 234,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -6593,7 +6614,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1545,
+    "citations": 1546,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7029,7 +7050,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 450,
+    "citations": 451,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7103,7 +7124,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -7527,7 +7548,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8939,
+    "citations": 8946,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
