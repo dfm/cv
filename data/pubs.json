@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2402.06835",
     "authors": [
       "Garcia, Lionel J.",
       "Foreman-Mackey, Daniel",
@@ -40,7 +40,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 114,
+    "citations": 117,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -97,7 +97,7 @@
       "Feliz, Dax",
       "Pozuelos, Francisco"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.10832081",
     "page": null,
@@ -125,27 +125,6 @@
     "pubdate": "2024-03-00",
     "title": "Precise Time-Domain Asteroseismology and a Revised Target List for TESS Solar-Like Oscillators",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240302489H",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": "2402.06835",
-    "authors": [
-      "Garcia, Lionel",
-      "Foreman-Mackey, Daniel",
-      "Murray, Catriona A.",
-      "Aigrain, Suzanne",
-      "Feliz, Dax L.",
-      "Pozuelos, Francisco J."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2402.06835",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-02-00",
-    "title": "nuance: Efficient detection of planets transiting active stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240206835G",
     "volume": null,
     "year": "2024"
   },
@@ -262,7 +241,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -523,34 +502,12 @@
     "year": "2023"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Willard, Brandon",
-      "Louf, R{\\'e}mi",
-      "Chaudhari, Kaustubh",
-      "Mares, Ben",
-      "Lunagariya, Smit",
-      "Foreman-Mackey, Dan",
-      "Gerlanc, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.4635498",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2023-09-21",
-    "title": "Aesara",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...4635498W",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2305.14220",
     "authors": [
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -595,7 +552,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.8230430",
     "page": null,
@@ -612,7 +569,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -762,7 +719,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7832419",
     "page": null,
@@ -939,7 +896,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 14,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -948,113 +905,6 @@
     "title": "joshspeagle/dynesty: v2.1.0",
     "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...7600689K",
     "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2211.10488",
-    "authors": [
-      "Alderson, Lili",
-      "Wakeford, Hannah R.",
-      "Alam, Munazza K.",
-      "Batalha, Natasha E.",
-      "Lothringer, Joshua D.",
-      "Adams Redai, Jea",
-      "Barat, Saugata",
-      "Brande, Jonathan",
-      "Damiano, Mario",
-      "Daylan, Tansu",
-      "Espinoza, N{\\'e}stor",
-      "Flagg, Laura",
-      "Goyal, Jayesh M.",
-      "Grant, David",
-      "Hu, Renyu",
-      "Inglis, Julie",
-      "Lee, Elspeth K. H.",
-      "Mikal-Evans, Thomas",
-      "Ramos-Rosado, Lakeisha",
-      "Roy, Pierre-Alexis",
-      "Wallack, Nicole L.",
-      "Batalha, Natalie M.",
-      "Bean, Jacob L.",
-      "Benneke, Bj{\\\"o}rn",
-      "Berta-Thompson, Zachory K.",
-      "Carter, Aarynn L.",
-      "Changeat, Quentin",
-      "Col{\\'o}n, Knicole D.",
-      "Crossfield, Ian J. M.",
-      "D{\\'e}sert, Jean-Michel",
-      "Foreman-Mackey, Daniel",
-      "Gibson, Neale P.",
-      "Kreidberg, Laura",
-      "Line, Michael R.",
-      "L{\\'o}pez-Morales, Mercedes",
-      "Molaverdikhani, Karan",
-      "Moran, Sarah E.",
-      "Morello, Giuseppe",
-      "Moses, Julianne I.",
-      "Mukherjee, Sagnick",
-      "Schlawin, Everett",
-      "Sing, David K.",
-      "Stevenson, Kevin B.",
-      "Taylor, Jake",
-      "Aggarwal, Keshav",
-      "Ahrer, Eva-Maria",
-      "Allen, Natalie H.",
-      "Barstow, Joanna K.",
-      "Bell, Taylor J.",
-      "Blecic, Jasmina",
-      "Casewell, Sarah L.",
-      "Chubb, Katy L.",
-      "Crouzet, Nicolas",
-      "Cubillos, Patricio E.",
-      "Decin, Leen",
-      "Feinstein, Adina D.",
-      "Fortney, Joanthan J.",
-      "Harrington, Joseph",
-      "Heng, Kevin",
-      "Iro, Nicolas",
-      "Kempton, Eliza M. -R.",
-      "Kirk, James",
-      "Knutson, Heather A.",
-      "Krick, Jessica",
-      "Leconte, J{\\'e}r{\\'e}my",
-      "Lendl, Monika",
-      "MacDonald, Ryan J.",
-      "Mancini, Luigi",
-      "Mansfield, Megan",
-      "May, Erin M.",
-      "Mayne, Nathan J.",
-      "Miguel, Yamila",
-      "Nikolov, Nikolay K.",
-      "Ohno, Kazumasa",
-      "Palle, Enric",
-      "Parmentier, Vivien",
-      "Petit dit de la Roche, Dominique J. M.",
-      "Piaulet, Caroline",
-      "Powell, Diana",
-      "Rackham, Benjamin V.",
-      "Redfield, Seth",
-      "Rogers, Laura K.",
-      "Rustamkulov, Zafar",
-      "Tan, Xianyu",
-      "Tremblin, P.",
-      "Tsai, Shang-Min",
-      "Turner, Jake D.",
-      "de Val-Borro, Miguel",
-      "Venot, Olivia",
-      "Welbanks, Luis",
-      "Wheatley, Peter J.",
-      "Zhang, Xi"
-    ],
-    "citations": 103,
-    "doctype": "article",
-    "doi": "10.1038/s41586-022-05591-3",
-    "page": 664,
-    "pub": "Nature",
-    "pubdate": "2023-02-00",
-    "title": "Early Release Science of the exoplanet WASP-39b with JWST NIRSpec G395H",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A",
-    "volume": "614",
     "year": "2023"
   },
   {
@@ -1278,7 +1128,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1719,7 +1569,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1482,
+    "citations": 1489,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2238,27 +2088,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2111.08660",
-    "authors": [
-      "Feinstein, Adina D.",
-      "David, Trevor J.",
-      "Montet, Benjamin T.",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mann, Andrew W."
-    ],
-    "citations": 16,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ac4745",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-01-00",
-    "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
-    "volume": "925",
-    "year": "2022"
-  },
-  {
     "arxiv": "2101.02707",
     "authors": [
       "Martin, David V.",
@@ -2358,31 +2187,6 @@
     "year": "2021"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Dan",
-      "Lustig-Yaeger, Jacob",
-      "Hedges, Christina",
-      "Fleming, David",
-      "Head, Tim",
-      "Bartoli{\\'c}, Fran",
-      "Morris, Brett M.",
-      "Schlawin, Everett"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.5567781",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2021-10-13",
-    "title": "rodluger/starry: v1.2.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5567781L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
     "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, V.",
@@ -2458,7 +2262,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2855,25 +2659,6 @@
     "title": "PyTorchDIA: a flexible, GPU-accelerated numerical approach to Difference Image Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H",
     "volume": "504",
-    "year": "2021"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Wang, Dun",
-      "Hogg, David W.",
-      "Foreman-Mackey, Daniel",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2021-07-00",
-    "title": "K2-CPM: Causal Pixel Model for K2 data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft07024W",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -3537,7 +3322,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 40,
+    "citations": 42,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -4144,6 +3929,32 @@
     "pubdate": "2020-02-17",
     "title": "Maelstrom: Forward modelling the orbits of companions to pulsating stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3669395H",
+    "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Morton, Timothy",
+      "Foreman-Mackey, Dan",
+      "Major, Syrtis",
+      "Atw5179",
+      "Koposov, Sergey",
+      "De Val-Borro, Miguel",
+      "Benmontet",
+      "StuartLittlefair",
+      "Walker, Simon",
+      "Oh, Semyeong",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3637961",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-02-05",
+    "title": "timothydmorton/isochrones: v2.1 -- enabling population generation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3637961M",
     "volume": null,
     "year": "2020"
   },
@@ -5025,22 +4836,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": null,
-    "page": 29,
-    "pub": "KITP Conference: Planet-Star Connections in the Era of TESS and Gaia",
-    "pubdate": "2019-05-00",
-    "title": "Population inference",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019psce.confE..29F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Dan",
       "Barentsen, Geert",
       "Barclay, Tom"
@@ -5121,27 +4916,6 @@
     "pubdate": "2019-03-08",
     "title": "dfm/exoplanet: exoplanet v0.1.5",
     "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2587222F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": null,
-    "page": null,
-    "pub": "The Astrobiology Science Conference (AbSciCon) 2019",
-    "pubdate": "2019-03-00",
-    "title": "Analytic Techniques for Mapping the Surfaces of Habitable Worlds",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019absc.conf20810L",
     "volume": null,
     "year": "2019"
   },
@@ -5816,24 +5590,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 80,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
-    "year": "2017"
-  },
-  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -5961,30 +5717,6 @@
     "title": "schwimmbad: A uniform interface to parallel processing pools in Python",
     "url": "https://ui.adsabs.harvard.edu/abs/2017JOSS....2..357P",
     "volume": "2",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Montet, B. T.",
-      "Morton, T. D.",
-      "Foreman-Mackey, D.",
-      "Johnson, J. A.",
-      "Hogg, D. W.",
-      "Bowler, B. P.",
-      "Latham, D. W.",
-      "Bieryla, A.",
-      "Mann, A. W."
-    ],
-    "citations": 0,
-    "doctype": "dataset",
-    "doi": "10.26093/cds/vizier.18090025",
-    "page": null,
-    "pub": "VizieR Online Data Catalog",
-    "pubdate": "2017-09-00",
-    "title": "VizieR Online Data Catalog: Stellar and planet properties for K2 candidates (Montet+, 2015)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017yCat..18090025M",
-    "volume": "180",
     "year": "2017"
   },
   {
@@ -6217,25 +5949,6 @@
     "title": "VizieR Online Data Catalog: A catalog of exoplanet physical parameters (Foreman-Mackey+, 2014)",
     "url": "https://ui.adsabs.harvard.edu/abs/2017yCat..17950064F",
     "volume": "179",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1610.07602",
-    "authors": [
-      "Price-Whelan, Adrian M.",
-      "Hogg, David W.",
-      "Foreman-Mackey, Daniel",
-      "Rix, Hans-Walter"
-    ],
-    "citations": 109,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa5e50",
-    "page": 20,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-03-00",
-    "title": "The Joker: A Custom Monte Carlo Sampler for Binary-star and Exoplanet Radial Velocity Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P",
-    "volume": "837",
     "year": "2017"
   },
   {
@@ -7282,22 +6995,6 @@
     "year": "2015"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "phdthesis",
-    "doi": null,
-    "page": null,
-    "pub": "Ph.D. Thesis",
-    "pubdate": "2015-00-00",
-    "title": "Methods for the detection and characterization of exoplanets and their population",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015PhDT........44F",
-    "volume": null,
-    "year": "2015"
-  },
-  {
     "arxiv": "1406.3020",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -7322,7 +7019,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 128,
+    "citations": 129,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7639,21 +7336,5 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2013AAS...22114609D",
     "volume": "221",
     "year": "2013"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel Thomas"
-    ],
-    "citations": 0,
-    "doctype": "mastersthesis",
-    "doi": null,
-    "page": 10,
-    "pub": "Masters Thesis",
-    "pubdate": "2010-11-00",
-    "title": "A Fully Self-Consistent Constraint on the Mass of M31 {\\&} the Local Group",
-    "url": "https://ui.adsabs.harvard.edu/abs/2010MsT.........10F",
-    "volume": null,
-    "year": "2010"
   }
 ]
