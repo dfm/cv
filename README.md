@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 98 / first author: 9 / citations: 19,632 / h-index: 43
-(2024-06-05)
+refereed: 102 / first author: 9 / citations: 19,940 / h-index: 46
+(2024-06-06)
 
 ### Refereed publications
 
@@ -112,7 +112,7 @@ Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
 Bayesian Framework for Inferring the Stellar Obliquity
 Distribution](http://dx.doi.org/10.3847/1538-3881/ace105)*, The
 Astronomical Journal, **166**, 112
-([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[12
+([arXiv:2305.14220](http://arxiv.org/abs/2305.14220)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..112D)\]
 
 Gagliano, Alexander; Contardo, Gabriella; **Foreman-Mackey, Daniel**;
@@ -153,13 +153,20 @@ of Open Source Software, **8**, 5021
 ([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W)\]
 
+Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
+E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
+exoplanet WASP-39b with JWST NIRSpec
+G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[104
+citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
+
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
 Daniel**; *et al.*, 2023, *[A JWST NIRSpec Phase Curve for WASP-121b:
 Dayside Emission Strongest Eastward of the Substellar Point and
 Nightside Conditions Conducive to Cloud
 Formation](http://dx.doi.org/10.3847/2041-8213/acb049)*, The
 Astrophysical Journal, **943**
-([arXiv:2301.03209](http://arxiv.org/abs/2301.03209)) \[[11
+([arXiv:2301.03209](http://arxiv.org/abs/2301.03209)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...943L..17M)\]
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
@@ -214,7 +221,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1489
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1488
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -284,6 +291,14 @@ Astrophysics, **658**
 ([arXiv:2111.06672](http://arxiv.org/abs/2111.06672)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...658A.166D)\]
 
+Feinstein, Adina D.; David, Trevor J.; Montet, Benjamin T.;
+**Foreman-Mackey, Daniel**; *et al.*, 2022, *[V1298 Tau with TESS:
+Updated Ephemerides, Radii, and Period Constraints from a Second Transit
+of V1298 Tau e](http://dx.doi.org/10.3847/2041-8213/ac4745)*, The
+Astrophysical Journal, **925**
+([arXiv:2111.08660](http://arxiv.org/abs/2111.08660)) \[[16
+citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F)\]
+
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
 Amaury H. M. J.; *et al.* (incl. **DFM**), 2021, *[TOI-1259Ab - a gas
 giant planet with 2.7 per cent deep transits and a bound white dwarf
@@ -297,7 +312,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[85
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[84
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -458,14 +473,14 @@ Daniel**; *et al.*, 2020, *[NGTS clusters survey - I. Rotation in the
 young benchmark open cluster Blanco
 1](http://dx.doi.org/10.1093/mnras/stz3251)*, Monthly Notices of the
 Royal Astronomical Society, **492**, 1008
-([arXiv:1911.09705](http://arxiv.org/abs/1911.09705)) \[[40
+([arXiv:1911.09705](http://arxiv.org/abs/1911.09705)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 
 David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[121
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[120
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
@@ -576,7 +591,7 @@ Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 15](http://dx.doi.org/10.3847/1538-3881/aad230)*, The Astronomical
 Journal, **156**, 99
-([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[140
+([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[139
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
@@ -606,7 +621,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[148
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[147
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -616,6 +631,14 @@ Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
 ([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[611
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
+
+Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
+2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
+Magnetic Cycles of Sun-like
+Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
+Journal, **851**, 116
+([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[80
+citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
 
 Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
 *et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
@@ -644,6 +667,14 @@ TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
 ([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[277
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
+
+Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
+Rix, Hans-Walter, 2017, *[The Joker: A Custom Monte Carlo Sampler for
+Binary-star and Exoplanet Radial Velocity
+Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, The Astrophysical
+Journal, **837**, 20
+([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[109
+citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
 **Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
@@ -674,7 +705,7 @@ Luger, Rodrigo; Agol, Eric; Kruse, Ethan; Barnes, Rory;
 *et al.* (incl. **DFM**), 2016, *[EVEREST: Pixel Level Decorrelation of
 K2 Light Curves](http://dx.doi.org/10.3847/0004-6256/152/4/100)*, The
 Astronomical Journal, **152**, 100
-([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[234
+([arXiv:1607.00524](http://arxiv.org/abs/1607.00524)) \[[233
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..100L)\]
 
 Angus, Ruth; Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2016,
@@ -758,7 +789,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
 Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
 in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
 Astrophysical Journal, **806**, 215
-([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[110
+([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[109
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
@@ -811,7 +842,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8946
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[8953
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -835,6 +866,12 @@ Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
 and a Revised Target List for TESS Solar-Like
 Oscillators](http://dx.doi.org/10.48550/arXiv.2403.02489)*, ArXiv
 ([arXiv:2403.02489](http://arxiv.org/abs/2403.02489))
+
+Garcia, Lionel; **Foreman-Mackey, Daniel**; Murray, Catriona A.;
+Aigrain, Suzanne; *et al.*, 2024, *[nuance: Efficient detection of
+planets transiting active
+stars](http://dx.doi.org/10.48550/arXiv.2402.06835)*, ArXiv
+([arXiv:2402.06835](http://arxiv.org/abs/2402.06835))
 
 Fortune, Mark; Gibson, Neale P.; **Foreman-Mackey, Daniel**; Evans-Soma,
 Thomas M.; *et al.*, 2024, *[How do wavelength correlations affect
