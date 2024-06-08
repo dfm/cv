@@ -129,27 +129,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2402.06835",
-    "authors": [
-      "Garcia, Lionel",
-      "Foreman-Mackey, Daniel",
-      "Murray, Catriona A.",
-      "Aigrain, Suzanne",
-      "Feliz, Dax L.",
-      "Pozuelos, Francisco J."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2402.06835",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-02-00",
-    "title": "nuance: Efficient detection of planets transiting active stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240206835G",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": "2402.15204",
     "authors": [
       "Fortune, Mark",
@@ -1046,7 +1025,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1278,7 +1257,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1719,7 +1698,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1494,
+    "citations": 1502,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4148,6 +4127,32 @@
     "year": "2020"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Morton, Timothy",
+      "Foreman-Mackey, Dan",
+      "Major, Syrtis",
+      "Atw5179",
+      "Koposov, Sergey",
+      "De Val-Borro, Miguel",
+      "Benmontet",
+      "StuartLittlefair",
+      "Walker, Simon",
+      "Oh, Semyeong",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.3637961",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-02-05",
+    "title": "timothydmorton/isochrones: v2.1 -- enabling population generation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...3637961M",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "1911.09705",
     "authors": [
       "Gillen, Edward",
@@ -5173,7 +5178,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5717,7 +5722,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6930,7 +6935,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 131,
+    "citations": 132,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7050,7 +7055,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 451,
+    "citations": 452,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7548,7 +7553,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8959,
+    "citations": 8964,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
