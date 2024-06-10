@@ -591,7 +591,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1025,7 +1025,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1065,29 +1065,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.04703",
-    "authors": [
-      "Eadie, Gwendolyn M.",
-      "Speagle, Joshua S.",
-      "Cisewski-Kehe, Jessi",
-      "Foreman-Mackey, Daniel",
-      "Huppenkothen, Daniela",
-      "Jones, David E.",
-      "Springford, Aaron",
-      "Tak, Hyungsuk"
-    ],
-    "citations": 6,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.04703",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Practical Guidance for Bayesian Inference in Astronomy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
@@ -1108,6 +1085,29 @@
     "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
     "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
     "volume": "519",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2302.04703",
+    "authors": [
+      "Eadie, Gwendolyn M.",
+      "Speagle, Joshua S.",
+      "Cisewski-Kehe, Jessi",
+      "Foreman-Mackey, Daniel",
+      "Huppenkothen, Daniela",
+      "Jones, David E.",
+      "Springford, Aaron",
+      "Tak, Hyungsuk"
+    ],
+    "citations": 6,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.04703",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Practical Guidance for Bayesian Inference in Astronomy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -1289,7 +1289,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -1698,7 +1698,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1502,
+    "citations": 1516,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2437,7 +2437,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 84,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3471,7 +3471,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -4411,7 +4411,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -4632,7 +4632,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 58,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4932,7 +4932,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5204,7 +5204,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 172,
+    "citations": 173,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5545,7 +5545,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -5809,7 +5809,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 611,
+    "citations": 612,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5827,7 +5827,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -6619,7 +6619,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1547,
+    "citations": 1551,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6690,7 +6690,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 247,
+    "citations": 248,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7055,7 +7055,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 452,
+    "citations": 453,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7553,7 +7553,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8964,
+    "citations": 8988,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7577,7 +7577,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "software",
     "doi": null,
     "page": null,
