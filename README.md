@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 102 / first author: 9 / citations: 20,021 / h-index: 46
-(2024-06-10)
+refereed: 103 / first author: 9 / citations: 20,021 / h-index: 46
+(2024-06-11)
 
 ### Refereed publications
 
@@ -91,6 +91,13 @@ Planets Transiting Active
 Stars](http://dx.doi.org/10.3847/1538-3881/ad3cd6)*, The Astronomical
 Journal, **167**, 284
 ([arXiv:2402.06835](http://arxiv.org/abs/2402.06835))
+
+Fortune, Mark; Gibson, Neale P.; **Foreman-Mackey, Daniel**; Evans-Soma,
+Thomas M.; *et al.*, 2024, *[How do wavelength correlations affect
+transmission spectra? Application of a new fast and flexible 2D Gaussian
+process framework to transiting exoplanet
+spectroscopy](http://dx.doi.org/10.1051/0004-6361/202347613)*, Astronomy
+and Astrophysics, **686**
 
 Lu, Yuxi(Lucy); Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori,
 Soichiro, 2024, *[In This Day and Age: An Empirical Gyrochronology
@@ -866,13 +873,6 @@ Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
 and a Revised Target List for TESS Solar-Like
 Oscillators](http://dx.doi.org/10.48550/arXiv.2403.02489)*, ArXiv
 ([arXiv:2403.02489](http://arxiv.org/abs/2403.02489))
-
-Fortune, Mark; Gibson, Neale P.; **Foreman-Mackey, Daniel**; Evans-Soma,
-Thomas M.; *et al.*, 2024, *[How do wavelength correlations affect
-transmission spectra? Application of a new fast and flexible 2D Gaussian
-process framework to transiting exoplanet
-spectroscopy](http://dx.doi.org/10.48550/arXiv.2402.15204)*, ArXiv
-([arXiv:2402.15204](http://arxiv.org/abs/2402.15204))
 
 Cabezas, Alberto; Corenflos, Adrien; Lao, Junpeng; Louf, Rémi;
 *et al.* (incl. **DFM**), 2024, *[BlackJAX: Composable Bayesian

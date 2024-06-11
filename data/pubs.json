@@ -23,6 +23,27 @@
   {
     "arxiv": null,
     "authors": [
+      "Fortune, Mark",
+      "Gibson, Neale P.",
+      "Foreman-Mackey, Daniel",
+      "Evans-Soma, Thomas M.",
+      "Maguire, Cathal",
+      "Ramkumar, Swaetha"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1051/0004-6361/202347613",
+    "page": null,
+    "pub": "Astronomy and Astrophysics",
+    "pubdate": "2024-06-00",
+    "title": "How do wavelength correlations affect transmission spectra? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...686A..89F",
+    "volume": "686",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -40,7 +61,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -125,27 +146,6 @@
     "pubdate": "2024-03-00",
     "title": "Precise Time-Domain Asteroseismology and a Revised Target List for TESS Solar-Like Oscillators",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240302489H",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": "2402.15204",
-    "authors": [
-      "Fortune, Mark",
-      "Gibson, Neale P.",
-      "Foreman-Mackey, Daniel",
-      "Evans-Soma, Thomas M.",
-      "Maguire, Cathal",
-      "Ramkumar, Swaetha"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2402.15204",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-02-00",
-    "title": "How do wavelength correlations affect transmission spectra? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240215204F",
     "volume": null,
     "year": "2024"
   },
@@ -677,7 +677,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -1065,29 +1065,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2210.03615",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 9,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac2790",
-    "page": 228,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2023-02-00",
-    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
-    "volume": "519",
-    "year": "2023"
-  },
-  {
     "arxiv": "2302.04703",
     "authors": [
       "Eadie, Gwendolyn M.",
@@ -1108,6 +1085,29 @@
     "title": "Practical Guidance for Bayesian Inference in Astronomy",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2210.03615",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Henshaw, J."
+    ],
+    "citations": 9,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac2790",
+    "page": 228,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2023-02-00",
+    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
+    "volume": "519",
     "year": "2023"
   },
   {
@@ -1227,7 +1227,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 13,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1506,7 +1506,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -3203,7 +3203,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 25,
+    "citations": 45,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -3516,7 +3516,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6858,7 +6858,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7398,7 +7398,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 43,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
