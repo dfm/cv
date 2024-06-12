@@ -78,7 +78,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 103 / first author: 9 / citations: 20,021 / h-index: 46
-(2024-06-11)
+(2024-06-12)
 
 ### Refereed publications
 
@@ -98,6 +98,7 @@ transmission spectra? Application of a new fast and flexible 2D Gaussian
 process framework to transiting exoplanet
 spectroscopy](http://dx.doi.org/10.1051/0004-6361/202347613)*, Astronomy
 and Astrophysics, **686**
+([arXiv:2402.15204](http://arxiv.org/abs/2402.15204))
 
 Lu, Yuxi(Lucy); Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori,
 Soichiro, 2024, *[In This Day and Age: An Empirical Gyrochronology
