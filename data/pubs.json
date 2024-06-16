@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": "2406.06740",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Wilson, A. G."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2406.06740",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-06-00",
+    "title": "All-sky three-dimensional dust density and extinction Maps of the Milky Way out to 2.8 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240606740D",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2402.06835",
     "authors": [
       "Garcia, Lionel J.",
@@ -39,29 +62,6 @@
     "title": "How do wavelength correlations affect transmission spectra? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
     "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...686A..89F",
     "volume": "686",
-    "year": "2024"
-  },
-  {
-    "arxiv": "2406.06740",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Wilson, A. G."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2406.06740",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-06-00",
-    "title": "All-sky three-dimensional dust density and extinction Maps of the Milky Way out to 2.8 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240606740D",
-    "volume": null,
     "year": "2024"
   },
   {
@@ -655,7 +655,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1048,7 +1048,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 107,
+    "citations": 109,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1099,7 +1099,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -1721,7 +1721,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1521,
+    "citations": 1534,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2209,7 +2209,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -2249,7 +2249,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -3456,7 +3456,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 213,
+    "citations": 215,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3941,7 +3941,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 165,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4381,7 +4381,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 121,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4409,7 +4409,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 180,
+    "citations": 181,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5227,7 +5227,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 175,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5568,7 +5568,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 91,
+    "citations": 92,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6218,7 +6218,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 277,
+    "citations": 278,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6642,7 +6642,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1550,
+    "citations": 1554,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6958,7 +6958,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 132,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7078,7 +7078,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 452,
+    "citations": 454,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7576,7 +7576,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 8980,
+    "citations": 9009,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7600,7 +7600,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 107,
+    "citations": 109,
     "doctype": "software",
     "doi": null,
     "page": null,
