@@ -67,6 +67,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Lu, Y.",
+      "Angus, R.",
+      "Foreman-Mackey, D.",
+      "Hattori, S."
+    ],
+    "citations": 0,
+    "doctype": "dataset",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2024-05-00",
+    "title": "VizieR Online Data Catalog: Catalog of ~10000 stars ages (Lu+, 2024)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024yCat..51670159L",
+    "volume": "516",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -1721,7 +1740,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1534,
+    "citations": 1535,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2986,7 +3005,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4955,7 +4974,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 101,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -6642,7 +6661,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1554,
+    "citations": 1556,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7421,7 +7440,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 50,
+    "citations": 43,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -7576,7 +7595,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9009,
+    "citations": 9013,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
