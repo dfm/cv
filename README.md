@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 103 / first author: 9 / citations: 20,114 / h-index: 46
-(2024-06-20)
+refereed: 103 / first author: 9 / citations: 20,123 / h-index: 46
+(2024-06-21)
 
 ### Refereed publications
 
@@ -248,13 +248,6 @@ Astronomical Journal, **164**, 4
 ([arXiv:2103.06275](http://arxiv.org/abs/2103.06275)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L)\]
 
-Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
-D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
-Image Light Curve Data
-Set](http://dx.doi.org/10.3847/2515-5172/ac74c4)*, Research Notes of the
-American Astronomical Society, **6**, 111 \[[13
-citations](https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P)\]
-
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2022, *[The unpopular Package: A Data-driven
 Approach to Detrending TESS Full-frame Image Light
@@ -262,6 +255,13 @@ Curves](http://dx.doi.org/10.3847/1538-3881/ac625a)*, The Astronomical
 Journal, **163**, 284
 ([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
+
+Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
+D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
+Image Light Curve Data
+Set](http://dx.doi.org/10.3847/2515-5172/ac74c4)*, Research Notes of the
+American Astronomical Society, **6**, 111 \[[14
+citations](https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P)\]
 
 Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
 Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
@@ -484,19 +484,19 @@ Royal Astronomical Society, **492**, 1008
 ([arXiv:1911.09705](http://arxiv.org/abs/1911.09705)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 
-David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
-Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
-Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
-The Astrophysical Journal, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[123
-citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
-
 **Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
 ([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[181
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
+
+David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
+Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
+Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
+The Astrophysical Journal, **885**
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[123
+citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
 Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
@@ -519,7 +519,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[193
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[194
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -587,13 +587,6 @@ Statistical Software, **86**, 1
 ([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[42
 citations](https://scholar.google.com/scholar?cites=789224875040810871)\]
 
-Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
-to Measure Centroids of Spectral
-Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
-the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[92
-citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
-
 Luger, Rodrigo; Kruse, Ethan; **Foreman-Mackey, Daniel**; Agol, Eric; &
 Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
@@ -601,6 +594,13 @@ Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 Journal, **156**, 99
 ([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[139
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
+
+Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
+to Measure Centroids of Spectral
+Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
+the American Astronomical Society, **2**, 173
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[92
+citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
@@ -637,7 +637,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[613
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[614
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -673,7 +673,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[278
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[279
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -850,7 +850,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9021
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9026
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

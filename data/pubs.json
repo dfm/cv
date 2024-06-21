@@ -1837,6 +1837,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 30,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -1863,7 +1886,7 @@
       "Gerner, Lyn E.",
       "Burch, Timothy M."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ac74c4",
     "page": 111,
@@ -1872,29 +1895,6 @@
     "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
     "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
     "volume": "6",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 30,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
     "year": "2022"
   },
   {
@@ -4390,28 +4390,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1910.04563",
-    "authors": [
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mamajek, Eric E.",
-      "Hillenbrand, Lynne A."
-    ],
-    "citations": 123,
-    "doctype": "article",
-    "doi": "10.3847/2041-8213/ab4c99",
-    "page": null,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2019-11-00",
-    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
-    "volume": "885",
-    "year": "2019"
-  },
-  {
     "arxiv": "1911.07688",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -4437,6 +4415,28 @@
     "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
     "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
     "volume": "4",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1910.04563",
+    "authors": [
+      "David, Trevor J.",
+      "Petigura, Erik A.",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Livingston, John H.",
+      "Mamajek, Eric E.",
+      "Hillenbrand, Lynne A."
+    ],
+    "citations": 123,
+    "doctype": "article",
+    "doi": "10.3847/2041-8213/ab4c99",
+    "page": null,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-11-00",
+    "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
+    "volume": "885",
     "year": "2019"
   },
   {
@@ -4655,7 +4655,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5582,23 +5582,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1809.10295",
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 92,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/aae265",
-    "page": 173,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2018-09-00",
-    "title": "A Robust Method to Measure Centroids of Spectral Lines",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
-    "volume": "2",
-    "year": "2018"
-  },
-  {
     "arxiv": "1702.05488",
     "authors": [
       "Luger, Rodrigo",
@@ -5616,6 +5599,23 @@
     "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
     "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
     "volume": "156",
+    "year": "2018"
+  },
+  {
+    "arxiv": "1809.10295",
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 92,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aae265",
+    "page": 173,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2018-09-00",
+    "title": "A Robust Method to Measure Centroids of Spectral Lines",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
+    "volume": "2",
     "year": "2018"
   },
   {
@@ -5851,7 +5851,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 613,
+    "citations": 614,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6237,7 +6237,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 278,
+    "citations": 279,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6661,7 +6661,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1558,
+    "citations": 1559,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7097,7 +7097,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 454,
+    "citations": 455,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7595,7 +7595,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9021,
+    "citations": 9026,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
