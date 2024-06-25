@@ -55,7 +55,7 @@ stars / 43 forks
 A workflow for reproducible and open scientific articles
 [\[docs\]](https://show-your.work)
 
-[**emcee**](https://github.com/dfm/emcee) — 1436 stars / 431 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1437 stars / 431 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 103 / first author: 9 / citations: 20,167 / h-index: 46
-(2024-06-24)
+refereed: 104 / first author: 9 / citations: 20,167 / h-index: 46
+(2024-06-25)
 
 ### Refereed publications
 
@@ -99,6 +99,12 @@ process framework to transiting exoplanet
 spectroscopy](http://dx.doi.org/10.1051/0004-6361/202347613)*, Astronomy
 and Astrophysics, **686**
 ([arXiv:2402.15204](http://arxiv.org/abs/2402.15204))
+
+Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
+**Foreman-Mackey, Daniel**; *et al.*, 2024, *[All-sky three-dimensional
+dust density and extinction Maps of the Milky Way out to 2.8
+kpc](http://dx.doi.org/10.1093/mnras/stae1474)*, Monthly Notices of the
+Royal Astronomical Society
 
 Lu, Yuxi(Lucy); Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori,
 Soichiro, 2024, *[In This Day and Age: An Empirical Gyrochronology
@@ -868,12 +874,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
-**Foreman-Mackey, Daniel**; *et al.*, 2024, *[All-sky three-dimensional
-dust density and extinction Maps of the Milky Way out to 2.8
-kpc](http://dx.doi.org/10.48550/arXiv.2406.06740)*, ArXiv
-([arXiv:2406.06740](http://arxiv.org/abs/2406.06740))
 
 Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
 **Foreman-Mackey, Daniel**, 2024, *[Precise Time-Domain Asteroseismology

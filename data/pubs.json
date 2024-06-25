@@ -1,28 +1,5 @@
 [
   {
-    "arxiv": "2406.06740",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Wilson, A. G."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2406.06740",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-06-00",
-    "title": "All-sky three-dimensional dust density and extinction Maps of the Milky Way out to 2.8 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240606740D",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": "2402.06835",
     "authors": [
       "Garcia, Lionel J.",
@@ -67,6 +44,29 @@
   {
     "arxiv": null,
     "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Wilson, A. G."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stae1474",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2024-06-00",
+    "title": "All-sky three-dimensional dust density and extinction Maps of the Milky Way out to 2.8 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.1504D",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Lu, Y.",
       "Angus, R.",
       "Foreman-Mackey, D.",
@@ -103,7 +103,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -489,7 +489,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -2171,7 +2171,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.6325733",
     "page": null,
@@ -7369,7 +7369,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 129,
+    "citations": 130,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
