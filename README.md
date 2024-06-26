@@ -69,7 +69,7 @@ Make some beautiful corner plots
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 674 stars / 120 forks  
+[**daft**](https://github.com/daft-dev/daft) — 675 stars / 120 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -78,7 +78,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 104 / first author: 9 / citations: 20,167 / h-index: 46
-(2024-06-25)
+(2024-06-26)
 
 ### Refereed publications
 
@@ -105,6 +105,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 dust density and extinction Maps of the Milky Way out to 2.8
 kpc](http://dx.doi.org/10.1093/mnras/stae1474)*, Monthly Notices of the
 Royal Astronomical Society
+([arXiv:2406.06740](http://arxiv.org/abs/2406.06740))
 
 Lu, Yuxi(Lucy); Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori,
 Soichiro, 2024, *[In This Day and Age: An Empirical Gyrochronology
