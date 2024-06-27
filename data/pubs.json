@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": "2406.06740",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Wilson, A. G."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stae1474",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2024-06-00",
+    "title": "All-sky three-dimensional dust density and extinction Maps of the Milky Way out to 2.8 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.1504D",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2402.06835",
     "authors": [
       "Garcia, Lionel J.",
@@ -39,29 +62,6 @@
     "title": "How do wavelength correlations affect transmission spectra? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
     "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...686A..89F",
     "volume": "686",
-    "year": "2024"
-  },
-  {
-    "arxiv": "2406.06740",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Wilson, A. G."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stae1474",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2024-06-00",
-    "title": "All-sky three-dimensional dust density and extinction Maps of the Milky Way out to 2.8 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp.1504D",
-    "volume": null,
     "year": "2024"
   },
   {
@@ -1141,7 +1141,7 @@
       "Springford, Aaron",
       "Tak, Hyungsuk"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.04703",
     "page": null,
@@ -1740,7 +1740,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1551,
+    "citations": 1555,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3475,7 +3475,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 216,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5851,7 +5851,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 614,
+    "citations": 615,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -5902,7 +5902,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -7595,7 +7595,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9042,
+    "citations": 9049,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
