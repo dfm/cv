@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 104 / first author: 9 / citations: 20,262 / h-index: 46
-(2024-07-01)
+refereed: 104 / first author: 9 / citations: 20,261 / h-index: 45
+(2024-07-02)
 
 ### Refereed publications
 
@@ -491,19 +491,19 @@ Royal Astronomical Society, **492**, 1008
 ([arXiv:1911.09705](http://arxiv.org/abs/1911.09705)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 
-**Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
-Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
-affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
-Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[183
-citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
-
 David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal, **885**
 ([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[124
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
+
+**Foreman-Mackey, Daniel**; Farr, Will; Sinha, Manodeep; Archibald,
+Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
+affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
+Journal of Open Source Software, **4**, 1864
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[183
+citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
 Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
@@ -518,7 +518,7 @@ Benjamin T.; & Luger, Rodrigo, 2019, *[WOBBLE: A Data-driven Analysis
 Technique for Time-series Stellar
 Spectra](http://dx.doi.org/10.3847/1538-3881/ab40a7)*, The Astronomical
 Journal, **158**, 164
-([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[45
+([arXiv:1901.00503](http://arxiv.org/abs/1901.00503)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..164B)\]
 
 Feinstein, Adina D.; Montet, Benjamin T.; **Foreman-Mackey, Daniel**;
