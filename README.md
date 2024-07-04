@@ -46,14 +46,14 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
+[**jax**](https://github.com/google/jax) — 29041 stars / 2658 forks  
+Composable transformations of Python+NumPy programs: differentiate,
+vectorize, JIT to GPU/TPU, and more
+[\[docs\]](http://jax.readthedocs.io/)
+
 [**tinygp**](https://github.com/dfm/tinygp) — 283 stars / 22 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
-
-[**showyourwork**](https://github.com/showyourwork/showyourwork) — 541
-stars / 43 forks  
-A workflow for reproducible and open scientific articles
-[\[docs\]](https://show-your.work)
 
 [**emcee**](https://github.com/dfm/emcee) — 1441 stars / 431 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 104 / first author: 9 / citations: 20,261 / h-index: 45
-(2024-07-03)
+refereed: 104 / first author: 9 / citations: 20,266 / h-index: 45
+(2024-07-04)
 
 ### Refereed publications
 
@@ -150,7 +150,7 @@ Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
 Radial Velocity Mass Estimates of the V1298 Tau
 Planets](http://dx.doi.org/10.3847/1538-3881/acde78)*, The Astronomical
 Journal, **166**, 62
-([arXiv:2306.08145](http://arxiv.org/abs/2306.08145)) \[[19
+([arXiv:2306.08145](http://arxiv.org/abs/2306.08145)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166...62B)\]
 
 Tran, Quang H.; Bedell, Megan; **Foreman-Mackey, Daniel**; & Luger,
@@ -236,7 +236,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1574
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[1578
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Angus, Ruth; Price-Whelan, Adrian M.; Zinn, Joel C.; Bedell, Megan;
@@ -688,7 +688,7 @@ Rix, Hans-Walter, 2017, *[The Joker: A Custom Monte Carlo Sampler for
 Binary-star and Exoplanet Radial Velocity
 Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, The Astrophysical
 Journal, **837**, 20
-([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[112
+([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[111
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
 **Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
@@ -740,7 +740,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[250
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[251
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in

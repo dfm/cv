@@ -6,6 +6,21 @@
         "edges": [
           {
             "node": {
+              "name": "jax",
+              "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+              "url": "https://github.com/google/jax",
+              "homepageUrl": "http://jax.readthedocs.io/",
+              "forkCount": 2658,
+              "stargazers": {
+                "totalCount": 29041
+              },
+              "watchers": {
+                "totalCount": 326
+              }
+            }
+          },
+          {
+            "node": {
               "name": "tinygp",
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
@@ -16,21 +31,6 @@
               },
               "watchers": {
                 "totalCount": 9
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "showyourwork",
-              "description": "A workflow for reproducible and open scientific articles",
-              "url": "https://github.com/showyourwork/showyourwork",
-              "homepageUrl": "https://show-your.work",
-              "forkCount": 43,
-              "stargazers": {
-                "totalCount": 541
-              },
-              "watchers": {
-                "totalCount": 5
               }
             }
           },
