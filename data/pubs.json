@@ -1067,7 +1067,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1740,7 +1740,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1578,
+    "citations": 1589,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3475,7 +3475,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 218,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5220,7 +5220,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 231,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5582,6 +5582,23 @@
     "year": "2018"
   },
   {
+    "arxiv": "1809.10295",
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 93,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aae265",
+    "page": 173,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2018-09-00",
+    "title": "A Robust Method to Measure Centroids of Spectral Lines",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
+    "volume": "2",
+    "year": "2018"
+  },
+  {
     "arxiv": "1702.05488",
     "authors": [
       "Luger, Rodrigo",
@@ -5599,23 +5616,6 @@
     "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
     "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
     "volume": "156",
-    "year": "2018"
-  },
-  {
-    "arxiv": "1809.10295",
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 93,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/aae265",
-    "page": 173,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2018-09-00",
-    "title": "A Robust Method to Measure Centroids of Spectral Lines",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
-    "volume": "2",
     "year": "2018"
   },
   {
@@ -5851,7 +5851,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 617,
+    "citations": 618,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7595,7 +7595,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9078,
+    "citations": 9087,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
