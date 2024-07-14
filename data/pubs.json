@@ -622,7 +622,7 @@
       "Malz, Alex I.",
       "Aleo, Patrick D."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ace326",
     "page": 6,
@@ -894,7 +894,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1098,7 +1098,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1771,7 +1771,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1608,
+    "citations": 1626,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2690,7 +2690,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -2709,7 +2709,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 39,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -3506,7 +3506,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3991,7 +3991,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -5618,7 +5618,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6692,7 +6692,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1572,
+    "citations": 1575,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6763,7 +6763,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 251,
+    "citations": 252,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -6984,7 +6984,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7382,7 +7382,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 237,
+    "citations": 238,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7626,7 +7626,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9113,
+    "citations": 9135,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
