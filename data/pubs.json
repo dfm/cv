@@ -1771,7 +1771,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1626,
+    "citations": 1638,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1780,6 +1780,25 @@
     "title": "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A",
     "volume": "935",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2103.06275",
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Bartoli{\\'c}, Fran",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 12,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac4017",
+    "page": 4,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-07-00",
+    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L",
+    "volume": "164",
     "year": "2022"
   },
   {
@@ -1800,25 +1819,6 @@
     "pubdate": "2022-07-00",
     "title": "The 3D Galactocentric Velocities of Kepler Stars: Marginalizing Over Missing Radial Velocities",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164...25A",
-    "volume": "164",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2103.06275",
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Bartoli{\\'c}, Fran",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 11,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac4017",
-    "page": 4,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-07-00",
-    "title": "Analytic Light Curves in Reflected Light: Phase Curves, Occultations, and Non-Lambertian Scattering for Spherical Planets and Moons",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164....4L",
     "volume": "164",
     "year": "2022"
   },
@@ -2531,7 +2531,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3036,7 +3036,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3991,7 +3991,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4167,7 +4167,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4459,7 +4459,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 183,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4686,7 +4686,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 194,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5251,7 +5251,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 232,
+    "citations": 233,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5277,7 +5277,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5618,7 +5618,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6676,7 +6676,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -6692,7 +6692,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1575,
+    "citations": 1578,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7626,7 +7626,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9135,
+    "citations": 9148,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
