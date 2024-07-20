@@ -217,7 +217,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1098,7 +1098,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1771,7 +1771,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1634,
+    "citations": 1644,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4459,7 +4459,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 185,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5778,7 +5778,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 250,
+    "citations": 251,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -7626,7 +7626,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9151,
+    "citations": 9159,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
