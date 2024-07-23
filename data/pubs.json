@@ -103,7 +103,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 207,
+    "citations": 120,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -283,7 +283,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -520,7 +520,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 7,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -814,7 +814,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7832419",
     "page": null,
@@ -894,7 +894,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1098,7 +1098,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1219,7 +1219,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 13,
+    "citations": 16,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.05329",
     "page": null,
@@ -1449,7 +1449,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -1771,7 +1771,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1643,
+    "citations": 1659,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2135,7 +2135,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 5,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -2531,7 +2531,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2690,7 +2690,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -2709,7 +2709,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -3506,7 +3506,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 220,
+    "citations": 223,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3544,7 +3544,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -4421,6 +4421,34 @@
     "year": "2019"
   },
   {
+    "arxiv": "1911.07688",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Farr, Will",
+      "Sinha, Manodeep",
+      "Archibald, Anne",
+      "Hogg, David",
+      "Sanders, Jeremy",
+      "Zuntz, Joe",
+      "Williams, Peter",
+      "Nelson, Andrew",
+      "de Val-Borro, Miguel",
+      "Erhardt, Tobias",
+      "Pashchenko, Ilya",
+      "Pla, Oriol"
+    ],
+    "citations": 187,
+    "doctype": "article",
+    "doi": "10.21105/joss.01864",
+    "page": 1864,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-11-00",
+    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
+    "volume": "4",
+    "year": "2019"
+  },
+  {
     "arxiv": "1910.04563",
     "authors": [
       "David, Trevor J.",
@@ -4440,34 +4468,6 @@
     "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
     "volume": "885",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1911.07688",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Farr, Will",
-      "Sinha, Manodeep",
-      "Archibald, Anne",
-      "Hogg, David",
-      "Sanders, Jeremy",
-      "Zuntz, Joe",
-      "Williams, Peter",
-      "Nelson, Andrew",
-      "de Val-Borro, Miguel",
-      "Erhardt, Tobias",
-      "Pashchenko, Ilya",
-      "Pla, Oriol"
-    ],
-    "citations": 186,
-    "doctype": "article",
-    "doi": "10.21105/joss.01864",
-    "page": 1864,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-11-00",
-    "title": "emcee v3: A Python ensemble sampling toolkit for affine-invariant MCMC",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F",
-    "volume": "4",
     "year": "2019"
   },
   {
@@ -5005,7 +5005,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5311,7 +5311,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -5496,7 +5496,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -5778,7 +5778,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 251,
+    "citations": 252,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6268,7 +6268,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 285,
+    "citations": 286,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6388,7 +6388,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -6692,7 +6692,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1577,
+    "citations": 1580,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7626,7 +7626,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9160,
+    "citations": 9181,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7650,7 +7650,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "software",
     "doi": null,
     "page": null,
