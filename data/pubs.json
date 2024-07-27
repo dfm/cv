@@ -1098,7 +1098,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1126,7 +1126,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -1771,7 +1771,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1664,
+    "citations": 1674,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3991,7 +3991,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4437,7 +4437,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 187,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5618,7 +5618,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6692,7 +6692,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1580,
+    "citations": 1581,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7128,7 +7128,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 458,
+    "citations": 459,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7626,7 +7626,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9186,
+    "citations": 9194,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
