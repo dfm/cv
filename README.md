@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/google/jax) — 29306 stars / 2682 forks  
+[**jax**](https://github.com/google/jax) — 29315 stars / 2684 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -78,7 +78,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 104 / first author: 9 / citations: 20,625 / h-index: 45
-(2024-07-29)
+(2024-07-30)
 
 ### Refereed publications
 
@@ -875,12 +875,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
-**Foreman-Mackey, Daniel**; *et al.*, 2024, *[All-sky three-dimensional
-dust density and extinction Maps of the Milky Way out to 2.8
-kpc](http://dx.doi.org/10.48550/arXiv.2406.06740)*, ArXiv
-([arXiv:2406.06740](http://arxiv.org/abs/2406.06740))
 
 Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
 **Foreman-Mackey, Daniel**, 2024, *[Precise Time-Domain Asteroseismology
