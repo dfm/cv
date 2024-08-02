@@ -11,7 +11,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -1771,7 +1771,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1693,
+    "citations": 1698,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3991,7 +3991,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 171,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4459,7 +4459,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -5277,7 +5277,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 180,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6388,7 +6388,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 73,
+    "citations": 74,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -6692,7 +6692,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1584,
+    "citations": 1585,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6931,7 +6931,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7626,7 +7626,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9222,
+    "citations": 9231,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
