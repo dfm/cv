@@ -12,7 +12,7 @@
               "homepageUrl": "http://jax.readthedocs.io/",
               "forkCount": 2688,
               "stargazers": {
-                "totalCount": 29376
+                "totalCount": 29383
               },
               "watchers": {
                 "totalCount": 327
@@ -40,9 +40,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 431,
+              "forkCount": 430,
               "stargazers": {
-                "totalCount": 1449
+                "totalCount": 1451
               },
               "watchers": {
                 "totalCount": 87
@@ -55,9 +55,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 229,
+              "forkCount": 228,
               "stargazers": {
-                "totalCount": 503
+                "totalCount": 504
               },
               "watchers": {
                 "totalCount": 18
@@ -70,12 +70,12 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 54,
+              "forkCount": 52,
               "stargazers": {
-                "totalCount": 202
+                "totalCount": 203
               },
               "watchers": {
-                "totalCount": 19
+                "totalCount": 18
               }
             }
           },
@@ -90,7 +90,7 @@
                 "totalCount": 674
               },
               "watchers": {
-                "totalCount": 18
+                "totalCount": 17
               }
             }
           }
