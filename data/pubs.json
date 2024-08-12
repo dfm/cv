@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": "2406.06740",
+    "arxiv": null,
     "authors": [
       "Dharmawardena, T. E.",
       "Bailer-Jones, C. A. L.",
@@ -23,7 +23,7 @@
     "year": "2024"
   },
   {
-    "arxiv": "2402.06835",
+    "arxiv": null,
     "authors": [
       "Garcia, Lionel J.",
       "Foreman-Mackey, Daniel",
@@ -44,7 +44,7 @@
     "year": "2024"
   },
   {
-    "arxiv": "2402.15204",
+    "arxiv": null,
     "authors": [
       "Fortune, Mark",
       "Gibson, Neale P.",
@@ -62,29 +62,6 @@
     "title": "How do wavelength correlations affect transmission spectra? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy",
     "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...686A..89F",
     "volume": "686",
-    "year": "2024"
-  },
-  {
-    "arxiv": "2406.06740",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Wilson, A. G."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2406.06740",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-06-00",
-    "title": "All-sky three-dimensional dust density and extinction Maps of the Milky Way out to 2.8 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240606740D",
-    "volume": null,
     "year": "2024"
   },
   {
@@ -138,7 +115,7 @@
     "year": "2024"
   },
   {
-    "arxiv": "2310.14990",
+    "arxiv": null,
     "authors": [
       "Lu, Yuxi(Lucy)",
       "Angus, Ruth",
@@ -314,27 +291,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2402.06835",
-    "authors": [
-      "Garcia, Lionel",
-      "Foreman-Mackey, Daniel",
-      "Murray, Catriona A.",
-      "Aigrain, Suzanne",
-      "Feliz, Dax L.",
-      "Pozuelos, Francisco J."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2402.06835",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-02-00",
-    "title": "nuance: Efficient detection of planets transiting active stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240206835G",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -422,7 +378,7 @@
     "year": "2024"
   },
   {
-    "arxiv": "2302.05064",
+    "arxiv": null,
     "authors": [
       "Yahalomi, Daniel A.",
       "Angus, Ruth",
@@ -616,25 +572,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2310.14990",
-    "authors": [
-      "Lu, Yuxi",
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Hattori, Soichiro"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2310.14990",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-10-00",
-    "title": "In this Day and Age: An Empirical Gyrochronology Relation for Partially and Fully Convective Single Field Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv231014990L",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Johnson, Ben",
@@ -681,7 +618,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2305.14220",
+    "arxiv": null,
     "authors": [
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
@@ -698,7 +635,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2305.08894",
+    "arxiv": null,
     "authors": [
       "Gagliano, Alexander",
       "Contardo, Gabriella",
@@ -743,7 +680,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2209.08940",
+    "arxiv": null,
     "authors": [
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
@@ -760,7 +697,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2306.08145",
+    "arxiv": null,
     "authors": [
       "Blunt, Sarah",
       "Carvalho, Adolfo",
@@ -789,7 +726,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -846,7 +783,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2305.00988",
+    "arxiv": null,
     "authors": [
       "Tran, Quang H.",
       "Bedell, Megan",
@@ -862,84 +799,6 @@
     "title": "Joint Modeling of Radial Velocities and Photometry with a Gaussian Process Framework",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...950..162T",
     "volume": "950",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2306.08145",
-    "authors": [
-      "Blunt, Sarah",
-      "Carvalho, Adolfo",
-      "David, Trevor J.",
-      "Beichman, Charles",
-      "Zink, Jon K.",
-      "Gaidos, Eric",
-      "Behmard, Aida",
-      "Bouma, Luke G.",
-      "Cody, Devin",
-      "Dai, Fei",
-      "Foreman-Mackey, Daniel",
-      "Grunblatt, Sam",
-      "Howard, Andrew W.",
-      "Kosiarek, Molly",
-      "Knutson, Heather A.",
-      "Rubenzahl, Ryan A.",
-      "Beard, Corey",
-      "Chontos, Ashley",
-      "Giacalone, Steven",
-      "Hirano, Teruyuki",
-      "Johnson, Marshall C.",
-      "Lubin, Jack",
-      "Akana Murphy, Joseph M.",
-      "Petigura, Erik A",
-      "Van Zandt, Judah",
-      "Weiss, Lauren"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2306.08145",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-06-00",
-    "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230608145B",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.14220",
-    "authors": [
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.14220",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "A Hierarchical Bayesian Framework for Inferring the Stellar Obliquity Distribution",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230514220D",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2305.08894",
-    "authors": [
-      "Gagliano, Alexander",
-      "Contardo, Gabriella",
-      "Foreman-Mackey, Daniel",
-      "Malz, Alex I.",
-      "Aleo, Patrick D."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2305.08894",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-05-00",
-    "title": "First Impressions: Early-Time Classification of Supernovae using Host Galaxy Information and Shallow Learning",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230508894G",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -1069,7 +928,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2211.06397",
+    "arxiv": null,
     "authors": [
       "Wong, Kaze W. K.",
       "Gabri{\\'e}, Marylou",
@@ -1184,7 +1043,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2211.10488",
+    "arxiv": null,
     "authors": [
       "Alderson, Lili",
       "Wakeford, Hannah R.",
@@ -1291,7 +1150,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2301.03209",
+    "arxiv": null,
     "authors": [
       "Mikal-Evans, Thomas",
       "Sing, David K.",
@@ -1342,7 +1201,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2210.03615",
+    "arxiv": null,
     "authors": [
       "Dharmawardena, T. E.",
       "Bailer-Jones, C. A. L.",
@@ -1365,7 +1224,7 @@
     "year": "2023"
   },
   {
-    "arxiv": "2211.16461",
+    "arxiv": null,
     "authors": [
       "Jo, Yongseok",
       "Genel, Shy",
@@ -1408,25 +1267,6 @@
     "pubdate": "2023-02-00",
     "title": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": "2302.05064",
-    "authors": [
-      "Yahalomi, Daniel A.",
-      "Angus, Ruth",
-      "Spergel, David N.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05064",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Detecting Solar System Analogs through Joint Radial Velocity/Astrometric Surveys",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205064Y",
     "volume": null,
     "year": "2023"
   },
@@ -1570,7 +1410,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2201.04197",
+    "arxiv": null,
     "authors": [
       "Brande, Jonathan",
       "Crossfield, Ian J. M.",
@@ -1602,7 +1442,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2204.06449",
+    "arxiv": null,
     "authors": [
       "Nagaraj, Gautam",
       "Forbes, John C.",
@@ -1884,7 +1724,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2209.02725",
+    "arxiv": null,
     "authors": [
       "Eilers, Anna-Christina",
       "Hogg, David W.",
@@ -1905,7 +1745,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2210.11180",
+    "arxiv": null,
     "authors": [
       "Farrell, Eoin",
       "Jermyn, Adam S.",
@@ -1960,29 +1800,6 @@
     "pubdate": "2022-10-00",
     "title": "The Initial Magnetic Field Distribution in AB Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221011180F",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2210.03615",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2210.03615",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-10-00",
-    "title": "The three-dimensional structure of Galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv221003615D",
     "volume": null,
     "year": "2022"
   },
@@ -2068,28 +1885,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2209.02725",
-    "authors": [
-      "Eilers, Anna-Christina",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard",
-      "Foreman-Mackey, Daniel",
-      "Davies, Frederick B.",
-      "Schindler, Jan-Torge"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2209.02725",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-09-00",
-    "title": "A Generative Model for Quasar Spectra",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220902725E",
-    "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2206.14220",
+    "arxiv": null,
     "authors": [
       "Astropy Collaboration",
       "Price-Whelan, Adrian M.",
@@ -2229,7 +2025,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1735,
+    "citations": 1750,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2241,7 +2037,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2103.06275",
+    "arxiv": null,
     "authors": [
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -2260,7 +2056,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2205.08901",
+    "arxiv": null,
     "authors": [
       "Angus, Ruth",
       "Price-Whelan, Adrian M.",
@@ -2326,7 +2122,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2106.15063",
+    "arxiv": null,
     "authors": [
       "Hattori, Soichiro",
       "Foreman-Mackey, Daniel",
@@ -2387,7 +2183,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2110.10707",
+    "arxiv": null,
     "authors": [
       "Johnson, Marshall C.",
       "David, Trevor J.",
@@ -2427,7 +2223,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
+    "arxiv": null,
     "authors": [
       "Nagaraj, Gautam",
       "Forbes, John C.",
@@ -2691,28 +2487,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2205.08901",
-    "authors": [
-      "Angus, Ruth",
-      "Price-Whelan, Adrian M.",
-      "Zinn, Joel C.",
-      "Bedell, Megan",
-      "Yuxi",
-      "Lu",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2205.08901",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-05-00",
-    "title": "The 3D Galactocentric velocities of Kepler stars: marginalizing over missing RVs",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220508901A",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
@@ -2778,7 +2552,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.04686",
+    "arxiv": null,
     "authors": [
       "Hitchcock, J. A.",
       "Bramich, D. M.",
@@ -2795,26 +2569,6 @@
     "title": "The Thresher: Lucky imaging without the waste",
     "url": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.5372H",
     "volume": "511",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2204.06449",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Dan",
-      "Hayward, Christopher C."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2204.06449",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-04-00",
-    "title": "Empirical Dust Attenuation Model Leads to More Realistic UVJ Diagram for TNG100 Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220406449N",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -2883,7 +2637,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2103.03758",
+    "arxiv": null,
     "authors": [
       "Bartoli{\\'c}, Fran",
       "Luger, Rodrigo",
@@ -2903,7 +2657,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2111.06672",
+    "arxiv": null,
     "authors": [
       "Dharmawardena, T. E.",
       "Bailer-Jones, C. A. L.",
@@ -2941,26 +2695,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.04686",
-    "authors": [
-      "Hitchcock, James A.",
-      "Bramich, D. M.",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Hundertmark, Markus"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2202.04686",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-02-00",
-    "title": "The Thresher: Lucky Imaging without the Waste",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220204686H",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -2981,7 +2715,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2111.08660",
+    "arxiv": null,
     "authors": [
       "Feinstein, Adina D.",
       "David, Trevor J.",
@@ -3034,7 +2768,7 @@
     "year": "2022"
   },
   {
-    "arxiv": "2101.02707",
+    "arxiv": null,
     "authors": [
       "Martin, David V.",
       "El-Badry, Kareem",
@@ -3198,7 +2932,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2101.01593",
+    "arxiv": null,
     "authors": [
       "Van Eylen, V.",
       "Astudillo-Defru, N.",
@@ -3306,7 +3040,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2107.14015",
+    "arxiv": null,
     "authors": [
       "Gan, Tianjun",
       "Bedell, Megan",
@@ -3447,47 +3181,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2110.10707",
-    "authors": [
-      "Johnson, Marshall C.",
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Isaacson, Howard T.",
-      "Van Zandt, Judah",
-      "Ilyin, Ilya",
-      "Strassmeier, Klaus",
-      "Mallonn, Matthias",
-      "Zhou, George",
-      "Mann, Andrew W.",
-      "Livingston, John H.",
-      "Luger, Rodrigo",
-      "Dai, Fei",
-      "Weiss, Lauren M.",
-      "Mo{\\v{c}}nik, Teo",
-      "Giacalone, Steven",
-      "Hill, Michelle L.",
-      "Rice, Malena",
-      "Blunt, Sarah",
-      "Rubenzahl, Ryan",
-      "Dalba, Paul A.",
-      "Esquerdo, Gilbert A.",
-      "Berlind, Perry",
-      "Calkins, Michael L.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2110.10707",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211010707J",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
+    "arxiv": null,
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -3505,7 +3199,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.00007",
+    "arxiv": null,
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -3598,7 +3292,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2104.01970",
+    "arxiv": null,
     "authors": [
       "Dong, Jiayin",
       "Huang, Chelsea X.",
@@ -3673,7 +3367,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.01774",
+    "arxiv": null,
     "authors": [
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",
@@ -3691,7 +3385,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2104.13715",
+    "arxiv": null,
     "authors": [
       "Hitchcock, James A.",
       "Hundertmark, Markus",
@@ -3728,72 +3422,6 @@
     "pubdate": "2021-07-00",
     "title": "K2-CPM: Causal Pixel Model for K2 data",
     "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft07024W",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2107.14015",
-    "authors": [
-      "Gan, Tianjun",
-      "Bedell, Megan",
-      "Xuesong Wang, Sharon",
-      "Foreman-Mackey, Daniel",
-      "Mel{\\'e}ndez, Jorge",
-      "Mao, Shude",
-      "Stassun, Keivan G.",
-      "Howell, Steve B.",
-      "Ziegler, Carl",
-      "Wittenmyer, Robert A.",
-      "Hellier, Coel",
-      "Collins, Karen A.",
-      "Shporer, Avi",
-      "Ricker, George R.",
-      "Vanderspek, Roland",
-      "Latham, David W.",
-      "Seager, Sara",
-      "Winn, Joshua N.",
-      "Jenkins, Jon M.",
-      "Addison, Brett C.",
-      "Ballard, Sarah",
-      "Barclay, Thomas",
-      "Bean, Jacob L.",
-      "Bowler, Brendan P.",
-      "Brice{\\~n}o, C{\\'e}sar",
-      "Crossfield, Ian J. M.",
-      "Dittman, Jason",
-      "Horner, Jonathan",
-      "Jensen, Eric L. N.",
-      "Kane, Stephen R.",
-      "Kielkopf, John",
-      "Kreidberg, Laura",
-      "Law, Nicholas",
-      "Mann, Andrew W.",
-      "Mengel, Matthew W.",
-      "Morgan, Edward H.",
-      "Okumura, Jack",
-      "Osborn, Hugh P.",
-      "Paegert, Martin",
-      "Plavchan, Peter",
-      "Schwarz, Richard P.",
-      "Shiao, Bernie",
-      "Smith, Jeffrey C.",
-      "Spina, Lorenzo",
-      "Tinney, C. G.",
-      "Torres, Guillermo",
-      "Twicken, Joseph D.",
-      "Vezie, Michael",
-      "Wang, Gavin",
-      "Wright, Duncan J.",
-      "Zhang, Hui"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2107.14015",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-07-00",
-    "title": "HD 183579b: A Warm Sub-Neptune Transiting a Solar Twin Detected by TESS",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210714015G",
     "volume": null,
     "year": "2021"
   },
@@ -3886,7 +3514,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2105.01994",
+    "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo",
@@ -3905,7 +3533,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 147,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3917,7 +3545,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2011.09894",
+    "arxiv": null,
     "authors": [
       "David, Trevor J.",
       "Contardo, Gabriella",
@@ -3940,29 +3568,6 @@
     "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D",
     "volume": "161",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2106.15063",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-06-00",
-    "title": "The unpopular Package: a Data-driven Approach to De-trend TESS Full Frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210615063H",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -4016,7 +3621,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2101.07886",
+    "arxiv": null,
     "authors": [
       "Gordon, Tyler A.",
       "Davenport, James R. A.",
@@ -4057,37 +3662,6 @@
     "pubdate": "2021-05-00",
     "title": "PyTorchDIA: Difference Image Analysis tool",
     "url": "https://ui.adsabs.harvard.edu/abs/2021ascl.soft05015H",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2105.01994",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Barclay, Thomas",
-      "Bouma, Luke G.",
-      "Brandt, Timothy D.",
-      "Czekala, Ian",
-      "David, Trevor J.",
-      "Dong, Jiayin",
-      "Gilbert, Emily A.",
-      "Gordon, Tyler A.",
-      "Hedges, Christina",
-      "Hey, Daniel R.",
-      "Morris, Brett M.",
-      "Price-Whelan, Adrian M.",
-      "Savel, Arjun B."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2105.01994",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-05-00",
-    "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210501994F",
     "volume": null,
     "year": "2021"
   },
@@ -4470,7 +4044,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2009.11831",
+    "arxiv": null,
     "authors": [
       "Tamayo, Daniel",
       "Gilbertson, Christian",
@@ -4507,27 +4081,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2103.03758",
-    "authors": [
-      "Bartoli{\\'c}, Fran",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Howell, Robert R.",
-      "Rathbun, Julie A."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2103.03758",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-03-00",
-    "title": "Occultation mapping of Io's surface in the near-infrared I: Inferring static maps",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210303758B",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2010.01074",
+    "arxiv": null,
     "authors": [
       "Agol, Eric",
       "Dorn, Caroline",
@@ -4565,7 +4119,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 223,
+    "citations": 224,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4577,7 +4131,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.00044",
+    "arxiv": null,
     "authors": [
       "Hedges, Christina",
       "Luger, Rodrigo",
@@ -4611,44 +4165,6 @@
     "pubdate": "2021-02-00",
     "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210201774L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2102.01697",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-02-00",
-    "title": "Mapping stellar surfaces II: An interpretable Gaussian process model for light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210201697L",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.00044",
-    "authors": [
-      "Hedges, Christina",
-      "Luger, Rodrigo",
-      "Dotson, Jessie",
-      "Foreman-Mackey, Daniel",
-      "Barentsen, Geert"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2102.00044",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Multi-Wavelength Photometry Derived from Monochromatic Kepler Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210200044H",
     "volume": null,
     "year": "2021"
   },
@@ -4695,145 +4211,7 @@
     "year": "2021"
   },
   {
-    "arxiv": "2101.02707",
-    "authors": [
-      "Martin, David V.",
-      "El-Badry, Kareem",
-      "Kunovac Hod{\\v{z}}i{\\'c}, Vedad",
-      "Triaud, Amaury H. M. J.",
-      "Angus, Ruth",
-      "Birky, Jessica",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina",
-      "Montet, Benjamin T.",
-      "Murphy, Simon J.",
-      "Santerne, Alexandre",
-      "Stassun, Keivan G.",
-      "Stephan, Alexander P.",
-      "Wang, Ji",
-      "Benni, Paul",
-      "Krushinsky, Vadim",
-      "Chazov, Nikita",
-      "Mishevskiy, Nikolay",
-      "Ziegler, Carl",
-      "Soubkiou, Abderahmane",
-      "Benkhaldoun, Zouhair",
-      "Caldwell, Douglas A.",
-      "Collins, Karen",
-      "Henze, Christopher E.",
-      "Guerrero, Natalia M.",
-      "Jenkins, Jon M.",
-      "Latham, David W.",
-      "Levine, Adam",
-      "McDermott, Scott",
-      "Mullally, Susan E.",
-      "Ricker, George",
-      "Seager, Sara",
-      "Shporer, Avi",
-      "Vanderburg, Andrew",
-      "Vanderspek, Roland",
-      "Winn, Joshua N."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2101.02707",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "TOI-1259Ab -- a gas giant planet with 2.7{\\%} deep transits and a bound white dwarf companion",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210102707M",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2101.01593",
-    "authors": [
-      "Van Eylen, Vincent",
-      "Astudillo-Defru, N.",
-      "Bonfils, X.",
-      "Livingston, J.",
-      "Hirano, T.",
-      "Luque, R.",
-      "Lam, K. W. F.",
-      "Justesen, A. B.",
-      "Winn, J. N.",
-      "Gandolfi, D.",
-      "Nowak, G.",
-      "Palle, E.",
-      "Albrecht, S.",
-      "Dai, F.",
-      "Campos Estrada, B.",
-      "Owen, J. E.",
-      "Foreman-Mackey, D.",
-      "Fridlund, M.",
-      "Korth, J.",
-      "Mathur, S.",
-      "Forveille, T.",
-      "Mikal-Evans, T.",
-      "Osborne, H. L. M.",
-      "Ho, C. S. K.",
-      "Almenara, J. M.",
-      "Artigau, E.",
-      "Barrag{\\'a}n, O.",
-      "Barros, S. C. C.",
-      "Bouchy, F.",
-      "Cabrera, J.",
-      "Caldwell, D. A.",
-      "Charbonneau, D.",
-      "Chaturvedi, P.",
-      "Cochran, W. D.",
-      "Csizmadia, S.",
-      "Damasso, M.",
-      "Delfosse, X.",
-      "De Medeiros, J. R.",
-      "D{\\'\\i}az, R. F.",
-      "Doyon, R.",
-      "Esposito, M.",
-      "F{\\'{u}}r{\\'e}sz, G.",
-      "Figueira, P.",
-      "Georgieva, I.",
-      "Goffo, E.",
-      "Grziwa, S.",
-      "Guenther, E.",
-      "Hatzes, A. P.",
-      "Jenkins, J. M.",
-      "Kabath, P.",
-      "Knudstrup, E.",
-      "Latham, D. W.",
-      "Lavie, B.",
-      "Lovis, C.",
-      "Mennickent, R. E.",
-      "Mullally, S. E.",
-      "Murgas, F.",
-      "Narita, N.",
-      "Pepe, F. A.",
-      "Persson, C. M.",
-      "Redfield, S.",
-      "Ricker, G. R.",
-      "Santos, N. C.",
-      "Seager, S.",
-      "Serrano, L. M.",
-      "Smith, A. M. S.",
-      "Su{\\'a}rez Mascare{\\~n}o, A.",
-      "Subjak, J.",
-      "Twicken, J. D.",
-      "Udry, S.",
-      "Vanderspek, R.",
-      "Zapatero Osorio, M. R."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2101.01593",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-01-00",
-    "title": "Masses and compositions of three small planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf radius valley",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210101593V",
-    "volume": null,
-    "year": "2021"
-  },
-  {
-    "arxiv": "2007.05799",
+    "arxiv": null,
     "authors": [
       "Gordon, Tyler A.",
       "Agol, Eric",
@@ -4867,33 +4245,6 @@
     "pubdate": "2020-11-00",
     "title": "wobble: Time-series spectra analyzer",
     "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft11012B",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2011.09894",
-    "authors": [
-      "David, Trevor J.",
-      "Contardo, Gabriella",
-      "Sandoval, Angeli",
-      "Angus, Ruth",
-      "Yuxi",
-      "Lu",
-      "Bedell, Megan",
-      "Curtis, Jason L.",
-      "Foreman-Mackey, Daniel",
-      "Fulton, Benjamin J.",
-      "Grunblatt, Samuel K.",
-      "Petigura, Erik A."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2011.09894",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-11-00",
-    "title": "Evolution of the Exoplanet Size Distribution: Forming Large Super-Earths Over Billions of Years",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201109894D",
     "volume": null,
     "year": "2020"
   },
@@ -5000,7 +4351,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2006.16280",
+    "arxiv": null,
     "authors": [
       "Villaume, Alexa",
       "Foreman-Mackey, Daniel",
@@ -5020,25 +4371,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2009.11831",
-    "authors": [
-      "Tamayo, Daniel",
-      "Gilbertson, Christian",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2009.11831",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-09-00",
-    "title": "Stability Constrained Characterization of Multiplanet Systems",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200911831T",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2005.09387",
+    "arxiv": null,
     "authors": [
       "Angus, Ruth",
       "Beane, Angus",
@@ -5291,25 +4624,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2007.05799",
-    "authors": [
-      "Gordon, Tyler",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2007.05799",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-07-00",
-    "title": "A Fast, 2D Gaussian Process Method Based on Celerite: Applications to Transiting Exoplanet Discovery and Characterization",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200705799G",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2006.13248",
+    "arxiv": null,
     "authors": [
       "Plavchan, Peter",
       "Barclay, Thomas",
@@ -5399,7 +4714,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 173,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -5426,128 +4741,6 @@
     "title": "Inferring a time dependent map of Io's surface from occultations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AAS...23622104B",
     "volume": "236",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2006.16280",
-    "authors": [
-      "Villaume, Alexa",
-      "Foreman-Mackey, Daniel",
-      "Romanowsky, Aaron J.",
-      "Brodie, Jean",
-      "Strader, Jay"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2006.16280",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "The Assembly History of M87 Through Radial Variations in Chemical Abundances of its Field Star And Globular Cluster Populations",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200616280V",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2006.13248",
-    "authors": [
-      "Plavchan, Peter",
-      "Barclay, Thomas",
-      "Gagn{\\'e}, Jonathan",
-      "Gao, Peter",
-      "Cale, Bryson",
-      "Matzko, William",
-      "Dragomir, Diana",
-      "Quinn, Sam",
-      "Feliz, Dax",
-      "Stassun, Keivan",
-      "Crossfield, Ian J. M.",
-      "Berardo, David A.",
-      "Latham, David W.",
-      "Tieu, Ben",
-      "Anglada-Escud{\\'e}, Guillem",
-      "Ricker, George",
-      "Vanderspek, Roland",
-      "Seager, Sara",
-      "Winn, Joshua N.",
-      "Jenkins, Jon M.",
-      "Rinehart, Stephen",
-      "Krishnamurthy, Akshata",
-      "Dynes, Scott",
-      "Doty, John",
-      "Adams, Fred",
-      "Afanasev, Dennis A.",
-      "Beichman, Chas",
-      "Bottom, Mike",
-      "Bowler, Brendan P.",
-      "Brinkworth, Carolyn",
-      "Brown, Carolyn J.",
-      "Cancino, Andrew",
-      "Ciardi, David R.",
-      "Clampin, Mark",
-      "Clark, Jake T.",
-      "Collins, Karen",
-      "Davison, Cassy",
-      "Foreman-Mackey, Daniel",
-      "Furlan, Elise",
-      "Gaidos, Eric J.",
-      "Geneser, Claire",
-      "Giddens, Frank",
-      "Gilbert, Emily",
-      "Hall, Ryan",
-      "Hellier, Coel",
-      "Henry, Todd",
-      "Horner, Jonathan",
-      "Howard, Andrew W.",
-      "Huang, Chelsea",
-      "Huber, Joseph",
-      "Kane, Stephen R.",
-      "Kenworthy, Matthew",
-      "Kielkopf, John",
-      "Kipping, David",
-      "Klenke, Chris",
-      "Kruse, Ethan",
-      "Latouf, Natasha",
-      "Lowrance, Patrick",
-      "Mennesson, Bertrand",
-      "Mengel, Matthew",
-      "Mills, Sean M.",
-      "Morton, Tim",
-      "Narita, Norio",
-      "Newton, Elisabeth",
-      "Nishimoto, America",
-      "Okumura, Jack",
-      "Palle, Enric",
-      "Pepper, Joshua",
-      "Quintana, Elisa V.",
-      "Roberge, Aki",
-      "Roccatagliata, Veronica",
-      "Schlieder, Joshua E.",
-      "Tanner, Angelle",
-      "Teske, Johanna",
-      "Tinney, C. G.",
-      "Vanderburg, Andrew",
-      "von Braun, Kaspar",
-      "Walp, Bernie",
-      "Wang, Jason",
-      "Xuesong Wang, Sharon",
-      "Weigand, Denise",
-      "White, Russel",
-      "Wittenmyer, Robert A.",
-      "Wright, Duncan J.",
-      "Youngblood, Allison",
-      "Zhang, Hui",
-      "Zilberman, Perri"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2006.13248",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "A planet within the debris disk around the pre-main-sequence star AU Microscopii",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200613248P",
-    "volume": null,
     "year": "2020"
   },
   {
@@ -5646,7 +4839,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2003.02379",
+    "arxiv": null,
     "authors": [
       "Hey, Daniel R.",
       "Murphy, Simon J.",
@@ -5664,33 +4857,6 @@
     "title": "Forward Modeling the Orbits of Companions to Pulsating Stars from Their Light Travel Time Variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....159..202H",
     "volume": "159",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2005.09387",
-    "authors": [
-      "Angus, Ruth",
-      "Beane, Angus",
-      "Price-Whelan, Adrian M.",
-      "Newton, Elisabeth",
-      "Curtis, Jason L.",
-      "Berger, Travis",
-      "van Saders, Jennifer",
-      "Kiman, Rocio",
-      "Foreman-Mackey, Daniel",
-      "Lu, Yuxi",
-      "Anderson, Lauren",
-      "Faherty, Jacqueline K."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2005.09387",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-05-00",
-    "title": "Exploring the evolution of stellar rotation using Galactic kinematics",
-    "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv200509387A",
-    "volume": null,
     "year": "2020"
   },
   {
@@ -5718,7 +4884,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "1908.03222",
+    "arxiv": null,
     "authors": [
       "Agol, Eric",
       "Luger, Rodrigo",
@@ -5804,7 +4970,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "1911.09705",
+    "arxiv": null,
     "authors": [
       "Gillen, Edward",
       "Briegal, Joshua T.",
@@ -5999,7 +5165,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1910.04563",
+    "arxiv": null,
     "authors": [
       "David, Trevor J.",
       "Petigura, Erik A.",
@@ -6021,7 +5187,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1911.07688",
+    "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel",
       "Farr, Will",
@@ -6049,7 +5215,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1908.07528",
+    "arxiv": null,
     "authors": [
       "Angus, Ruth",
       "Morton, Timothy D.",
@@ -6071,42 +5237,6 @@
     "title": "Toward Precise Stellar Ages: Combining Isochrone Fitting with Empirical Gyrochronology",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A",
     "volume": "158",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1911.09705",
-    "authors": [
-      "Gillen, Edward",
-      "Briegal, Joshua T.",
-      "Hodgkin, Simon T.",
-      "Foreman-Mackey, Daniel",
-      "Van Leeuwen, Floor",
-      "Jackman, James A. G.",
-      "McCormac, James",
-      "West, Richard G.",
-      "Queloz, Didier",
-      "Bayliss, Daniel",
-      "Goad, Michael R.",
-      "Watson, Christopher A.",
-      "Wheatley, Peter J.",
-      "Belardi, Claudia",
-      "Burleigh, Matthew R.",
-      "Casewell, Sarah L.",
-      "Jenkins, James S.",
-      "Raynard, Liam",
-      "Smith, Alexis M. S.",
-      "Tilbrook, Rosanna H.",
-      "Vines, Jose I."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1911.09705",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-11-00",
-    "title": "NGTS clusters survey. I. Rotation in the young benchmark open cluster Blanco 1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv191109705G",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -6156,7 +5286,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1901.00503",
+    "arxiv": null,
     "authors": [
       "Bedell, Megan",
       "Hogg, David W.",
@@ -6209,28 +5339,6 @@
     "title": "VizieR Online Data Catalog: Inferring probabilistic stellar rotation periods (Angus+, 2018)",
     "url": "https://ui.adsabs.harvard.edu/abs/2019yCat..74742094A",
     "volume": "747",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1910.04563",
-    "authors": [
-      "David, Trevor J.",
-      "Petigura, Erik A.",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Livingston, John H.",
-      "Mamajek, Eric E.",
-      "Hillenbrand, Lynne A."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1910.04563",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-10-00",
-    "title": "Four newborn planets transiting the young solar analog V1298 Tau",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv191004563D",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -6336,7 +5444,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1903.09152",
+    "arxiv": null,
     "authors": [
       "Feinstein, Adina D.",
       "Montet, Benjamin T.",
@@ -6362,7 +5470,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1907.10806",
+    "arxiv": null,
     "authors": [
       "Kruse, Ethan",
       "Agol, Eric",
@@ -6551,50 +5659,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1908.07528",
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "van Saders, Jennifer",
-      "Curtis, Jason",
-      "Kane, Stephen R.",
-      "Bedell, Megan",
-      "Kiman, Rocio",
-      "Hogg, David W.",
-      "Brewer, John"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1908.07528",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-08-00",
-    "title": "Towards precise stellar ages: combining isochrone fitting with empirical gyrochronology",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190807528A",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": "1908.03222",
-    "authors": [
-      "Agol, Eric",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1908.03222",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-08-00",
-    "title": "Analytic Planetary Transit Light Curves and Derivatives for Stars with Polynomial Limb Darkening",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190803222A",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": "1903.08017",
+    "arxiv": null,
     "authors": [
       "Kostov, Veselin B.",
       "Schlieder, Joshua E.",
@@ -6760,7 +5825,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1903.06796",
+    "arxiv": null,
     "authors": [
       "Siemiginowska, Aneta",
       "Eadie, Gwendolyn",
@@ -6817,7 +5882,7 @@
     ],
     "citations": 6,
     "doctype": "article",
-    "doi": "10.48550/arXiv.1903.06796",
+    "doi": null,
     "page": 355,
     "pub": "Bulletin of the American Astronomical Society",
     "pubdate": "2019-05-00",
@@ -6955,136 +6020,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1903.08017",
-    "authors": [
-      "Kostov, Veselin B.",
-      "Schlieder, Joshua E.",
-      "Barclay, Thomas",
-      "Quintana, Elisa V.",
-      "Colon, Knicole D.",
-      "Brande, Jonathan",
-      "Collins, Karen A.",
-      "Feinstein, Adina D.",
-      "Hadden, Samuel",
-      "Kane, Stephen R.",
-      "Kreidberg, Laura",
-      "Kruse, Ethan",
-      "Lam, Christopher",
-      "Matthews, Elisabeth",
-      "Montet, Benjamin T.",
-      "Pozuelos, Francisco J.",
-      "Stassun, Keivan G.",
-      "Winters, Jennifer G.",
-      "Ricker, George",
-      "Vanderspek, Roland",
-      "Latham, David",
-      "Seager, Sara",
-      "Winn, Joshua",
-      "Jenkins, Jon M.",
-      "Afanasev, Dennis",
-      "Armstrong, James J. D.",
-      "Arney, Giada",
-      "Boyd, Patricia",
-      "Barentsen, Geert",
-      "Barkaoui, Khalid",
-      "Batalha, Natalie E.",
-      "Beichman, Charles",
-      "Bayliss, Daniel",
-      "Burke, Christopher",
-      "Burdanov, Artem",
-      "Cacciapuoti, Luca",
-      "Carson, Andrew",
-      "Charbonneau, David",
-      "Christiansen, Jessie",
-      "Ciardi, David",
-      "Clampin, Mark",
-      "Collins, Kevin I.",
-      "Conti, Dennis M.",
-      "Coughlin, Jeffrey",
-      "Covone, Giovanni",
-      "Crossfield, Ian",
-      "Delrez, Laetitia",
-      "Domagal-Goldman, Shawn",
-      "Dressing, Courtney",
-      "Ducrot, Elsa",
-      "Essack, Zahra",
-      "Everett, Mark E.",
-      "Fauchez, Thomas",
-      "Foreman-Mackey, Daniel",
-      "Gan, Tianjun",
-      "Gilbert, Emily",
-      "Gillon, Michael",
-      "Gonzales, Erica",
-      "Hamann, Aaron",
-      "Hedges, Christina",
-      "Hocutt, Hannah",
-      "Hoffman, Kelsey",
-      "Horch, Elliott P.",
-      "Horne, Keith",
-      "Howell, Steve",
-      "Hynes, Shane",
-      "Ireland, Michael",
-      "Irwin, Jonathan M.",
-      "Isopi, Giovanni",
-      "Jensen, Eric L. N.",
-      "Jehin, Emmanuel",
-      "Kaltenegger, Lisa",
-      "Kielkopf, John F.",
-      "Kopparapu, Ravi",
-      "Lewis, Nikole",
-      "Lopez, Eric",
-      "Lissauer, Jack J.",
-      "Mann, Andrew W.",
-      "Mallia, Franco",
-      "Mandell, Avi",
-      "Matson, Rachel A.",
-      "Mazeh, Tsevi",
-      "Monsue, Teresa",
-      "Moran, Sarah E.",
-      "Moran, Vickie",
-      "Morley, Caroline V.",
-      "Morris, Brett",
-      "Muirhead, Philip",
-      "Mukai, Koji",
-      "Mullally, Susan",
-      "Mullally, Fergal",
-      "Murray, Catriona",
-      "Narita, Norio",
-      "alle, EnricP",
-      "Pidhorodetska, Daria",
-      "Quinn, David",
-      "Relles, Howard",
-      "Rinehart, Stephen",
-      "Ritsko, Matthew",
-      "Rodriguez, Joseph E.",
-      "Rowden, Pamela",
-      "Rowe, Jason F.",
-      "Sebastian, Daniel",
-      "Sefako, Ramotholo",
-      "Shahaf, Sahar",
-      "Shporer, Avi",
-      "Tanon Reyes, Naylynn",
-      "Tenenbaum, Peter",
-      "Ting, Eric B.",
-      "Twicken, Joseph D.",
-      "van Belle, Gerard T.",
-      "Vega, Laura",
-      "Volosin, Jeffrey",
-      "Walkowicz, Lucianne M.",
-      "Youngblood, Allison"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1903.08017",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-03-00",
-    "title": "The L 98-59 System: Three Transiting, Terrestrial-Sized Planets Orbiting a Nearby M-dwarf",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019arXiv190308017K",
-    "volume": null,
-    "year": "2019"
-  },
-  {
     "arxiv": "1903.06796",
     "authors": [
       "Siemiginowska, A.",
@@ -7191,7 +6126,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1810.06559",
+    "arxiv": null,
     "authors": [
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -7200,7 +6135,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 234,
+    "citations": 235,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -7212,7 +6147,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1807.00549",
+    "arxiv": null,
     "authors": [
       "Van Eylen, Vincent",
       "Albrecht, Simon",
@@ -7226,7 +6161,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 180,
+    "citations": 181,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -7458,7 +6393,7 @@
     "year": "2018"
   },
   {
-    "arxiv": "1810.10009",
+    "arxiv": null,
     "authors": [
       "Brewer, John M.",
       "Wang, Songhu",
@@ -7539,27 +6474,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1810.06559",
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1810.06559",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2018-10-00",
-    "title": "STARRY: Analytic Occultation Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018arXiv181006559L",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
@@ -7622,7 +6536,7 @@
     "year": "2018"
   },
   {
-    "arxiv": "1809.10295",
+    "arxiv": null,
     "authors": [
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
@@ -7656,23 +6570,6 @@
     "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
     "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
     "volume": "156",
-    "year": "2018"
-  },
-  {
-    "arxiv": "1809.10295",
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1809.10295",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2018-09-00",
-    "title": "A Robust Method to Measure Centroids of Spectral Lines",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018arXiv180910295T",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -7830,7 +6727,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 252,
+    "citations": 253,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -7901,7 +6798,7 @@
     "year": "2018"
   },
   {
-    "arxiv": "1706.05459",
+    "arxiv": null,
     "authors": [
       "Angus, Ruth",
       "Morton, Timothy",
@@ -7921,11 +6818,11 @@
     "year": "2018"
   },
   {
-    "arxiv": "1801.10156",
+    "arxiv": null,
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 149,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -7992,7 +6889,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 624,
+    "citations": 625,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -8112,41 +7009,6 @@
     "pubdate": "2017-10-00",
     "title": "A pixel-level model for event discovery in time-domain imaging",
     "url": "https://ui.adsabs.harvard.edu/abs/2017arXiv171002428W",
-    "volume": null,
-    "year": "2017"
-  },
-  {
-    "arxiv": "1710.11136",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1710.11136",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2017-10-00",
-    "title": "Linear models for systematics and nuisances",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017arXiv171011136L",
-    "volume": null,
-    "year": "2017"
-  },
-  {
-    "arxiv": "1710.06068",
-    "authors": [
-      "Hogg, David W.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1710.06068",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2017-10-00",
-    "title": "Data analysis recipes: Using Markov Chain Monte Carlo",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017arXiv171006068H",
     "volume": null,
     "year": "2017"
   },
@@ -8425,59 +7287,6 @@
     "year": "2017"
   },
   {
-    "arxiv": "1706.05865",
-    "authors": [
-      "Grunblatt, Samuel K.",
-      "Huber, Daniel",
-      "Gaidos, Eric",
-      "Lopez, Eric",
-      "Howard, Andrew",
-      "Isaacson, Howard",
-      "Sinukoff, Evan",
-      "Vanderburg, Andrew",
-      "Nofi, Larissa",
-      "Yu, Jie",
-      "North, Thomas S. H.",
-      "Chaplin, William",
-      "Foreman-Mackey, Daniel",
-      "Petigura, Erik",
-      "Ansdell, Megan",
-      "Weiss, Lauren",
-      "Fulton, Benjamin",
-      "Lin, Douglas N. C."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1706.05865",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2017-06-00",
-    "title": "Seeing double with K2: Testing re-inflation with two remarkably similar planets around red giant branch stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017arXiv170605865G",
-    "volume": null,
-    "year": "2017"
-  },
-  {
-    "arxiv": "1706.05459",
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "Rajpaul, Vinesh"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1706.05459",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2017-06-00",
-    "title": "Inferring probabilistic stellar rotation periods using Gaussian processes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017arXiv170605459A",
-    "volume": null,
-    "year": "2017"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, D.",
@@ -8493,24 +7302,6 @@
     "title": "VizieR Online Data Catalog: A catalog of exoplanet physical parameters (Foreman-Mackey+, 2014)",
     "url": "https://ui.adsabs.harvard.edu/abs/2017yCat..17950064F",
     "volume": "179",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1705.07928",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2017-05-00",
-    "title": "Long Term Photometric Variability in Kepler Full Frame Images: Magnetic Cycles of Sun-Like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017arXiv170507928M",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -8530,25 +7321,6 @@
     "title": "The Joker: A Custom Monte Carlo Sampler for Binary-star and Exoplanet Radial Velocity Data",
     "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P",
     "volume": "837",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1703.09710",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Agol, Eric",
-      "Ambikasaran, Sivaram",
-      "Angus, Ruth"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1703.09710",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2017-03-00",
-    "title": "Fast and scalable Gaussian process modeling with applications to astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017arXiv170309710F",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -9010,26 +7782,6 @@
     "year": "2016"
   },
   {
-    "arxiv": "1607.08237",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Morton, Timothy D.",
-      "Hogg, David W.",
-      "Agol, Eric",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1607.08237",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2016-07-00",
-    "title": "The population of long-period transiting exoplanets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016arXiv160708237F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
     "arxiv": "1607.00524",
     "authors": [
       "Luger, Rodrigo",
@@ -9056,7 +7808,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1594,
+    "citations": 1597,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -9325,77 +8077,6 @@
     "year": "2016"
   },
   {
-    "arxiv": "1602.07939",
-    "authors": [
-      "Fischer, Debra",
-      "Anglada-Escude, Guillem",
-      "Arriagada, Pamela",
-      "Baluev, Roman V.",
-      "Bean, Jacob L.",
-      "Bouchy, Francois",
-      "Buchhave, Lars A.",
-      "Carroll, Thorsten",
-      "Chakraborty, Abhijit",
-      "Crepp, Justin R.",
-      "Dawson, Rebekah I.",
-      "Diddams, Scott A.",
-      "Dumusque, Xavier",
-      "Eastman, Jason D.",
-      "Endl, Michael",
-      "Figueira, Pedro",
-      "Ford, Eric B.",
-      "Foreman-Mackey, Daniel",
-      "Fournier, Paul",
-      "Furesz, Gabor",
-      "Gaudi, B. Scott",
-      "Gregory, Philip C.",
-      "Grundahl, Frank",
-      "Hatzes, Artie P.",
-      "Hebrard, Guillaume",
-      "Herrero, Enrique",
-      "Hogg, David W.",
-      "Howard, Andrew W.",
-      "Johnson, John A.",
-      "Jorden, Paul",
-      "Jurgenson, Colby A.",
-      "Latham, David W.",
-      "Laughlin, Greg",
-      "Loredo, Thomas J.",
-      "Lovis, Christophe",
-      "Mahadevan, Suvrath",
-      "McCracken, Tyler M.",
-      "Pepe, Francesco",
-      "Perez, Mario",
-      "Phillips, David F.",
-      "Plavchan, Peter P.",
-      "Prato, Lisa",
-      "Quirrenbach, Andreas",
-      "Reiners, Ansgar",
-      "Robertson, Paul",
-      "Santos, Nuno C.",
-      "Sawyer, David",
-      "Segransan, Damien",
-      "Sozzetti, Alessandro",
-      "Steinmetz, Tilo",
-      "Szentgyorgyi, Andrew",
-      "Udry, Stephane",
-      "Valenti, Jeff A.",
-      "Wang, Sharon X.",
-      "Wittenmyer, Robert A.",
-      "Wright, Jason T."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1602.07939",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2016-02-00",
-    "title": "State of the Field: Extreme Precision Radial Velocities",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016arXiv160207939F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Angus, Ruth",
@@ -9413,170 +8094,6 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2016AAS...22710504A",
     "volume": "227",
     "year": "2016"
-  },
-  {
-    "arxiv": "1601.05413",
-    "authors": [
-      "Hogg, David W.",
-      "Casey, Andrew R.",
-      "Ness, Melissa",
-      "Rix, Hans-Walter",
-      "Foreman-Mackey, Daniel",
-      "Hasselquist, Sten",
-      "Ho, Anna Y. Q.",
-      "Holtzman, Jon A.",
-      "Majewski, Steven R.",
-      "Martell, Sarah L.",
-      "Meszaros, Szabolcs",
-      "NIdever, David L.",
-      "Shetrone, Matthew"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1601.05413",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2016-01-00",
-    "title": "Chemical tagging can work: Identification of stellar phase-space structures purely by chemical-abundance similarity",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016arXiv160105413H",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": "1512.09142",
-    "authors": [
-      "Henderson, Calen B.",
-      "Poleski, Rados{\\l}aw",
-      "Penny, Matthew",
-      "Street, Rachel A.",
-      "Bennett, David P.",
-      "Hogg, David W.",
-      "Gaudi, B. Scott",
-      "Zhu, W.",
-      "Barclay, T.",
-      "Barentsen, G.",
-      "Howell, S. B.",
-      "Mullally, F.",
-      "Udalski, A.",
-      "Szyma{\\'n}ski, M. K.",
-      "Skowron, J.",
-      "Mr{\\'o}z, P.",
-      "Koz{\\l}owski, S.",
-      "Wyrzykowski, {\\L}.",
-      "Pietrukowicz, P.",
-      "Soszy{\\'n}ski, I.",
-      "Ulaczyk, K.",
-      "Pawlak, M.",
-      "Sumi, T.",
-      "Abe, F.",
-      "Asakura, Y.",
-      "Barry, R. K.",
-      "Bhattacharya, A.",
-      "Bond, I. A.",
-      "Donachie, M.",
-      "Freeman, M.",
-      "Fukui, A.",
-      "Hirao, Y.",
-      "Itow, Y.",
-      "Koshimoto, N.",
-      "Li, M. C. A.",
-      "Ling, C. H.",
-      "Masuda, K.",
-      "Matsubara, Y.",
-      "Muraki, Y.",
-      "Nagakane, M.",
-      "Ohnishi, K.",
-      "Oyokawa, H.",
-      "Rattenbury, N.",
-      "Saito, To.",
-      "Sharan, A.",
-      "Sullivan, D. J.",
-      "Tristram, P. J.",
-      "Yonehara, A.",
-      "Bachelet, E.",
-      "Bramich, D. M.",
-      "Cassan, A.",
-      "Dominik, M.",
-      "Figuera Jaimes, R.",
-      "Horne, K.",
-      "Hundertmark, M.",
-      "Mao, S.",
-      "Ranc, C.",
-      "Schmidt, R.",
-      "Snodgrass, C.",
-      "Steele, I. A.",
-      "Tsapras, Y.",
-      "Wambsganss, J.",
-      "Bozza, V.",
-      "Burgdorf, M. J.",
-      "J{\\o}rgensen, U. G.",
-      "Calchi Novati, S.",
-      "Ciceri, S.",
-      "D'Ago, G.",
-      "Evans, D. F.",
-      "Hessman, F. V.",
-      "Hinse, T. C.",
-      "Husser, T. -O.",
-      "Mancini, L.",
-      "Popovas, A.",
-      "Rabus, M.",
-      "Rahvar, S.",
-      "Scarpetta, G.",
-      "Skottfelt, J.",
-      "Southworth, J.",
-      "Unda-Sanzana, E.",
-      "Bryson, S. T.",
-      "Caldwell, D. A.",
-      "Haas, M. R.",
-      "Larson, K.",
-      "McCalmont, K.",
-      "Packard, M.",
-      "Peterson, C.",
-      "Putnam, D.",
-      "Reedy, L.",
-      "Ross, S.",
-      "Van Cleve, J. E.",
-      "Akeson, R.",
-      "Batista, V.",
-      "Beaulieu, J. -P.",
-      "Beichman, C. A.",
-      "Bryden, G.",
-      "Ciardi, D.",
-      "Cole, A.",
-      "Coutures, C.",
-      "Foreman-Mackey, D.",
-      "Fouqu{\\'e}, P.",
-      "Friedmann, M.",
-      "Gelino, C.",
-      "Kaspi, S.",
-      "Kerins, E.",
-      "Korhonen, H.",
-      "Lang, D.",
-      "Lee, C. -H.",
-      "Lineweaver, C. H.",
-      "Maoz, D.",
-      "Marquette, J. -B.",
-      "Mogavero, F.",
-      "Morales, J. C.",
-      "Nataf, D.",
-      "Pogge, R. W.",
-      "Santerne, A.",
-      "Shvartzvald, Y.",
-      "Suzuki, D.",
-      "Tamura, M.",
-      "Tisserand, P.",
-      "Wang, D."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1512.09142",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2015-12-00",
-    "title": "Campaign 9 of the $K2$ Mission: Observational Parameters, Scientific Drivers, and Community Involvement for a Simultaneous Space- and Ground-based Microlensing Survey",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015arXiv151209142H",
-    "volume": null,
-    "year": "2015"
   },
   {
     "arxiv": null,
@@ -9746,7 +8263,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 461,
+    "citations": 462,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -9891,30 +8408,6 @@
     "pubdate": "2015-05-00",
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: A Statistical and Analytical Analysis",
     "url": "https://ui.adsabs.harvard.edu/abs/2015arXiv150501845B",
-    "volume": null,
-    "year": "2015"
-  },
-  {
-    "arxiv": "1503.07866",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Morton, Timothy D.",
-      "Foreman-Mackey, Daniel",
-      "Johnson, John Asher",
-      "Hogg, David W.",
-      "Bowler, Brendan P.",
-      "Latham, David W.",
-      "Bieryla, Allyson",
-      "Mann, Andrew W."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1503.07866",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2015-03-00",
-    "title": "Stellar and Planetary Properties of K2 Campaign 1 Candidates and Validation of 17 Planets, Including a Planet Receiving Earth-like Insolation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015arXiv150307866M",
     "volume": null,
     "year": "2015"
   },
@@ -10498,7 +8991,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9270,
+    "citations": 9286,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -10522,7 +9015,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 113,
+    "citations": 115,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -10636,25 +9129,6 @@
     "pubdate": "2012-11-00",
     "title": "The Panchromatic Hubble Andromeda Treasury IV. A Probabilistic Approach to Inferring the High Mass Stellar Initial Mass Function and Other Power-law Functions",
     "url": "https://ui.adsabs.harvard.edu/abs/2012arXiv1211.6105W",
-    "volume": null,
-    "year": "2012"
-  },
-  {
-    "arxiv": "1202.3665",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Lang, Dustin",
-      "Goodman, Jonathan"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1202.3665",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2012-02-00",
-    "title": "emcee: The MCMC Hammer",
-    "url": "https://ui.adsabs.harvard.edu/abs/2012arXiv1202.3665F",
     "volume": null,
     "year": "2012"
   },
