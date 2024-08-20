@@ -103,7 +103,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 122,
+    "citations": 212,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -659,6 +659,36 @@
     "year": "2023"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Wagg, Tom",
+      "Lilleengen, Sophia",
+      "Starkman, Nathaniel",
+      "NGC",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Akeemlh",
+      "Foreman-Mackey, Dan",
+      "HNLala",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Li, Zhaozhou"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.8217584",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-08-05",
+    "title": "adrn/gala: v1.7.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8217584P",
+    "volume": null,
+    "year": "2023"
+  },
+  {
     "arxiv": "2209.08940",
     "authors": [
       "Aigrain, Suzanne",
@@ -714,51 +744,6 @@
     "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166...62B",
     "volume": "166",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Koposov, Sergey",
-      "Speagle, Josh",
-      "Barbary, Kyle",
-      "Ashton, Gregory",
-      "Bennett, Ed",
-      "Buchner, Johannes",
-      "Scheffler, Carl",
-      "Cook, Ben",
-      "Talbot, Colm",
-      "Guillochon, James",
-      "Cubillos, Patricio",
-      "Asensio Ramos, Andr{\\'e}s",
-      "Johnson, Ben",
-      "Lang, Dustin",
-      "Ilya",
-      "Dartiailh, Matthieu",
-      "Nitz, Alex",
-      "McCluskey, Andrew",
-      "Archibald, Anne",
-      "Deil, Christoph",
-      "Foreman-Mackey, Dan",
-      "Goldstein, Danny",
-      "Tollerud, Erik",
-      "Leja, Joel",
-      "Kirk, Matthew",
-      "Pitkin, Matt",
-      "Sheehan, Patrick",
-      "Cargile, Phillip",
-      "Patel, Ruskin",
-      "Angus, Ruth"
-    ],
-    "citations": 15,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.7995596",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2023-06-01",
-    "title": "joshspeagle/dynesty: v2.1.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...7995596K",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -991,7 +976,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 12,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1300,7 +1285,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 15,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1330,7 +1315,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 10,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1579,7 +1564,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -2202,7 +2187,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.6325733",
     "page": null,
@@ -5795,7 +5780,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -7400,7 +7385,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 218,
+    "citations": 132,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7471,7 +7456,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -7626,7 +7611,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9313,
+    "citations": 9312,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7650,7 +7635,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "software",
     "doi": null,
     "page": null,
