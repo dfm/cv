@@ -1954,6 +1954,27 @@
     "year": "2022"
   },
   {
+    "arxiv": "2206.11275",
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew",
+      "David, Trevor",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2206.11275",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -1974,24 +1995,22 @@
     "year": "2022"
   },
   {
-    "arxiv": "2206.11275",
+    "arxiv": null,
     "authors": [
       "Chance, Quadry",
       "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
+      "Casey, Andy",
+      "Ballard, Sarah"
     ],
-    "citations": 5,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2206.11275",
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
     "page": null,
-    "pub": "arXiv e-prints",
+    "pub": "Bulletin of the American Astronomical Society",
     "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
+    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
+    "volume": "54",
     "year": "2022"
   },
   {
@@ -2024,25 +2043,6 @@
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
     "volume": "240",
-    "year": "2022"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Casey, Andy",
-      "Ballard, Sarah"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "Bulletin of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "Toward a binary probability for every known exoplanet host star: a statistical framework with Gaia",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022BAAS...54e.245C",
-    "volume": "54",
     "year": "2022"
   },
   {
@@ -5598,23 +5598,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1809.10295",
-    "authors": [
-      "Teague, Richard",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 98,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/aae265",
-    "page": 173,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2018-09-00",
-    "title": "A Robust Method to Measure Centroids of Spectral Lines",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
-    "volume": "2",
-    "year": "2018"
-  },
-  {
     "arxiv": "1702.05488",
     "authors": [
       "Luger, Rodrigo",
@@ -5632,6 +5615,23 @@
     "title": "An Update to the EVEREST K2 Pipeline: Short Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp = 15",
     "url": "https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L",
     "volume": "156",
+    "year": "2018"
+  },
+  {
+    "arxiv": "1809.10295",
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 98,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aae265",
+    "page": 173,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2018-09-00",
+    "title": "A Robust Method to Measure Centroids of Spectral Lines",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
+    "volume": "2",
     "year": "2018"
   },
   {
@@ -5780,7 +5780,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 189,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5879,6 +5879,24 @@
     "year": "2017"
   },
   {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 81,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
+    "year": "2017"
+  },
+  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -5909,24 +5927,6 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 81,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -7532,33 +7532,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0653",
-    "authors": [
-      "Hogg, David W.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Lang, Dustin",
-      "Montet, Benjamin T.",
-      "Schiminovich, David",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1309.0653",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0654",
     "authors": [
       "Montet, Benjamin T.",
@@ -7582,6 +7555,33 @@
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
+    "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1309.0653",
+    "authors": [
+      "Hogg, David W.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Lang, Dustin",
+      "Montet, Benjamin T.",
+      "Schiminovich, David",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.1309.0653",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
     "volume": null,
     "year": "2013"
   },
@@ -7611,7 +7611,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9312,
+    "citations": 9314,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

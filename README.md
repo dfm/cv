@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/google/jax) — 29570 stars / 2698 forks  
+[**jax**](https://github.com/google/jax) — 29589 stars / 2698 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 104 / first author: 9 / citations: 20,831 / h-index: 46
-(2024-08-21)
+refereed: 104 / first author: 9 / citations: 20,832 / h-index: 46
+(2024-08-22)
 
 ### Refereed publications
 
@@ -595,13 +595,6 @@ Statistical Software, **86**, 1
 ([arXiv:1606.03757](http://arxiv.org/abs/1606.03757)) \[[42
 citations](https://scholar.google.com/scholar?cites=789224875040810871)\]
 
-Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
-to Measure Centroids of Spectral
-Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
-the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[98
-citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
-
 Luger, Rodrigo; Kruse, Ethan; **Foreman-Mackey, Daniel**; Agol, Eric; &
 Saunders, Nicholas, 2018, *[An Update to the EVEREST K2 Pipeline: Short
 Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
@@ -609,6 +602,13 @@ Cadence, Saturated Stars, and Kepler-like Photometry Down to Kp =
 Journal, **156**, 99
 ([arXiv:1702.05488](http://arxiv.org/abs/1702.05488)) \[[140
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...99L)\]
+
+Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
+to Measure Centroids of Spectral
+Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
+the American Astronomical Society, **2**, 173
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[98
+citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 **Foreman-Mackey, Daniel**, 2018, *[A Kinematical Detection of Two
@@ -622,7 +622,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[189
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[188
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -648,14 +648,6 @@ Journal, **154**, 220
 ([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[625
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
-Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
-*et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
-Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
-Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
-Journal, **154**, 254
-([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[69
-citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
-
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
 2017, *[Long-term Photometric Variability in Kepler Full-frame Images:
 Magnetic Cycles of Sun-like
@@ -663,6 +655,14 @@ Stars](http://dx.doi.org/10.3847/1538-4357/aa9e00)*, The Astrophysical
 Journal, **851**, 116
 ([arXiv:1705.07928](http://arxiv.org/abs/1705.07928)) \[[81
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M)\]
+
+Grunblatt, Samuel K.; Huber, Daniel; Gaidos, Eric; Lopez, Eric D.;
+*et al.* (incl. **DFM**), 2017, *[Seeing Double with K2: Testing
+Re-inflation with Two Remarkably Similar Planets around Red Giant Branch
+Stars](http://dx.doi.org/10.3847/1538-3881/aa932d)*, The Astronomical
+Journal, **154**, 254
+([arXiv:1706.05865](http://arxiv.org/abs/1706.05865)) \[[69
+citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hogg, David W., 2017,
 *[Linear Models for Systematics and
@@ -858,7 +858,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9312
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9314
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -937,17 +937,17 @@ Scenarios](http://dx.doi.org/10.48550/arXiv.1608.06919)*, ArXiv
 ([arXiv:1608.06919](http://arxiv.org/abs/1608.06919)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2016arXiv160806919B)\]
 
-Hogg, David W.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
-*et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
-telemetered pixel: Detailed models of the focal plane in the two-wheel
-era](http://dx.doi.org/10.48550/arXiv.1309.0653)*, ArXiv
-([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
-
 Montet, Benjamin T.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
 *et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
 telemetered pixel: Searching the habitable zones of the brightest
 stars](http://dx.doi.org/10.48550/arXiv.1309.0654)*, ArXiv
 ([arXiv:1309.0654](http://arxiv.org/abs/1309.0654))
+
+Hogg, David W.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
+*et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
+telemetered pixel: Detailed models of the focal plane in the two-wheel
+era](http://dx.doi.org/10.48550/arXiv.1309.0653)*, ArXiv
+([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
 
 </div>
 
