@@ -602,7 +602,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -694,7 +694,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1756,7 +1756,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1768,
+    "citations": 1773,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2516,7 +2516,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2843,7 +2843,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -3491,7 +3491,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 224,
+    "citations": 223,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4422,7 +4422,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4704,6 +4704,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Tollerud, Erik",
       "Smith, Arfon",
       "Price-Whelan, Adrian",
@@ -4830,24 +4848,6 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
     "year": "2019"
   },
   {
@@ -5262,7 +5262,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 181,
+    "citations": 180,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5606,7 +5606,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -5780,7 +5780,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 188,
+    "citations": 190,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5867,7 +5867,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 625,
+    "citations": 626,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6570,7 +6570,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 234,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -6677,7 +6677,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1602,
+    "citations": 1606,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7113,7 +7113,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 462,
+    "citations": 461,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7166,7 +7166,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -7367,7 +7367,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 238,
+    "citations": 239,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7611,7 +7611,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9314,
+    "citations": 9322,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7635,7 +7635,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 115,
+    "citations": 116,
     "doctype": "software",
     "doi": null,
     "page": null,
