@@ -1,5 +1,61 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Willard, Brandon",
+      "Louf, R{\\'e}mi",
+      "Chaudhari, Kaustubh",
+      "Mares, Ben",
+      "Lunagariya, Smit",
+      "Foreman-Mackey, Dan",
+      "Gerlanc, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4635498",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-08-28",
+    "title": "Aesara",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...4635498W",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Souchereau, Harrison",
+      "Wagg, Tom",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Starkman, Nathaniel",
+      "Chen, Yingtian",
+      "Lilleengen, Sophia",
+      "NGC",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Hart, Akeem",
+      "AlexKurek",
+      "Robert, Cl{\\'e}ment",
+      "Foreman-Mackey, Dan",
+      "HNLala",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Li, Zhaozhou"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.593786",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-08-27",
+    "title": "adrn/gala: v1.9.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2406.06740",
     "authors": [
       "Dharmawardena, T. E.",
@@ -326,37 +382,6 @@
     "year": "2024"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Price-Whelan, Adrian",
-      "Wagg, Tom",
-      "Sip{\\'{o}}cz, Brigitta",
-      "Lilleengen, Sophia",
-      "Starkman, Nathaniel",
-      "NGC",
-      "Lenz, Daniel",
-      "Greco, Johnny",
-      "Hart, Akeem",
-      "Robert, Cl{\\'e}ment",
-      "Foreman-Mackey, Dan",
-      "HNLala",
-      "Lim, P. L.",
-      "Oh, Semyeong",
-      "Koposov, Sergey",
-      "Li, Zhaozhou"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.593786",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2024-01-02",
-    "title": "adrn/gala: v1.8.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": "2302.05064",
     "authors": [
       "Yahalomi, Daniel A.",
@@ -571,28 +596,6 @@
     "pubdate": "2023-09-27",
     "title": "dfm/python-fsps: python-fsps v0.4.5rc1",
     "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8384410J",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Willard, Brandon",
-      "Louf, R{\\'e}mi",
-      "Chaudhari, Kaustubh",
-      "Mares, Ben",
-      "Lunagariya, Smit",
-      "Foreman-Mackey, Dan",
-      "Gerlanc, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.4635498",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2023-09-21",
-    "title": "Aesara",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...4635498W",
     "volume": null,
     "year": "2023"
   },
@@ -1756,7 +1759,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1806,
+    "citations": 1815,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4152,7 +4155,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4671,7 +4674,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 199,
+    "citations": 200,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5236,7 +5239,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 237,
+    "citations": 238,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5606,7 +5609,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 141,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -5816,7 +5819,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 150,
+    "citations": 151,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -5867,7 +5870,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 627,
+    "citations": 628,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6015,7 +6018,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -6570,7 +6573,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 237,
+    "citations": 238,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -6677,7 +6680,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1613,
+    "citations": 1615,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7113,7 +7116,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 462,
+    "citations": 463,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7611,7 +7614,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9354,
+    "citations": 9358,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
