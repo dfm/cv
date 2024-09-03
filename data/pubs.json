@@ -159,7 +159,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 213,
+    "citations": 123,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -370,7 +370,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.10449846",
     "page": null,
@@ -934,7 +934,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -1759,7 +1759,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1830,
+    "citations": 1829,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5882,6 +5882,24 @@
     "year": "2017"
   },
   {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 81,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
+    "year": "2017"
+  },
+  {
     "arxiv": "1706.05865",
     "authors": [
       "Grunblatt, Samuel K.",
@@ -5912,24 +5930,6 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 81,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -7385,24 +7385,6 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
-      "Sick, Jonathan",
-      "Johnson, Ben"
-    ],
-    "citations": 221,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.12157",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-10-09",
-    "title": "python-fsps: Python bindings to FSPS (v0.1.1)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....12157F",
-    "volume": null,
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
       "Hoyer, Stephan",
       "Bernhard, Jonah",
       "Angus, Ruth"
@@ -7614,7 +7596,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9391,
+    "citations": 9386,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
