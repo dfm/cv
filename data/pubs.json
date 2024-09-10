@@ -159,7 +159,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 214,
+    "citations": 123,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -224,6 +224,28 @@
     "pubdate": "2024-03-18",
     "title": "nuance: Efficient detection of planets transiting active stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10832081G",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Hattori, Soichiro",
+      "Garcia, Lionel",
+      "Murray, Catriona",
+      "Dong, Jiayin",
+      "Dholakia, Shashank",
+      "Degen, David",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.10736936",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-03-01",
+    "title": "exoplanet-dev/jaxoplanet: Astronomical time series analysis with JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10736936H",
     "volume": null,
     "year": "2024"
   },
@@ -339,7 +361,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -3100,7 +3122,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 38,
+    "citations": 21,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3577,7 +3599,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
