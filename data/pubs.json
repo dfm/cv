@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": "2409.08090",
+    "authors": [
+      "Garrison, Lehman H.",
+      "Foreman-Mackey, Dan",
+      "Shih, Yu-hsuan",
+      "Barnett, Alex"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-09-00",
+    "title": "nifty-ls: Fast and Accurate Lomb-Scargle Periodograms Using a Non-Uniform FFT",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240908090G",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Willard, Brandon",
@@ -142,6 +161,49 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Dan",
+      "Meierjurgen Farr, Will",
+      "Archibald, Anne",
+      "Tollerud, Erik",
+      "Hogg, David W.",
+      "Nelson, Andrew",
+      "Kern, Nicholas",
+      "Sanders, Jeremy",
+      "Williams, Peter",
+      "Lang, Dustin",
+      "Sinha, Manodeep",
+      "B{\\'e}ky, Bence",
+      "joezuntz",
+      "Price-Whelan, Adrian",
+      "Dill, Eric",
+      "de Val-Borro, Miguel",
+      "Vousden, Will",
+      "Ilya",
+      "Abril-Pla, Oriol",
+      "Tazzari, Marco",
+      "Bouvard, T{\\'e}o",
+      "Erhardt, Tobias",
+      "Walker, Simon",
+      "Watkins, Laura",
+      "Martin, Carlos",
+      "Bradshaw, Christopher",
+      "Mohammed",
+      "Hoffimann, J{\\'u}lio"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.10996751",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-04-19",
+    "title": "dfm/emcee: v3.1.6",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10996751F",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo",
       "Agol, Eric",
@@ -159,7 +221,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 214,
+    "citations": 123,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -361,7 +423,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -567,7 +629,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 10,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -1340,7 +1402,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 11,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -3122,7 +3184,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 39,
+    "citations": 22,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3286,7 +3348,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 47,
+    "citations": 27,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -3448,7 +3510,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -3475,6 +3537,51 @@
     "title": "Stability constrained characterization of multiplanet systems",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.4798T",
     "volume": "501",
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Barentsen, Geert",
+      "Hedges, Christina",
+      "Vin{\\'\\i}cius, Z{\\'e}",
+      "Saunders, Nicholas",
+      "Gully",
+      "Lee, Sam",
+      "Rebekah9969",
+      "Bell, Keaton",
+      "Sagear, Sheila",
+      "Barclay, Tom",
+      "Burke, Colin J.",
+      "KenMighell",
+      "Jcsmithhere",
+      "Lerma, Jose A",
+      "Cody, Ann Marie",
+      "Foreman-Mackey, Dan",
+      "Turtelboom, Emma",
+      "Davies, Guy",
+      "Colman, Isabel",
+      "Zhang, Johnny",
+      "Sundaram, Anand",
+      "Vincello, Brennan",
+      "Daniel",
+      "Homeier, Derek",
+      "Higgins00",
+      "Bado, Jero",
+      "Mart{\\'\\i}nez-Palomera, Jorge",
+      "Cui, Kaiming",
+      "Ramos Carvalho, Nuno",
+      "Hall, Oliver"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4558241",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-02-23",
+    "title": "lightkurve/lightkurve: Lightkurve v2.0.3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...4558241B",
+    "volume": null,
     "year": "2021"
   },
   {
@@ -4419,7 +4526,7 @@
       "Pashchenko, Ilya",
       "Abril Pla, Oriol"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3543502",
     "page": null,
@@ -5594,7 +5701,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 11,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -5768,7 +5875,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.1297477",
     "page": null,
@@ -7401,6 +7508,24 @@
     "title": "Exoplanet Population Inference and the Abundance of Earth Analogs from Noisy, Incomplete Catalogs",
     "url": "https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F",
     "volume": "795",
+    "year": "2014"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Johnson, Ben"
+    ],
+    "citations": 133,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.12157",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-10-09",
+    "title": "python-fsps: Python bindings to FSPS (v0.1.1)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....12157F",
+    "volume": null,
     "year": "2014"
   },
   {
