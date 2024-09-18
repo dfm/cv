@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/google/jax) — 29930 stars / 2738 forks  
+[**jax**](https://github.com/google/jax) — 29936 stars / 2741 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -78,7 +78,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 104 / first author: 9 / citations: 21,191 / h-index: 47
-(2024-09-17)
+(2024-09-18)
 
 ### Refereed publications
 
@@ -878,8 +878,9 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 
 Garrison, Lehman H.; **Foreman-Mackey, Daniel**; Shih, Yu-hsuan; &
-Barnett, Alex, 2024, nifty-ls: Fast and Accurate Lomb-Scargle
-Periodograms Using a Non-Uniform FFT, ArXiv
+Barnett, Alex, 2024, *[nifty-ls: Fast and Accurate Lomb-Scargle
+Periodograms Using a Non-Uniform
+FFT](http://dx.doi.org/10.48550/arXiv.2409.08090)*, ArXiv
 ([arXiv:2409.08090](http://arxiv.org/abs/2409.08090))
 
 Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
