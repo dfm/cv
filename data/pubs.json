@@ -1843,7 +1843,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1885,
+    "citations": 1889,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2756,6 +2756,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 29,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -2771,24 +2789,6 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 29,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -3623,7 +3623,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5394,7 +5394,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 181,
+    "citations": 180,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6809,7 +6809,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1625,
+    "citations": 1624,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -6880,7 +6880,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 256,
+    "citations": 257,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7743,7 +7743,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9454,
+    "citations": 9458,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
