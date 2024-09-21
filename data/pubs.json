@@ -21,6 +21,28 @@
   {
     "arxiv": null,
     "authors": [
+      "Edwards, Thomas D. P.",
+      "Wong, Kaze W. K.",
+      "Lam, Kelvin K. H.",
+      "Coogan, Adam",
+      "Foreman-Mackey, Daniel",
+      "Isi, Maximiliano",
+      "Zimmerman, Aaron"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1103/PhysRevD.110.064028",
+    "page": 64028,
+    "pub": "Physical Review D",
+    "pubdate": "2024-09-00",
+    "title": "Differentiable and hardware-accelerated waveforms for gravitational wave data analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024PhRvD.110f4028E",
+    "volume": "110",
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Willard, Brandon",
       "Louf, R{\\'e}mi",
       "Chaudhari, Kaustubh",
@@ -781,7 +803,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -822,7 +844,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -966,7 +988,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1281,28 +1303,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.05329",
-    "authors": [
-      "Edwards, Thomas D. P.",
-      "Wong, Kaze W. K.",
-      "Lam, Kelvin K. H.",
-      "Coogan, Adam",
-      "Foreman-Mackey, Daniel",
-      "Isi, Maximiliano",
-      "Zimmerman, Aaron"
-    ],
-    "citations": 17,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05329",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Gagliano, Alexander",
@@ -1587,7 +1587,7 @@
       "Davies, Frederick B.",
       "Schindler, Jan-Torge"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac8ead",
     "page": 17,
@@ -1843,7 +1843,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1889,
+    "citations": 1903,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2041,6 +2041,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 21,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -2059,26 +2079,6 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 21,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -2371,7 +2371,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -2781,7 +2781,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -3623,7 +3623,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 226,
+    "citations": 227,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3780,7 +3780,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -4108,7 +4108,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 177,
+    "citations": 179,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4576,7 +4576,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4836,24 +4836,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Tollerud, Erik",
       "Smith, Arfon",
       "Price-Whelan, Adrian",
@@ -4980,6 +4962,24 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
     "year": "2019"
   },
   {
@@ -5122,7 +5122,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5394,7 +5394,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 180,
+    "citations": 182,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5613,7 +5613,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -5622,27 +5622,6 @@
     "title": "Compact Multi-planet Systems are more Common around Metal-poor Hosts",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...867L...3B",
     "volume": "867",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 5,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2018-10-00",
-    "title": "STARRY: Analytic computation of occultation light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -5665,6 +5644,27 @@
     "title": "Inference of Stellar Parameters from Brightness Variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...866...15N",
     "volume": "866",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 5,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2018-10-00",
+    "title": "STARRY: Analytic computation of occultation light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
+    "volume": null,
     "year": "2018"
   },
   {
@@ -5999,7 +5999,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 634,
+    "citations": 635,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6008,24 +6008,6 @@
     "title": "Fast and Scalable Gaussian Process Modeling with Applications to Astronomical Time Series",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 82,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -6059,6 +6041,24 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 82,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
     "year": "2017"
   },
   {
@@ -6422,7 +6422,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 113,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -6505,7 +6505,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -6809,7 +6809,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1624,
+    "citations": 1627,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7048,7 +7048,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7245,7 +7245,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 467,
+    "citations": 468,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7499,7 +7499,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 239,
+    "citations": 241,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7517,7 +7517,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 133,
+    "citations": 221,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7743,7 +7743,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9458,
+    "citations": 9474,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7798,7 +7798,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
