@@ -19,6 +19,28 @@
     "year": "2024"
   },
   {
+    "arxiv": "2302.05329",
+    "authors": [
+      "Edwards, Thomas D. P.",
+      "Wong, Kaze W. K.",
+      "Lam, Kelvin K. H.",
+      "Coogan, Adam",
+      "Foreman-Mackey, Daniel",
+      "Isi, Maximiliano",
+      "Zimmerman, Aaron"
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.1103/PhysRevD.110.064028",
+    "page": 64028,
+    "pub": "Physical Review D",
+    "pubdate": "2024-09-00",
+    "title": "Differentiable and hardware-accelerated waveforms for gravitational wave data analysis",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024PhRvD.110f4028E",
+    "volume": "110",
+    "year": "2024"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Willard, Brandon",
@@ -70,7 +92,7 @@
     "pub": "Zenodo",
     "pubdate": "2024-08-27",
     "title": "adrn/gala: v1.9.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo....593786P",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
     "volume": null,
     "year": "2024"
   },
@@ -221,7 +243,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 123,
+    "citations": 125,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -240,7 +262,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -423,7 +445,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -629,7 +651,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 8,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -781,7 +803,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 62,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -822,7 +844,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -831,51 +853,6 @@
     "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166...62B",
     "volume": "166",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Koposov, Sergey",
-      "Speagle, Josh",
-      "Barbary, Kyle",
-      "Ashton, Gregory",
-      "Bennett, Ed",
-      "Buchner, Johannes",
-      "Scheffler, Carl",
-      "Cook, Ben",
-      "Talbot, Colm",
-      "Guillochon, James",
-      "Cubillos, Patricio",
-      "Asensio Ramos, Andr{\\'e}s",
-      "Johnson, Ben",
-      "Lang, Dustin",
-      "Ilya",
-      "Dartiailh, Matthieu",
-      "Nitz, Alex",
-      "McCluskey, Andrew",
-      "Archibald, Anne",
-      "Deil, Christoph",
-      "Foreman-Mackey, Dan",
-      "Goldstein, Danny",
-      "Tollerud, Erik",
-      "Leja, Joel",
-      "Kirk, Matthew",
-      "Pitkin, Matt",
-      "Sheehan, Patrick",
-      "Cargile, Phillip",
-      "Patel, Ruskin",
-      "Angus, Ruth"
-    ],
-    "citations": 15,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.7995596",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2023-06-01",
-    "title": "joshspeagle/dynesty: v2.1.2",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...7995596K",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -1011,7 +988,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1108,7 +1085,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 17,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1215,7 +1192,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 130,
+    "citations": 132,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1326,28 +1303,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.05329",
-    "authors": [
-      "Edwards, Thomas D. P.",
-      "Wong, Kaze W. K.",
-      "Lam, Kelvin K. H.",
-      "Coogan, Adam",
-      "Foreman-Mackey, Daniel",
-      "Isi, Maximiliano",
-      "Zimmerman, Aaron"
-    ],
-    "citations": 17,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.05329",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "ripple: Differentiable and Hardware-Accelerated Waveforms for Gravitational Wave Data Analysis",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230205329E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Gagliano, Alexander",
@@ -1417,7 +1372,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 24,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1447,7 +1402,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 11,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1632,7 +1587,7 @@
       "Davies, Frederick B.",
       "Schindler, Jan-Torge"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac8ead",
     "page": 17,
@@ -1696,7 +1651,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -1888,7 +1843,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1889,
+    "citations": 1930,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -1928,7 +1883,7 @@
       "Lu, Yuxi (Lucy)",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6fea",
     "page": 25,
@@ -1973,7 +1928,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 23,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -1996,7 +1951,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 31,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -2086,6 +2041,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 21,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -2104,26 +2079,6 @@
     "title": "paired: A Statistical Framework for Determining Stellar Binarity with Gaia RVs. I. Planet Hosting Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 21,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -2319,7 +2274,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.6325733",
     "page": null,
@@ -2416,7 +2371,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -2627,7 +2582,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2648,7 +2603,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 46,
+    "citations": 45,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -2801,6 +2756,25 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.00007",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina",
+      "Hogg, David W."
+    ],
+    "citations": 44,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb8",
+    "page": 123,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.01697",
     "authors": [
       "Luger, Rodrigo",
@@ -2815,25 +2789,6 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.00007",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina",
-      "Hogg, David W."
-    ],
-    "citations": 43,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb8",
-    "page": 123,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
     "volume": "162",
     "year": "2021"
   },
@@ -2900,7 +2855,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.5057630",
     "page": null,
@@ -3091,14 +3046,14 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 2,
+    "citations": 7,
     "doctype": "software",
-    "doi": "10.5281/zenodo.5834934",
+    "doi": "10.5281/zenodo.7191939",
     "page": null,
     "pub": "Zenodo",
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5834934F",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
     "volume": null,
     "year": "2021"
   },
@@ -3122,14 +3077,14 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 7,
+    "citations": 2,
     "doctype": "software",
-    "doi": "10.5281/zenodo.7191939",
+    "doi": "10.5281/zenodo.5834934",
     "page": null,
     "pub": "Zenodo",
     "pubdate": "2021-06-21",
     "title": "exoplanet: Gradient-based probabilistic inference for exoplanet data {\\&} other astronomical time series",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...7191939F",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5834934F",
     "volume": null,
     "year": "2021"
   },
@@ -3153,7 +3108,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 153,
+    "citations": 154,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3205,7 +3160,7 @@
       "Brandt, Timothy D",
       "Barclay, Tom"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737444",
     "page": null,
@@ -3303,7 +3258,7 @@
       "Goldman, Robert P.",
       "Gorelli, Marco"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4695331",
     "page": null,
@@ -3555,7 +3510,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -3751,7 +3706,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -3825,7 +3780,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -3884,7 +3839,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 5,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.3937526",
     "page": null,
@@ -4153,7 +4108,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4311,7 +4266,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3747801",
     "page": null,
@@ -4350,7 +4305,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3669395",
     "page": null,
@@ -4621,7 +4576,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4684,7 +4639,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -4757,7 +4712,7 @@
       "Talbot, Colm",
       "Deil, Christoph"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.3461261",
     "page": null,
@@ -4798,7 +4753,7 @@
       "Montet, Benjamin",
       "Luger, Rodrigo"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3438282",
     "page": null,
@@ -4822,7 +4777,7 @@
       "Murphy, Kevin P",
       "McFee, Brian"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.3414932",
     "page": null,
@@ -4867,7 +4822,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -4876,24 +4831,6 @@
     "title": "Detection of Hundreds of New Planet Candidates and Eclipsing Binaries in K2 Campaigns 0-8",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJS..244...11K",
     "volume": "244",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
     "year": "2019"
   },
   {
@@ -5025,6 +4962,24 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
     "year": "2019"
   },
   {
@@ -5167,7 +5122,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 106,
+    "citations": 107,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5282,30 +5237,6 @@
     "arxiv": null,
     "authors": [
       "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 2,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.2650526",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2019-04-25",
-    "title": "dfm/celerite: celerite v0.3.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
@@ -5317,6 +5248,30 @@
     "pubdate": "2019-04-25",
     "title": "dfm/exoplanet: exoplanet v0.1.6",
     "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2651251F",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Brewer, Brendon J.",
+      "Austin, Philip",
+      "Meierjurgen Farr, Will",
+      "Guillochon, James",
+      "Czekala, Ian",
+      "Casey, Andy"
+    ],
+    "citations": 3,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.2650526",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2019-04-25",
+    "title": "dfm/celerite: celerite v0.3.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019zndo...2650526F",
     "volume": null,
     "year": "2019"
   },
@@ -5392,7 +5347,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 9,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.2561395",
     "page": null,
@@ -5413,7 +5368,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 241,
+    "citations": 242,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5439,7 +5394,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 180,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5456,7 +5411,7 @@
       "Foreman-Mackey, Dan",
       "Barentsen, Geert"
     ],
-    "citations": 7,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.2536576",
     "page": null,
@@ -5658,7 +5613,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -5667,27 +5622,6 @@
     "title": "Compact Multi-planet Systems are more Common around Metal-poor Hosts",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...867L...3B",
     "volume": "867",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Agol, Eric",
-      "Foreman-Mackey, Daniel",
-      "Fleming, David P.",
-      "Lustig-Yaeger, Jacob",
-      "Deitrick, Russell"
-    ],
-    "citations": 5,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2018-10-00",
-    "title": "STARRY: Analytic computation of occultation light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
-    "volume": null,
     "year": "2018"
   },
   {
@@ -5710,6 +5644,27 @@
     "title": "Inference of Stellar Parameters from Brightness Variations",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...866...15N",
     "volume": "866",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Daniel",
+      "Fleming, David P.",
+      "Lustig-Yaeger, Jacob",
+      "Deitrick, Russell"
+    ],
+    "citations": 5,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2018-10-00",
+    "title": "STARRY: Analytic computation of occultation light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft10005L",
+    "volume": null,
     "year": "2018"
   },
   {
@@ -5819,7 +5774,7 @@
       "Iancrossfield",
       "Foreman-Mackey, Dan"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.1313708",
     "page": null,
@@ -5957,7 +5912,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -5993,7 +5948,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 156,
+    "citations": 158,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6044,7 +5999,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 634,
+    "citations": 638,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6053,24 +6008,6 @@
     "title": "Fast and Scalable Gaussian Process Modeling with Applications to Astronomical Time Series",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 82,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -6104,6 +6041,24 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 82,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
     "year": "2017"
   },
   {
@@ -6467,7 +6422,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 113,
+    "citations": 115,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -6550,7 +6505,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -6705,23 +6660,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Morton, Timothy",
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 1,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.159487",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-10-06",
-    "title": "timothydmorton/exosyspop: Initial release",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159487M",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Dan",
       "Morton, Timothy"
     ],
@@ -6733,6 +6671,23 @@
     "pubdate": "2016-10-06",
     "title": "dfm/transit: Version 0.3.0",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159478F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Morton, Timothy",
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 2,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.159487",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-10-06",
+    "title": "timothydmorton/exosyspop: Initial release",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo....159487M",
     "volume": null,
     "year": "2016"
   },
@@ -6962,12 +6917,12 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A.",
+      "Caswell, Thomas A",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
@@ -6976,12 +6931,12 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 16,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
-    "page": 53155,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2016-05-00",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-05-26",
     "title": "corner.py: corner.py v2.0.0",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....53155F",
     "volume": null,
@@ -7290,7 +7245,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 467,
+    "citations": 468,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7544,7 +7499,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 239,
+    "citations": 241,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7581,7 +7536,7 @@
       "Bernhard, Jonah",
       "Angus, Ruth"
     ],
-    "citations": 14,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.11989",
     "page": null,
@@ -7788,7 +7743,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9458,
+    "citations": 9488,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7812,7 +7767,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 117,
+    "citations": 118,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7843,7 +7798,7 @@
       "Skillman, Evan D.",
       "Williams, Benjamin F."
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1088/0004-637X/762/2/123",
     "page": 123,
