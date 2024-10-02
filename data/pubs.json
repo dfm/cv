@@ -120,6 +120,30 @@
     "year": "2024"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer",
+      "Park, Minjung"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.12447779",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-06-23",
+    "title": "dfm/python-fsps: v0.4.7",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..12447779J",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2402.06835",
     "authors": [
       "Garcia, Lionel J.",
@@ -651,7 +675,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 11,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -694,7 +718,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.8384410",
     "page": null,
@@ -1843,7 +1867,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1941,
+    "citations": 1943,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2507,6 +2531,51 @@
     "year": "2021"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Prochaska, J. Xavier",
+      "Hennawi, Joseph",
+      "Cooke, Ryan",
+      "Westfall, Kyle",
+      "Wang, Feige",
+      "Pelliccia, Debora",
+      "EmAstro",
+      "Roberson, Milan",
+      "Pickering, T. E.",
+      "Tiffanyhsyu",
+      "Badpandabear",
+      "Wasserman, Asher",
+      "Ellsworth Bowers, Timothy",
+      "Tejos, Nicolas",
+      "Villaume, Alexa",
+      "Holden, Brad",
+      "Marijana777",
+      "Simha, Sunil",
+      "Schindler, JT",
+      "Young, David",
+      "Fl{\\\"o}rs, Andreas",
+      "Wilde, Matt",
+      "Tang, S.",
+      "Tollerud, Erik",
+      "Isbell, Jacob",
+      "Thyng, Kristen",
+      "Foreman-Mackey, Dan",
+      "Jones, David",
+      "Betts, Edward",
+      "Vasovi{\\'c}, Zlatan"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.5548381",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-10-04",
+    "title": "pypeit/PypeIt: Version 1.6.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5548381P",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2101.01593",
     "authors": [
       "Van Eylen, V.",
@@ -3046,7 +3115,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -3623,7 +3692,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 226,
+    "citations": 227,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5394,7 +5463,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5718,7 +5787,24 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 38,
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1419753",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2018-09-16",
+    "title": "bettermoments: A robust method to measure line centroids",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018zndo...1419753T",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 21,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6809,7 +6895,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1627,
+    "citations": 1628,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
