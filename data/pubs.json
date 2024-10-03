@@ -1867,7 +1867,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1943,
+    "citations": 1948,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3177,7 +3177,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3692,7 +3692,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 227,
+    "citations": 228,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4353,7 +4353,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 129,
+    "citations": 130,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4436,7 +4436,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -4623,7 +4623,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4645,7 +4645,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 128,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -4670,7 +4670,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -5437,7 +5437,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 242,
+    "citations": 243,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5463,7 +5463,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -5981,7 +5981,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 255,
+    "citations": 256,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6018,7 +6018,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 172,
+    "citations": 173,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6034,7 +6034,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 158,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6085,7 +6085,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 639,
+    "citations": 641,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6094,6 +6094,24 @@
     "title": "Fast and Scalable Gaussian Process Modeling with Applications to Astronomical Time Series",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F",
     "volume": "154",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1705.07928",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Tovar, Guadalupe",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 82,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/aa9e00",
+    "page": 116,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2017-12-00",
+    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
+    "volume": "851",
     "year": "2017"
   },
   {
@@ -6127,24 +6145,6 @@
     "title": "Seeing Double with K2: Testing Re-inflation with Two Remarkably Similar Planets around Red Giant Branch Stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....154..254G",
     "volume": "154",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1705.07928",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Tovar, Guadalupe",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 82,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/aa9e00",
-    "page": 116,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2017-12-00",
-    "title": "Long-term Photometric Variability in Kepler Full-frame Images: Magnetic Cycles of Sun-like Stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017ApJ...851..116M",
-    "volume": "851",
     "year": "2017"
   },
   {
@@ -6895,7 +6895,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1628,
+    "citations": 1630,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7331,7 +7331,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 469,
+    "citations": 471,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7350,7 +7350,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7829,7 +7829,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9513,
+    "citations": 9517,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7853,7 +7853,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "software",
     "doi": null,
     "page": null,
