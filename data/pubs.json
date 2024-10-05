@@ -403,7 +403,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1867,7 +1867,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 1949,
+    "citations": 1955,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6895,7 +6895,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1629,
+    "citations": 1630,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7829,7 +7829,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9522,
+    "citations": 9526,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
