@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Garrison, Lehman H.",
+      "Foreman-Mackey, Dan",
+      "Shih, Yu-hsuan",
+      "Barnett, Alex"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/ad82cd",
+    "page": 250,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2024-10-00",
+    "title": "NIFTY-LS: Fast and Accurate Lomb{\\textendash}Scargle Periodograms Using a Non-uniform FFT",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..250G",
+    "volume": "8",
+    "year": "2024"
+  },
+  {
     "arxiv": "2409.08090",
     "authors": [
       "Garrison, Lehman H.",
@@ -85,7 +104,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
     "page": null,
@@ -267,7 +286,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 127,
+    "citations": 220,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1441,7 +1460,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 15,
+    "citations": 25,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1912,7 +1931,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2045,
+    "citations": 2054,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3062,7 +3081,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.21105/joss.03071",
     "page": 3071,
@@ -3737,7 +3756,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 235,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5508,7 +5527,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 185,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6940,7 +6959,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1642,
+    "citations": 1643,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7011,7 +7030,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 258,
+    "citations": 259,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7376,7 +7395,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 475,
+    "citations": 476,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7495,7 +7514,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -7874,7 +7893,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9603,
+    "citations": 9616,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -7898,7 +7917,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "software",
     "doi": null,
     "page": null,
