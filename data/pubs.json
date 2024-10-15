@@ -19,25 +19,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2409.08090",
-    "authors": [
-      "Garrison, Lehman H.",
-      "Foreman-Mackey, Dan",
-      "Shih, Yu-hsuan",
-      "Barnett, Alex"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2409.08090",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-09-00",
-    "title": "nifty-ls: Fast and Accurate Lomb-Scargle Periodograms Using a Non-Uniform FFT",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240908090G",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": "2302.05329",
     "authors": [
       "Edwards, Thomas D. P.",
@@ -286,7 +267,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 220,
+    "citations": 128,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -365,7 +346,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -1460,7 +1441,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 25,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1739,7 +1720,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -7667,7 +7648,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 224,
+    "citations": 135,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
