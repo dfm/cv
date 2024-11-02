@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 30374 stars / 2785 forks  
+[**jax**](https://github.com/jax-ml/jax) — 30377 stars / 2786 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 106 / first author: 9 / citations: 21,828 / h-index: 47
-(2024-11-01)
+refereed: 106 / first author: 9 / citations: 21,843 / h-index: 47
+(2024-11-02)
 
 ### Refereed publications
 
@@ -213,7 +213,7 @@ Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
 with Implicit Likelihood Inference Using Galaxy Growth
 Observables](http://dx.doi.org/10.3847/1538-4357/aca8fe)*, The
 Astrophysical Journal, **944**, 67
-([arXiv:2211.16461](http://arxiv.org/abs/2211.16461)) \[[10
+([arXiv:2211.16461](http://arxiv.org/abs/2211.16461)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...944...67J)\]
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
@@ -252,7 +252,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2092
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2099
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -636,7 +636,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[204
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[205
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -872,7 +872,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9653
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9659
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
