@@ -301,7 +301,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 129,
+    "citations": 222,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -534,7 +534,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.10449846",
     "page": null,
@@ -1346,7 +1346,7 @@
       "Springford, Aaron",
       "Tak, Hyungsuk"
     ],
-    "citations": 12,
+    "citations": 14,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.04703",
     "page": null,
@@ -1369,7 +1369,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -1475,7 +1475,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 17,
+    "citations": 28,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1505,7 +1505,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 7,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -1946,7 +1946,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2111,
+    "citations": 2124,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2422,7 +2422,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.6325733",
     "page": null,
@@ -3816,7 +3816,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 235,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5894,7 +5894,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 6,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -7019,7 +7019,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1654,
+    "citations": 1658,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7727,7 +7727,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 137,
+    "citations": 229,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7953,7 +7953,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9671,
+    "citations": 9687,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
