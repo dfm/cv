@@ -1946,7 +1946,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2148,
+    "citations": 2143,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2796,7 +2796,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3301,7 +3301,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3816,7 +3816,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 239,
+    "citations": 238,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4747,7 +4747,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 203,
+    "citations": 204,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -4996,7 +4996,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 208,
+    "citations": 207,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5587,7 +5587,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 188,
+    "citations": 187,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6158,7 +6158,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 165,
+    "citations": 164,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -7019,7 +7019,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1662,
+    "citations": 1660,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7953,7 +7953,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9721,
+    "citations": 9718,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
