@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 30485 stars / 2802 forks  
+[**jax**](https://github.com/jax-ml/jax) — 30492 stars / 2802 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -55,7 +55,7 @@ vectorize, JIT to GPU/TPU, and more
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1468 stars / 430 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1469 stars / 430 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 106 / first author: 9 / citations: 21,982 / h-index: 47
-(2024-11-14)
+refereed: 106 / first author: 9 / citations: 21,997 / h-index: 47
+(2024-11-15)
 
 ### Refereed publications
 
@@ -136,7 +136,7 @@ Daniel**, 2023, *[Detecting Solar System Analogs through Joint Radial
 Velocity/Astrometric
 Surveys](http://dx.doi.org/10.3847/1538-3881/ad05cc)*, The Astronomical
 Journal, **166**, 258
-([arXiv:2302.05064](http://arxiv.org/abs/2302.05064)) \[[4
+([arXiv:2302.05064](http://arxiv.org/abs/2302.05064)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..258Y)\]
 
 Dong, Jiayin; & **Foreman-Mackey, Daniel**, 2023, *[A Hierarchical
@@ -252,7 +252,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2143
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2146
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -426,7 +426,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[238
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[237
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -472,7 +472,7 @@ Hey, Daniel; Murphy, Simon; **Foreman-Mackey, Daniel**; Bedding,
 Timothy; *et al.*, 2020, *[Maelstrom: A Python package for identifying
 companions to pulsating stars from their light travel time
 variations](http://dx.doi.org/10.21105/joss.02125)*, The Journal of Open
-Source Software, **5**, 2125 \[[5
+Source Software, **5**, 2125 \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2020JOSS....5.2125H)\]
 
 Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
@@ -488,7 +488,7 @@ Timothy R.; *et al.*, 2020, *[Forward Modeling the Orbits of Companions
 to Pulsating Stars from Their Light Travel Time
 Variations](http://dx.doi.org/10.3847/1538-3881/ab7d38)*, The
 Astronomical Journal, **159**, 202
-([arXiv:2003.02379](http://arxiv.org/abs/2003.02379)) \[[18
+([arXiv:2003.02379](http://arxiv.org/abs/2003.02379)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..202H)\]
 
 Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
@@ -659,7 +659,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[659
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[660
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -872,7 +872,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9718
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9727
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
