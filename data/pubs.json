@@ -861,7 +861,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 68,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1990,7 +1990,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2178,
+    "citations": 2189,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2523,7 +2523,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -5653,7 +5653,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6188,7 +6188,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 206,
+    "citations": 207,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6275,7 +6275,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 664,
+    "citations": 665,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7085,7 +7085,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1672,
+    "citations": 1673,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8019,7 +8019,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9763,
+    "citations": 9770,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8043,7 +8043,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 123,
+    "citations": 124,
     "doctype": "software",
     "doi": null,
     "page": null,
