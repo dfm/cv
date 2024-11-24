@@ -142,7 +142,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -1394,7 +1394,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -1990,7 +1990,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2189,
+    "citations": 2197,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2906,7 +2906,7 @@
       "Wright, Duncan J.",
       "Zhang, Hui"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2224",
     "page": 2220,
@@ -3345,7 +3345,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 162,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6171,7 +6171,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 261,
+    "citations": 262,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -7085,7 +7085,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1673,
+    "citations": 1674,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7521,7 +7521,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 481,
+    "citations": 482,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7549,27 +7549,6 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 109,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
     "year": "2015"
   },
   {
@@ -7603,6 +7582,27 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 109,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -8019,7 +8019,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9770,
+    "citations": 9781,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
