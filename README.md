@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 30688 stars / 2831 forks  
+[**jax**](https://github.com/jax-ml/jax) — 30703 stars / 2831 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 106 / first author: 9 / citations: 22,248 / h-index: 47
-(2024-12-07)
+refereed: 106 / first author: 9 / citations: 22,285 / h-index: 47
+(2024-12-08)
 
 ### Refereed publications
 
@@ -181,14 +181,14 @@ Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2023,
 *[flowMC: Normalizing flow enhanced sampling package for probabilistic
 inference in JAX](http://dx.doi.org/10.21105/joss.05021)*, The Journal
 of Open Source Software, **8**, 5021
-([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[20
+([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W)\]
 
 Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
 exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
-664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[152
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[154
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
@@ -252,7 +252,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2243
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2255
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -373,7 +373,7 @@ Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
 Catalog and Observed Eccentricity Distribution for Year
 1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
 Journal Supplement Series, **255**, 6
-([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[26
+([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -426,7 +426,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[240
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[241
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -510,7 +510,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[208
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[209
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
@@ -703,7 +703,7 @@ Rix, Hans-Walter, 2017, *[The Joker: A Custom Monte Carlo Sampler for
 Binary-star and Exoplanet Radial Velocity
 Data](http://dx.doi.org/10.3847/1538-4357/aa5e50)*, The Astrophysical
 Journal, **837**, 20
-([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[121
+([arXiv:1610.07602](http://arxiv.org/abs/1610.07602)) \[[122
 citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 
 **Foreman-Mackey, Daniel**; Morton, Timothy D.; Hogg, David W.; Agol,
@@ -872,7 +872,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9817
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9835
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -944,17 +944,17 @@ Scenarios](http://dx.doi.org/10.48550/arXiv.1608.06919)*, ArXiv
 ([arXiv:1608.06919](http://arxiv.org/abs/1608.06919)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2016arXiv160806919B)\]
 
-Hogg, David W.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
-*et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
-telemetered pixel: Detailed models of the focal plane in the two-wheel
-era](http://dx.doi.org/10.48550/arXiv.1309.0653)*, ArXiv
-([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
-
 Montet, Benjamin T.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
 *et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
 telemetered pixel: Searching the habitable zones of the brightest
 stars](http://dx.doi.org/10.48550/arXiv.1309.0654)*, ArXiv
 ([arXiv:1309.0654](http://arxiv.org/abs/1309.0654))
+
+Hogg, David W.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
+*et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
+telemetered pixel: Detailed models of the focal plane in the two-wheel
+era](http://dx.doi.org/10.48550/arXiv.1309.0653)*, ArXiv
+([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
 
 </div>
 
