@@ -344,7 +344,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 133,
+    "citations": 227,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -577,7 +577,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.10449846",
     "page": null,
@@ -857,7 +857,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 4,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.8230430",
     "page": null,
@@ -990,7 +990,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 22,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -1518,7 +1518,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 17,
+    "citations": 28,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1989,7 +1989,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2255,
+    "citations": 2257,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3350,7 +3350,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 42,
+    "citations": 23,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -5557,7 +5557,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6989,7 +6989,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1687,
+    "citations": 1688,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7697,7 +7697,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 138,
+    "citations": 233,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
