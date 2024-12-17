@@ -344,7 +344,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 227,
+    "citations": 134,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -752,7 +752,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 14,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -857,7 +857,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.8230430",
     "page": null,
@@ -1989,7 +1989,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2301,
+    "citations": 2303,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3849,7 +3849,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -3877,6 +3877,31 @@
     "pubdate": "2020-11-00",
     "title": "wobble: Time-series spectra analyzer",
     "url": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft11012B",
+    "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Starkman, Nathaniel",
+      "Foreman-Mackey, Dan",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Major, Syrtis"
+    ],
+    "citations": 50,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.4159870",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2020-10-30",
+    "title": "adrn/gala: v1.3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2020zndo...4159870P",
     "volume": null,
     "year": "2020"
   },
@@ -4896,7 +4921,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 17,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.3462740",
     "page": null,
@@ -6092,7 +6117,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 206,
+    "citations": 205,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6989,7 +7014,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1699,
+    "citations": 1700,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7697,7 +7722,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 233,
+    "citations": 139,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
