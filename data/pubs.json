@@ -209,7 +209,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -344,7 +344,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 135,
+    "citations": 134,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1054,7 +1054,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7832419",
     "page": null,
@@ -1989,7 +1989,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2364,
+    "citations": 2365,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3274,7 +3274,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 166,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3350,7 +3350,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 43,
+    "citations": 23,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -3849,7 +3849,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -3894,7 +3894,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 87,
+    "citations": 50,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -5535,7 +5535,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 16,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.2561395",
     "page": null,
@@ -6627,7 +6627,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 124,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7450,7 +7450,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 488,
+    "citations": 487,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7722,7 +7722,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 236,
+    "citations": 139,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7948,7 +7948,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9973,
+    "citations": 9971,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
