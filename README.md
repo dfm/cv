@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 30931 stars / 2849 forks  
+[**jax**](https://github.com/jax-ml/jax) — 30940 stars / 2851 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 106 / first author: 9 / citations: 22,639 / h-index: 47
-(2025-01-09)
+refereed: 106 / first author: 9 / citations: 22,653 / h-index: 47
+(2025-01-10)
 
 ### Refereed publications
 
@@ -188,7 +188,7 @@ Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
 exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
-664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[160
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[162
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
@@ -252,7 +252,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2368
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2370
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -442,7 +442,7 @@ Fast, Two-dimensional Gaussian Process Method Based on Celerite:
 Applications to Transiting Exoplanet Discovery and
 Characterization](http://dx.doi.org/10.3847/1538-3881/abbc16)*, The
 Astronomical Journal, **160**, 240
-([arXiv:2007.05799](http://arxiv.org/abs/2007.05799)) \[[18
+([arXiv:2007.05799](http://arxiv.org/abs/2007.05799)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G)\]
 
 Villaume, Alexa; **Foreman-Mackey, Daniel**; Romanowsky, Aaron J.;
@@ -495,7 +495,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[134
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[135
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -755,7 +755,7 @@ Roman V.; *et al.* (incl. **DFM**), 2016, *[State of the Field: Extreme
 Precision Radial
 Velocities](http://dx.doi.org/10.1088/1538-3873/128/964/066001)*,
 Publications of the Astronomical Society of the Pacific, **128**, 66001
-([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[262
+([arXiv:1602.07939](http://arxiv.org/abs/1602.07939)) \[[264
 citations](https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F)\]
 
 **Foreman-Mackey, Daniel**, 2016, *[corner.py: Scatterplot matrices in
@@ -872,7 +872,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9975
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[9983
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
