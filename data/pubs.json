@@ -344,7 +344,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 134,
+    "citations": 232,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -423,7 +423,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -546,7 +546,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 7,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1797,7 +1797,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 5,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -1989,7 +1989,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2384,
+    "citations": 2393,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2616,7 +2616,7 @@
       "Morris, Brett M.",
       "Schlawin, Everett"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.5567781",
     "page": null,
@@ -2748,7 +2748,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 96,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2769,7 +2769,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3849,7 +3849,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -5923,7 +5923,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6100,7 +6100,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 262,
+    "citations": 263,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6117,7 +6117,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 210,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6352,7 +6352,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -7722,7 +7722,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 139,
+    "citations": 236,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7948,7 +7948,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 9994,
+    "citations": 10000,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
