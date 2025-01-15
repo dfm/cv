@@ -128,7 +128,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -209,7 +209,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -344,7 +344,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 232,
+    "citations": 135,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -546,7 +546,32 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 11,
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.6389737",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2024-01-05",
+    "title": "dfm/tinygp: The tiniest of Gaussian Process libraries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo...6389737F",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Yu, Weixiang",
+      "Yadav, Sachin",
+      "Reynolds Becker, McCoy",
+      "Caplar, Neven",
+      "Huppenkothen, Daniela",
+      "Killestein, Thomas",
+      "Tronsgaard, Ren{\\'e}",
+      "Rashid, Theo",
+      "Schmerler, Steve"
+    ],
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1142,7 +1167,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -1622,7 +1647,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -1989,7 +2014,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2393,
+    "citations": 2394,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2308,7 +2333,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 4,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -2392,7 +2417,7 @@
       "Tronsgaard, Ren{\\'e}",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389738",
     "page": null,
@@ -3849,7 +3874,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -7253,7 +7278,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7722,7 +7747,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 236,
+    "citations": 140,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7793,7 +7818,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -7948,7 +7973,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10000,
+    "citations": 9998,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
