@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": "2501.13809",
+    "authors": [
+      "Sayeed, Maryum",
+      "Angus, Ruth",
+      "Berger, Travis",
+      "Yuxi",
+      "Lu",
+      "Christiansen, Jessie",
+      "Foreman-Mackey, Daniel",
+      "Ness, Melissa"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2501.13809",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-01-00",
+    "title": "Exoplanet Occurrence Rate with Age for FGK Stars in Kepler",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250113809S",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Garrison, Lehman H.",
@@ -1644,7 +1667,7 @@
       "Foreman-Mackey, Dan",
       "Hayward, Christopher C."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac9477",
     "page": 29,
@@ -2033,7 +2056,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2463,
+    "citations": 2474,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -7058,7 +7081,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1725,
+    "citations": 1726,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7992,7 +8015,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10062,
+    "citations": 10067,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
