@@ -204,7 +204,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
     "page": null,
@@ -386,7 +386,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 233,
+    "citations": 135,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -613,7 +613,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 11,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1012,7 +1012,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1057,7 +1057,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -1585,7 +1585,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 29,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1864,7 +1864,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 8,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -2056,7 +2056,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2463,
+    "citations": 2464,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3916,7 +3916,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -6010,7 +6010,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 149,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -7320,7 +7320,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7789,7 +7789,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 141,
+    "citations": 143,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7860,7 +7860,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8015,7 +8015,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10076,
+    "citations": 10073,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
