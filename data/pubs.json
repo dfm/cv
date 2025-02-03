@@ -613,7 +613,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 8,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -971,7 +971,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1012,7 +1012,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1057,7 +1057,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 17,
+    "citations": 26,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -1076,7 +1076,7 @@
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd05c",
     "page": 162,
@@ -1361,7 +1361,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 166,
+    "citations": 168,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1585,7 +1585,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 19,
+    "citations": 30,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -1864,7 +1864,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -2056,7 +2056,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2488,
+    "citations": 2511,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2989,24 +2989,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 29,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -3022,6 +3004,24 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 29,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -3878,7 +3878,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 252,
+    "citations": 253,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4363,7 +4363,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 188,
+    "citations": 190,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4967,7 +4967,7 @@
       "Talbot, Colm",
       "Deil, Christoph"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3461261",
     "page": null,
@@ -5956,7 +5956,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 6,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -6167,7 +6167,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 266,
+    "citations": 268,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6204,7 +6204,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6974,7 +6974,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 244,
+    "citations": 245,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7081,7 +7081,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1728,
+    "citations": 1738,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7320,7 +7320,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 38,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7397,7 +7397,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 138,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7517,7 +7517,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 491,
+    "citations": 492,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7789,7 +7789,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 143,
+    "citations": 240,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8015,7 +8015,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10095,
+    "citations": 10117,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8039,7 +8039,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 131,
+    "citations": 132,
     "doctype": "software",
     "doi": null,
     "page": null,
