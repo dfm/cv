@@ -386,7 +386,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 135,
+    "citations": 137,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -819,7 +819,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 15,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -913,31 +913,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Johnson, Ben",
-      "Foreman-Mackey, Dan",
-      "Sick, Jonathan",
-      "Leja, Joel",
-      "Byler, Nell",
-      "Walmsley, Mike",
-      "Tollerud, Erik",
-      "Leung, Henry",
-      "Scott, Spencer",
-      "Park, Minjung"
-    ],
-    "citations": 8,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.8230430",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2023-08-09",
-    "title": "dfm/python-fsps: v0.4.4",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8230430J",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Price-Whelan, Adrian",
       "Sip{\\'{o}}cz, Brigitta",
       "Wagg, Tom",
@@ -954,7 +929,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.8217584",
     "page": null,
@@ -1012,7 +987,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1615,7 +1590,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 13,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -2056,7 +2031,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2511,
+    "citations": 2512,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3916,7 +3891,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -6010,7 +5985,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 149,
+    "citations": 148,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -6710,7 +6685,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7081,7 +7056,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1738,
+    "citations": 1739,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7320,7 +7295,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7548,6 +7523,27 @@
     "year": "2015"
   },
   {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 109,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -7578,27 +7574,6 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 109,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -7789,7 +7764,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 240,
+    "citations": 142,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8015,7 +7990,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10117,
+    "citations": 10115,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
