@@ -10,12 +10,12 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "http://jax.readthedocs.io/",
-              "forkCount": 2878,
+              "forkCount": 2875,
               "stargazers": {
-                "totalCount": 31161
+                "totalCount": 31171
               },
               "watchers": {
-                "totalCount": 332
+                "totalCount": 331
               }
             }
           },
@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 432,
               "stargazers": {
-                "totalCount": 1490
+                "totalCount": 1491
               },
               "watchers": {
                 "totalCount": 86
