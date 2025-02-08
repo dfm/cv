@@ -1,5 +1,27 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Hattori, Soichiro",
+      "Garcia, Lionel",
+      "Murray, Catriona",
+      "Dong, Jiayin",
+      "Dholakia, Shashank",
+      "Degen, David",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 4,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.10736936",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2025-02-03",
+    "title": "exoplanet-dev/jaxoplanet: Astronomical time series analysis with JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10736936H",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2501.13809",
     "authors": [
       "Sayeed, Maryum",
@@ -455,28 +477,6 @@
     "year": "2024"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Hattori, Soichiro",
-      "Garcia, Lionel",
-      "Murray, Catriona",
-      "Dong, Jiayin",
-      "Dholakia, Shashank",
-      "Degen, David",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 6,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.10736936",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2024-03-01",
-    "title": "exoplanet-dev/jaxoplanet: Astronomical time series analysis with JAX",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10736936H",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": "2403.02489",
     "authors": [
       "Hey, Daniel",
@@ -522,7 +522,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -2031,7 +2031,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2507,
+    "citations": 2516,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2189,6 +2189,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 23,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -2247,26 +2267,6 @@
     "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 23,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -3853,7 +3853,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 253,
+    "citations": 254,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -3873,7 +3873,7 @@
       "Foreman-Mackey, Daniel",
       "Barentsen, Geert"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abd31c",
     "page": 95,
@@ -4338,7 +4338,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 189,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4514,7 +4514,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 138,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4806,7 +4806,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 132,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -6377,7 +6377,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -6632,7 +6632,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 297,
+    "citations": 298,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7511,7 +7511,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 168,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7990,7 +7990,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10113,
+    "citations": 10119,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8014,7 +8014,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 132,
+    "citations": 133,
     "doctype": "software",
     "doi": null,
     "page": null,
