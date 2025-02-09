@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 31183 stars / 2878 forks  
+[**jax**](https://github.com/jax-ml/jax) — 31198 stars / 2878 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 106 / first author: 9 / citations: 23,050 / h-index: 47
-(2025-02-08)
+refereed: 106 / first author: 9 / citations: 23,061 / h-index: 47
+(2025-02-09)
 
 ### Refereed publications
 
@@ -152,7 +152,7 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-time
 Classification of Supernovae Using Host-galaxy Information and Shallow
 Learning](http://dx.doi.org/10.3847/1538-4357/ace326)*, The
 Astrophysical Journal, **954**, 6
-([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[22
+([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
@@ -230,7 +230,7 @@ Daniel**; & Hayward, Christopher C., 2022, *[Empirical Dust Attenuation
 Model Leads to More Realistic UVJ Diagram for TNG100
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac9477)*, The
 Astrophysical Journal, **939**, 29
-([arXiv:2204.06449](http://arxiv.org/abs/2204.06449)) \[[4
+([arXiv:2204.06449](http://arxiv.org/abs/2204.06449)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...939...29N)\]
 
 Eilers, Anna-Christina; Hogg, David W.; Schölkopf, Bernhard;
@@ -253,7 +253,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2516
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2521
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -272,6 +272,13 @@ Astronomical Journal, **164**, 25
 ([arXiv:2205.08901](http://arxiv.org/abs/2205.08901)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....164...25A)\]
 
+Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
+D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
+Image Light Curve Data
+Set](http://dx.doi.org/10.3847/2515-5172/ac74c4)*, Research Notes of the
+American Astronomical Society, **6**, 111 \[[16
+citations](https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P)\]
+
 Hattori, Soichiro; **Foreman-Mackey, Daniel**; Hogg, David W.; Montet,
 Benjamin T.; *et al.*, 2022, *[The unpopular Package: A Data-driven
 Approach to Detrending TESS Full-frame Image Light
@@ -280,19 +287,12 @@ Journal, **163**, 284
 ([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
 
-Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
-D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
-Image Light Curve Data
-Set](http://dx.doi.org/10.3847/2515-5172/ac74c4)*, Research Notes of the
-American Astronomical Society, **6**, 111 \[[16
-citations](https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P)\]
-
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
 Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
 for the Observed Dust Attenuation in
 Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
 Astrophysical Journal, **932**, 54
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[23
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
 Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
@@ -443,7 +443,7 @@ Fast, Two-dimensional Gaussian Process Method Based on Celerite:
 Applications to Transiting Exoplanet Discovery and
 Characterization](http://dx.doi.org/10.3847/1538-3881/abbc16)*, The
 Astronomical Journal, **160**, 240
-([arXiv:2007.05799](http://arxiv.org/abs/2007.05799)) \[[18
+([arXiv:2007.05799](http://arxiv.org/abs/2007.05799)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..240G)\]
 
 Villaume, Alexa; **Foreman-Mackey, Daniel**; Romanowsky, Aaron J.;
@@ -873,7 +873,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10119
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10121
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

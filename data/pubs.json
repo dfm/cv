@@ -899,7 +899,7 @@
       "Malz, Alex I.",
       "Aleo, Patrick D."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ace326",
     "page": 6,
@@ -1642,7 +1642,7 @@
       "Foreman-Mackey, Dan",
       "Hayward, Christopher C."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac9477",
     "page": 29,
@@ -2031,7 +2031,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2516,
+    "citations": 2521,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2128,29 +2128,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 37,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
-    "year": "2022"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -2189,6 +2166,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 37,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -2197,7 +2197,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -3891,7 +3891,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -7056,7 +7056,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1733,
+    "citations": 1734,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7990,7 +7990,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10119,
+    "citations": 10121,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8014,7 +8014,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 133,
+    "citations": 134,
     "doctype": "software",
     "doi": null,
     "page": null,
