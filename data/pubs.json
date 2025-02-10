@@ -10,7 +10,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -19,6 +19,28 @@
     "title": "exoplanet-dev/jaxoplanet: Astronomical time series analysis with JAX",
     "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10736936H",
     "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Sayeed, Maryum",
+      "Angus, Ruth",
+      "Berger, Travis A.",
+      "Lu, Yuxi(Lucy)",
+      "Christiansen, Jessie L.",
+      "Foreman-Mackey, Daniel",
+      "Ness, Melissa K."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ada8a1",
+    "page": 112,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2025-02-00",
+    "title": "Exoplanet Occurrence Rate with Age for FGK Stars in Kepler",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....169..112S",
+    "volume": "169",
     "year": "2025"
   },
   {
@@ -226,7 +248,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
     "page": null,
@@ -408,7 +430,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 137,
+    "citations": 235,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -427,7 +449,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -2031,7 +2053,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2521,
+    "citations": 2535,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3342,7 +3364,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4010,7 +4032,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -4093,7 +4115,7 @@
       "Guillochon, James",
       "Meierjurgen Farr, Will"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.3934421",
     "page": null,
@@ -5624,7 +5646,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 194,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6159,7 +6181,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 214,
+    "citations": 216,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -7746,7 +7768,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 245,
+    "citations": 246,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7764,7 +7786,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 142,
+    "citations": 241,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7990,7 +8012,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10121,
+    "citations": 10133,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

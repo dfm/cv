@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 31198 stars / 2878 forks  
+[**jax**](https://github.com/jax-ml/jax) — 31208 stars / 2879 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -77,13 +77,18 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 106 / first author: 9 / citations: 23,061 / h-index: 47
-(2025-02-09)
+refereed: 107 / first author: 9 / citations: 23,094 / h-index: 47
+(2025-02-10)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Sayeed, Maryum; Angus, Ruth; Berger, Travis A.; Lu, Yuxi(Lucy);
+*et al.* (incl. **DFM**), 2025, *[Exoplanet Occurrence Rate with Age for
+FGK Stars in Kepler](http://dx.doi.org/10.3847/1538-3881/ada8a1)*, The
+Astronomical Journal, **169**, 112
 
 Garrison, Lehman H.; **Foreman-Mackey, Daniel**; Shih, Yu-hsuan; &
 Barnett, Alex, 2024, *[NIFTY-LS: Fast and Accurate LombScargle
@@ -129,7 +134,7 @@ Soichiro, 2024, *[In This Day and Age: An Empirical Gyrochronology
 Relation for Partially and Fully Convective Single Field
 Stars](http://dx.doi.org/10.3847/1538-3881/ad28b9)*, The Astronomical
 Journal, **167**, 159
-([arXiv:2310.14990](http://arxiv.org/abs/2310.14990)) \[[13
+([arXiv:2310.14990](http://arxiv.org/abs/2310.14990)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..159L)\]
 
 Yahalomi, Daniel A.; Angus, Ruth; Spergel, David N.; & **Foreman-Mackey,
@@ -253,7 +258,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2521
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2535
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -405,7 +410,7 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
 Journal, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[44
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
@@ -460,7 +465,7 @@ Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
 Rotation Using Galactic
 Kinematics](http://dx.doi.org/10.3847/1538-3881/ab91b2)*, The
 Astronomical Journal, **160**, 90
-([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[43
+([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A)\]
 
 Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
@@ -585,7 +590,7 @@ Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, The
 Astronomical Journal, **157**, 61
-([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[194
+([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[195
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
@@ -637,7 +642,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[214
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[216
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -842,7 +847,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, The
 Astrophysical Journal, **795**, 64
-([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[245
+([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[246
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -873,7 +878,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10121
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10133
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
