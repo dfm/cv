@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 31220 stars / 2879 forks  
+[**jax**](https://github.com/jax-ml/jax) — 31231 stars / 2882 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -78,7 +78,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 107 / first author: 9 / citations: 23,091 / h-index: 47
-(2025-02-11)
+(2025-02-12)
 
 ### Refereed publications
 
@@ -89,6 +89,7 @@ Sayeed, Maryum; Angus, Ruth; Berger, Travis A.; Lu, Yuxi(Lucy);
 *et al.* (incl. **DFM**), 2025, *[Exoplanet Occurrence Rate with Age for
 FGK Stars in Kepler](http://dx.doi.org/10.3847/1538-3881/ada8a1)*, The
 Astronomical Journal, **169**, 112
+([arXiv:2501.13809](http://arxiv.org/abs/2501.13809))
 
 Garrison, Lehman H.; **Foreman-Mackey, Daniel**; Shih, Yu-hsuan; &
 Barnett, Alex, 2024, *[NIFTY-LS: Fast and Accurate LombScargle
@@ -896,11 +897,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-Sayeed, Maryum; Angus, Ruth; Berger, Travis; Yuxi;
-*et al.* (incl. **DFM**), 2025, *[Exoplanet Occurrence Rate with Age for
-FGK Stars in Kepler](http://dx.doi.org/10.48550/arXiv.2501.13809)*,
-ArXiv ([arXiv:2501.13809](http://arxiv.org/abs/2501.13809))
 
 Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
 **Foreman-Mackey, Daniel**, 2024, *[Precise Time-Domain Asteroseismology
