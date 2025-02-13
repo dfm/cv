@@ -426,7 +426,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 14,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2536,
+    "citations": 2527,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2127,6 +2127,29 @@
     "year": "2022"
   },
   {
+    "arxiv": "2106.15063",
+    "authors": [
+      "Hattori, Soichiro",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Pritchard, T. A.",
+      "Curtis, Jason L.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 37,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac625a",
+    "page": 284,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-06-00",
+    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
+    "volume": "163",
+    "year": "2022"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -2162,29 +2185,6 @@
     "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
     "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
     "volume": "6",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2106.15063",
-    "authors": [
-      "Hattori, Soichiro",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Pritchard, T. A.",
-      "Curtis, Jason L.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 37,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ac625a",
-    "page": 284,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2022-06-00",
-    "title": "The unpopular Package: A Data-driven Approach to Detrending TESS Full-frame Image Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H",
-    "volume": "163",
     "year": "2022"
   },
   {
@@ -3315,7 +3315,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 171,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3341,7 +3341,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 45,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4009,7 +4009,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 44,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -5051,7 +5051,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -5623,7 +5623,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 195,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6158,7 +6158,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 216,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6178,7 +6178,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6194,7 +6194,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6245,7 +6245,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 690,
+    "citations": 691,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6948,7 +6948,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 244,
+    "citations": 245,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7055,7 +7055,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1734,
+    "citations": 1735,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7347,7 +7347,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7371,7 +7371,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7531,7 +7531,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -7745,7 +7745,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 246,
+    "citations": 245,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -7989,7 +7989,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10131,
+    "citations": 10132,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
