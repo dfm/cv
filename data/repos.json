@@ -10,9 +10,9 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "http://jax.readthedocs.io/",
-              "forkCount": 2883,
+              "forkCount": 2884,
               "stargazers": {
-                "totalCount": 31239
+                "totalCount": 31248
               },
               "watchers": {
                 "totalCount": 332
@@ -40,7 +40,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 432,
+              "forkCount": 433,
               "stargazers": {
                 "totalCount": 1491
               },
@@ -75,7 +75,7 @@
                 "totalCount": 210
               },
               "watchers": {
-                "totalCount": 19
+                "totalCount": 20
               }
             }
           },
@@ -85,7 +85,7 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 118,
+              "forkCount": 119,
               "stargazers": {
                 "totalCount": 677
               },

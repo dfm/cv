@@ -1335,7 +1335,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 168,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2527,
+    "citations": 2546,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2188,26 +2188,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 24,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -2266,6 +2246,26 @@
     "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 24,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -2963,6 +2963,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 29,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -2978,24 +2996,6 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 29,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -3155,7 +3155,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.21105/joss.03071",
     "page": 3071,
@@ -3852,7 +3852,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 254,
+    "citations": 257,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4783,7 +4783,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6158,7 +6158,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 217,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6393,7 +6393,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -6631,7 +6631,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 298,
+    "citations": 299,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6723,7 +6723,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -6948,7 +6948,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 245,
+    "citations": 246,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7055,7 +7055,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1735,
+    "citations": 1738,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7491,7 +7491,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 492,
+    "citations": 494,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7519,27 +7519,6 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 110,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
     "year": "2015"
   },
   {
@@ -7573,6 +7552,27 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 110,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -7989,7 +7989,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10132,
+    "citations": 10161,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
