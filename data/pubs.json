@@ -945,7 +945,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 82,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -986,7 +986,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1559,7 +1559,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 30,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2564,
+    "citations": 2556,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2789,7 +2789,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 98,
+    "citations": 97,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -2963,24 +2963,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 29,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -2996,6 +2978,24 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 29,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -3935,7 +3935,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -4337,7 +4337,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 192,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4783,7 +4783,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 223,
+    "citations": 222,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5032,7 +5032,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 214,
+    "citations": 212,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6245,7 +6245,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 696,
+    "citations": 691,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6668,7 +6668,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 126,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7055,7 +7055,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1742,
+    "citations": 1741,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7491,7 +7491,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 495,
+    "citations": 494,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7989,7 +7989,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10196,
+    "citations": 10181,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
