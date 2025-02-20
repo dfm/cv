@@ -1375,29 +1375,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.04703",
-    "authors": [
-      "Eadie, Gwendolyn M.",
-      "Speagle, Joshua S.",
-      "Cisewski-Kehe, Jessi",
-      "Foreman-Mackey, Daniel",
-      "Huppenkothen, Daniela",
-      "Jones, David E.",
-      "Springford, Aaron",
-      "Tak, Hyungsuk"
-    ],
-    "citations": 11,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.04703",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Practical Guidance for Bayesian Inference in Astronomy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
@@ -1418,6 +1395,29 @@
     "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
     "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
     "volume": "519",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2302.04703",
+    "authors": [
+      "Eadie, Gwendolyn M.",
+      "Speagle, Joshua S.",
+      "Cisewski-Kehe, Jessi",
+      "Foreman-Mackey, Daniel",
+      "Huppenkothen, Daniela",
+      "Jones, David E.",
+      "Springford, Aaron",
+      "Tak, Hyungsuk"
+    ],
+    "citations": 11,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.04703",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Practical Guidance for Bayesian Inference in Astronomy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2556,
+    "citations": 2560,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2188,6 +2188,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 24,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -2246,26 +2266,6 @@
     "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
     "volume": null,
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 24,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -3414,7 +3414,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -4009,7 +4009,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -5065,6 +5065,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 13,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Tollerud, Erik",
       "Smith, Arfon",
       "Price-Whelan, Adrian",
@@ -5191,24 +5209,6 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
     "year": "2019"
   },
   {
@@ -6194,7 +6194,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 171,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6245,7 +6245,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 691,
+    "citations": 692,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6631,7 +6631,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 299,
+    "citations": 300,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7910,33 +7910,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0654",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Hogg, David W.",
-      "Lang, Dustin",
-      "Schiminovich, David",
-      "Scholkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1309.0654",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0653",
     "authors": [
       "Hogg, David W.",
@@ -7960,6 +7933,33 @@
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
     "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
+    "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1309.0654",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Hogg, David W.",
+      "Lang, Dustin",
+      "Schiminovich, David",
+      "Scholkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.1309.0654",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
     "volume": null,
     "year": "2013"
   },
@@ -7989,7 +7989,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10181,
+    "citations": 10188,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
