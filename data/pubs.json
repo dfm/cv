@@ -225,7 +225,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
     "page": null,
@@ -272,7 +272,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -407,7 +407,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 137,
+    "citations": 138,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1559,7 +1559,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2659,6 +2659,31 @@
     ],
     "citations": 3,
     "doctype": "software",
+    "doi": "10.5281/zenodo.5567790",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2021-10-13",
+    "title": "rodluger/starry: v1.2.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021zndo...5567790L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Agol, Eric",
+      "Foreman-Mackey, Dan",
+      "Lustig-Yaeger, Jacob",
+      "Hedges, Christina",
+      "Fleming, David",
+      "Head, Tim",
+      "Bartoli{\\'c}, Fran",
+      "Morris, Brett M.",
+      "Schlawin, Everett"
+    ],
+    "citations": 3,
+    "doctype": "software",
     "doi": "10.5281/zenodo.5567781",
     "page": null,
     "pub": "Zenodo",
@@ -3253,7 +3278,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 11,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -7834,7 +7859,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -7989,7 +8014,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10233,
+    "citations": 10231,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
