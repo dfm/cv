@@ -113,7 +113,7 @@
       "Shih, Yu-hsuan",
       "Barnett, Alex"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ad82cd",
     "page": 250,
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2588,
+    "citations": 2597,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3340,7 +3340,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4808,7 +4808,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 222,
+    "citations": 223,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5622,7 +5622,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 262,
+    "citations": 263,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6183,7 +6183,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 220,
+    "citations": 221,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6219,7 +6219,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 173,
+    "citations": 174,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6270,7 +6270,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 693,
+    "citations": 694,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7080,7 +7080,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1743,
+    "citations": 1744,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7935,33 +7935,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0653",
-    "authors": [
-      "Hogg, David W.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Lang, Dustin",
-      "Montet, Benjamin T.",
-      "Schiminovich, David",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1309.0653",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0654",
     "authors": [
       "Montet, Benjamin T.",
@@ -7985,6 +7958,33 @@
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
     "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
+    "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1309.0653",
+    "authors": [
+      "Hogg, David W.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Lang, Dustin",
+      "Montet, Benjamin T.",
+      "Schiminovich, David",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.1309.0653",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
     "volume": null,
     "year": "2013"
   },
@@ -8014,7 +8014,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10221,
+    "citations": 10231,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
