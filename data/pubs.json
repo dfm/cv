@@ -113,7 +113,7 @@
       "Shih, Yu-hsuan",
       "Barnett, Alex"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ad82cd",
     "page": 250,
@@ -135,7 +135,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 32,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -248,7 +248,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -314,7 +314,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -426,7 +426,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 22,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -484,7 +484,7 @@
       "Stello, Dennis",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 5,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2403.02489",
     "page": null,
@@ -492,6 +492,43 @@
     "pubdate": "2024-03-00",
     "title": "Precise Time-Domain Asteroseismology and a Revised Target List for TESS Solar-Like Oscillators",
     "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240302489H",
+    "volume": null,
+    "year": "2024"
+  },
+  {
+    "arxiv": "2402.10797",
+    "authors": [
+      "Cabezas, Alberto",
+      "Corenflos, Adrien",
+      "Lao, Junpeng",
+      "Louf, R{\\'e}mi",
+      "Carnec, Antoine",
+      "Chaudhari, Kaustubh",
+      "Cohn-Gordon, Reuben",
+      "Coullon, Jeremie",
+      "Deng, Wei",
+      "Duffield, Sam",
+      "Dur{\\'a}n-Mart{\\'\\i}n, Gerardo",
+      "Elantkowski, Marcin",
+      "Foreman-Mackey, Dan",
+      "Gregori, Michele",
+      "Iguaran, Carlos",
+      "Kumar, Ravin",
+      "Lysy, Martin",
+      "Murphy, Kevin",
+      "Orduz, Juan Camilo",
+      "Patel, Karm",
+      "Wang, Xi",
+      "Zinkov, Rob"
+    ],
+    "citations": 15,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2402.10797",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2024-02-00",
+    "title": "BlackJAX: Composable Bayesian inference in JAX",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240210797C",
     "volume": null,
     "year": "2024"
   },
@@ -534,43 +571,6 @@
     "title": "VizieR Online Data Catalog: New HIRES radial velocity data for V1298 Tau (Blunt+, 2023)",
     "url": "https://ui.adsabs.harvard.edu/abs/2024yCat..51660062B",
     "volume": "516",
-    "year": "2024"
-  },
-  {
-    "arxiv": "2402.10797",
-    "authors": [
-      "Cabezas, Alberto",
-      "Corenflos, Adrien",
-      "Lao, Junpeng",
-      "Louf, R{\\'e}mi",
-      "Carnec, Antoine",
-      "Chaudhari, Kaustubh",
-      "Cohn-Gordon, Reuben",
-      "Coullon, Jeremie",
-      "Deng, Wei",
-      "Duffield, Sam",
-      "Dur{\\'a}n-Mart{\\'\\i}n, Gerardo",
-      "Elantkowski, Marcin",
-      "Foreman-Mackey, Dan",
-      "Gregori, Michele",
-      "Iguaran, Carlos",
-      "Kumar, Ravin",
-      "Lysy, Martin",
-      "Murphy, Kevin",
-      "Orduz, Juan Camilo",
-      "Patel, Karm",
-      "Wang, Xi",
-      "Zinkov, Rob"
-    ],
-    "citations": 18,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2402.10797",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2024-02-00",
-    "title": "BlackJAX: Composable Bayesian inference in JAX",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240210797C",
-    "volume": null,
     "year": "2024"
   },
   {
@@ -662,7 +662,7 @@
       "Spergel, David N.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad05cc",
     "page": 258,
@@ -878,7 +878,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 44,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -898,7 +898,7 @@
       "Malz, Alex I.",
       "Aleo, Patrick D."
     ],
-    "citations": 38,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ace326",
     "page": 6,
@@ -945,7 +945,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 145,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -986,7 +986,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 60,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1050,7 +1050,7 @@
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo"
     ],
-    "citations": 19,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd05c",
     "page": 162,
@@ -1131,7 +1131,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 31,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1335,7 +1335,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 290,
+    "citations": 172,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1363,7 +1363,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 49,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -1386,7 +1386,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 25,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -1395,6 +1395,29 @@
     "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
     "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
     "volume": "519",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2302.04703",
+    "authors": [
+      "Eadie, Gwendolyn M.",
+      "Speagle, Joshua S.",
+      "Cisewski-Kehe, Jessi",
+      "Foreman-Mackey, Daniel",
+      "Huppenkothen, Daniela",
+      "Jones, David E.",
+      "Springford, Aaron",
+      "Tak, Hyungsuk"
+    ],
+    "citations": 12,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.04703",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Practical Guidance for Bayesian Inference in Astronomy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -1411,7 +1434,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 24,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -1420,29 +1443,6 @@
     "title": "Calibrating Cosmological Simulations with Implicit Likelihood Inference Using Galaxy Growth Observables",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...944...67J",
     "volume": "944",
-    "year": "2023"
-  },
-  {
-    "arxiv": "2302.04703",
-    "authors": [
-      "Eadie, Gwendolyn M.",
-      "Speagle, Joshua S.",
-      "Cisewski-Kehe, Jessi",
-      "Foreman-Mackey, Daniel",
-      "Huppenkothen, Daniela",
-      "Jones, David E.",
-      "Springford, Aaron",
-      "Tak, Hyungsuk"
-    ],
-    "citations": 23,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.04703",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Practical Guidance for Bayesian Inference in Astronomy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -2188,6 +2188,27 @@
     "year": "2022"
   },
   {
+    "arxiv": "2206.11275",
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew",
+      "David, Trevor",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2206.11275",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -2299,27 +2320,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2206.11275",
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
-    ],
-    "citations": 10,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2206.11275",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Hey, Daniel R.",
@@ -2329,7 +2329,7 @@
       "Pope, Benjamin J. S.",
       "Hogg, David W."
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": null,
     "page": null,
