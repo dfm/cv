@@ -878,7 +878,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -945,7 +945,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 80,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1335,7 +1335,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 172,
+    "citations": 173,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2633,
+    "citations": 2648,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2236,7 +2236,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -2245,6 +2245,27 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2206.11275",
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew",
+      "David, Trevor",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2206.11275",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
+    "volume": null,
     "year": "2022"
   },
   {
@@ -2296,27 +2317,6 @@
     "title": "A Mirage or an Oasis? Water Vapor in the Atmosphere of the Warm Neptune TOI-674 b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AAS...24040315B",
     "volume": "240",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2206.11275",
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
-    ],
-    "citations": 5,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2206.11275",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -2826,6 +2826,27 @@
     "year": "2021"
   },
   {
+    "arxiv": "2110.06271",
+    "authors": [
+      "Luger, Rodrigo",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel",
+      "Crossfield, Ian J. M.",
+      "Zhao, Lily L.",
+      "Hogg, David W."
+    ],
+    "citations": 51,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2110.06271",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2021-10-00",
+    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
+    "volume": null,
+    "year": "2021"
+  },
+  {
     "arxiv": "2107.14015",
     "authors": [
       "Gan, Tianjun",
@@ -2889,27 +2910,6 @@
     "title": "HD 183579b: a warm sub-Neptune transiting a solar twin detected by TESS",
     "url": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2220G",
     "volume": "507",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2110.06271",
-    "authors": [
-      "Luger, Rodrigo",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel",
-      "Crossfield, Ian J. M.",
-      "Zhao, Lily L.",
-      "Hogg, David W."
-    ],
-    "citations": 51,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2110.06271",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2021-10-00",
-    "title": "Mapping stellar surfaces III: An Efficient, Scalable, and Open-Source Doppler Imaging Model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv211006271L",
-    "volume": null,
     "year": "2021"
   },
   {
@@ -3340,7 +3340,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 177,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3366,7 +3366,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4855,7 +4855,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 105,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -6166,7 +6166,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 267,
+    "citations": 268,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6219,7 +6219,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 176,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6270,7 +6270,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 699,
+    "citations": 701,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6418,7 +6418,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -7080,7 +7080,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1750,
+    "citations": 1752,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7202,7 +7202,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 20,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -7535,7 +7535,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7544,27 +7544,6 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 111,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
     "year": "2015"
   },
   {
@@ -7598,6 +7577,27 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 111,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -8014,7 +8014,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10266,
+    "citations": 10277,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8038,7 +8038,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 137,
+    "citations": 140,
     "doctype": "software",
     "doi": null,
     "page": null,
