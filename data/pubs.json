@@ -1363,7 +1363,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 28,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -1641,7 +1641,7 @@
       "Foreman-Mackey, Dan",
       "Hayward, Christopher C."
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac9477",
     "page": 29,
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2693,
+    "citations": 2679,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2196,7 +2196,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 27,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -3366,7 +3366,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4362,7 +4362,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -4808,7 +4808,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 224,
+    "citations": 225,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5057,7 +5057,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 214,
+    "citations": 215,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6203,7 +6203,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 188,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -7080,7 +7080,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1759,
+    "citations": 1761,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7516,7 +7516,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 498,
+    "citations": 497,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7535,7 +7535,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 172,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7788,7 +7788,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 143,
+    "citations": 244,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8014,7 +8014,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10307,
+    "citations": 10311,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
