@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 31706 stars / 2958 forks  
+[**jax**](https://github.com/jax-ml/jax) — 31714 stars / 2958 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 107 / first author: 9 / citations: 23,587 / h-index: 47
-(2025-03-22)
+refereed: 107 / first author: 9 / citations: 23,604 / h-index: 47
+(2025-03-23)
 
 ### Refereed publications
 
@@ -195,7 +195,7 @@ Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
 exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
-664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[174
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[175
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
@@ -204,7 +204,7 @@ Dayside Emission Strongest Eastward of the Substellar Point and
 Nightside Conditions Conducive to Cloud
 Formation](http://dx.doi.org/10.3847/2041-8213/acb049)*, The
 Astrophysical Journal, **943**
-([arXiv:2301.03209](http://arxiv.org/abs/2301.03209)) \[[28
+([arXiv:2301.03209](http://arxiv.org/abs/2301.03209)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...943L..17M)\]
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
@@ -259,7 +259,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2691
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2699
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -360,13 +360,6 @@ Monthly Notices of the Royal Astronomical Society, **507**, 2220
 ([arXiv:2107.14015](http://arxiv.org/abs/2107.14015)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2220G)\]
 
-Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
-*[Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model
-for Light Curves](http://dx.doi.org/10.3847/1538-3881/abfdb9)*, The
-Astronomical Journal, **162**, 124
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[29
-citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L)\]
-
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; Hedges, Christina; & Hogg,
 David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
@@ -374,6 +367,13 @@ Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
 ([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
+
+Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
+*[Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model
+for Light Curves](http://dx.doi.org/10.3847/1538-3881/abfdb9)*, The
+Astronomical Journal, **162**, 124
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[29
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L)\]
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
@@ -487,7 +487,7 @@ Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2400-z)*, Nature,
 **582**, 497 ([arXiv:2006.13248](http://arxiv.org/abs/2006.13248))
-\[[195
+\[[196
 citations](https://ui.adsabs.harvard.edu/abs/2020Natur.582..497P)\]
 
 Hey, Daniel R.; Murphy, Simon J.; **Foreman-Mackey, Daniel**; Bedding,
@@ -814,13 +814,6 @@ the Royal Astronomical Society, **450**, 1787
 ([arXiv:1502.06965](http://arxiv.org/abs/1502.06965)) \[[171
 citations](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A)\]
 
-**Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
-Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
-in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
-Astrophysical Journal, **806**, 215
-([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[111
-citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
-
 Weisz, Daniel R.; Johnson, L. Clifton; **Foreman-Mackey, Daniel**;
 Dolphin, Andrew E.; *et al.*, 2015, *[The High-mass Stellar Initial Mass
 Function in M31
@@ -828,6 +821,13 @@ Clusters](http://dx.doi.org/10.1088/0004-637X/806/2/198)*, The
 Astrophysical Journal, **806**, 198
 ([arXiv:1502.06621](http://arxiv.org/abs/1502.06621)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W)\]
+
+**Foreman-Mackey, Daniel**; Montet, Benjamin T.; Hogg, David W.; Morton,
+Timothy D.; *et al.*, 2015, *[A Systematic Search for Transiting Planets
+in the K2 Data](http://dx.doi.org/10.1088/0004-637X/806/2/215)*, The
+Astrophysical Journal, **806**, 215
+([arXiv:1502.04715](http://arxiv.org/abs/1502.04715)) \[[111
+citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F)\]
 
 Schölkopf, Bernhard; Hogg, David W.; Wang, Dun; **Foreman-Mackey,
 Daniel**; *et al.*, 2015, Removing systematic errors for exoplanet
@@ -879,7 +879,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10331
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10337
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

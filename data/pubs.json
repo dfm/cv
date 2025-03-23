@@ -1335,7 +1335,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 174,
+    "citations": 175,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1363,7 +1363,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2030,7 +2030,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2691,
+    "citations": 2699,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2988,24 +2988,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 29,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -3021,6 +3003,24 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 29,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -4362,7 +4362,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 195,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -7080,7 +7080,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1764,
+    "citations": 1765,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7319,7 +7319,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 38,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7547,27 +7547,6 @@
     "year": "2015"
   },
   {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 111,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -7598,6 +7577,27 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 111,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -8014,7 +8014,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10331,
+    "citations": 10337,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
