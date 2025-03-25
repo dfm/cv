@@ -407,7 +407,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 241,
+    "citations": 139,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -907,6 +907,31 @@
     "title": "First Impressions: Early-time Classification of Supernovae Using Host-galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G",
     "volume": "954",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Ben",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Byler, Nell",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Scott, Spencer",
+      "Park, Minjung"
+    ],
+    "citations": 5,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.8230430",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-08-09",
+    "title": "dfm/python-fsps: v0.4.4",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8230430J",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -3580,7 +3605,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 48,
+    "citations": 29,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -7319,7 +7344,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7788,7 +7813,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 244,
+    "citations": 144,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7859,7 +7884,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8014,7 +8039,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10343,
+    "citations": 10341,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
