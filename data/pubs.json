@@ -970,7 +970,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 79,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -2055,7 +2055,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2719,
+    "citations": 2721,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2860,7 +2860,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3365,7 +3365,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 179,
+    "citations": 180,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4563,7 +4563,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -5647,7 +5647,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 265,
+    "citations": 266,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6718,7 +6718,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 125,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7105,7 +7105,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1770,
+    "citations": 1773,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7421,7 +7421,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7615,7 +7615,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -8039,7 +8039,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10359,
+    "citations": 10362,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
