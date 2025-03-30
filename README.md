@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 31771 stars / 2966 forks  
+[**jax**](https://github.com/jax-ml/jax) — 31778 stars / 2965 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more
 [\[docs\]](http://jax.readthedocs.io/)
@@ -59,7 +59,7 @@ The tiniest of Gaussian Process libraries
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 531 stars / 232
+[**corner.py**](https://github.com/dfm/corner.py) — 532 stars / 232
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -77,8 +77,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 107 / first author: 9 / citations: 23,668 / h-index: 47
-(2025-03-29)
+refereed: 107 / first author: 9 / citations: 23,687 / h-index: 47
+(2025-03-30)
 
 ### Refereed publications
 
@@ -165,7 +165,7 @@ Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
 Regression for Astronomical Time
 Series](http://dx.doi.org/10.1146/annurev-astro-052920-103508)*, Annual
 Review of Astronomy and Astrophysics, **61**, 329
-([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[80
+([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[81
 citations](https://ui.adsabs.harvard.edu/abs/2023ARA&A..61..329A)\]
 
 Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
@@ -259,7 +259,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2721
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2731
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -598,7 +598,7 @@ Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
 Daniel**, 2018, *[Compact Multi-planet Systems are more Common around
 Metal-poor Hosts](http://dx.doi.org/10.3847/2041-8213/aae710)*, The
 Astrophysical Journal, **867**
-([arXiv:1810.10009](http://arxiv.org/abs/1810.10009)) \[[42
+([arXiv:1810.10009](http://arxiv.org/abs/1810.10009)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...867L...3B)\]
 
 Ness, Melissa K.; Silva Aguirre, Victor; Lund, Mikkel N.; Cantiello,
@@ -636,7 +636,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[271
+\[[272
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -717,7 +717,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
 Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
 The Astronomical Journal, **152**, 206
-([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[82
+([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[83
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
@@ -879,7 +879,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10362
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10367
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

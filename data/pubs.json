@@ -970,7 +970,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -2055,7 +2055,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2721,
+    "citations": 2731,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5892,7 +5892,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -6191,7 +6191,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 271,
+    "citations": 272,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6773,7 +6773,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7105,7 +7105,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1773,
+    "citations": 1776,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7344,7 +7344,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 38,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7541,7 +7541,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 497,
+    "citations": 499,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7884,7 +7884,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 51,
+    "citations": 44,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8039,7 +8039,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10362,
+    "citations": 10367,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
