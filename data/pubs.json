@@ -22,6 +22,27 @@
     "year": "2025"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Fortune, Mark",
+      "Gibson, Neale P.",
+      "Foreman-Mackey, Daniel",
+      "Evans-Soma, Thomas M.",
+      "Maguire, Cathal",
+      "Ramkumar, Swaetha"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2025-03-00",
+    "title": "luas: Gaussian processes for analyzing two-dimensional data sets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ascl.soft03020F",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2501.13809",
     "authors": [
       "Sayeed, Maryum",
@@ -293,7 +314,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -314,7 +335,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -426,7 +447,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -2055,7 +2076,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2731,
+    "citations": 2747,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2458,7 +2479,7 @@
       "Tronsgaard, Ren{\\'e}",
       "Theorashid"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389738",
     "page": null,
@@ -3303,7 +3324,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 7,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -3464,7 +3485,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -3785,7 +3806,7 @@
       "Gilbertson, Christian",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/staa3887",
     "page": 4798,
@@ -3830,7 +3851,7 @@
       "Ramos Carvalho, Nuno",
       "Hall, Oliver"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.4558241",
     "page": null,
@@ -3902,7 +3923,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 259,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4059,7 +4080,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -5647,7 +5668,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 266,
+    "citations": 267,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5729,7 +5750,7 @@
       "Curtis, Jason",
       "Hogg, David W."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "abstract",
     "doi": null,
     "page": null,
@@ -6295,7 +6316,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 705,
+    "citations": 706,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6681,7 +6702,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 304,
+    "citations": 305,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7105,7 +7126,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1776,
+    "citations": 1780,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7541,7 +7562,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 499,
+    "citations": 500,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7560,7 +7581,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 172,
+    "citations": 173,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -7615,7 +7636,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 112,
+    "citations": 113,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -7813,7 +7834,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 144,
+    "citations": 245,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7923,7 +7944,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 4,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.10598",
     "page": 10598,
@@ -8039,7 +8060,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10367,
+    "citations": 10375,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
