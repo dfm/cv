@@ -664,7 +664,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.10449846",
     "page": null,
@@ -1141,7 +1141,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 8,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7832419",
     "page": null,
@@ -1709,7 +1709,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 9,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -2076,7 +2076,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2747,
+    "citations": 2746,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4006,7 +4006,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6035,7 +6035,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 42,
+    "citations": 24,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -7365,7 +7365,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7834,7 +7834,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 245,
+    "citations": 144,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -7905,7 +7905,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8060,7 +8060,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10375,
+    "citations": 10372,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
