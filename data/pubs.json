@@ -156,7 +156,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -505,7 +505,7 @@
       "Stello, Dennis",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2403.02489",
     "page": null,
@@ -1177,7 +1177,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1381,7 +1381,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 176,
+    "citations": 178,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2076,7 +2076,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2740,
+    "citations": 2761,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2234,27 +2234,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2206.11275",
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
-    ],
-    "citations": 5,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2206.11275",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -2312,6 +2291,27 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2206.11275",
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew",
+      "David, Trevor",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2206.11275",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
+    "volume": null,
     "year": "2022"
   },
   {
@@ -2440,7 +2440,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 5,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -2860,7 +2860,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 100,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3923,7 +3923,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 259,
+    "citations": 261,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5136,6 +5136,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 14,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Tollerud, Erik",
       "Smith, Arfon",
       "Price-Whelan, Adrian",
@@ -5262,24 +5280,6 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 14,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
     "year": "2019"
   },
   {
@@ -5694,7 +5694,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 198,
+    "citations": 199,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -7126,7 +7126,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1781,
+    "citations": 1786,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8060,7 +8060,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10371,
+    "citations": 10394,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8084,7 +8084,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "software",
     "doi": null,
     "page": null,
