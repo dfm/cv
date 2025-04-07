@@ -428,7 +428,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 139,
+    "citations": 241,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -447,7 +447,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -1041,6 +1041,52 @@
     "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166...62B",
     "volume": "166",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Dharmawardena, Thavisha",
+      "Bailer-Jones, Coryn A. L.",
+      "Fouesneau, Morgan",
+      "M{\\\"u}ller, Thomas",
+      "Foreman-Mackey, Dan",
+      "Coronica, Piero",
+      "Colnaghi, Timoteo",
+      "Henshaw, Jonathan"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": null,
+    "page": 1277,
+    "pub": "EAS2023, European Astronomical Society Annual Meeting",
+    "pubdate": "2023-07-00",
+    "title": "The interplay between the 3D structure of Galactic molecular clouds and star formation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023eas..conf.1277D",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Dharmawardena, Thavisha",
+      "Bailer-Jones, Coryn A. L.",
+      "Fouesneau, Morgan",
+      "Foreman-Mackey, Dan",
+      "Coronica, Piero",
+      "Colnaghi, Timoteo",
+      "M{\\\"u}ller, Thomas",
+      "Andrae, Rene"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": null,
+    "page": 1276,
+    "pub": "EAS2023, European Astronomical Society Annual Meeting",
+    "pubdate": "2023-07-00",
+    "title": "A multi-scale multi-resolution view of the 3D structure of the Milky Way out to 2 kpc in the era of Gaia DR3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023eas..conf.1276D",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -1754,7 +1800,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 6,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -2076,7 +2122,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2761,
+    "citations": 2770,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2170,6 +2216,26 @@
     "title": "The 3D Galactocentric Velocities of Kepler Stars: Marginalizing Over Missing Radial Velocities",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164...25A",
     "volume": "164",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Dharmawardena, Thavisha",
+      "Bailer-Jones, Coryn",
+      "Fouesneau, Morgan",
+      "Foreman-Mackey, Dan",
+      "Andrae, Rene"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": null,
+    "page": 1528,
+    "pub": "EAS2022, European Astronomical Society Annual Meeting",
+    "pubdate": "2022-07-00",
+    "title": "The 3D structure of Star Formation Regions in the era of Gaia DR3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022eas..conf.1528D",
+    "volume": null,
     "year": "2022"
   },
   {
@@ -7126,7 +7192,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1786,
+    "citations": 1787,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7834,7 +7900,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 144,
+    "citations": 245,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8060,7 +8126,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10394,
+    "citations": 10403,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
