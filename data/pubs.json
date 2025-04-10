@@ -447,7 +447,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -899,7 +899,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -2122,7 +2122,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2770,
+    "citations": 2773,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2250,7 +2250,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -4920,7 +4920,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5206,7 +5206,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -7192,7 +7192,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1787,
+    "citations": 1786,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7484,7 +7484,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -8126,7 +8126,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10401,
+    "citations": 10405,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8150,7 +8150,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 143,
+    "citations": 144,
     "doctype": "software",
     "doi": null,
     "page": null,
