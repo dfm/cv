@@ -1427,7 +1427,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 179,
+    "citations": 180,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -3989,7 +3989,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 260,
+    "citations": 261,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -6150,6 +6150,23 @@
     "year": "2018"
   },
   {
+    "arxiv": "1809.10295",
+    "authors": [
+      "Teague, Richard",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 109,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/aae265",
+    "page": 173,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2018-09-00",
+    "title": "A Robust Method to Measure Centroids of Spectral Lines",
+    "url": "https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T",
+    "volume": "2",
+    "year": "2018"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Morton, Timothy",
@@ -6382,7 +6399,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 707,
+    "citations": 709,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6433,7 +6450,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -6513,7 +6530,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7192,7 +7209,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1792,
+    "citations": 1795,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8126,7 +8143,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10428,
+    "citations": 10450,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8150,7 +8167,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "software",
     "doi": null,
     "page": null,
