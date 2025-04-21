@@ -269,7 +269,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -839,7 +839,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 11,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -1427,7 +1427,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 181,
+    "citations": 182,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1455,7 +1455,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 30,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2122,7 +2122,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2824,
+    "citations": 2845,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2308,7 +2308,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -2926,7 +2926,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 102,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3989,7 +3989,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 262,
+    "citations": 263,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4920,7 +4920,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 227,
+    "citations": 228,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -7192,7 +7192,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1798,
+    "citations": 1800,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7628,7 +7628,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 505,
+    "citations": 507,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8126,7 +8126,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10471,
+    "citations": 10489,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
