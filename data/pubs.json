@@ -1455,7 +1455,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 32,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2122,7 +2122,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2845,
+    "citations": 2832,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2250,7 +2250,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -2926,7 +2926,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 104,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -4920,7 +4920,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 228,
+    "citations": 227,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6382,7 +6382,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 712,
+    "citations": 713,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6494,7 +6494,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1710.02428",
     "page": null,
@@ -7122,7 +7122,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -7192,7 +7192,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1800,
+    "citations": 1799,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7628,7 +7628,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 507,
+    "citations": 505,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7647,7 +7647,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 174,
+    "citations": 175,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -8126,7 +8126,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10487,
+    "citations": 10480,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
