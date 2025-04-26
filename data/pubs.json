@@ -156,7 +156,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -991,7 +991,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 82,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1032,7 +1032,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1223,7 +1223,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -2122,7 +2122,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2837,
+    "citations": 2850,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2308,7 +2308,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -3107,7 +3107,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -5734,7 +5734,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 268,
+    "citations": 269,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6382,7 +6382,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 716,
+    "citations": 718,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7192,7 +7192,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1799,
+    "citations": 1803,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8126,7 +8126,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10490,
+    "citations": 10503,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
