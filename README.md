@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 32048 stars / 2993 forks  
+[**jax**](https://github.com/jax-ml/jax) — 32058 stars / 2994 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 107 / first author: 9 / citations: 24,040 / h-index: 48
-(2025-04-26)
+refereed: 107 / first author: 9 / citations: 24,046 / h-index: 47
+(2025-04-27)
 
 ### Refereed publications
 
@@ -259,7 +259,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2850
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[2852
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -365,14 +365,14 @@ David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[47
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model
 for Light Curves](http://dx.doi.org/10.3847/1538-3881/abfdb9)*, The
 Astronomical Journal, **162**, 124
-([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[30
+([arXiv:2102.01697](http://arxiv.org/abs/2102.01697)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L)\]
 
 Dong, Jiayin; Huang, Chelsea X.; Dawson, Rebekah I.; **Foreman-Mackey,
@@ -380,7 +380,7 @@ Daniel**; *et al.*, 2021, *[Warm Jupiters in TESS Full-frame Images: A
 Catalog and Observed Eccentricity Distribution for Year
 1](http://dx.doi.org/10.3847/1538-4365/abf73c)*, The Astrophysical
 Journal Supplement Series, **255**, 6
-([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[28
+([arXiv:2104.01970](http://arxiv.org/abs/2104.01970)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -403,7 +403,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[180
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[181
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -433,7 +433,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[263
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[264
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -584,7 +584,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[269
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[270
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -643,7 +643,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[222
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[221
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -666,7 +666,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[718
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[717
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -695,7 +695,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2017RNAAS...1....7L)\]
 Price-Whelan, Adrian M.; & **Foreman-Mackey, Daniel**, 2017,
 *[schwimmbad: A uniform interface to parallel processing pools in
 Python](http://dx.doi.org/10.21105/joss.00357)*, The Journal of Open
-Source Software, **2**, 357 \[[30
+Source Software, **2**, 357 \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2017JOSS....2..357P)\]
 
 Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
@@ -717,7 +717,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2017ApJ...837...20P)\]
 Eric; & Schölkopf, Bernhard, 2016, *[The Population of Long-period
 Transiting Exoplanets](http://dx.doi.org/10.3847/0004-6256/152/6/206)*,
 The Astronomical Journal, **152**, 206
-([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[83
+([arXiv:1607.08237](http://arxiv.org/abs/1607.08237)) \[[82
 citations](https://ui.adsabs.harvard.edu/abs/2016AJ....152..206F)\]
 
 Hogg, David W.; Casey, Andrew R.; Ness, Melissa; Rix, Hans-Walter;
@@ -879,7 +879,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10503
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10506
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -908,7 +908,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240302489H)\]
 Cabezas, Alberto; Corenflos, Adrien; Lao, Junpeng; Louf, Rémi;
 *et al.* (incl. **DFM**), 2024, *[BlackJAX: Composable Bayesian
 inference in JAX](http://dx.doi.org/10.48550/arXiv.2402.10797)*, ArXiv
-([arXiv:2402.10797](http://arxiv.org/abs/2402.10797)) \[[17
+([arXiv:2402.10797](http://arxiv.org/abs/2402.10797)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240210797C)\]
 
 Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;
