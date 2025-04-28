@@ -2,6 +2,27 @@
   {
     "arxiv": null,
     "authors": [
+      "Garcia, Lionel J.",
+      "Foreman-Mackey, Daniel",
+      "Murray, Catriona A.",
+      "Aigrain, Suzanne",
+      "Feliz, Dax L.",
+      "Pozuelos, Francisco J."
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2025-04-00",
+    "title": "nuance: Transiting planet detector",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ascl.soft04001G",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Hattori, Soichiro",
       "Garcia, Lionel",
       "Murray, Catriona",
@@ -2122,7 +2143,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2852,
+    "citations": 2864,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4920,7 +4941,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 227,
+    "citations": 228,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -7192,7 +7213,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1805,
+    "citations": 1804,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8126,7 +8147,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10506,
+    "citations": 10508,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
