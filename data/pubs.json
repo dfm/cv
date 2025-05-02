@@ -335,7 +335,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -1012,7 +1012,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 85,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1448,7 +1448,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 184,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2143,7 +2143,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2887,
+    "citations": 2879,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2271,7 +2271,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -2968,7 +2968,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 53,
+    "citations": 52,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3473,7 +3473,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 182,
+    "citations": 181,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4010,7 +4010,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 265,
+    "citations": 264,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4941,7 +4941,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 228,
+    "citations": 229,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5190,7 +5190,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 219,
+    "citations": 218,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6159,7 +6159,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 109,
+    "citations": 114,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6299,7 +6299,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 273,
+    "citations": 279,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6316,7 +6316,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 221,
+    "citations": 222,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6336,7 +6336,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 185,
+    "citations": 186,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6403,7 +6403,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 719,
+    "citations": 718,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7213,7 +7213,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1807,
+    "citations": 1808,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7470,7 +7470,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -7529,7 +7529,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 146,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7649,7 +7649,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 506,
+    "citations": 507,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7798,6 +7798,25 @@
   {
     "arxiv": null,
     "authors": [
+      "Wang, Dun",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 1,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
@@ -7824,25 +7843,6 @@
     "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
     "volume": "176",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Wang, Dun",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
-    "volume": "225",
     "year": "2015"
   },
   {
@@ -8147,7 +8147,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10525,
+    "citations": 10528,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8171,7 +8171,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 148,
+    "citations": 150,
     "doctype": "software",
     "doi": null,
     "page": null,

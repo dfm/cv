@@ -10,9 +10,9 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3005,
+              "forkCount": 3006,
               "stargazers": {
-                "totalCount": 32088
+                "totalCount": 32094
               },
               "watchers": {
                 "totalCount": 327
@@ -40,7 +40,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 433,
+              "forkCount": 432,
               "stargazers": {
                 "totalCount": 1509
               },
