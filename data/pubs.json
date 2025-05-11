@@ -942,7 +942,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 28,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1470,7 +1470,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2165,7 +2165,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2896,
+    "citations": 2910,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2990,7 +2990,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3317,7 +3317,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -3495,7 +3495,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 181,
+    "citations": 182,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3594,7 +3594,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -4032,7 +4032,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 266,
+    "citations": 270,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4693,7 +4693,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 143,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -4963,7 +4963,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 230,
+    "citations": 231,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5010,7 +5010,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 109,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -5531,7 +5531,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 111,
+    "citations": 112,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5777,7 +5777,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 271,
+    "citations": 272,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -5803,7 +5803,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 204,
+    "citations": 205,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6358,7 +6358,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6374,7 +6374,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 183,
+    "citations": 184,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6425,7 +6425,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 722,
+    "citations": 723,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7235,7 +7235,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1812,
+    "citations": 1813,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7745,7 +7745,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 68,
+    "citations": 69,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -8169,7 +8169,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10553,
+    "citations": 10570,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
