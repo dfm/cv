@@ -1,5 +1,26 @@
 [
   {
+    "arxiv": "2505.10376",
+    "authors": [
+      "Hattori, Soichiro",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Yuxi",
+      "Lu",
+      "Colman, Isabel"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-05-00",
+    "title": "Measuring Long Stellar Rotation Periods (>10 days) from TESS FFI Light Curves is Possible: An Investigation Using TESS and ZTF",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250510376H",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Garcia, Lionel J.",
@@ -585,7 +606,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 20,
+    "citations": 22,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1470,7 +1491,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 186,
+    "citations": 187,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2165,7 +2186,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2936,
+    "citations": 2950,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2969,7 +2990,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 103,
+    "citations": 104,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3495,7 +3516,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 182,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4032,7 +4053,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 271,
+    "citations": 273,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -6338,7 +6359,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 222,
+    "citations": 223,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6811,7 +6832,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 304,
+    "citations": 306,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6931,7 +6952,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -7235,7 +7256,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1820,
+    "citations": 1821,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7306,7 +7327,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 269,
+    "citations": 270,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -8169,7 +8190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10618,
+    "citations": 10634,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
