@@ -2186,7 +2186,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 2950,
+    "citations": 2955,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4714,7 +4714,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 144,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -5798,7 +5798,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 272,
+    "citations": 273,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -7256,7 +7256,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1821,
+    "citations": 1826,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7344,7 +7344,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 24,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1606.03757",
     "page": null,
@@ -7891,22 +7891,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Licenses in the wild",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard",
@@ -7920,6 +7904,22 @@
     "pubdate": "2015-01-00",
     "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Licenses in the wild",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
     "year": "2015"
   },
@@ -8190,7 +8190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10634,
+    "citations": 10642,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
