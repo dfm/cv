@@ -2990,7 +2990,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 104,
+    "citations": 105,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -4053,7 +4053,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 273,
+    "citations": 274,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4797,7 +4797,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -7841,25 +7841,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Wang, Dun",
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
@@ -7886,6 +7867,25 @@
     "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
     "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
     "volume": "176",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Wang, Dun",
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 1,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Calibrating the pixel-level Kepler imaging data with a causal data-driven model",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22525808W",
+    "volume": "225",
     "year": "2015"
   },
   {
@@ -8190,7 +8190,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10665,
+    "citations": 10664,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
