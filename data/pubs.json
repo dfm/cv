@@ -74,7 +74,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -198,7 +198,7 @@
       "Shih, Yu-hsuan",
       "Barnett, Alex"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ad82cd",
     "page": 250,
@@ -492,7 +492,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 241,
+    "citations": 140,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -697,7 +697,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 13,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -903,7 +903,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 18,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -1055,7 +1055,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1187,7 +1187,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 26,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -1715,7 +1715,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 33,
+    "citations": 24,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2299,6 +2299,51 @@
     "pubdate": "2022-07-00",
     "title": "The 3D structure of Star Formation Regions in the era of Gaia DR3",
     "url": "https://ui.adsabs.harvard.edu/abs/2022eas..conf.1528D",
+    "volume": null,
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Koposov, Sergey",
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Buchner, Johannes",
+      "Scheffler, Carl",
+      "Cook, Ben",
+      "Talbot, Colm",
+      "Guillochon, James",
+      "Cubillos, Patricio",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Johnson, Ben",
+      "Lang, Dustin",
+      "Ilya",
+      "Dartiailh, Matthieu",
+      "Nitz, Alex",
+      "McCluskey, Andrew",
+      "Archibald, Anne",
+      "Deil, Christoph",
+      "Foreman-Mackey, Dan",
+      "Goldstein, Danny",
+      "Tollerud, Erik",
+      "Leja, Joel",
+      "Kirk, Matthew",
+      "Pitkin, Matt",
+      "Sheehan, Patrick",
+      "Cargile, Phillip",
+      "Ruskin23",
+      "Angus, Ruth",
+      "Daylan, Tansu"
+    ],
+    "citations": 17,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.6609296",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-06-03",
+    "title": "joshspeagle/dynesty: v1.2.3",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6609296K",
     "volume": null,
     "year": "2022"
   },
@@ -2903,7 +2948,7 @@
       "Betts, Edward",
       "Vasovi{\\'c}, Zlatan"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.5548381",
     "page": null,
@@ -3454,7 +3499,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 12,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7191939",
     "page": null,
@@ -3756,7 +3801,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 49,
+    "citations": 30,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -3894,7 +3939,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.4592454",
     "page": null,
@@ -3918,7 +3963,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 15,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -4136,7 +4181,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 95,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -5738,7 +5783,7 @@
       "Barentsen, Geert",
       "Barclay, Tom"
     ],
-    "citations": 26,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.2587222",
     "page": null,
@@ -6165,7 +6210,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 43,
+    "citations": 26,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -7240,7 +7285,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -7495,7 +7540,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 38,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7964,7 +8009,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 246,
+    "citations": 149,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8035,7 +8080,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8190,7 +8235,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10713,
+    "citations": 10712,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
