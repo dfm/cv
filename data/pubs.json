@@ -2230,7 +2230,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3007,
+    "citations": 3014,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3166,7 +3166,7 @@
       "Wright, Duncan J.",
       "Zhang, Hui"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2224",
     "page": 2220,
@@ -6431,7 +6431,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 279,
+    "citations": 280,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -7329,7 +7329,7 @@
       "Simon-Gabriel, Carl-Johann",
       "Peters, Jonas"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1073/pnas.1511656113",
     "page": 7391,
@@ -7345,7 +7345,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1832,
+    "citations": 1834,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7416,7 +7416,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 271,
+    "citations": 272,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -8279,7 +8279,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10711,
+    "citations": 10717,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8303,7 +8303,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 150,
+    "citations": 151,
     "doctype": "software",
     "doi": null,
     "page": null,
