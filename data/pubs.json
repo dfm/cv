@@ -399,7 +399,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -1055,7 +1055,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 86,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -3278,7 +3278,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -6254,7 +6254,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 47,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6535,7 +6535,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 729,
+    "citations": 730,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6666,7 +6666,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7275,7 +7275,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -7345,7 +7345,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1835,
+    "citations": 1836,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8279,7 +8279,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10726,
+    "citations": 10727,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
