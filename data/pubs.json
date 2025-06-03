@@ -10,7 +10,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -276,7 +276,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -492,7 +492,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 141,
+    "citations": 247,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -697,7 +697,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 10,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -903,7 +903,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 13,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -2453,27 +2453,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2206.11275",
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
-    ],
-    "citations": 5,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2206.11275",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2202.05102",
     "authors": [
       "Nagaraj, Gautam",
@@ -2531,6 +2510,27 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2206.11275",
+    "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew",
+      "David, Trevor",
+      "Price-Whelan, Adrian"
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2206.11275",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-06-00",
+    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
+    "volume": null,
     "year": "2022"
   },
   {
@@ -6683,7 +6683,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -7584,7 +7584,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 38,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -8053,7 +8053,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 150,
+    "citations": 253,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
