@@ -1,5 +1,38 @@
 [
   {
+    "arxiv": "2506.01771",
+    "authors": [
+      "Evans-Soma, Thomas M.",
+      "Sing, David K.",
+      "Barstow, Joanna K.",
+      "Piette, Anjali A. A.",
+      "Taylor, Jake",
+      "Lothringer, Joshua D.",
+      "Reggiani, Henrique",
+      "Goyal, Jayesh M.",
+      "Ahrer, Eva-Maria",
+      "Mayne, Nathan J.",
+      "Rustamkulov, Zafar",
+      "Kataria, Tiffany",
+      "Christie, Duncan A.",
+      "Gapp, Cyril",
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel",
+      "Hattori, Soichiro",
+      "Marley, Mark S."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2025-06-00",
+    "title": "SiO and a super-stellar C/O ratio in the atmosphere of the giant exoplanet WASP-121b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250601771E",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Hattori, Soichiro",
@@ -4142,7 +4175,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 276,
+    "citations": 277,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -6921,7 +6954,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 306,
+    "citations": 307,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,

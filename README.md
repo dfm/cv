@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 32431 stars / 3047 forks  
+[**jax**](https://github.com/jax-ml/jax) — 32442 stars / 3051 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 107 / first author: 9 / citations: 24,657 / h-index: 49
-(2025-06-03)
+refereed: 107 / first author: 9 / citations: 24,659 / h-index: 49
+(2025-06-04)
 
 ### Refereed publications
 
@@ -434,7 +434,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[276
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[277
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -703,7 +703,7 @@ Luger, Rodrigo; Sestovic, Marko; Kruse, Ethan; Grimm, Simon L.;
 *et al.* (incl. **DFM**), 2017, *[A seven-planet resonant chain in
 TRAPPIST-1](http://dx.doi.org/10.1038/s41550-017-0129)*, Nature
 Astronomy, **1**, 129
-([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[306
+([arXiv:1703.04166](http://arxiv.org/abs/1703.04166)) \[[307
 citations](https://ui.adsabs.harvard.edu/abs/2017NatAs...1E.129L)\]
 
 Price-Whelan, Adrian M.; Hogg, David W.; **Foreman-Mackey, Daniel**; &
@@ -898,6 +898,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
+
+Evans-Soma, Thomas M.; Sing, David K.; Barstow, Joanna K.; Piette,
+Anjali A. A.; *et al.* (incl. **DFM**), 2025, SiO and a super-stellar
+C/O ratio in the atmosphere of the giant exoplanet WASP-121b, ArXiv
+([arXiv:2506.01771](http://arxiv.org/abs/2506.01771))
 
 Hattori, Soichiro; Angus, Ruth; **Foreman-Mackey, Daniel**; Yuxi;
 *et al.*, 2025, *[Measuring Long Stellar Rotation Periods (&gt;10 days)
