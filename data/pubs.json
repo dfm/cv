@@ -1,5 +1,25 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Hattori, Soichiro",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Lu, Yuxi (Lucy)",
+      "Colman, Isabel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/add0ab",
+    "page": 15,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2025-07-00",
+    "title": "Measuring Long Stellar Rotation Periods ({\\&}gt;10 days) from TESS FFI Light Curves is Possible: An Investigation Using TESS and ZTF",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....170...15H",
+    "volume": "170",
+    "year": "2025"
+  },
+  {
     "arxiv": "2506.01771",
     "authors": [
       "Evans-Soma, Thomas M.",
@@ -29,6 +49,39 @@
     "pubdate": "2025-06-00",
     "title": "SiO and a super-stellar C/O ratio in the atmosphere of the giant exoplanet WASP-121b",
     "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250601771E",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Evans-Soma, Thomas M.",
+      "Sing, David K.",
+      "Barstow, Joanna K.",
+      "Piette, Anjali A. A.",
+      "Taylor, Jake",
+      "Lothringer, Joshua D.",
+      "Reggiani, Henrique",
+      "Goyal, Jayesh M.",
+      "Ahrer, Eva-Maria",
+      "Mayne, Nathan J.",
+      "Rustamkulov, Zafar",
+      "Kataria, Tiffany",
+      "Christie, Duncan A.",
+      "Gapp, Cyril",
+      "Dong, Jiayin",
+      "Foreman-Mackey, Daniel",
+      "Hattori, Soichiro",
+      "Marley, Mark S."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1038/s41550-025-02513-x",
+    "page": null,
+    "pub": "Nature Astronomy",
+    "pubdate": "2025-06-00",
+    "title": "SiO and a super-stellar C/O ratio in the atmosphere of the giant exoplanet WASP-121 b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025NatAs.tmp..123E",
     "volume": null,
     "year": "2025"
   },
@@ -1568,7 +1621,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 191,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1596,7 +1649,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 33,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2263,7 +2316,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3070,
+    "citations": 3089,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2910,7 +2963,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -3638,7 +3691,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 186,
+    "citations": 187,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4175,7 +4228,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 276,
+    "citations": 277,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5128,7 +5181,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -5153,7 +5206,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 110,
+    "citations": 111,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -5355,7 +5408,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5920,7 +5973,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 276,
+    "citations": 277,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6307,7 +6360,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 151,
+    "citations": 152,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -6517,7 +6570,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 187,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6568,7 +6621,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 733,
+    "citations": 734,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6619,7 +6672,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 78,
+    "citations": 79,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -6699,7 +6752,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7271,7 +7324,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 249,
+    "citations": 250,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7378,7 +7431,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1841,
+    "citations": 1845,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7449,7 +7502,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 272,
+    "citations": 274,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -8312,7 +8365,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10754,
+    "citations": 10773,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
