@@ -46,11 +46,11 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 32487 stars / 3055 forks  
+[**jax**](https://github.com/jax-ml/jax) — 32497 stars / 3057 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 309 stars / 28 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 310 stars / 28 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 109 / first author: 9 / citations: 24,783 / h-index: 49
-(2025-06-10)
+refereed: 109 / first author: 9 / citations: 24,785 / h-index: 49
+(2025-06-11)
 
 ### Refereed publications
 
@@ -378,7 +378,7 @@ David W., 2021, *[Mapping Stellar Surfaces. I. Degeneracies in the
 Rotational Light-curve
 Problem](http://dx.doi.org/10.3847/1538-3881/abfdb8)*, The Astronomical
 Journal, **162**, 123
-([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[48
+([arXiv:2102.00007](http://arxiv.org/abs/2102.00007)) \[[49
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L)\]
 
 Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
@@ -892,7 +892,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10771
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[10772
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -910,18 +910,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
-Evans-Soma, Thomas M.; Sing, David K.; Barstow, Joanna K.; Piette,
-Anjali A. A.; *et al.* (incl. **DFM**), 2025, *[SiO and a super-stellar
-C/O ratio in the atmosphere of the giant exoplanet
-WASP-121b](http://dx.doi.org/10.48550/arXiv.2506.01771)*, ArXiv
-([arXiv:2506.01771](http://arxiv.org/abs/2506.01771))
-
-Hattori, Soichiro; Angus, Ruth; **Foreman-Mackey, Daniel**; Yuxi;
-*et al.*, 2025, *[Measuring Long Stellar Rotation Periods (&gt;10 days)
-from TESS FFI Light Curves is Possible: An Investigation Using TESS and
-ZTF](http://dx.doi.org/10.48550/arXiv.2505.10376)*, ArXiv
-([arXiv:2505.10376](http://arxiv.org/abs/2505.10376))
 
 Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
 **Foreman-Mackey, Daniel**, 2024, *[Precise Time-Domain Asteroseismology

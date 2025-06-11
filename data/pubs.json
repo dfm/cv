@@ -20,39 +20,6 @@
     "year": "2025"
   },
   {
-    "arxiv": "2506.01771",
-    "authors": [
-      "Evans-Soma, Thomas M.",
-      "Sing, David K.",
-      "Barstow, Joanna K.",
-      "Piette, Anjali A. A.",
-      "Taylor, Jake",
-      "Lothringer, Joshua D.",
-      "Reggiani, Henrique",
-      "Goyal, Jayesh M.",
-      "Ahrer, Eva-Maria",
-      "Mayne, Nathan J.",
-      "Rustamkulov, Zafar",
-      "Kataria, Tiffany",
-      "Christie, Duncan A.",
-      "Gapp, Cyril",
-      "Dong, Jiayin",
-      "Foreman-Mackey, Daniel",
-      "Hattori, Soichiro",
-      "Marley, Mark S."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2506.01771",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-06-00",
-    "title": "SiO and a super-stellar C/O ratio in the atmosphere of the giant exoplanet WASP-121b",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250601771E",
-    "volume": null,
-    "year": "2025"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Evans-Soma, Thomas M.",
@@ -104,27 +71,6 @@
     "pubdate": "2025-05-08",
     "title": "exoplanet-dev/jaxoplanet: Astronomical time series analysis with JAX",
     "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..10736936H",
-    "volume": null,
-    "year": "2025"
-  },
-  {
-    "arxiv": "2505.10376",
-    "authors": [
-      "Hattori, Soichiro",
-      "Angus, Ruth",
-      "Foreman-Mackey, Daniel",
-      "Yuxi",
-      "Lu",
-      "Colman, Isabel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2505.10376",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-05-00",
-    "title": "Measuring Long Stellar Rotation Periods ({\\&}gt;10 days) from TESS FFI Light Curves is Possible: An Investigation Using TESS and ZTF",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250510376H",
     "volume": null,
     "year": "2025"
   },
@@ -3346,7 +3292,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -8210,7 +8156,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 78,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8365,7 +8311,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10771,
+    "citations": 10772,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
