@@ -638,7 +638,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -995,7 +995,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1087,7 +1087,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 87,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1128,7 +1128,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1137,29 +1137,6 @@
     "title": "Overfitting Affects the Reliability of Radial Velocity Mass Estimates of the V1298 Tau Planets",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AJ....166...62B",
     "volume": "166",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Dharmawardena, Thavisha",
-      "Bailer-Jones, Coryn A. L.",
-      "Fouesneau, Morgan",
-      "M{\\\"u}ller, Thomas",
-      "Foreman-Mackey, Dan",
-      "Coronica, Piero",
-      "Colnaghi, Timoteo",
-      "Henshaw, Jonathan"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": null,
-    "page": 1277,
-    "pub": "EAS2023, European Astronomical Society Annual Meeting",
-    "pubdate": "2023-07-00",
-    "title": "The interplay between the 3D structure of Galactic molecular clouds and star formation",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023eas..conf.1277D",
-    "volume": null,
     "year": "2023"
   },
   {
@@ -1182,6 +1159,29 @@
     "pubdate": "2023-07-00",
     "title": "A multi-scale multi-resolution view of the 3D structure of the Milky Way out to 2 kpc in the era of Gaia DR3",
     "url": "https://ui.adsabs.harvard.edu/abs/2023eas..conf.1276D",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Dharmawardena, Thavisha",
+      "Bailer-Jones, Coryn A. L.",
+      "Fouesneau, Morgan",
+      "M{\\\"u}ller, Thomas",
+      "Foreman-Mackey, Dan",
+      "Coronica, Piero",
+      "Colnaghi, Timoteo",
+      "Henshaw, Jonathan"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": null,
+    "page": 1277,
+    "pub": "EAS2023, European Astronomical Society Annual Meeting",
+    "pubdate": "2023-07-00",
+    "title": "The interplay between the 3D structure of Galactic molecular clouds and star formation",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023eas..conf.1277D",
     "volume": null,
     "year": "2023"
   },
@@ -2262,7 +2262,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3141,
+    "citations": 3154,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2435,7 +2435,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -3736,7 +3736,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -4174,7 +4174,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 276,
+    "citations": 278,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -6164,7 +6164,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -6500,7 +6500,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 194,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6516,7 +6516,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6567,7 +6567,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 735,
+    "citations": 738,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6953,7 +6953,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 307,
+    "citations": 308,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -6990,7 +6990,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 129,
+    "citations": 130,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7377,7 +7377,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1850,
+    "citations": 1853,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7813,7 +7813,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 519,
+    "citations": 520,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8311,7 +8311,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10816,
+    "citations": 10834,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
