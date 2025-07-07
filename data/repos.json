@@ -12,7 +12,7 @@
               "homepageUrl": "https://docs.jax.dev",
               "forkCount": 3083,
               "stargazers": {
-                "totalCount": 32699
+                "totalCount": 32705
               },
               "watchers": {
                 "totalCount": 328
@@ -25,7 +25,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 28,
+              "forkCount": 29,
               "stargazers": {
                 "totalCount": 311
               },
