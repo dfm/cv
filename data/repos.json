@@ -10,12 +10,12 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3085,
+              "forkCount": 3086,
               "stargazers": {
-                "totalCount": 32729
+                "totalCount": 32735
               },
               "watchers": {
-                "totalCount": 328
+                "totalCount": 327
               }
             }
           },
@@ -55,7 +55,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 233,
+              "forkCount": 234,
               "stargazers": {
                 "totalCount": 539
               },
@@ -72,7 +72,7 @@
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 55,
               "stargazers": {
-                "totalCount": 221
+                "totalCount": 222
               },
               "watchers": {
                 "totalCount": 19
