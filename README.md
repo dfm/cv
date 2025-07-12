@@ -46,25 +46,25 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 32742 stars / 3088 forks  
+[**jax**](https://github.com/jax-ml/jax) — 32760 stars / 3093 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 312 stars / 28 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 313 stars / 29 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1518 stars / 433 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1519 stars / 433 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 539 stars / 234
+[**corner.py**](https://github.com/dfm/corner.py) — 540 stars / 234
 forks  
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 222 stars
-/ 54 forks  
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 223 stars
+/ 55 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
@@ -77,7 +77,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 109 / first author: 9 / citations: 26,042 / h-index: 49
-(2025-07-11)
+(2025-07-12)
 
 ### Refereed publications
 

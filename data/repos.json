@@ -10,9 +10,9 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3088,
+              "forkCount": 3093,
               "stargazers": {
-                "totalCount": 32742
+                "totalCount": 32760
               },
               "watchers": {
                 "totalCount": 327
@@ -25,9 +25,9 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 28,
+              "forkCount": 29,
               "stargazers": {
-                "totalCount": 312
+                "totalCount": 313
               },
               "watchers": {
                 "totalCount": 8
@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 433,
               "stargazers": {
-                "totalCount": 1518
+                "totalCount": 1519
               },
               "watchers": {
                 "totalCount": 84
@@ -57,7 +57,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 234,
               "stargazers": {
-                "totalCount": 539
+                "totalCount": 540
               },
               "watchers": {
                 "totalCount": 18
@@ -70,9 +70,9 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 54,
+              "forkCount": 55,
               "stargazers": {
-                "totalCount": 222
+                "totalCount": 223
               },
               "watchers": {
                 "totalCount": 19
