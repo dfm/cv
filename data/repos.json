@@ -12,7 +12,7 @@
               "homepageUrl": "https://docs.jax.dev",
               "forkCount": 3097,
               "stargazers": {
-                "totalCount": 32797
+                "totalCount": 32813
               },
               "watchers": {
                 "totalCount": 327
@@ -55,7 +55,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 234,
+              "forkCount": 233,
               "stargazers": {
                 "totalCount": 541
               },
