@@ -29,7 +29,7 @@
     ],
     "citations": 0,
     "doctype": "eprint",
-    "doi": null,
+    "doi": "10.48550/arXiv.2507.10317",
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2025-07-00",
@@ -2281,7 +2281,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3231,
+    "citations": 3234,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5124,7 +5124,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 240,
+    "citations": 241,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5373,7 +5373,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 223,
+    "citations": 224,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -8330,7 +8330,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10912,
+    "citations": 10916,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
