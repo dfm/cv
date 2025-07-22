@@ -543,7 +543,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 253,
+    "citations": 145,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2281,7 +2281,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3281,
+    "citations": 3298,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2928,7 +2928,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -3656,7 +3656,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 193,
+    "citations": 194,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3682,7 +3682,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4193,7 +4193,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 287,
+    "citations": 290,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5373,7 +5373,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6535,7 +6535,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 199,
+    "citations": 200,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6586,7 +6586,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 753,
+    "citations": 756,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7396,7 +7396,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1870,
+    "citations": 1872,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8104,7 +8104,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 256,
+    "citations": 151,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8330,7 +8330,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10966,
+    "citations": 10971,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8354,7 +8354,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 156,
+    "citations": 158,
     "doctype": "software",
     "doi": null,
     "page": null,
