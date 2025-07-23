@@ -2281,7 +2281,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3298,
+    "citations": 3285,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2928,7 +2928,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 19,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -3656,7 +3656,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 194,
+    "citations": 193,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3682,7 +3682,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 49,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4193,7 +4193,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 290,
+    "citations": 288,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5373,7 +5373,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 226,
+    "citations": 225,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6535,7 +6535,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 200,
+    "citations": 199,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6586,7 +6586,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 756,
+    "citations": 753,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7396,7 +7396,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1872,
+    "citations": 1870,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8330,7 +8330,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10971,
+    "citations": 10966,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8354,7 +8354,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 158,
+    "citations": 156,
     "doctype": "software",
     "doi": null,
     "page": null,
