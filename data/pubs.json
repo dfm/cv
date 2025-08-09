@@ -1,5 +1,39 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Garrison, Lehman",
+      "Souchereau, Harrison",
+      "Wagg, Tom",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Starkman, Nathaniel",
+      "Chen, Yingtian",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Hart, Akeem",
+      "AlexKurek",
+      "Robert, Cl{\\'e}ment",
+      "Foreman-Mackey, Dan",
+      "HNLala",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Lilleengen, Sophia",
+      "Li, Zhaozhou"
+    ],
+    "citations": 3,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.593786",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2025-07-31",
+    "title": "adrn/gala: v1.10.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2505.10376",
     "authors": [
       "Hattori, Soichiro",
@@ -335,40 +369,6 @@
     "pubdate": "2024-08-27",
     "title": "adrn/gala: v1.9.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..13377376P",
-    "volume": null,
-    "year": "2024"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Price-Whelan, Adrian",
-      "Souchereau, Harrison",
-      "Wagg, Tom",
-      "Sip{\\'{o}}cz, Brigitta",
-      "Starkman, Nathaniel",
-      "Chen, Yingtian",
-      "Lilleengen, Sophia",
-      "NGC",
-      "Lenz, Daniel",
-      "Greco, Johnny",
-      "Hart, Akeem",
-      "AlexKurek",
-      "Robert, Cl{\\'e}ment",
-      "Foreman-Mackey, Dan",
-      "HNLala",
-      "Lim, P. L.",
-      "Oh, Semyeong",
-      "Koposov, Sergey",
-      "Li, Zhaozhou"
-    ],
-    "citations": 6,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.593786",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2024-08-27",
-    "title": "adrn/gala: v1.9.1",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo....593786P",
     "volume": null,
     "year": "2024"
   },
@@ -7396,7 +7396,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1870,
+    "citations": 1869,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7832,7 +7832,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 528,
+    "citations": 527,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8330,7 +8330,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 10979,
+    "citations": 10980,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
