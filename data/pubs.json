@@ -1106,7 +1106,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -2281,7 +2281,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3471,
+    "citations": 3473,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6499,7 +6499,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 242,
+    "citations": 243,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -7518,7 +7518,7 @@
       "Brewer, Brendon J.",
       "Hogg, David W."
     ],
-    "citations": 20,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
     "page": null,
@@ -8330,7 +8330,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11149,
+    "citations": 11151,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
