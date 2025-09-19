@@ -42,7 +42,7 @@
       "Lu, Yuxi (Lucy)",
       "Colman, Isabel"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/add0ab",
     "page": 15,
@@ -1014,7 +1014,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -2281,7 +2281,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3623,
+    "citations": 3634,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5392,7 +5392,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 66,
+    "citations": 67,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -5410,7 +5410,7 @@
       "Morton, Timothy",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.21105/joss.01469",
     "page": 1469,
@@ -6519,7 +6519,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 206,
+    "citations": 207,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6586,7 +6586,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 780,
+    "citations": 781,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7396,7 +7396,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1911,
+    "citations": 1912,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7712,7 +7712,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7872,7 +7872,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -8330,7 +8330,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11276,
+    "citations": 11282,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8354,7 +8354,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 160,
+    "citations": 161,
     "doctype": "software",
     "doi": null,
     "page": null,
