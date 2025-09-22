@@ -46,7 +46,7 @@ jobs:
           git -c user.name='gh-actions' -c user.email='gh-actions' commit -m "updating data"
           git push https://github.com/$GITHUB_REPOSITORY
       - name: Install tectonic
-        uses: wtfjoke/setup-tectonic@v3
+        uses: wtfjoke/setup-tectonic@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Compile
