@@ -12,7 +12,7 @@
               "homepageUrl": "https://docs.jax.dev",
               "forkCount": 3178,
               "stargazers": {
-                "totalCount": 33516
+                "totalCount": 33528
               },
               "watchers": {
                 "totalCount": 326
@@ -40,7 +40,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 438,
+              "forkCount": 439,
               "stargazers": {
                 "totalCount": 1537
               },
@@ -55,9 +55,9 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 235,
+              "forkCount": 234,
               "stargazers": {
-                "totalCount": 542
+                "totalCount": 543
               },
               "watchers": {
                 "totalCount": 18
