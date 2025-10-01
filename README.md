@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 33568 stars / 3188 forks  
+[**jax**](https://github.com/jax-ml/jax) — 33577 stars / 3188 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -63,7 +63,7 @@ forks
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 224 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 225 stars
 / 54 forks  
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 109 / first author: 9 / citations: 27,258 / h-index: 50
-(2025-09-30)
+refereed: 109 / first author: 9 / citations: 27,275 / h-index: 50
+(2025-10-01)
 
 ### Refereed publications
 
@@ -213,7 +213,7 @@ Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
 exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
-664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[220
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[221
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
@@ -238,7 +238,7 @@ Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
 with Implicit Likelihood Inference Using Galaxy Growth
 Observables](http://dx.doi.org/10.3847/1538-4357/aca8fe)*, The
 Astrophysical Journal, **944**, 67
-([arXiv:2211.16461](http://arxiv.org/abs/2211.16461)) \[[16
+([arXiv:2211.16461](http://arxiv.org/abs/2211.16461)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...944...67J)\]
 
 Brande, Jonathan; Crossfield, Ian J. M.; Kreidberg, Laura; Oklopčić,
@@ -277,7 +277,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[3707
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[3716
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -661,7 +661,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[247
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[248
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -798,7 +798,7 @@ Angus, Ruth; **Foreman-Mackey, Daniel**; & Johnson, John A., 2016,
 *[Systematics-insensitive Periodic Signal Search with
 K2](http://dx.doi.org/10.3847/0004-637X/818/2/109)*, The Astrophysical
 Journal, **818**, 109
-([arXiv:1505.07105](http://arxiv.org/abs/1505.07105)) \[[33
+([arXiv:1505.07105](http://arxiv.org/abs/1505.07105)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2016ApJ...818..109A)\]
 
 Ambikasaran, Sivaram; **Foreman-Mackey, Daniel**; Greengard, Leslie;
@@ -897,7 +897,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11343
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11347
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;

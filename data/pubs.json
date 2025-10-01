@@ -408,7 +408,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 13,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -543,7 +543,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 145,
+    "citations": 146,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1586,7 +1586,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 220,
+    "citations": 221,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1685,7 +1685,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -2281,7 +2281,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3707,
+    "citations": 3716,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4276,7 +4276,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6499,7 +6499,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 247,
+    "citations": 248,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -7653,7 +7653,7 @@
       "Foreman-Mackey, Daniel",
       "Johnson, John A."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.3847/0004-637X/818/2/109",
     "page": 109,
@@ -8169,7 +8169,7 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Barbary, Kyle",
       "Hogg, David W.",
@@ -8178,10 +8178,10 @@
     "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
-    "page": 11020,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2014-07-00",
-    "title": "triangle.py: triangle.py v0.1.1",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2014-07-24",
+    "title": "triangle.py v0.1.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
@@ -8330,7 +8330,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11343,
+    "citations": 11347,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
