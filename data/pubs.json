@@ -2,6 +2,26 @@
   {
     "arxiv": null,
     "authors": [
+      "Bartoli{\\'c}, Fran",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Howell, Robert R.",
+      "Rathbun, Julie A."
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2025-09-00",
+    "title": "volcano: Mapping exoplanet surfaces from one-dimensional time-series data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ascl.soft09021B",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Price-Whelan, Adrian",
       "Garrison, Lehman",
       "Souchereau, Harrison",
@@ -429,7 +449,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -2281,7 +2301,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3752,
+    "citations": 3758,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4350,7 +4370,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -5124,7 +5144,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 255,
+    "citations": 256,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5964,7 +5984,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 216,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6325,7 +6345,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 153,
+    "citations": 154,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -6586,7 +6606,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 788,
+    "citations": 791,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7289,7 +7309,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 254,
+    "citations": 255,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7396,7 +7416,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1925,
+    "citations": 1926,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7712,7 +7732,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7906,7 +7926,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -8330,7 +8350,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11404,
+    "citations": 11411,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
