@@ -136,7 +136,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -768,7 +768,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 21,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1402,7 +1402,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -2301,7 +2301,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3758,
+    "citations": 3760,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3324,6 +3324,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 37,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -3339,24 +3357,6 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 37,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -3752,7 +3752,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -6291,7 +6291,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 11,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -8124,7 +8124,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 153,
+    "citations": 155,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
