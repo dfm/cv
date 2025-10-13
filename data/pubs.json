@@ -2,6 +2,27 @@
   {
     "arxiv": null,
     "authors": [
+      "Chance, Quadry",
+      "Foreman-Mackey, Daniel",
+      "Ballard, Sarah",
+      "Casey, Andrew R.",
+      "David, Trevor J.",
+      "Price-Whelan, Adrian M."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/adfb68",
+    "page": 131,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2025-10-00",
+    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...992..131C",
+    "volume": "992",
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Bartoli{\\'c}, Fran",
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel",

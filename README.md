@@ -46,11 +46,11 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 33675 stars / 3199 forks  
+[**jax**](https://github.com/jax-ml/jax) — 33680 stars / 3198 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 318 stars / 31 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 319 stars / 31 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
@@ -76,13 +76,19 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 109 / first author: 9 / citations: 27,632 / h-index: 50
-(2025-10-12)
+refereed: 110 / first author: 9 / citations: 27,632 / h-index: 50
+(2025-10-13)
 
 ### Refereed publications
 
 <div class="list">
 
+
+Chance, Quadry; **Foreman-Mackey, Daniel**; Ballard, Sarah; Casey,
+Andrew R.; *et al.*, 2025, *[paired: A Statistical Framework for
+Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved
+Binaries](http://dx.doi.org/10.3847/1538-4357/adfb68)*, The
+Astrophysical Journal, **992**, 131
 
 Hattori, Soichiro; Angus, Ruth; **Foreman-Mackey, Daniel**; Lu, Yuxi
 (Lucy); & Colman, Isabel, 2025, *[Measuring Long Stellar Rotation
