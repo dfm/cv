@@ -9,7 +9,7 @@
       "David, Trevor J.",
       "Price-Whelan, Adrian M."
     ],
-    "citations": 0,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-4357/adfb68",
     "page": 131,
@@ -110,6 +110,51 @@
     "pubdate": "2025-07-00",
     "title": "Gaussian Process Methods for Very Large Astrometric Data Sets",
     "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250710317H",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "AlDanial",
+      "Snel, Sietse",
+      "Boos, Stefan",
+      "jolkdarr",
+      "Beckmann, Christoph",
+      "MichaelDimmitt",
+      "Zafir{\\'o}pulos, Yanis",
+      "Wilk, Jakub",
+      "Chaves, Gustavo",
+      "Rudis, boB",
+      "asrmchq",
+      "Gough, Alex",
+      "EDM115",
+      "Chen, Eric",
+      "Tang, Jimmy",
+      "Dursi, Jonathan",
+      "Romano, Jonathan",
+      "RyanMcC",
+      "Gamblin, Todd",
+      "Sz{\\'e}pe, Viktor",
+      "long, fei",
+      "achary",
+      "Ali, Asad",
+      "Brando!",
+      "Dahlheimer, Chris",
+      "Foreman-Mackey, Dan",
+      "david",
+      "Ulrich, David",
+      "erkmos",
+      "Brinkhoff, Lars"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.15734241",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2025-06-25",
+    "title": "AlDanial/cloc: 2.06",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025zndo..15734241A",
     "volume": null,
     "year": "2025"
   },
@@ -346,7 +391,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -402,7 +447,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -425,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -449,7 +494,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 20,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -584,7 +629,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -603,7 +648,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -789,7 +834,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 13,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1075,7 +1120,7 @@
       "Malz, Alex I.",
       "Aleo, Patrick D."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ace326",
     "page": 6,
@@ -1147,7 +1192,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1627,7 +1672,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 224,
+    "citations": 225,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1655,7 +1700,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -1678,7 +1723,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -2322,7 +2367,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3780,
+    "citations": 3808,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2602,27 +2647,6 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2206.11275",
-    "authors": [
-      "Chance, Quadry",
-      "Foreman-Mackey, Daniel",
-      "Ballard, Sarah",
-      "Casey, Andrew",
-      "David, Trevor",
-      "Price-Whelan, Adrian"
-    ],
-    "citations": 7,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2206.11275",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2022-06-00",
-    "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220611275C",
-    "volume": null,
     "year": "2022"
   },
   {
@@ -3126,7 +3150,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3652,7 +3676,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 203,
+    "citations": 204,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -3892,7 +3916,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -5120,7 +5144,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 257,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5688,7 +5712,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -5934,7 +5958,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 291,
+    "citations": 292,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6301,7 +6325,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6582,7 +6606,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 793,
+    "citations": 795,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7392,7 +7416,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1936,
+    "citations": 1942,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7619,12 +7643,12 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A.",
+      "Caswell, Thomas A",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
@@ -7634,9 +7658,9 @@
     "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
-    "page": 45906,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2016-02-00",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-02-11",
     "title": "corner.py: corner.py v1.0.2",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
@@ -7708,7 +7732,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 156,
+    "citations": 157,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7828,7 +7852,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 538,
+    "citations": 539,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8082,7 +8106,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 247,
+    "citations": 248,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -8326,7 +8350,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11445,
+    "citations": 11475,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
