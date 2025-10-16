@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
       "Foreman-Mackey, Daniel",
@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -2367,7 +2367,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3808,
+    "citations": 3818,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2899,7 +2899,7 @@
       "Fouesneau, M.",
       "Foreman-Mackey, D."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202141298",
     "page": null,
@@ -4213,7 +4213,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 296,
+    "citations": 297,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -6519,7 +6519,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 251,
+    "citations": 252,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6606,7 +6606,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 795,
+    "citations": 796,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6737,7 +6737,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7416,7 +7416,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1942,
+    "citations": 1944,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7852,7 +7852,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 539,
+    "citations": 540,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8051,22 +8051,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #225",
-    "pubdate": "2015-01-00",
-    "title": "Licenses in the wild",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
-    "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard",
@@ -8080,6 +8064,22 @@
     "pubdate": "2015-01-00",
     "title": "Increasing the sensitivity of Kepler to Earth-like exoplanets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22510501F",
+    "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #225",
+    "pubdate": "2015-01-00",
+    "title": "Licenses in the wild",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
     "year": "2015"
   },
@@ -8350,7 +8350,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11475,
+    "citations": 11494,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
