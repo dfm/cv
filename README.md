@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 33727 stars / 3204 forks  
+[**jax**](https://github.com/jax-ml/jax) — 33738 stars / 3205 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -68,7 +68,7 @@ Make some beautiful corner plots
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 683 stars / 119 forks  
+[**daft**](https://github.com/daft-dev/daft) — 682 stars / 119 forks  
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 110 / first author: 9 / citations: 27,803 / h-index: 50
-(2025-10-18)
+refereed: 110 / first author: 9 / citations: 27,810 / h-index: 50
+(2025-10-19)
 
 ### Refereed publications
 
@@ -285,7 +285,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[3842
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[3847
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -603,7 +603,7 @@ Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
 *et al.* (incl. **DFM**), 2019, *[The Next Decade of Astroinformatics
 and Astrostatistics](http://dx.doi.org/10.48550/arXiv.1903.06796)*,
 Bulletin of the American Astronomical Society, **51**, 355
-([arXiv:1903.06796](http://arxiv.org/abs/1903.06796)) \[[9
+([arXiv:1903.06796](http://arxiv.org/abs/1903.06796)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.355S)\]
 
 Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
