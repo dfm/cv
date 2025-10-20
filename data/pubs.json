@@ -202,7 +202,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 10,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 16,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -2367,7 +2367,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3847,
+    "citations": 3853,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3775,7 +3775,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 48,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -4296,7 +4296,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 61,
+    "citations": 109,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6606,7 +6606,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 800,
+    "citations": 802,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7084,7 +7084,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 83,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7416,7 +7416,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1948,
+    "citations": 1951,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7852,7 +7852,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 543,
+    "citations": 545,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8211,7 +8211,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 16,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -8350,7 +8350,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11513,
+    "citations": 11524,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
