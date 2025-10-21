@@ -46,15 +46,15 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 33744 stars / 3205 forks  
+[**jax**](https://github.com/jax-ml/jax) — 33754 stars / 3205 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 321 stars / 32 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 322 stars / 32 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1539 stars / 439 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1540 stars / 439 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 110 / first author: 9 / citations: 27,834 / h-index: 50
-(2025-10-20)
+refereed: 110 / first author: 9 / citations: 27,854 / h-index: 50
+(2025-10-21)
 
 ### Refereed publications
 
@@ -882,7 +882,7 @@ Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
 Mutual Inclination: The Three-dimensional Architecture of a Hierarchical
 System of Giant Planets](http://dx.doi.org/10.1088/0004-637X/791/2/89)*,
 The Astrophysical Journal, **791**, 89
-([arXiv:1405.5229](http://arxiv.org/abs/1405.5229)) \[[77
+([arXiv:1405.5229](http://arxiv.org/abs/1405.5229)) \[[78
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...791...89D)\]
 
 Dorman, Claire E.; Widrow, Lawrence M.; Guhathakurta, Puragra; Seth,
@@ -905,7 +905,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11524
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11543
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
