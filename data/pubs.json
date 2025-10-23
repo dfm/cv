@@ -83,7 +83,7 @@
       "Lu, Yuxi (Lucy)",
       "Colman, Isabel"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-3881/add0ab",
     "page": 15,
@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 19,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -1120,7 +1120,7 @@
       "Malz, Alex I.",
       "Aleo, Patrick D."
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ace326",
     "page": 6,
@@ -1639,7 +1639,7 @@
       "Harrington, Joseph",
       "Heng, Kevin",
       "Iro, Nicolas",
-      "Kempton, Eliza M. -R.",
+      "Kempton, Eliza M.-R.",
       "Kirk, James",
       "Knutson, Heather A.",
       "Krick, Jessica",
@@ -2367,7 +2367,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3878,
+    "citations": 3856,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2854,24 +2854,6 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2022-03-00",
-    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ascl.soft03006L",
-    "volume": null,
-    "year": "2022"
-  },
-  {
     "arxiv": "2103.03758",
     "authors": [
       "Bartoli{\\'c}, Fran",
@@ -2889,6 +2871,24 @@
     "title": "Occultation Mapping of Io's Surface in the Near-infrared. I. Inferring Static Maps",
     "url": "https://ui.adsabs.harvard.edu/abs/2022PSJ.....3...67B",
     "volume": "3",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2022-03-00",
+    "title": "starry{\\_}process: Interpretable Gaussian processes for stellar light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ascl.soft03006L",
+    "volume": null,
     "year": "2022"
   },
   {
@@ -3150,7 +3150,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 120,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3290,10 +3290,10 @@
       "Nielsen, L. D.",
       "Pozuelos, F. J.",
       "Radford, D. J.",
-      "Schmider, F. -X.",
+      "Schmider, F.-X.",
       "Schwarz, R. P.",
       "Stockdale, C.",
-      "Tan, T. -G.",
+      "Tan, T.-G.",
       "Timmermans, M.",
       "Triaud, A. H. M. J.",
       "Wang, G.",
@@ -3498,7 +3498,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 36,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -3775,7 +3775,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 50,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -4096,7 +4096,7 @@
       "Gilbertson, Christian",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/staa3887",
     "page": 4798,
@@ -5144,7 +5144,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 261,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5393,7 +5393,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 238,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5796,7 +5796,7 @@
       "Yanamandra-Fisher, Padma A.",
       "Young, C. Alex"
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.48550/arXiv.1903.06796",
     "page": 355,
@@ -5984,7 +5984,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 220,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6519,7 +6519,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 256,
+    "citations": 254,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6539,7 +6539,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 210,
+    "citations": 209,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6606,7 +6606,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 805,
+    "citations": 803,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6867,7 +6867,7 @@
       "Evans, D. F.",
       "Hessman, F. V.",
       "Hinse, T. C.",
-      "H! Usser T. -, O.",
+      "H! Usser T.-, O.",
       "Mancini, L.",
       "Popovas, A.",
       "Rabus, M.",
@@ -6891,7 +6891,7 @@
       "K2C9 Engineering Team",
       "Akeson, R.",
       "Batista, V.",
-      "Beaulieu, J. -P.",
+      "Beaulieu, J.-P.",
       "Beichman, C. A.",
       "Bryden, G.",
       "Ciardi, D.",
@@ -6905,10 +6905,10 @@
       "Kerins, E.",
       "Korhonen, H.",
       "Lang, D.",
-      "Lee, C. -H.",
+      "Lee, C.-H.",
       "Lineweaver, C. H.",
       "Maoz, D.",
-      "Marquette, J. -B.",
+      "Marquette, J.-B.",
       "Mogavero, F.",
       "Morales, J. C.",
       "Nataf, D.",
@@ -7200,7 +7200,7 @@
       "Evans, D. F.",
       "Hessman, F. V.",
       "Hinse, T. C.",
-      "Husser, T. -O.",
+      "Husser, T.-O.",
       "Mancini, L.",
       "Popovas, A.",
       "Rabus, M.",
@@ -7224,7 +7224,7 @@
       "K2C9 Engineering Team",
       "Akeson, R.",
       "Batista, V.",
-      "Beaulieu, J. -P.",
+      "Beaulieu, J.-P.",
       "Beichman, C. A.",
       "Bryden, G.",
       "Ciardi, D.",
@@ -7238,10 +7238,10 @@
       "Kerins, E.",
       "Korhonen, H.",
       "Lang, D.",
-      "Lee, C. -H.",
+      "Lee, C.-H.",
       "Lineweaver, C. H.",
       "Maoz, D.",
-      "Marquette, J. -B.",
+      "Marquette, J.-B.",
       "Mogavero, F.",
       "Morales, J. C.",
       "Nataf, D.",
@@ -7416,7 +7416,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1954,
+    "citations": 1952,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7487,7 +7487,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 290,
+    "citations": 287,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7852,7 +7852,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 547,
+    "citations": 545,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7880,6 +7880,27 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 120,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
     "year": "2015"
   },
   {
@@ -7913,27 +7934,6 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 120,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -8004,7 +8004,7 @@
       "Weisz, D. R.",
       "Fouesneau, M.",
       "Hogg, D. W.",
-      "Rix, H. -W.",
+      "Rix, H.-W.",
       "Dolphin, A. E.",
       "Dalcanton, J. J.",
       "Foreman-Mackey, D. T.",
@@ -8172,7 +8172,7 @@
       "Shporer, Avi",
       "Valenti, Jeff A."
     ],
-    "citations": 78,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1088/0004-637X/791/2/89",
     "page": 89,
@@ -8350,7 +8350,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11543,
+    "citations": 11530,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8374,7 +8374,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 165,
+    "citations": 164,
     "doctype": "software",
     "doi": null,
     "page": null,
