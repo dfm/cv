@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -494,7 +494,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -629,7 +629,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 256,
+    "citations": 147,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -2045,7 +2045,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 10,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7215695",
     "page": null,
@@ -2367,7 +2367,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3905,
+    "citations": 3911,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2517,7 +2517,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.6609296",
     "page": null,
@@ -2775,7 +2775,7 @@
       "Angus, Ruth",
       "Daylan, Tansu"
     ],
-    "citations": 7,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.6456387",
     "page": null,
@@ -5302,7 +5302,7 @@
       "Talbot, Colm",
       "Deil, Christoph"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.3461261",
     "page": null,
@@ -7416,7 +7416,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1961,
+    "citations": 1960,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8195,7 +8195,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8350,7 +8350,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11581,
+    "citations": 11568,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
