@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 33859 stars / 3226 forks  
+[**jax**](https://github.com/jax-ml/jax) — 33864 stars / 3226 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 110 / first author: 9 / citations: 28,057 / h-index: 51
-(2025-11-02)
+refereed: 110 / first author: 9 / citations: 28,087 / h-index: 51
+(2025-11-03)
 
 ### Refereed publications
 
@@ -285,7 +285,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[3941
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[3960
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -662,7 +662,7 @@ Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
 Embedded Jupiter-mass Planets in HD
 163296](http://dx.doi.org/10.3847/2041-8213/aac6d7)*, The Astrophysical
 Journal, **860** ([arXiv:1805.10290](http://arxiv.org/abs/1805.10290))
-\[[287
+\[[288
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T)\]
 
 Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
@@ -905,7 +905,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11597
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11607
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -976,17 +976,17 @@ Scenarios](http://dx.doi.org/10.48550/arXiv.1608.06919)*, ArXiv
 ([arXiv:1608.06919](http://arxiv.org/abs/1608.06919)) \[[69
 citations](https://ui.adsabs.harvard.edu/abs/2016arXiv160806919B)\]
 
-Montet, Benjamin T.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
-*et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
-telemetered pixel: Searching the habitable zones of the brightest
-stars](http://dx.doi.org/10.48550/arXiv.1309.0654)*, ArXiv
-([arXiv:1309.0654](http://arxiv.org/abs/1309.0654))
-
 Hogg, David W.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
 *et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
 telemetered pixel: Detailed models of the focal plane in the two-wheel
 era](http://dx.doi.org/10.48550/arXiv.1309.0653)*, ArXiv
 ([arXiv:1309.0653](http://arxiv.org/abs/1309.0653))
+
+Montet, Benjamin T.; Angus, Ruth; Barclay, Tom; Dawson, Rebekah;
+*et al.* (incl. **DFM**), 2013, *[Maximizing Kepler science return per
+telemetered pixel: Searching the habitable zones of the brightest
+stars](http://dx.doi.org/10.48550/arXiv.1309.0654)*, ArXiv
+([arXiv:1309.0654](http://arxiv.org/abs/1309.0654))
 
 </div>
 

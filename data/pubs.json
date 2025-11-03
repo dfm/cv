@@ -494,7 +494,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 15,
+    "citations": 22,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -629,7 +629,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 147,
+    "citations": 256,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1040,7 +1040,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 14,
+    "citations": 24,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -2367,7 +2367,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3941,
+    "citations": 3960,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5302,7 +5302,7 @@
       "Talbot, Colm",
       "Deil, Christoph"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.3461261",
     "page": null,
@@ -6502,7 +6502,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 287,
+    "citations": 288,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -7416,7 +7416,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1967,
+    "citations": 1970,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7655,7 +7655,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 54,
+    "citations": 38,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -8124,7 +8124,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 155,
+    "citations": 261,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8195,7 +8195,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 51,
+    "citations": 44,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8271,33 +8271,6 @@
     "year": "2013"
   },
   {
-    "arxiv": "1309.0654",
-    "authors": [
-      "Montet, Benjamin T.",
-      "Angus, Ruth",
-      "Barclay, Tom",
-      "Dawson, Rebekah",
-      "Fergus, Rob",
-      "Foreman-Mackey, Dan",
-      "Harmeling, Stefan",
-      "Hirsch, Michael",
-      "Hogg, David W.",
-      "Lang, Dustin",
-      "Schiminovich, David",
-      "Scholkopf, Bernhard"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.1309.0654",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2013-09-00",
-    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
-    "volume": null,
-    "year": "2013"
-  },
-  {
     "arxiv": "1309.0653",
     "authors": [
       "Hogg, David W.",
@@ -8321,6 +8294,33 @@
     "pubdate": "2013-09-00",
     "title": "Maximizing Kepler science return per telemetered pixel: Detailed models of the focal plane in the two-wheel era",
     "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0653H",
+    "volume": null,
+    "year": "2013"
+  },
+  {
+    "arxiv": "1309.0654",
+    "authors": [
+      "Montet, Benjamin T.",
+      "Angus, Ruth",
+      "Barclay, Tom",
+      "Dawson, Rebekah",
+      "Fergus, Rob",
+      "Foreman-Mackey, Dan",
+      "Harmeling, Stefan",
+      "Hirsch, Michael",
+      "Hogg, David W.",
+      "Lang, Dustin",
+      "Schiminovich, David",
+      "Scholkopf, Bernhard"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.1309.0654",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2013-09-00",
+    "title": "Maximizing Kepler science return per telemetered pixel: Searching the habitable zones of the brightest stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2013arXiv1309.0654M",
     "volume": null,
     "year": "2013"
   },
@@ -8350,7 +8350,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11597,
+    "citations": 11607,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
