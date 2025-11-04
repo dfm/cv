@@ -180,7 +180,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -447,7 +447,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -494,7 +494,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 22,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -629,7 +629,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 256,
+    "citations": 147,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -743,7 +743,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1040,7 +1040,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 24,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -1067,6 +1067,29 @@
     "pubdate": "2023-10-00",
     "title": "celerite2: Fast and scalable Gaussian Processes in one dimension",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ascl.soft10001F",
+    "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Yadav, Sachin",
+      "Reynolds Becker, McCoy",
+      "Killestein, Thomas",
+      "Rashid, Theo",
+      "Schmerler, Steve",
+      "Tronsgaard, Ren{\\'e}",
+      "Caplar, Neven"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.8395418",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2023-09-30",
+    "title": "dfm/tinygp: The tiniest of Gaussian Process libraries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...8395418F",
     "volume": null,
     "year": "2023"
   },
@@ -1233,7 +1256,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1388,7 +1411,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.7832419",
     "page": null,
@@ -1468,7 +1491,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1746,7 +1769,7 @@
       "Springford, Aaron",
       "Tak, Hyungsuk"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2302.04703",
     "page": null,
@@ -2000,7 +2023,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 10,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -2367,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 3960,
+    "citations": 3969,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2814,7 +2837,7 @@
       "Tronsgaard, Ren{\\'e}",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389738",
     "page": null,
@@ -3676,7 +3699,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 204,
+    "citations": 205,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4213,7 +4236,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 301,
+    "citations": 303,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5393,7 +5416,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 239,
+    "citations": 240,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6519,7 +6542,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 256,
+    "citations": 258,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6539,7 +6562,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 210,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6606,7 +6629,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 809,
+    "citations": 810,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7416,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1970,
+    "citations": 1972,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7487,7 +7510,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 290,
+    "citations": 291,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7852,7 +7875,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 546,
+    "citations": 547,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8124,7 +8147,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 261,
+    "citations": 155,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8195,7 +8218,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8350,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11607,
+    "citations": 11611,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
