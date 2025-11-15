@@ -884,7 +884,7 @@
       "Spergel, David N.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad05cc",
     "page": 258,
@@ -1695,7 +1695,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 231,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4015,
+    "citations": 4023,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5167,7 +5167,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 261,
+    "citations": 262,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5981,7 +5981,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 294,
+    "citations": 295,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6007,7 +6007,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -7439,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1976,
+    "citations": 1977,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8129,7 +8129,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 250,
+    "citations": 252,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11662,
+    "citations": 11670,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
