@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -629,7 +629,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 147,
+    "citations": 148,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1256,7 +1256,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1919,7 +1919,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2001,7 +2001,7 @@
       "Foreman-Mackey, Dan",
       "Hayward, Christopher C."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac9477",
     "page": 29,
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4045,
+    "citations": 4057,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2621,7 +2621,7 @@
       "Foreman-Mackey, Daniel",
       "Hayward, Christopher C."
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac6c80",
     "page": 54,
@@ -3775,7 +3775,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 48,
+    "citations": 27,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -4980,7 +4980,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -5189,7 +5189,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -5981,7 +5981,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 296,
+    "citations": 297,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6348,7 +6348,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 49,
+    "citations": 28,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6562,7 +6562,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 210,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6629,7 +6629,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 815,
+    "citations": 817,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6680,7 +6680,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 80,
+    "citations": 81,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -6760,7 +6760,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7439,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1979,
+    "citations": 1981,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7828,24 +7828,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Johnson, John",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258432,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Barclay, Thomas",
       "Quintana, Elisa",
       "Adams, Fred",
@@ -7863,6 +7845,24 @@
     "pubdate": "2015-08-00",
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: An Application of Importance Sampling",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256208B",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Johnson, John",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258432,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
     "volume": "29",
     "year": "2015"
   },
@@ -7994,7 +7994,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11695,
+    "citations": 11704,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8397,7 +8397,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 167,
+    "citations": 168,
     "doctype": "software",
     "doi": null,
     "page": null,
