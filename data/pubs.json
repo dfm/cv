@@ -482,30 +482,6 @@
     "year": "2024"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Johnson, Ben",
-      "Foreman-Mackey, Dan",
-      "Sick, Jonathan",
-      "Leja, Joel",
-      "Walmsley, Mike",
-      "Tollerud, Erik",
-      "Leung, Henry",
-      "Scott, Spencer",
-      "Park, Minjung"
-    ],
-    "citations": 15,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.12447779",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2024-06-23",
-    "title": "dfm/python-fsps: v0.4.7",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024zndo..12447779J",
-    "volume": null,
-    "year": "2024"
-  },
-  {
     "arxiv": "2402.06835",
     "authors": [
       "Garcia, Lionel J.",
@@ -7678,7 +7654,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 55,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -8373,7 +8349,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11757,
+    "citations": 11755,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
