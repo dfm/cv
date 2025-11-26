@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 34080 stars / 3263 forks  
+[**jax**](https://github.com/jax-ml/jax) — 34096 stars / 3264 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 110 / first author: 9 / citations: 28,534 / h-index: 51
-(2025-11-25)
+refereed: 110 / first author: 9 / citations: 28,535 / h-index: 51
+(2025-11-26)
 
 ### Refereed publications
 
@@ -136,7 +136,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 dust density and extinction Maps of the Milky Way out to 2.8
 kpc](http://dx.doi.org/10.1093/mnras/stae1474)*, Monthly Notices of the
 Royal Astronomical Society, **532**, 3480
-([arXiv:2406.06740](http://arxiv.org/abs/2406.06740)) \[[20
+([arXiv:2406.06740](http://arxiv.org/abs/2406.06740)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.3480D)\]
 
 Garcia, Lionel J.; **Foreman-Mackey, Daniel**; Murray, Catriona A.;

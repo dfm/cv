@@ -447,7 +447,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -1431,7 +1431,7 @@
       "Castillo Hair, Sebastian M.",
       "Hoyer, Stephan"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7808805",
     "page": null,
@@ -1925,7 +1925,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -7654,7 +7654,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 55,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
