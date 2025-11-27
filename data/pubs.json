@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -491,7 +491,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -624,7 +624,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -860,7 +860,7 @@
       "Spergel, David N.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad05cc",
     "page": 258,
@@ -1191,7 +1191,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 111,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1671,7 +1671,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 240,
+    "citations": 244,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2366,7 +2366,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4117,
+    "citations": 4112,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3149,7 +3149,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3675,7 +3675,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 209,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4212,7 +4212,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 310,
+    "citations": 312,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5143,7 +5143,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 264,
+    "citations": 265,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5957,7 +5957,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 298,
+    "citations": 299,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6344,7 +6344,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 157,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -6361,7 +6361,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 128,
+    "citations": 129,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6501,7 +6501,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 291,
+    "citations": 292,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6518,7 +6518,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 261,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6991,7 +6991,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 318,
+    "citations": 320,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7028,7 +7028,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 138,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7308,7 +7308,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 258,
+    "citations": 257,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7415,7 +7415,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1989,
+    "citations": 1987,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7486,7 +7486,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 294,
+    "citations": 293,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7731,7 +7731,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 162,
+    "citations": 161,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7891,7 +7891,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 121,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -8105,7 +8105,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 253,
+    "citations": 254,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -8349,7 +8349,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11755,
+    "citations": 11757,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8373,7 +8373,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 169,
+    "citations": 171,
     "doctype": "software",
     "doi": null,
     "page": null,
