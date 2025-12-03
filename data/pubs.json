@@ -180,7 +180,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -202,7 +202,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -834,7 +834,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 16,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1919,7 +1919,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -6226,7 +6226,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 50,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -7679,6 +7679,38 @@
       "Brewer, Brendon J."
     ],
     "citations": 55,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.45906",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-02-11",
+    "title": "corner.py: corner.py v1.0.2",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Vousden, Will",
+      "Price-Whelan, Adrian",
+      "Pitkin, Matt",
+      "Zabalza, Victor",
+      "Ryan, Geoffrey",
+      "Emily",
+      "Smith, Michael",
+      "Ashton, Gregory",
+      "Cruz, Kelle",
+      "Kerzendorf, Wolfgang",
+      "Caswell, Thomas A",
+      "Hoyer, Stephan",
+      "Barbary, Kyle",
+      "Czekala, Ian",
+      "Hogg, David W.",
+      "Brewer, Brendon J."
+    ],
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
