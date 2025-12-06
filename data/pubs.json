@@ -180,7 +180,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -743,7 +743,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1695,7 +1695,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 246,
+    "citations": 247,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4156,
+    "citations": 4169,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2613,6 +2613,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 35,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -2650,26 +2670,6 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 35,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -4236,7 +4236,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 311,
+    "citations": 312,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -6562,7 +6562,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 210,
+    "citations": 211,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -7052,7 +7052,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 138,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -8024,37 +8024,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Weisz, D. R.",
-      "Fouesneau, M.",
-      "Hogg, D. W.",
-      "Rix, H.-W.",
-      "Dolphin, A. E.",
-      "Dalcanton, J. J.",
-      "Foreman-Mackey, D. T.",
-      "Lang, D.",
-      "Johnson, L. C.",
-      "Beerman, L. C.",
-      "Bell, E. F.",
-      "Gordon, K. D.",
-      "Gouliermis, D.",
-      "Kalirai, J. S.",
-      "Skillman, E. D.",
-      "Williams, B. F."
-    ],
-    "citations": 0,
-    "doctype": "dataset",
-    "doi": "10.26093/cds/vizier.17620123",
-    "page": null,
-    "pub": "VizieR Online Data Catalog",
-    "pubdate": "2015-01-00",
-    "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
-    "volume": "176",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Wang, Dun",
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
@@ -8104,6 +8073,37 @@
     "title": "Licenses in the wild",
     "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Weisz, D. R.",
+      "Fouesneau, M.",
+      "Hogg, D. W.",
+      "Rix, H.-W.",
+      "Dolphin, A. E.",
+      "Dalcanton, J. J.",
+      "Foreman-Mackey, D. T.",
+      "Lang, D.",
+      "Johnson, L. C.",
+      "Beerman, L. C.",
+      "Bell, E. F.",
+      "Gordon, K. D.",
+      "Gouliermis, D.",
+      "Kalirai, J. S.",
+      "Skillman, E. D.",
+      "Williams, B. F."
+    ],
+    "citations": 0,
+    "doctype": "dataset",
+    "doi": "10.26093/cds/vizier.17620123",
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2015-01-00",
+    "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
+    "volume": "176",
     "year": "2015"
   },
   {
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11809,
+    "citations": 11817,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8397,7 +8397,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "software",
     "doi": null,
     "page": null,
