@@ -6629,7 +6629,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 823,
+    "citations": 826,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7439,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1994,
+    "citations": 1998,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7875,7 +7875,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 557,
+    "citations": 558,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7884,25 +7884,6 @@
     "title": "Fast Direct Methods for Gaussian Processes",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ITPAM..38..252A",
     "volume": "38",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.06965",
-    "authors": [
-      "Angus, Ruth",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "McQuillan, Amy"
-    ],
-    "citations": 187,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stv423",
-    "page": 1787,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2015-06-00",
-    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
-    "volume": "450",
     "year": "2015"
   },
   {
@@ -7937,6 +7918,25 @@
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
     "volume": "806",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.06965",
+    "authors": [
+      "Angus, Ruth",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel",
+      "McQuillan, Amy"
+    ],
+    "citations": 187,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stv423",
+    "page": 1787,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2015-06-00",
+    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
+    "volume": "450",
     "year": "2015"
   },
   {
@@ -8024,6 +8024,37 @@
   {
     "arxiv": null,
     "authors": [
+      "Weisz, D. R.",
+      "Fouesneau, M.",
+      "Hogg, D. W.",
+      "Rix, H.-W.",
+      "Dolphin, A. E.",
+      "Dalcanton, J. J.",
+      "Foreman-Mackey, D. T.",
+      "Lang, D.",
+      "Johnson, L. C.",
+      "Beerman, L. C.",
+      "Bell, E. F.",
+      "Gordon, K. D.",
+      "Gouliermis, D.",
+      "Kalirai, J. S.",
+      "Skillman, E. D.",
+      "Williams, B. F."
+    ],
+    "citations": 0,
+    "doctype": "dataset",
+    "doi": "10.26093/cds/vizier.17620123",
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2015-01-00",
+    "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
+    "volume": "176",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Wang, Dun",
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
@@ -8073,37 +8104,6 @@
     "title": "Licenses in the wild",
     "url": "https://ui.adsabs.harvard.edu/abs/2015AAS...22523206F",
     "volume": "225",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Weisz, D. R.",
-      "Fouesneau, M.",
-      "Hogg, D. W.",
-      "Rix, H.-W.",
-      "Dolphin, A. E.",
-      "Dalcanton, J. J.",
-      "Foreman-Mackey, D. T.",
-      "Lang, D.",
-      "Johnson, L. C.",
-      "Beerman, L. C.",
-      "Bell, E. F.",
-      "Gordon, K. D.",
-      "Gouliermis, D.",
-      "Kalirai, J. S.",
-      "Skillman, E. D.",
-      "Williams, B. F."
-    ],
-    "citations": 0,
-    "doctype": "dataset",
-    "doi": "10.26093/cds/vizier.17620123",
-    "page": null,
-    "pub": "VizieR Online Data Catalog",
-    "pubdate": "2015-01-00",
-    "title": "VizieR Online Data Catalog: PHAT. IV. Initial Mass Function (Weisz+, 2013)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015yCat..17620123W",
-    "volume": "176",
     "year": "2015"
   },
   {
@@ -8218,7 +8218,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 51,
+    "citations": 44,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11817,
+    "citations": 11835,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
