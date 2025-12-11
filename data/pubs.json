@@ -1,5 +1,24 @@
 [
   {
+    "arxiv": "2507.10317",
+    "authors": [
+      "Hapitas, Timothy",
+      "Widrow, Lawrence M.",
+      "Dharmawardena, Thavisha E.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ae0d87",
+    "page": 35,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2025-12-00",
+    "title": "Gaussian Process Methods for Very Large Astrometric Data Sets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...995...35H",
+    "volume": "995",
+    "year": "2025"
+  },
+  {
     "arxiv": "2206.11275",
     "authors": [
       "Chance, Quadry",
@@ -95,25 +114,6 @@
     "year": "2025"
   },
   {
-    "arxiv": "2507.10317",
-    "authors": [
-      "Hapitas, Timothy",
-      "Widrow, Lawrence M.",
-      "Dharmawardena, Thavisha E.",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2507.10317",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2025-07-00",
-    "title": "Gaussian Process Methods for Very Large Astrometric Data Sets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025arXiv250710317H",
-    "volume": null,
-    "year": "2025"
-  },
-  {
     "arxiv": null,
     "authors": [
       "AlDanial",
@@ -202,7 +202,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -515,7 +515,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -834,7 +834,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 19,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1852,6 +1852,22 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #241",
+    "pubdate": "2023-01-00",
+    "title": "Open-source software for data analysis in astronomy, and some of the things I've learned along the way",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24145801F",
+    "volume": "241",
+    "year": "2023"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Gagliano, Alexander",
       "Contardo, Gabriella",
       "Foreman-Mackey, Daniel",
@@ -1866,22 +1882,6 @@
     "pubdate": "2023-01-00",
     "title": "A First Impressions Network: Early-Time Supernova Classification using Host Galaxy Information and Shallow Learning",
     "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24110302G",
-    "volume": "241",
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #241",
-    "pubdate": "2023-01-00",
-    "title": "Open-source software for data analysis in astronomy, and some of the things I've learned along the way",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023AAS...24145801F",
     "volume": "241",
     "year": "2023"
   },
@@ -1981,7 +1981,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4169,
+    "citations": 4203,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3194,7 +3194,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3521,7 +3521,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -3699,7 +3699,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 212,
+    "citations": 213,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4319,7 +4319,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 109,
+    "citations": 62,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -4721,7 +4721,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 214,
+    "citations": 216,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -5167,7 +5167,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 266,
+    "citations": 267,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5416,7 +5416,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 243,
+    "citations": 244,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5981,7 +5981,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 301,
+    "citations": 302,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6542,7 +6542,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 261,
+    "citations": 262,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6578,7 +6578,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 215,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6629,7 +6629,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 826,
+    "citations": 827,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7332,7 +7332,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 257,
+    "citations": 258,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7887,6 +7887,25 @@
     "year": "2015"
   },
   {
+    "arxiv": "1502.06965",
+    "authors": [
+      "Angus, Ruth",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel",
+      "McQuillan, Amy"
+    ],
+    "citations": 187,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stv423",
+    "page": 1787,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2015-06-00",
+    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
+    "volume": "450",
+    "year": "2015"
+  },
+  {
     "arxiv": "1502.06621",
     "authors": [
       "Weisz, Daniel R.",
@@ -7921,25 +7940,6 @@
     "year": "2015"
   },
   {
-    "arxiv": "1502.06965",
-    "authors": [
-      "Angus, Ruth",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel",
-      "McQuillan, Amy"
-    ],
-    "citations": 187,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stv423",
-    "page": 1787,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2015-06-00",
-    "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
-    "volume": "450",
-    "year": "2015"
-  },
-  {
     "arxiv": "1502.04715",
     "authors": [
       "Foreman-Mackey, Daniel",
@@ -7949,7 +7949,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 120,
+    "citations": 121,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -7994,7 +7994,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 74,
+    "citations": 75,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11835,
+    "citations": 11842,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
