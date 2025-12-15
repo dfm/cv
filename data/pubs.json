@@ -629,7 +629,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 148,
+    "citations": 257,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1735,29 +1735,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2210.03615",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac2790",
-    "page": 228,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2023-02-00",
-    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
-    "volume": "519",
-    "year": "2023"
-  },
-  {
     "arxiv": "2302.04703",
     "authors": [
       "Eadie, Gwendolyn M.",
@@ -1778,6 +1755,29 @@
     "title": "Practical Guidance for Bayesian Inference in Astronomy",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2210.03615",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Henshaw, J."
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac2790",
+    "page": 228,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2023-02-00",
+    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
+    "volume": "519",
     "year": "2023"
   },
   {
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4223,
+    "citations": 4235,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3699,7 +3699,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 213,
+    "citations": 214,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4236,7 +4236,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 316,
+    "citations": 315,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4897,7 +4897,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -5981,7 +5981,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 302,
+    "citations": 303,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6314,7 +6314,7 @@
       "Scopatz, Anthony",
       "Mohammed, AQNOUCH"
     ],
-    "citations": 8,
+    "citations": 13,
     "doctype": "software",
     "doi": "10.5281/zenodo.1436565",
     "page": null,
@@ -6578,7 +6578,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 218,
+    "citations": 219,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6629,7 +6629,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 830,
+    "citations": 831,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7439,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2006,
+    "citations": 2008,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7678,7 +7678,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 75,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7778,7 +7778,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11867,
+    "citations": 11872,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
