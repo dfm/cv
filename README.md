@@ -46,7 +46,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 34350 stars / 3309 forks  
+[**jax**](https://github.com/jax-ml/jax) — 34363 stars / 3312 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -76,8 +76,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 111 / first author: 9 / citations: 28,897 / h-index: 52
-(2025-12-18)
+refereed: 111 / first author: 9 / citations: 28,922 / h-index: 52
+(2025-12-19)
 
 ### Refereed publications
 
@@ -198,7 +198,7 @@ Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
 Regression for Astronomical Time
 Series](http://dx.doi.org/10.1146/annurev-astro-052920-103508)*, Annual
 Review of Astronomy and Astrophysics, **61**, 329
-([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[115
+([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[116
 citations](https://ui.adsabs.harvard.edu/abs/2023ARA&A..61..329A)\]
 
 Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
@@ -292,7 +292,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[4242
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[4255
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -451,7 +451,7 @@ Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
 Daniel**; *et al.*, 2021, *[Stellar Rotation in the K2 Sample: Evidence
 for Modified Spin-down](http://dx.doi.org/10.3847/1538-4357/abf63e)*,
 The Astrophysical Journal, **913**, 70
-([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[51
+([arXiv:2101.07886](http://arxiv.org/abs/2101.07886)) \[[52
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G)\]
 
 Tamayo, Daniel; Gilbertson, Christian; & **Foreman-Mackey, Daniel**,
@@ -499,14 +499,15 @@ Angus, Ruth; Beane, Angus; Price-Whelan, Adrian M.; Newton, Elisabeth;
 Rotation Using Galactic
 Kinematics](http://dx.doi.org/10.3847/1538-3881/ab91b2)*, The
 Astronomical Journal, **160**, 90
-([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[49
+([arXiv:2005.09387](http://arxiv.org/abs/2005.09387)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160...90A)\]
 
 Plavchan, Peter; Barclay, Thomas; Gagné, Jonathan; Gao, Peter;
 *et al.* (incl. **DFM**), 2020, *[Publisher Correction: A planet within
 the debris disk around the pre-main-sequence star AU
 Microscopii](http://dx.doi.org/10.1038/s41586-020-2516-1)*, Nature,
-**583**
+**583** \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2020Natur.583E..31P)\]
 
 Hey, Daniel; Murphy, Simon; **Foreman-Mackey, Daniel**; Bedding,
 Timothy; *et al.*, 2020, *[Maelstrom: A Python package for identifying
@@ -617,7 +618,7 @@ Luger, Rodrigo; Agol, Eric; **Foreman-Mackey, Daniel**; Fleming, David
 P.; *et al.*, 2019, *[starry: Analytic Occultation Light
 Curves](http://dx.doi.org/10.3847/1538-3881/aae8e5)*, The Astronomical
 Journal, **157**, 64
-([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[303
+([arXiv:1810.06559](http://arxiv.org/abs/1810.06559)) \[[304
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...64L)\]
 
 Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
@@ -699,7 +700,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[831
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[832
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -912,7 +913,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11880
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[11886
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
