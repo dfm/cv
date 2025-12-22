@@ -494,7 +494,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 14,
+    "citations": 21,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -743,7 +743,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -834,7 +834,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 18,
+    "citations": 28,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1215,7 +1215,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 116,
+    "citations": 117,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4269,
+    "citations": 4283,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6578,7 +6578,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -7015,7 +7015,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 323,
+    "citations": 324,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7439,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2011,
+    "citations": 2014,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11907,
+    "citations": 11914,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
