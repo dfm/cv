@@ -10,7 +10,7 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
  <span class="sans-serif">dfm@dfm.io,
 https://dfm.io</span>  
-Member of Technical Staff, Anthropic
+Member of Technical Staff, Anthropic, New York, NY  
 
 ## Education
 
@@ -1150,7 +1150,7 @@ NSERC Undergraduate Summer Research Award, 2007.
 <div class="list">
 
 
-Associate Editor-in-Chief — Journal of Open Source Software
+Associate Editor-in-Chief — Journal of Open Source Software, 2019–2025
 
 Active Referee — AAS Journals, MNRAS, PASP, A&A, Journal of Statistical
 Software, Journal on Uncertainty Quantification, Journal of Open Source
