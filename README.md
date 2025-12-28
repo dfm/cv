@@ -10,7 +10,7 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
  <span class="sans-serif">dfm@dfm.io,
 https://dfm.io</span>  
-Research Engineer, Google DeepMind, New York, NY  
+Member of Technical Staff, Anthropic
 
 ## Education
 
@@ -31,7 +31,9 @@ BSc 2008, Department of Physics, McGill University, Canada.
 <div class="list">
 
 
-Research Engineer, Google DeepMind, 2024–present.
+Member of Technical Staff, Anthropic, 2025–present.
+
+Research Engineer, Google DeepMind, 2024–2025.
 
 Research Scientist, Flatiron Institute, 2022–2024.
 
