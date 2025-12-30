@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -494,7 +494,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 21,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -706,7 +706,7 @@
       "Stello, Dennis",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2403.02489",
     "page": null,
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4316,
+    "citations": 4327,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2865,7 +2865,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 11,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.6325733",
     "page": null,
@@ -4236,7 +4236,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 315,
+    "citations": 316,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4319,7 +4319,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -7875,7 +7875,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 558,
+    "citations": 559,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11941,
+    "citations": 11945,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
