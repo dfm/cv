@@ -470,7 +470,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -629,7 +629,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 150,
+    "citations": 151,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -834,7 +834,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 28,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4336,
+    "citations": 4340,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4319,7 +4319,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -5416,7 +5416,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 245,
+    "citations": 246,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6629,7 +6629,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 834,
+    "citations": 835,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7439,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2026,
+    "citations": 2027,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7678,7 +7678,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 55,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7875,7 +7875,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 558,
+    "citations": 559,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8218,7 +8218,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11957,
+    "citations": 11958,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
