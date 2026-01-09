@@ -2390,7 +2390,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4336,
+    "citations": 4339,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3173,7 +3173,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 126,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -7015,7 +7015,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 326,
+    "citations": 327,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7068,7 +7068,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7439,7 +7439,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2025,
+    "citations": 2026,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7755,7 +7755,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 162,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -7875,7 +7875,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 558,
+    "citations": 559,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8373,7 +8373,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 11954,
+    "citations": 11963,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8397,7 +8397,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 179,
+    "citations": 180,
     "doctype": "software",
     "doi": null,
     "page": null,
