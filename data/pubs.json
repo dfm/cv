@@ -2656,6 +2656,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 35,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -2693,26 +2713,6 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 35,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -7482,7 +7482,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2037,
+    "citations": 2038,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7590,12 +7590,12 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Rice, Emily",
+      "Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A.",
+      "Caswell, Thomas A",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
@@ -7607,9 +7607,9 @@
     "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.53155",
-    "page": 53155,
-    "pub": "Zenodo Software Release",
-    "pubdate": "2016-05-00",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2016-05-26",
     "title": "corner.py: corner.py v2.0.0",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....53155F",
     "volume": null,
