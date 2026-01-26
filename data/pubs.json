@@ -2433,7 +2433,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4436,
+    "citations": 4444,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6585,7 +6585,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 265,
+    "citations": 266,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6803,7 +6803,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 43,
+    "citations": 42,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7095,7 +7095,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 140,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7482,7 +7482,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2042,
+    "citations": 2043,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7570,7 +7570,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1606.03757",
     "page": null,
@@ -7918,7 +7918,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 562,
+    "citations": 563,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8416,7 +8416,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12050,
+    "citations": 12056,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
