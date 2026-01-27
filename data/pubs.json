@@ -82,7 +82,41 @@
       "Lilleengen, Sophia",
       "Li, Zhaozhou"
     ],
-    "citations": 9,
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.16923466",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2025-08-22",
+    "title": "adrn/gala: v1.10.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025zndo..16923466P",
+    "volume": null,
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Garrison, Lehman",
+      "Souchereau, Harrison",
+      "Wagg, Tom",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Starkman, Nathaniel",
+      "Chen, Yingtian",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Hart, Akeem",
+      "AlexKurek",
+      "Robert, Cl{\\'e}ment",
+      "Foreman-Mackey, Dan",
+      "HNLala",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Lilleengen, Sophia",
+      "Li, Zhaozhou"
+    ],
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
     "page": null,
@@ -513,7 +547,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -672,7 +706,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 151,
+    "citations": 260,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1241,7 +1275,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.8217584",
     "page": null,
@@ -1962,7 +1996,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2908,7 +2942,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 12,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.6325733",
     "page": null,
@@ -4120,7 +4154,7 @@
       "Kerzendorf, Wolfgang",
       "Cruz, Kelle"
     ],
-    "citations": 6,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.4592454",
     "page": null,
@@ -4362,7 +4396,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6084,7 +6118,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -6750,30 +6784,6 @@
     "title": "Linear Models for Systematics and Nuisances",
     "url": "https://ui.adsabs.harvard.edu/abs/2017RNAAS...1....7L",
     "volume": "1",
-    "year": "2017"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Dan",
-      "Agol, Eric",
-      "Angus, Ruth",
-      "Brewer, Brendon J.",
-      "Austin, Philip",
-      "Meierjurgen Farr, Will",
-      "Guillochon, James",
-      "Czekala, Ian",
-      "Casey, Andy"
-    ],
-    "citations": 6,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.1048287",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2017-11-13",
-    "title": "dfm/celerite: celerite v0.3.0",
-    "url": "https://ui.adsabs.harvard.edu/abs/2017zndo...1048287F",
-    "volume": null,
     "year": "2017"
   },
   {
@@ -8261,7 +8271,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8416,7 +8426,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12056,
+    "citations": 12054,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
