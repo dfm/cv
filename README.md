@@ -48,7 +48,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 34707 stars / 3378 forks  
+[**jax**](https://github.com/jax-ml/jax) — 34725 stars / 3382 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -79,7 +79,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 111 / first author: 9 / citations: 29,407 / h-index: 52
-(2026-01-27)
+(2026-01-28)
 
 ### Refereed publications
 
