@@ -116,7 +116,7 @@
       "Lilleengen, Sophia",
       "Li, Zhaozhou"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
     "page": null,
@@ -384,7 +384,7 @@
       "NeutralKaon",
       "Czekala, Ian"
     ],
-    "citations": 1,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.14209694",
     "page": null,
@@ -524,7 +524,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -547,7 +547,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -571,7 +571,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 24,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -706,7 +706,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 260,
+    "citations": 151,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -725,7 +725,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -1665,7 +1665,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4492,
+    "citations": 4501,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3875,7 +3875,7 @@
       "Ag{\\\"u}eros, Marcel A.",
       "Kipping, David"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -5057,7 +5057,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -5244,7 +5244,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 272,
+    "citations": 273,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6118,7 +6118,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -6462,7 +6462,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 136,
+    "citations": 137,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6602,7 +6602,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 299,
+    "citations": 300,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6784,6 +6784,30 @@
     "title": "Linear Models for Systematics and Nuisances",
     "url": "https://ui.adsabs.harvard.edu/abs/2017RNAAS...1....7L",
     "volume": "1",
+    "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan",
+      "Agol, Eric",
+      "Angus, Ruth",
+      "Brewer, Brendon J.",
+      "Austin, Philip",
+      "Meierjurgen Farr, Will",
+      "Guillochon, James",
+      "Czekala, Ian",
+      "Casey, Andy"
+    ],
+    "citations": 6,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.1048287",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2017-11-13",
+    "title": "dfm/celerite: celerite v0.3.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2017zndo...1048287F",
+    "volume": null,
     "year": "2017"
   },
   {
@@ -7068,7 +7092,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 331,
+    "citations": 332,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7160,7 +7184,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 87,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7385,7 +7409,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 261,
+    "citations": 262,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7492,7 +7516,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2050,
+    "citations": 2051,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8426,7 +8450,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12109,
+    "citations": 12116,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
