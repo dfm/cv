@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4561,
+    "citations": 4546,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4655,7 +4655,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2516-1",
     "page": null,
@@ -7129,7 +7129,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 142,
+    "citations": 141,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7516,7 +7516,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2060,
+    "citations": 2057,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8450,7 +8450,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12158,
+    "citations": 12151,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8474,7 +8474,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 185,
+    "citations": 184,
     "doctype": "software",
     "doi": null,
     "page": null,
