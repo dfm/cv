@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4561,
+    "citations": 4567,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4351,7 +4351,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -6602,7 +6602,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 300,
+    "citations": 301,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6706,7 +6706,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 851,
+    "citations": 852,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6837,7 +6837,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7516,7 +7516,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2057,
+    "citations": 2058,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7952,7 +7952,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 565,
+    "citations": 566,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7971,7 +7971,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 190,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -8450,7 +8450,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12164,
+    "citations": 12171,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8474,7 +8474,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 184,
+    "citations": 186,
     "doctype": "software",
     "doi": null,
     "page": null,
