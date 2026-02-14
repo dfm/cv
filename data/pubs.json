@@ -214,7 +214,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -820,7 +820,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 50,
+    "citations": 49,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1292,7 +1292,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 133,
+    "citations": 134,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4567,
+    "citations": 4577,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3430,7 +3430,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb9",
     "page": 124,
@@ -3449,7 +3449,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 55,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -6445,7 +6445,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -7832,7 +7832,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 164,
+    "citations": 165,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -8450,7 +8450,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12171,
+    "citations": 12181,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8474,7 +8474,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 186,
+    "citations": 187,
     "doctype": "software",
     "doi": null,
     "page": null,
