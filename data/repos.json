@@ -10,12 +10,12 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3421,
+              "forkCount": 3424,
               "stargazers": {
-                "totalCount": 34866
+                "totalCount": 34879
               },
               "watchers": {
-                "totalCount": 331
+                "totalCount": 332
               }
             }
           },
@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 440,
               "stargazers": {
-                "totalCount": 1565
+                "totalCount": 1566
               },
               "watchers": {
                 "totalCount": 81
@@ -70,9 +70,9 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 55,
+              "forkCount": 56,
               "stargazers": {
-                "totalCount": 232
+                "totalCount": 233
               },
               "watchers": {
                 "totalCount": 17
