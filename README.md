@@ -48,7 +48,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 34898 stars / 3425 forks  
+[**jax**](https://github.com/jax-ml/jax) — 34908 stars / 3428 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -78,8 +78,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 111 / first author: 9 / citations: 29,807 / h-index: 53
-(2026-02-19)
+refereed: 111 / first author: 9 / citations: 29,846 / h-index: 53
+(2026-02-20)
 
 ### Refereed publications
 
@@ -98,7 +98,7 @@ Andrew R.; *et al.*, 2025, *[paired: A Statistical Framework for
 Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved
 Binaries](http://dx.doi.org/10.3847/1538-4357/adfb68)*, The
 Astrophysical Journal, **992**, 131
-([arXiv:2206.11275](http://arxiv.org/abs/2206.11275)) \[[9
+([arXiv:2206.11275](http://arxiv.org/abs/2206.11275)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJ...992..131C)\]
 
 Hattori, Soichiro; Angus, Ruth; **Foreman-Mackey, Daniel**; Lu, Yuxi
@@ -129,7 +129,7 @@ Barnett, Alex, 2024, *[NIFTY-LS: Fast and Accurate LombScargle
 Periodograms Using a Non-uniform
 FFT](http://dx.doi.org/10.3847/2515-5172/ad82cd)*, Research Notes of the
 American Astronomical Society, **8**, 250
-([arXiv:2409.08090](http://arxiv.org/abs/2409.08090)) \[[4
+([arXiv:2409.08090](http://arxiv.org/abs/2409.08090)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..250G)\]
 
 Edwards, Thomas D. P.; Wong, Kaze W. K.; Lam, Kelvin K. H.; Coogan,
@@ -193,7 +193,7 @@ Malz, Alex I.; & Aleo, Patrick D., 2023, *[First Impressions: Early-time
 Classification of Supernovae Using Host-galaxy Information and Shallow
 Learning](http://dx.doi.org/10.3847/1538-4357/ace326)*, The
 Astrophysical Journal, **954**, 6
-([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[34
+([arXiv:2305.08894](http://arxiv.org/abs/2305.08894)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...954....6G)\]
 
 Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
@@ -294,7 +294,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[4599
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[4618
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -446,7 +446,7 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
 Journal, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[53
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
@@ -584,7 +584,7 @@ Bedell, Megan E.; *et al.*, 2019, *[eleanor: An Open-source Tool for
 Extracting Light Curves from the TESS Full-frame
 Images](http://dx.doi.org/10.1088/1538-3873/ab291c)*, Publications of
 the Astronomical Society of the Pacific, **131**, 94502
-([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[248
+([arXiv:1903.09152](http://arxiv.org/abs/1903.09152)) \[[249
 citations](https://ui.adsabs.harvard.edu/abs/2019PASP..131i4502F)\]
 
 Kruse, Ethan; Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**,
@@ -664,7 +664,7 @@ Teague, Richard; & **Foreman-Mackey, Daniel**, 2018, *[A Robust Method
 to Measure Centroids of Spectral
 Lines](http://dx.doi.org/10.3847/2515-5172/aae265)*, Research Notes of
 the American Astronomical Society, **2**, 173
-([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[138
+([arXiv:1809.10295](http://arxiv.org/abs/1809.10295)) \[[139
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2..173T)\]
 
 Teague, Richard; Bae, Jaehan; Bergin, Edwin A.; Birnstiel, Tilman; &
@@ -679,7 +679,7 @@ Hogg, David W.; & **Foreman-Mackey, Daniel**, 2018, *[Data Analysis
 Recipes: Using Markov Chain Monte
 Carlo](http://dx.doi.org/10.3847/1538-4365/aab76e)*, The Astrophysical
 Journal Supplement Series, **236**, 11
-([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[271
+([arXiv:1710.06068](http://arxiv.org/abs/1710.06068)) \[[272
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJS..236...11H)\]
 
 Angus, Ruth; Morton, Timothy; Aigrain, Suzanne; **Foreman-Mackey,
@@ -694,7 +694,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[225
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[226
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -884,7 +884,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...800...46B)\]
 Noisy, Incomplete
 Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, The
 Astrophysical Journal, **795**, 64
-([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[260
+([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[261
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
@@ -915,7 +915,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12199
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12210
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
