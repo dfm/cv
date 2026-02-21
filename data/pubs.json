@@ -28,7 +28,7 @@
       "David, Trevor J.",
       "Price-Whelan, Adrian M."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-4357/adfb68",
     "page": 131,
@@ -425,7 +425,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -1249,7 +1249,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 135,
+    "citations": 136,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1525,7 +1525,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 41,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -2424,7 +2424,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4618,
+    "citations": 4624,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3207,7 +3207,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 130,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3381,6 +3381,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 40,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -3396,24 +3414,6 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 40,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -5450,7 +5450,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 249,
+    "citations": 250,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -6041,7 +6041,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 229,
+    "citations": 230,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6151,30 +6151,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Feinstein, Adina",
-      "Montet, Benjamin",
-      "Bedell, MEgan",
-      "Christiansen, Jessie",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina L.",
-      "Luger, Rodrigo",
-      "Saunders, Nicholas",
-      "De Miranda Cardoso, Jose Vinicius"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": null,
-    "pub": "American Astronomical Society Meeting Abstracts #233",
-    "pubdate": "2019-01-00",
-    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
-    "volume": "233",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel"
     ],
     "citations": 0,
@@ -6210,6 +6186,30 @@
     "pubdate": "2019-01-00",
     "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
     "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23314014F",
+    "volume": "233",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Feinstein, Adina",
+      "Montet, Benjamin",
+      "Bedell, MEgan",
+      "Christiansen, Jessie",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina L.",
+      "Luger, Rodrigo",
+      "Saunders, Nicholas",
+      "De Miranda Cardoso, Jose Vinicius"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": null,
+    "pub": "American Astronomical Society Meeting Abstracts #233",
+    "pubdate": "2019-01-00",
+    "title": "A Complete Survey of the Southern Sky with TESS Full-Frame Images",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019AAS...23320204F",
     "volume": "233",
     "year": "2019"
   },
@@ -6419,7 +6419,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 139,
+    "citations": 140,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6663,7 +6663,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 853,
+    "citations": 855,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7473,7 +7473,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2062,
+    "citations": 2063,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7826,24 +7826,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258352,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "The search for single exoplanet transits in the Kepler light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258352F",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Angus, Ruth",
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
@@ -7856,6 +7838,24 @@
     "pubdate": "2015-08-00",
     "title": "Probabilistic stellar rotation periods with Gaussian processes",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 1,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258352,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "The search for single exoplanet transits in the Kepler light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258352F",
     "volume": "29",
     "year": "2015"
   },
@@ -7909,7 +7909,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 568,
+    "citations": 570,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -7937,6 +7937,27 @@
     "title": "Calibrating gyrochronology using Kepler asteroseismic targets",
     "url": "https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1787A",
     "volume": "450",
+    "year": "2015"
+  },
+  {
+    "arxiv": "1502.04715",
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Montet, Benjamin T.",
+      "Hogg, David W.",
+      "Morton, Timothy D.",
+      "Wang, Dun",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 121,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/215",
+    "page": 215,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "A Systematic Search for Transiting Planets in the K2 Data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
+    "volume": "806",
     "year": "2015"
   },
   {
@@ -7970,27 +7991,6 @@
     "pubdate": "2015-06-00",
     "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.04715",
-    "authors": [
-      "Foreman-Mackey, Daniel",
-      "Montet, Benjamin T.",
-      "Hogg, David W.",
-      "Morton, Timothy D.",
-      "Wang, Dun",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 121,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/215",
-    "page": 215,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "A Systematic Search for Transiting Planets in the K2 Data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
     "volume": "806",
     "year": "2015"
   },
@@ -8407,7 +8407,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12210,
+    "citations": 12214,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8431,7 +8431,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 188,
+    "citations": 189,
     "doctype": "software",
     "doi": null,
     "page": null,
