@@ -214,7 +214,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -547,7 +547,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -592,7 +592,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -613,7 +613,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -1292,7 +1292,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 137,
+    "citations": 139,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4680,
+    "citations": 4687,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5244,7 +5244,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 273,
+    "citations": 272,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6639,7 +6639,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 211,
+    "citations": 212,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6655,7 +6655,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 227,
+    "citations": 228,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6706,7 +6706,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 861,
+    "citations": 862,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6724,7 +6724,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -7516,7 +7516,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2073,
+    "citations": 2074,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8450,7 +8450,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12266,
+    "citations": 12276,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
