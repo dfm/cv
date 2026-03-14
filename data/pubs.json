@@ -783,7 +783,7 @@
       "Stello, Dennis",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2403.02489",
     "page": null,
@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4751,
+    "citations": 4766,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4313,7 +4313,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 329,
+    "citations": 330,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5244,7 +5244,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 272,
+    "citations": 273,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6655,7 +6655,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 229,
+    "citations": 230,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6706,7 +6706,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 867,
+    "citations": 868,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7145,7 +7145,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7516,7 +7516,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2077,
+    "citations": 2082,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8450,7 +8450,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12337,
+    "citations": 12353,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
