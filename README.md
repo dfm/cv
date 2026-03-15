@@ -48,15 +48,15 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 35076 stars / 3471 forks  
+[**jax**](https://github.com/jax-ml/jax) — 35088 stars / 3471 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 333 stars / 32 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 334 stars / 32 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1571 stars / 439 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1572 stars / 439 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -78,8 +78,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 111 / first author: 9 / citations: 30,240 / h-index: 54
-(2026-03-14)
+refereed: 111 / first author: 9 / citations: 30,239 / h-index: 54
+(2026-03-15)
 
 ### Refereed publications
 
@@ -915,7 +915,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12353
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12352
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
