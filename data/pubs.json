@@ -214,7 +214,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 14,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4807,
+    "citations": 4781,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5291,7 +5291,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 127,
+    "citations": 126,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -7516,7 +7516,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2086,
+    "citations": 2083,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7832,7 +7832,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 167,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -8450,7 +8450,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12375,
+    "citations": 12359,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8474,7 +8474,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 195,
+    "citations": 192,
     "doctype": "software",
     "doi": null,
     "page": null,
