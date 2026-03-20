@@ -7905,24 +7905,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Johnson, John",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258432,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Barclay, Thomas",
       "Quintana, Elisa",
       "Adams, Fred",
@@ -7940,6 +7922,24 @@
     "pubdate": "2015-08-00",
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: An Application of Importance Sampling",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256208B",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Johnson, John",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258432,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
     "volume": "29",
     "year": "2015"
   },
