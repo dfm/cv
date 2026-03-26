@@ -547,7 +547,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4809,
+    "citations": 4816,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6103,7 +6103,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 309,
+    "citations": 310,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6129,7 +6129,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 233,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -7561,7 +7561,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2085,
+    "citations": 2084,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8495,7 +8495,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12399,
+    "citations": 12404,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8519,7 +8519,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 192,
+    "citations": 193,
     "doctype": "software",
     "doi": null,
     "page": null,
