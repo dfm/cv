@@ -820,7 +820,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 60,
+    "citations": 61,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -2467,7 +2467,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4843,
+    "citations": 4847,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6700,7 +6700,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 231,
+    "citations": 233,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6751,7 +6751,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 877,
+    "citations": 879,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7997,7 +7997,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 575,
+    "citations": 576,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8495,7 +8495,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12424,
+    "citations": 12434,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
