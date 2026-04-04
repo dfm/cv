@@ -48,7 +48,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 35289 stars / 3501 forks  
+[**jax**](https://github.com/jax-ml/jax) — 35295 stars / 3503 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -56,7 +56,7 @@ vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1575 stars / 437 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1573 stars / 437 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -78,8 +78,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 111 / first author: 9 / citations: 30,497 / h-index: 54
-(2026-04-03)
+refereed: 111 / first author: 9 / citations: 30,502 / h-index: 54
+(2026-04-04)
 
 ### Refereed publications
 
@@ -239,7 +239,7 @@ Dayside Emission Strongest Eastward of the Substellar Point and
 Nightside Conditions Conducive to Cloud
 Formation](http://dx.doi.org/10.3847/2041-8213/acb049)*, The
 Astrophysical Journal, **943**
-([arXiv:2301.03209](http://arxiv.org/abs/2301.03209)) \[[41
+([arXiv:2301.03209](http://arxiv.org/abs/2301.03209)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...943L..17M)\]
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
@@ -294,7 +294,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[4856
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[4857
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -915,7 +915,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12450
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12452
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
@@ -944,7 +944,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240302489H)\]
 Cabezas, Alberto; Corenflos, Adrien; Lao, Junpeng; Louf, Rémi;
 *et al.* (incl. **DFM**), 2024, *[BlackJAX: Composable Bayesian
 inference in JAX](http://dx.doi.org/10.48550/arXiv.2402.10797)*, ArXiv
-([arXiv:2402.10797](http://arxiv.org/abs/2402.10797)) \[[61
+([arXiv:2402.10797](http://arxiv.org/abs/2402.10797)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240210797C)\]
 
 Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;
