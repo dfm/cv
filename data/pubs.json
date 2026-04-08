@@ -1,5 +1,47 @@
 [
   {
+    "arxiv": "2601.02527",
+    "authors": [
+      "Rubenzahl, Ryan A.",
+      "Hattori, Soichiro",
+      "S{\\\"a}rkk{\\\"a}, Simo",
+      "Farr, Will M.",
+      "Luhn, Jacob K.",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ae4d0b",
+    "page": 259,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2026-04-00",
+    "title": "Scalable Gaussian Processes for Integrated and Overlapping Measurements via Augmented State-space Models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026AJ....171..259R",
+    "volume": "171",
+    "year": "2026"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Hattori, S.",
+      "Angus, R.",
+      "Foreman-Mackey, D.",
+      "Lu, Y. (.",
+      "Colman, I."
+    ],
+    "citations": 0,
+    "doctype": "dataset",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2026-03-00",
+    "title": "VizieR Online Data Catalog: Rotation periods of 272 stars from TESS {\\&} ZTF (Hattori+, 2025)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026yCat..51700015H",
+    "volume": "517",
+    "year": "2026"
+  },
+  {
     "arxiv": "2507.10317",
     "authors": [
       "Hapitas, Timothy",
@@ -547,7 +589,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -2467,7 +2509,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4877,
+    "citations": 4880,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5289,7 +5331,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 273,
+    "citations": 274,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6129,7 +6171,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 233,
+    "citations": 234,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6751,7 +6793,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 883,
+    "citations": 885,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7561,7 +7603,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2099,
+    "citations": 2100,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8495,7 +8537,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12473,
+    "citations": 12475,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
