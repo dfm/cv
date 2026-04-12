@@ -10,12 +10,12 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3516,
+              "forkCount": 3517,
               "stargazers": {
-                "totalCount": 35358
+                "totalCount": 35364
               },
               "watchers": {
-                "totalCount": 329
+                "totalCount": 330
               }
             }
           },
@@ -27,7 +27,7 @@
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 34,
               "stargazers": {
-                "totalCount": 340
+                "totalCount": 341
               },
               "watchers": {
                 "totalCount": 6
@@ -40,9 +40,9 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 437,
+              "forkCount": 438,
               "stargazers": {
-                "totalCount": 1575
+                "totalCount": 1576
               },
               "watchers": {
                 "totalCount": 81
@@ -57,7 +57,7 @@
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 235,
               "stargazers": {
-                "totalCount": 567
+                "totalCount": 568
               },
               "watchers": {
                 "totalCount": 15
@@ -70,7 +70,7 @@
               "description": "Fast & scalable MCMC for all your exoplanet needs! ",
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 55,
+              "forkCount": 56,
               "stargazers": {
                 "totalCount": 235
               },
@@ -87,7 +87,7 @@
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 120,
               "stargazers": {
-                "totalCount": 683
+                "totalCount": 684
               },
               "watchers": {
                 "totalCount": 14
