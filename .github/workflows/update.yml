@@ -49,6 +49,7 @@ jobs:
         uses: wtfjoke/setup-tectonic@v4
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          tectonic-version: 0.16.8
       - name: Compile
         run: |
           ./scripts/compile
