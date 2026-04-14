@@ -748,7 +748,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 152,
+    "citations": 153,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1466,7 +1466,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 27,
+    "citations": 17,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -2038,7 +2038,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 35,
+    "citations": 34,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2068,7 +2068,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 15,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -2232,7 +2232,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.7148446",
     "page": null,
@@ -2929,6 +2929,51 @@
     "year": "2022"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Koposov, Sergey",
+      "Speagle, Josh",
+      "Barbary, Kyle",
+      "Ashton, Gregory",
+      "Buchner, Johannes",
+      "Scheffler, Carl",
+      "Cook, Ben",
+      "Talbot, Colm",
+      "Guillochon, James",
+      "Cubillos, Patricio",
+      "Asensio Ramos, Andr{\\'e}s",
+      "Johnson, Ben",
+      "Lang, Dustin",
+      "Ilya",
+      "Dartiailh, Matthieu",
+      "Nitz, Alex",
+      "McCluskey, Andrew",
+      "Archibald, Anne",
+      "Deil, Christoph",
+      "Foreman-Mackey, Dan",
+      "Goldstein, Danny",
+      "Tollerud, Erik",
+      "Leja, Joel",
+      "Kirk, Matthew",
+      "Pitkin, Matt",
+      "Sheehan, Patrick",
+      "Cargile, Phillip",
+      "Ruskin23",
+      "Angus, Ruth",
+      "Daylan, Tansu"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.6414759",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2022-04-05",
+    "title": "joshspeagle/dynesty: v1.2.1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022zndo...6414759K",
+    "volume": null,
+    "year": "2022"
+  },
+  {
     "arxiv": "2202.04686",
     "authors": [
       "Hitchcock, J. A.",
@@ -3337,7 +3382,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 132,
+    "citations": 133,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -4265,7 +4310,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -5489,7 +5534,7 @@
       "Talbot, Colm",
       "Deil, Christoph"
     ],
-    "citations": 5,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.3461261",
     "page": null,
@@ -5899,7 +5944,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 122,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -6742,7 +6787,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 235,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6793,7 +6838,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 887,
+    "citations": 889,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -6844,7 +6889,7 @@
       "Fulton, Benjamin",
       "Lin, Douglas N. C."
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa932d",
     "page": 254,
@@ -7603,7 +7648,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2103,
+    "citations": 2105,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7842,7 +7887,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 39,
+    "citations": 55,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7919,7 +7964,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 170,
+    "citations": 171,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -8537,7 +8582,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12500,
+    "citations": 12506,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
