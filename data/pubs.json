@@ -364,7 +364,7 @@
       "Foreman-Mackey, Daniel",
       "Ness, Melissa K."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ada8a1",
     "page": 112,
@@ -2509,7 +2509,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4906,
+    "citations": 4911,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5376,7 +5376,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 273,
+    "citations": 274,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6216,7 +6216,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 235,
+    "citations": 236,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6838,7 +6838,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 889,
+    "citations": 890,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -8421,7 +8421,7 @@
       "Foreman-Mackey, Dan",
       "Price-Whelan, Adrian",
       "Ryan, Geoffrey",
-      "Emily",
+      "Rice, Emily",
       "Smith, Michael",
       "Barbary, Kyle",
       "Hogg, David W.",
@@ -8430,10 +8430,10 @@
     "citations": 44,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2014-07-24",
-    "title": "triangle.py v0.1.1",
+    "page": 11020,
+    "pub": "Zenodo Software Release",
+    "pubdate": "2014-07-00",
+    "title": "triangle.py: triangle.py v0.1.1",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11020F",
     "volume": null,
     "year": "2014"
