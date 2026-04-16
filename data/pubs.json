@@ -655,7 +655,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -1334,7 +1334,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 141,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1842,7 +1842,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2509,7 +2509,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4911,
+    "citations": 4926,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4445,7 +4445,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 332,
+    "citations": 333,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5376,7 +5376,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 274,
+    "citations": 273,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6190,7 +6190,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 313,
+    "citations": 314,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6216,7 +6216,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 236,
+    "citations": 235,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6594,7 +6594,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6734,7 +6734,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 306,
+    "citations": 307,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6787,7 +6787,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 236,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6838,7 +6838,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 890,
+    "citations": 892,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7648,7 +7648,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2105,
+    "citations": 2107,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7875,12 +7875,12 @@
       "Pitkin, Matt",
       "Zabalza, Victor",
       "Ryan, Geoffrey",
-      "Emily",
+      "Rice, Emily",
       "Smith, Michael",
       "Ashton, Gregory",
       "Cruz, Kelle",
       "Kerzendorf, Wolfgang",
-      "Caswell, Thomas A",
+      "Caswell, Thomas A.",
       "Hoyer, Stephan",
       "Barbary, Kyle",
       "Czekala, Ian",
@@ -7890,9 +7890,9 @@
     "citations": 55,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2016-02-11",
+    "page": 45906,
+    "pub": "Zenodo Software Release",
+    "pubdate": "2016-02-00",
     "title": "corner.py: corner.py v1.0.2",
     "url": "https://ui.adsabs.harvard.edu/abs/2016zndo.....45906F",
     "volume": null,
@@ -8582,7 +8582,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12506,
+    "citations": 12522,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
