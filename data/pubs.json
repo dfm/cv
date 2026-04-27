@@ -613,7 +613,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 17,
+    "citations": 27,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -862,7 +862,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 63,
+    "citations": 64,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -2038,7 +2038,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 34,
+    "citations": 54,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2509,7 +2509,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 4997,
+    "citations": 5005,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4445,7 +4445,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 337,
+    "citations": 338,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -7648,7 +7648,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2113,
+    "citations": 2114,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8582,7 +8582,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12589,
+    "citations": 12598,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8606,7 +8606,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 198,
+    "citations": 199,
     "doctype": "software",
     "doi": null,
     "page": null,
