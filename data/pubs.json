@@ -510,7 +510,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -589,7 +589,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -825,7 +825,7 @@
       "Stello, Dennis",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 16,
+    "citations": 15,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2403.02489",
     "page": null,
@@ -862,7 +862,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 64,
+    "citations": 65,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1888,7 +1888,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -2509,7 +2509,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5049,
+    "citations": 5048,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5376,7 +5376,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 275,
+    "citations": 276,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -7648,7 +7648,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2120,
+    "citations": 2119,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8582,7 +8582,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12639,
+    "citations": 12642,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
