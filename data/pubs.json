@@ -1842,7 +1842,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 43,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2509,7 +2509,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5048,
+    "citations": 5054,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -6751,7 +6751,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 280,
+    "citations": 281,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6838,7 +6838,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 902,
+    "citations": 903,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7316,7 +7316,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 88,
+    "citations": 89,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7648,7 +7648,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2119,
+    "citations": 2120,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7887,7 +7887,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 56,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -8582,7 +8582,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12642,
+    "citations": 12652,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8606,7 +8606,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 199,
+    "citations": 200,
     "doctype": "software",
     "doi": null,
     "page": null,
