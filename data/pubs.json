@@ -825,7 +825,7 @@
       "Stello, Dennis",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2403.02489",
     "page": null,
@@ -1334,7 +1334,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 145,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -2509,7 +2509,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5059,
+    "citations": 5064,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3908,7 +3908,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 223,
+    "citations": 224,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6787,7 +6787,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 238,
+    "citations": 239,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -7648,7 +7648,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2120,
+    "citations": 2121,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8582,7 +8582,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12661,
+    "citations": 12668,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
