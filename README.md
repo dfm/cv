@@ -48,7 +48,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 35571 stars / 3565 forks  
+[**jax**](https://github.com/jax-ml/jax) — 35576 stars / 3566 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -78,8 +78,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 112 / first author: 9 / citations: 31,071 / h-index: 54
-(2026-05-08)
+refereed: 112 / first author: 9 / citations: 31,074 / h-index: 54
+(2026-05-09)
 
 ### Refereed publications
 
@@ -270,7 +270,7 @@ Antonija; *et al.* (incl. **DFM**), 2022, *[A Mirage or an Oasis? Water
 Vapor in the Atmosphere of the Warm Neptune TOI-674
 b](http://dx.doi.org/10.3847/1538-3881/ac8b7e)*, The Astronomical
 Journal, **164**, 197
-([arXiv:2201.04197](http://arxiv.org/abs/2201.04197)) \[[19
+([arXiv:2201.04197](http://arxiv.org/abs/2201.04197)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....164..197B)\]
 
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
@@ -453,7 +453,7 @@ David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
 Distribution: Forming Large Super-Earths Over Billions of
 Years](http://dx.doi.org/10.3847/1538-3881/abf439)*, The Astronomical
 Journal, **161**, 265
-([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[57
+([arXiv:2011.09894](http://arxiv.org/abs/2011.09894)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....161..265D)\]
 
 Gordon, Tyler A.; Davenport, James R. A.; Angus, Ruth; **Foreman-Mackey,
