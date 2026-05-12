@@ -426,7 +426,7 @@
       "NeutralKaon",
       "Czekala, Ian"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.14209694",
     "page": null,
@@ -613,7 +613,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -1660,22 +1660,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 9,
-    "doctype": "software",
-    "doi": "10.5281/zenodo.7646759",
-    "page": null,
-    "pub": "Zenodo",
-    "pubdate": "2023-02-16",
-    "title": "dfm/tinygp: The tiniest of Gaussian Process libraries",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023zndo...7646759F",
-    "volume": null,
-    "year": "2023"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Koposov, Sergey",
       "Speagle, Josh",
       "Barbary, Kyle",
@@ -2068,7 +2052,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 15,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7299506",
     "page": null,
@@ -2694,26 +2678,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 36,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -2789,6 +2753,26 @@
     "title": "An Aligned Orbit for the Young Planet V1298 Tau b",
     "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J",
     "volume": "163",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 36,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -4528,7 +4512,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 118,
+    "citations": 66,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -6557,7 +6541,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 31,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -8356,7 +8340,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 271,
+    "citations": 159,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8582,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12681,
+    "citations": 12683,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,

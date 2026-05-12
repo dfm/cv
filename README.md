@@ -48,7 +48,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 35587 stars / 3569 forks  
+[**jax**](https://github.com/jax-ml/jax) — 35599 stars / 3570 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -78,8 +78,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 112 / first author: 9 / citations: 31,132 / h-index: 54
-(2026-05-11)
+refereed: 112 / first author: 9 / citations: 31,134 / h-index: 54
+(2026-05-12)
 
 ### Refereed publications
 
@@ -328,14 +328,6 @@ Journal, **163**, 284
 ([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
 
-Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
-Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
-for the Observed Dust Attenuation in
-Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
-Astrophysical Journal, **932**, 54
-([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[36
-citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
-
 Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
 D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
 Image Light Curve Data
@@ -349,6 +341,14 @@ Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
 The Astronomical Journal, **163**, 247
 ([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
+
+Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
+Daniel**; & Hayward, Christopher C., 2022, *[A Bayesian Population Model
+for the Observed Dust Attenuation in
+Galaxies](http://dx.doi.org/10.3847/1538-4357/ac6c80)*, The
+Astrophysical Journal, **932**, 54
+([arXiv:2202.05102](http://arxiv.org/abs/2202.05102)) \[[36
+citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
 David W.; & Hundertmark, M., 2022, *[The Thresher: Lucky imaging without
@@ -922,7 +922,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12681
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[12683
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
