@@ -10,7 +10,7 @@
       "Bedell, Megan",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ae4d0b",
     "page": 259,
@@ -589,7 +589,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -655,7 +655,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -748,7 +748,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 154,
+    "citations": 155,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -767,7 +767,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 35,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -1159,7 +1159,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "software",
     "doi": "10.5281/zenodo.10026684",
     "page": null,
@@ -1334,7 +1334,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1691,7 +1691,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.7600689",
     "page": null,
@@ -1838,29 +1838,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.04703",
-    "authors": [
-      "Eadie, Gwendolyn M.",
-      "Speagle, Joshua S.",
-      "Cisewski-Kehe, Jessi",
-      "Foreman-Mackey, Daniel",
-      "Huppenkothen, Daniela",
-      "Jones, David E.",
-      "Springford, Aaron",
-      "Tak, Hyungsuk"
-    ],
-    "citations": 15,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.04703",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Practical Guidance for Bayesian Inference in Astronomy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
@@ -1881,6 +1858,29 @@
     "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
     "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
     "volume": "519",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2302.04703",
+    "authors": [
+      "Eadie, Gwendolyn M.",
+      "Speagle, Joshua S.",
+      "Cisewski-Kehe, Jessi",
+      "Foreman-Mackey, Daniel",
+      "Huppenkothen, Daniela",
+      "Jones, David E.",
+      "Springford, Aaron",
+      "Tak, Hyungsuk"
+    ],
+    "citations": 15,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.04703",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Practical Guidance for Bayesian Inference in Astronomy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -2022,7 +2022,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 54,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5118,
+    "citations": 5129,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3387,7 +3387,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 65,
+    "citations": 64,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3892,7 +3892,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 225,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4586,7 +4586,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 51,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -5642,24 +5642,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Tollerud, Erik",
       "Smith, Arfon",
       "Price-Whelan, Adrian",
@@ -5786,6 +5768,24 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
     "year": "2019"
   },
   {
@@ -6174,7 +6174,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 319,
+    "citations": 320,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6200,7 +6200,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 237,
+    "citations": 238,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6771,7 +6771,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 239,
+    "citations": 240,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6822,7 +6822,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 906,
+    "citations": 908,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7632,7 +7632,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2129,
+    "citations": 2128,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7703,7 +7703,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 311,
+    "citations": 310,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7871,7 +7871,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 56,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7948,7 +7948,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -8068,7 +8068,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 583,
+    "citations": 584,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8087,7 +8087,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 194,
+    "citations": 191,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -8187,7 +8187,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
@@ -8340,7 +8340,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 159,
+    "citations": 160,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8566,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12711,
+    "citations": 12706,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8590,7 +8590,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 200,
+    "citations": 201,
     "doctype": "software",
     "doi": null,
     "page": null,
