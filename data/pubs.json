@@ -10,7 +10,7 @@
       "Bedell, Megan",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ae4d0b",
     "page": 259,
@@ -589,7 +589,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -655,7 +655,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -1798,7 +1798,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 267,
+    "citations": 268,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5117,
+    "citations": 5127,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5360,7 +5360,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 278,
+    "citations": 279,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -6200,7 +6200,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 236,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -7632,7 +7632,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2129,
+    "citations": 2130,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7703,7 +7703,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 311,
+    "citations": 312,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -8068,7 +8068,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 583,
+    "citations": 584,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8566,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12719,
+    "citations": 12726,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8590,7 +8590,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 200,
+    "citations": 201,
     "doctype": "software",
     "doi": null,
     "page": null,
