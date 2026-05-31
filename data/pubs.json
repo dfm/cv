@@ -10,7 +10,7 @@
       "Bedell, Megan",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ae4d0b",
     "page": 259,
@@ -1242,7 +1242,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1334,7 +1334,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 146,
+    "citations": 147,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1798,7 +1798,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 268,
+    "citations": 269,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5168,
+    "citations": 5172,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2557,7 +2557,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4017",
     "page": 4,
@@ -3164,7 +3164,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -3714,7 +3714,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 39,
+    "citations": 40,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -3892,7 +3892,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 226,
+    "citations": 227,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -6200,7 +6200,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 236,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6755,7 +6755,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 216,
+    "citations": 217,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6822,7 +6822,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 908,
+    "citations": 909,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7632,7 +7632,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2132,
+    "citations": 2133,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7985,24 +7985,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Aigrain, Suzanne",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258396,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "Probabilistic stellar rotation periods with Gaussian processes",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Foreman-Mackey, Daniel",
       "Hogg, David W.",
       "Sch{\\\"o}lkopf, Bernhard"
@@ -8015,6 +7997,24 @@
     "pubdate": "2015-08-00",
     "title": "The search for single exoplanet transits in the Kepler light curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258352F",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Aigrain, Suzanne",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258396,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "Probabilistic stellar rotation periods with Gaussian processes",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
     "volume": "29",
     "year": "2015"
   },
@@ -8068,7 +8068,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 586,
+    "citations": 588,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8566,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12753,
+    "citations": 12758,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8590,7 +8590,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 202,
+    "citations": 201,
     "doctype": "software",
     "doi": null,
     "page": null,
