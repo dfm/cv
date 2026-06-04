@@ -589,7 +589,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 27,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -655,7 +655,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5190,
+    "citations": 5188,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3387,7 +3387,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 65,
+    "citations": 66,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -4914,7 +4914,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 231,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -6822,7 +6822,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 911,
+    "citations": 912,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7703,7 +7703,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 312,
+    "citations": 313,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7985,24 +7985,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Daniel",
-      "Hogg, David W.",
-      "Sch{\\\"o}lkopf, Bernhard"
-    ],
-    "citations": 1,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258352,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "The search for single exoplanet transits in the Kepler light curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258352F",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Angus, Ruth",
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
@@ -8015,6 +7997,24 @@
     "pubdate": "2015-08-00",
     "title": "Probabilistic stellar rotation periods with Gaussian processes",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258396A",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel",
+      "Hogg, David W.",
+      "Sch{\\\"o}lkopf, Bernhard"
+    ],
+    "citations": 1,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258352,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "The search for single exoplanet transits in the Kepler light curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258352F",
     "volume": "29",
     "year": "2015"
   },
@@ -8566,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12767,
+    "citations": 12772,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8590,7 +8590,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 202,
+    "citations": 201,
     "doctype": "software",
     "doi": null,
     "page": null,
