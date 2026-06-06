@@ -1375,7 +1375,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 49,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1838,29 +1838,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2210.03615",
-    "authors": [
-      "Dharmawardena, T. E.",
-      "Bailer-Jones, C. A. L.",
-      "Fouesneau, M.",
-      "Foreman-Mackey, D.",
-      "Coronica, P.",
-      "Colnaghi, T.",
-      "M{\\\"u}ller, T.",
-      "Henshaw, J."
-    ],
-    "citations": 19,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stac2790",
-    "page": 228,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2023-02-00",
-    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
-    "volume": "519",
-    "year": "2023"
-  },
-  {
     "arxiv": "2302.04703",
     "authors": [
       "Eadie, Gwendolyn M.",
@@ -1881,6 +1858,29 @@
     "title": "Practical Guidance for Bayesian Inference in Astronomy",
     "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
     "volume": null,
+    "year": "2023"
+  },
+  {
+    "arxiv": "2210.03615",
+    "authors": [
+      "Dharmawardena, T. E.",
+      "Bailer-Jones, C. A. L.",
+      "Fouesneau, M.",
+      "Foreman-Mackey, D.",
+      "Coronica, P.",
+      "Colnaghi, T.",
+      "M{\\\"u}ller, T.",
+      "Henshaw, J."
+    ],
+    "citations": 19,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stac2790",
+    "page": 228,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2023-02-00",
+    "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
+    "volume": "519",
     "year": "2023"
   },
   {
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5188,
+    "citations": 5194,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3540,6 +3540,24 @@
     "year": "2021"
   },
   {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 41,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -3555,24 +3573,6 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 41,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -3892,7 +3892,7 @@
       "Price-Whelan, Adrian",
       "Savel, Arjun"
     ],
-    "citations": 227,
+    "citations": 226,
     "doctype": "article",
     "doi": "10.21105/joss.03285",
     "page": 3285,
@@ -4429,7 +4429,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 343,
+    "citations": 342,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4914,7 +4914,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 232,
+    "citations": 233,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -5642,24 +5642,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Morton, Timothy",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 17,
-    "doctype": "article",
-    "doi": "10.21105/joss.01469",
-    "page": 1469,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2019-09-00",
-    "title": "stardate: Combining dating methods for better stellar ages",
-    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
-    "volume": "4",
-    "year": "2019"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Tollerud, Erik",
       "Smith, Arfon",
       "Price-Whelan, Adrian",
@@ -5786,6 +5768,24 @@
     "title": "Sustaining Community-Driven Software for Astronomy in the 2020s",
     "url": "https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.180T",
     "volume": "51",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Morton, Timothy",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 17,
+    "doctype": "article",
+    "doi": "10.21105/joss.01469",
+    "page": 1469,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2019-09-00",
+    "title": "stardate: Combining dating methods for better stellar ages",
+    "url": "https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1469A",
+    "volume": "4",
     "year": "2019"
   },
   {
@@ -6174,7 +6174,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 319,
+    "citations": 320,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6771,7 +6771,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 239,
+    "citations": 240,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6822,7 +6822,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 912,
+    "citations": 914,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7871,7 +7871,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 56,
+    "citations": 40,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7948,7 +7948,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -8080,6 +8080,40 @@
     "year": "2015"
   },
   {
+    "arxiv": "1502.06621",
+    "authors": [
+      "Weisz, Daniel R.",
+      "Johnson, L. Clifton",
+      "Foreman-Mackey, Daniel",
+      "Dolphin, Andrew E.",
+      "Beerman, Lori C.",
+      "Williams, Benjamin F.",
+      "Dalcanton, Julianne J.",
+      "Rix, Hans-Walter",
+      "Hogg, David W.",
+      "Fouesneau, Morgan",
+      "Johnson, Benjamin D.",
+      "Bell, Eric F.",
+      "Boyer, Martha L.",
+      "Gouliermis, Dimitrios",
+      "Guhathakurta, Puragra",
+      "Kalirai, Jason S.",
+      "Lewis, Alexia R.",
+      "Seth, Anil C.",
+      "Skillman, Evan D."
+    ],
+    "citations": 76,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/806/2/198",
+    "page": 198,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2015-06-00",
+    "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
+    "volume": "806",
+    "year": "2015"
+  },
+  {
     "arxiv": "1502.06965",
     "authors": [
       "Angus, Ruth",
@@ -8116,40 +8150,6 @@
     "pubdate": "2015-06-00",
     "title": "A Systematic Search for Transiting Planets in the K2 Data",
     "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..215F",
-    "volume": "806",
-    "year": "2015"
-  },
-  {
-    "arxiv": "1502.06621",
-    "authors": [
-      "Weisz, Daniel R.",
-      "Johnson, L. Clifton",
-      "Foreman-Mackey, Daniel",
-      "Dolphin, Andrew E.",
-      "Beerman, Lori C.",
-      "Williams, Benjamin F.",
-      "Dalcanton, Julianne J.",
-      "Rix, Hans-Walter",
-      "Hogg, David W.",
-      "Fouesneau, Morgan",
-      "Johnson, Benjamin D.",
-      "Bell, Eric F.",
-      "Boyer, Martha L.",
-      "Gouliermis, Dimitrios",
-      "Guhathakurta, Puragra",
-      "Kalirai, Jason S.",
-      "Lewis, Alexia R.",
-      "Seth, Anil C.",
-      "Skillman, Evan D."
-    ],
-    "citations": 76,
-    "doctype": "article",
-    "doi": "10.1088/0004-637X/806/2/198",
-    "page": 198,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2015-06-00",
-    "title": "The High-mass Stellar Initial Mass Function in M31 Clusters",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015ApJ...806..198W",
     "volume": "806",
     "year": "2015"
   },
@@ -8411,7 +8411,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 51,
+    "citations": 44,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8566,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12772,
+    "citations": 12774,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8590,7 +8590,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 201,
+    "citations": 203,
     "doctype": "software",
     "doi": null,
     "page": null,
