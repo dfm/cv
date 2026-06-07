@@ -48,15 +48,15 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 35761 stars / 3610 forks  
+[**jax**](https://github.com/jax-ml/jax) — 35765 stars / 3610 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 346 stars / 34 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 347 stars / 34 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1586 stars / 440 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1587 stars / 440 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -78,8 +78,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 112 / first author: 9 / citations: 31,397 / h-index: 54
-(2026-06-06)
+refereed: 113 / first author: 9 / citations: 31,482 / h-index: 55
+(2026-06-07)
 
 ### Refereed publications
 
@@ -302,7 +302,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[5194
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[5195
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -614,7 +614,7 @@ Elisa V.; *et al.* (incl. **DFM**), 2019, *[The L 98-59 System: Three
 Transiting, Terrestrial-size Planets Orbiting a Nearby M
 Dwarf](http://dx.doi.org/10.3847/1538-3881/ab2459)*, The Astronomical
 Journal, **158**, 32
-([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[124
+([arXiv:1903.08017](http://arxiv.org/abs/1903.08017)) \[[125
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K)\]
 
 Siemiginowska, Aneta; Eadie, Gwendolyn; Czekala, Ian; Feigelson, Eric;
@@ -894,6 +894,14 @@ Catalogs](http://dx.doi.org/10.1088/0004-637X/795/1/64)*, The
 Astrophysical Journal, **795**, 64
 ([arXiv:1406.3020](http://arxiv.org/abs/1406.3020)) \[[265
 citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...795...64F)\]
+
+Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
+**Foreman-Mackey, Daniel**; *et al.*, 2014, *[Large Eccentricity, Low
+Mutual Inclination: The Three-dimensional Architecture of a Hierarchical
+System of Giant Planets](http://dx.doi.org/10.1088/0004-637X/791/2/89)*,
+The Astrophysical Journal, **791**, 89
+([arXiv:1405.5229](http://arxiv.org/abs/1405.5229)) \[[83
+citations](https://ui.adsabs.harvard.edu/abs/2014ApJ...791...89D)\]
 
 Dawson, Rebekah I.; Johnson, John Asher; Fabrycky, Daniel C.;
 **Foreman-Mackey, Daniel**; *et al.*, 2014, *[Large Eccentricity, Low

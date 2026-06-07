@@ -278,7 +278,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 19,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5194,
+    "citations": 5195,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -5928,7 +5928,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 124,
+    "citations": 125,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -7628,22 +7628,6 @@
     "year": "2016"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 2134,
-    "doctype": "article",
-    "doi": "10.21105/joss.00024",
-    "page": 24,
-    "pub": "The Journal of Open Source Software",
-    "pubdate": "2016-06-00",
-    "title": "corner.py: Scatterplot matrices in Python",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016JOSS....1...24F",
-    "volume": "1",
-    "year": "2016"
-  },
-  {
     "arxiv": "1602.07939",
     "authors": [
       "Fischer, Debra A.",
@@ -7712,6 +7696,22 @@
     "title": "State of the Field: Extreme Precision Radial Velocities",
     "url": "https://ui.adsabs.harvard.edu/abs/2016PASP..128f6001F",
     "volume": "128",
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2134,
+    "doctype": "article",
+    "doi": "10.21105/joss.00024",
+    "page": 24,
+    "pub": "The Journal of Open Source Software",
+    "pubdate": "2016-06-00",
+    "title": "corner.py: Scatterplot matrices in Python",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016JOSS....1...24F",
+    "volume": "1",
     "year": "2016"
   },
   {
@@ -8368,6 +8368,35 @@
     "title": "george: George (v0.2.0)",
     "url": "https://ui.adsabs.harvard.edu/abs/2014zndo.....11989F",
     "volume": null,
+    "year": "2014"
+  },
+  {
+    "arxiv": "1405.5229",
+    "authors": [
+      "Dawson, Rebekah I.",
+      "Johnson, John Asher",
+      "Fabrycky, Daniel C.",
+      "Foreman-Mackey, Daniel",
+      "Murray-Clay, Ruth A.",
+      "Buchhave, Lars A.",
+      "Cargile, Phillip A.",
+      "Clubb, Kelsey I.",
+      "Fulton, Benjamin J.",
+      "Hebb, Leslie",
+      "Howard, Andrew W.",
+      "Huber, Daniel",
+      "Shporer, Avi",
+      "Valenti, Jeff A."
+    ],
+    "citations": 83,
+    "doctype": "article",
+    "doi": "10.1088/0004-637X/791/2/89",
+    "page": 89,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2014-08-00",
+    "title": "Large Eccentricity, Low Mutual Inclination: The Three-dimensional Architecture of a Hierarchical System of Giant Planets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2014ApJ...791...89D",
+    "volume": "791",
     "year": "2014"
   },
   {
