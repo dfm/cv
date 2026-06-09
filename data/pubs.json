@@ -256,7 +256,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -488,7 +488,7 @@
       "Shih, Yu-hsuan",
       "Barnett, Alex"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ad82cd",
     "page": 250,
@@ -767,7 +767,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 36,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -1242,7 +1242,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1849,7 +1849,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5196,
+    "citations": 5199,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3234,7 +3234,7 @@
       "Morris, Brett M.",
       "Schlawin, Everett"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.5567781",
     "page": null,
@@ -3732,7 +3732,7 @@
       "Foreman-Mackey, Daniel",
       "Hedges, Christina"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.21105/joss.03071",
     "page": 3071,
@@ -4914,7 +4914,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 233,
+    "citations": 232,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -5090,7 +5090,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 162,
+    "citations": 163,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -6578,7 +6578,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 146,
+    "citations": 145,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6718,7 +6718,7 @@
       "Birnstiel, Tilman",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 308,
+    "citations": 307,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
@@ -6735,7 +6735,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 285,
+    "citations": 286,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6771,7 +6771,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 240,
+    "citations": 241,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6822,7 +6822,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 914,
+    "citations": 913,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7245,7 +7245,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 142,
+    "citations": 143,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7871,7 +7871,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 40,
+    "citations": 56,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7948,7 +7948,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 176,
+    "citations": 177,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -8322,7 +8322,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 265,
+    "citations": 264,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -8411,7 +8411,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 44,
+    "citations": 51,
     "doctype": "software",
     "doi": "10.5281/zenodo.11020",
     "page": null,
@@ -8566,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12775,
+    "citations": 12779,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8590,7 +8590,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 203,
+    "citations": 202,
     "doctype": "software",
     "doi": null,
     "page": null,
