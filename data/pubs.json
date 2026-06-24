@@ -655,7 +655,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -748,7 +748,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 156,
+    "citations": 157,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -862,7 +862,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1334,7 +1334,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 149,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1375,7 +1375,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -2493,7 +2493,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5256,
+    "citations": 5273,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2744,7 +2744,7 @@
       "Calkins, Michael L.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 36,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac6271",
     "page": 247,
@@ -3110,7 +3110,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -3540,25 +3540,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.00007",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina",
-      "Hogg, David W."
-    ],
-    "citations": 58,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb8",
-    "page": 123,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
     "arxiv": "2102.01697",
     "authors": [
       "Luger, Rodrigo",
@@ -3573,6 +3554,25 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.00007",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina",
+      "Hogg, David W."
+    ],
+    "citations": 59,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb8",
+    "page": 123,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
     "volume": "162",
     "year": "2021"
   },
@@ -4512,7 +4512,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 67,
+    "citations": 120,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -5382,7 +5382,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -6822,7 +6822,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 917,
+    "citations": 918,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7632,7 +7632,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2140,
+    "citations": 2141,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7871,7 +7871,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 41,
+    "citations": 57,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -7948,7 +7948,7 @@
       "Bieryla, Allyson",
       "Mann, Andrew W."
     ],
-    "citations": 175,
+    "citations": 176,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/25",
     "page": 25,
@@ -8068,7 +8068,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 590,
+    "citations": 592,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8566,7 +8566,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12815,
+    "citations": 12830,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8590,7 +8590,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 202,
+    "citations": 203,
     "doctype": "software",
     "doi": null,
     "page": null,
