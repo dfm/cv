@@ -10,9 +10,9 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3669,
+              "forkCount": 3673,
               "stargazers": {
-                "totalCount": 35965
+                "totalCount": 35976
               },
               "watchers": {
                 "totalCount": 330
@@ -25,7 +25,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 33,
+              "forkCount": 34,
               "stargazers": {
                 "totalCount": 347
               },
@@ -42,7 +42,7 @@
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 439,
               "stargazers": {
-                "totalCount": 1588
+                "totalCount": 1589
               },
               "watchers": {
                 "totalCount": 81

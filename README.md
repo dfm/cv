@@ -48,15 +48,15 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 <div class="list">
 
 
-[**jax**](https://github.com/jax-ml/jax) — 35965 stars / 3669 forks  
+[**jax**](https://github.com/jax-ml/jax) — 35976 stars / 3673 forks  
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 347 stars / 33 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 347 stars / 34 forks  
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1588 stars / 439 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1589 stars / 439 forks  
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
@@ -79,7 +79,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 112 / first author: 9 / citations: 31,786 / h-index: 55
-(2026-07-06)
+(2026-07-07)
 
 ### Refereed publications
 
