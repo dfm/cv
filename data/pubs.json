@@ -256,7 +256,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -2531,7 +2531,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5387,
+    "citations": 5393,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -7670,7 +7670,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2155,
+    "citations": 2158,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8604,7 +8604,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12925,
+    "citations": 12930,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
