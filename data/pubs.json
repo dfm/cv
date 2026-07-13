@@ -256,7 +256,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -2531,7 +2531,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5393,
+    "citations": 5402,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -4467,7 +4467,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 344,
+    "citations": 345,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -7670,7 +7670,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2158,
+    "citations": 2159,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8106,7 +8106,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 591,
+    "citations": 592,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8604,7 +8604,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12930,
+    "citations": 12939,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
