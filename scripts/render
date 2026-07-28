@@ -81,7 +81,10 @@ def format_pub(args):
 def format_repo(repo):
     repo = repo["node"]
     for k in ["name", "description"]:
-        repo[k] = utf8totex.utf8totex(repo[k])
+        if repo.get(k) is not None:
+            repo[k] = utf8totex.utf8totex(repo[k])
+        else:
+            repo[k] = ""
     txt = "\\item \\href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
     txt += "{repo[stargazers][totalCount]} stars / "
     txt += "{repo[forkCount]} forks \\\\\n"
@@ -163,6 +166,10 @@ if __name__ == "__main__":
     # Write the repo info
     with open("data/repos.json", "r") as f:
         repos = json.load(f)
-    repos = repos["data"]["user"]["pinnedItems"]["edges"]
+    repos = [
+        r
+        for r in repos["data"]["user"]["pinnedItems"]["edges"]
+        if r.get("node") is not None
+    ]
     with open("tex/repos.tex", "w") as f:
         f.write("\n\n".join(map(format_repo, repos)))
