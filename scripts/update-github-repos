@@ -39,5 +39,27 @@ r = requests.post(
 )
 r.raise_for_status()
 result = r.json()
+
+# Log the raw response for debugging
+import sys
+print("GraphQL response:", file=sys.stderr)
+print(json.dumps(result, indent=2), file=sys.stderr)
+
+# Check for null nodes
+edges = result.get("data", {}).get("user", {}).get("pinnedItems", {}).get("edges", [])
+for i, edge in enumerate(edges):
+    node = edge.get("node")
+    if node is None:
+        print(f"WARNING: Edge {i} has a null node!", file=sys.stderr)
+    elif not node:
+        print(f"WARNING: Edge {i} has an empty node (inline fragment didn't match)!", file=sys.stderr)
+    else:
+        name = node.get("name", "<no name>")
+        missing = [k for k in ["name", "description", "url", "homepageUrl", "forkCount", "stargazers"] if node.get(k) is None]
+        if missing:
+            print(f"WARNING: Repo '{name}' is missing fields: {missing}", file=sys.stderr)
+        else:
+            print(f"OK: Repo '{name}' has all required fields", file=sys.stderr)
+
 with open("data/repos.json", "w") as f:
     json.dump(result, f, indent=2)
