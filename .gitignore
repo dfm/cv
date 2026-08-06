@@ -14,3 +14,5 @@ __pycache__
 *.fls
 *.synctex.gz
 cache
+/target
+Cargo.lock

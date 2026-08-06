@@ -1,0 +1,15 @@
+[package]
+name = "dfm-cv"
+version = "0.1.0"
+authors = ["Dan Foreman-Mackey <foreman.mackey@gmail.com>"]
+edition = "2018"
+readme = "README.md"
+homepage = "https://github.com/dfm/cv"
+repository = "https://github.com/dfm/cv.git"
+description = "My CV"
+license = "CC BY"
+
+[dependencies]
+adsabs = "0.1"
+serde_json = "1.0"
+html-escape = "0.2"
