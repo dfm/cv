@@ -38,7 +38,7 @@ jobs:
         run: make
         env:
           ADS_DEV_KEY: ${{secrets.ADS_DEV_KEY}}
-          GITHUB_API_KEY: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_API_KEY: ${{secrets.GH_API_KEY}}
       - name: Push updated data files
         continue-on-error: true
         run: |
