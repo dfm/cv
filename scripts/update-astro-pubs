@@ -5,8 +5,11 @@ import os
 import json
 import importlib.util
 from operator import itemgetter
+import warnings
 
-import ads
+# The ads package has stale escape sequences that trip newer Pythons
+warnings.filterwarnings("ignore", category=SyntaxWarning)
+import ads  # noqa: E402
 
 here = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location(

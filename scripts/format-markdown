@@ -1,8 +1,22 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import os
+
+import pypandoc
+
 
 if __name__ == "__main__":
+    # pandoc resolves \input relative to the working directory
+    os.chdir("tex")
+    pypandoc.convert_file(
+        "cv.tex",
+        "gfm",
+        outputfile="../README.md",
+        extra_args=["-s", "--template=template.markdown"],
+    )
+    os.chdir("..")
+
     with open("README.md", "r") as f:
         lines = f.read().splitlines()
 

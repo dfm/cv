@@ -9,13 +9,12 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 ## Daniel Foreman-Mackey
 
  <span class="sans-serif">dfm@dfm.io,
-https://dfm.io</span>  
-Member of Technical Staff, Anthropic, New York, NY  
+https://dfm.io</span>\
+Member of Technical Staff, Anthropic, New York, NY\
 
 ## Education
 
 <div class="list">
-
 
 PhD 2015, Department of Physics, New York University. Advisor: Hogg
 
@@ -29,7 +28,6 @@ BSc 2008, Department of Physics, McGill University, Canada.
 ## Positions
 
 <div class="list">
-
 
 Member of Technical Staff, Anthropic, 2025–present.
 
@@ -47,30 +45,29 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 <div class="list">
 
-
-[**jax**](https://github.com/jax-ml/jax) — 36225 stars / 3748 forks  
+[**jax**](https://github.com/jax-ml/jax) — 36225 stars / 3748 forks\
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
-[**tinygp**](https://github.com/dfm/tinygp) — 347 stars / 34 forks  
+[**tinygp**](https://github.com/dfm/tinygp) — 347 stars / 34 forks\
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1597 stars / 440 forks  
+[**emcee**](https://github.com/dfm/emcee) — 1597 stars / 440 forks\
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
 [**corner.py**](https://github.com/dfm/corner.py) — 575 stars / 234
-forks  
+forks\
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
 [**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 239 stars
-/ 57 forks  
+/ 57 forks\
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
 
-[**daft**](https://github.com/daft-dev/daft) — 687 stars / 121 forks  
+[**daft**](https://github.com/daft-dev/daft) — 687 stars / 121 forks\
 Render probabilistic graphical models using matplotlib
 [\[docs\]](https://docs.daft-pgm.org)
 
@@ -79,12 +76,11 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 112 / first author: 9 / citations: 32,577 / h-index: 55
-(2026-08-30)
+(2026-08-29)
 
 ### Refereed publications
 
 <div class="list">
-
 
 Rubenzahl, Ryan A.; Hattori, Soichiro; Särkkä, Simo; Farr, Will M.;
 *et al.* (incl. **DFM**), 2026, *[Scalable Gaussian Processes for
@@ -941,7 +937,6 @@ citations](https://ui.adsabs.harvard.edu/abs/2013ApJ...762..123W)\]
 
 <div class="list">
 
-
 Hey, Daniel; Huber, Daniel; Ong, Joel; Stello, Dennis; &
 **Foreman-Mackey, Daniel**, 2024, *[Precise Time-Domain Asteroseismology
 and a Revised Target List for TESS Solar-Like
@@ -1011,7 +1006,6 @@ Fellowship at the Center for Computational Astrophysics.
 
 <div class="list">
 
-
 *Current postdocs:* Thavisha Dharmawardena, Jiayin Dong, Nora Eisner,
 Lionel Garcia, Joseph Long.
 
@@ -1028,7 +1022,6 @@ Jaehnig, Gautam Nagaraj, Pa Chia Thao, Nhat Quang Hoang Tran.
 
 <div class="list">
 
-
 *Open software for Astrophysics*, 2023, Invited Plenary, 241st AAS
 Meeting, Seattle.
 
@@ -1036,9 +1029,9 @@ Meeting, Seattle.
 Oxford, UK.
 
 *Methods for scalable probabilistic inference*, 2022, Colloquium,
-University of Illinois Urbana-Champaign.  
-2022, Colloquium, UC Berkeley.  
-2022, Colloquium, University of Oxford, UK.  
+University of Illinois Urbana-Champaign.\
+2022, Colloquium, UC Berkeley.\
+2022, Colloquium, University of Oxford, UK.\
 2021, Invited Talk, Institute for Pure & Applied Mathematics, UCLA.
 
 *Advanced probabilistic modeling*, 2021, Tutorial, Harley Wood Winter
@@ -1071,8 +1064,8 @@ Colloquium, Center for Statistics and Machine Learning, Princeton.
 
 *Data-driven discovery in the astronomical time domain*, 2018,
 Colloquium, Institute for Theory and Computation, Harvard-Smithsonian
-Center for Astrophysics.  
-2018, Colloquium, University of California, Santa Cruz.  
+Center for Astrophysics.\
+2018, Colloquium, University of California, Santa Cruz.\
 2017, Interdisciplinary Colloquium, CIERA, Northwestern University.
 
 *A practical introduction to Gaussian Processes for astronomy*, 2017,
@@ -1080,9 +1073,9 @@ Invited Talk, Statistical Challenges in Astrophysics, University of New
 South Wales, Australia.
 
 *Long-period transiting planets & their population*, 2016, Invited talk,
-Exoplanets I, Davos.  
+Exoplanets I, Davos.\
 2016, Invited talk, Statistical Challenges of Modern Astrophysics,
-Carnegie Mellon.  
+Carnegie Mellon.\
 2016, Colloquium, Villanova.
 
 *Scalable Gaussian processes & the search for transiting exoplanets*,
@@ -1115,7 +1108,6 @@ University).
 
 <div class="list">
 
-
 NSF-CDS&E (PI: Agol) *Development of fast, multi-dimensional Gaussian
 Processes for Exoplanet discovery and beyond*, \$471,048.00, 2019–2022
 
@@ -1138,7 +1130,6 @@ exoplanets using K2*, 100,000 CPU hours, 2015–2016
 
 <div class="list">
 
-
 Kavli Fellow, 2015.
 
 Sagan Postdoctoral Fellowship, 2015–2017.
@@ -1156,7 +1147,6 @@ NSERC Undergraduate Summer Research Award, 2007.
 ## Professional service & activities
 
 <div class="list">
-
 
 Associate Editor-in-Chief — Journal of Open Source Software, 2019–2025
 

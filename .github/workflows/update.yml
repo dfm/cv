@@ -26,12 +26,6 @@ jobs:
           key: tectonic-cache-${{ github.sha }}
           restore-keys: |
             tectonic-cache-
-      - name: Install pandoc
-        run: |
-          curl -L -s https://github.com/jgm/pandoc/releases/download/$PANDOC_VERSION/pandoc-$PANDOC_VERSION-linux-amd64.tar.gz \
-          | sudo tar xvz --strip-components=2 -C /usr/local/bin pandoc-$PANDOC_VERSION/bin/pandoc
-        env:
-          PANDOC_VERSION: 3.1
       - name: Update publication list
         run: uv run make
         env:
