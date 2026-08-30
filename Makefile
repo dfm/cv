@@ -1,9 +1,9 @@
 all:
-	scripts/update-astro-pubs
-	scripts/update-github-repos
-	scripts/render
+	uv run scripts/update-astro-pubs
+	uv run scripts/update-github-repos
+	uv run scripts/render
 	cd tex && pandoc -s cv.tex -o ../README.md --template=template.markdown --to=gfm
-	scripts/format-markdown
+	uv run scripts/format-markdown
 	git --no-pager diff
 
 tex:

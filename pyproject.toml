@@ -1,0 +1,9 @@
+[project]
+name = "cv"
+version = "0.0.0"
+description = "Scripts for building Dan Foreman-Mackey's CV"
+requires-python = ">=3.13"
+dependencies = [
+    "ads",
+    "requests",
+]

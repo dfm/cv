@@ -33,7 +33,7 @@ jobs:
         env:
           PANDOC_VERSION: 3.1
       - name: Update publication list
-        run: uv run make
+        run: make
         env:
           ADS_DEV_KEY: ${{secrets.ADS_DEV_KEY}}
           GITHUB_API_KEY: ${{secrets.GH_API_KEY}}
