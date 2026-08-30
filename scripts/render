@@ -165,6 +165,7 @@ if __name__ == "__main__":
     # Write the repo info
     with open("data/repos.json", "r") as f:
         repos = json.load(f)
+    print(repos)
     repos = repos["data"]["user"]["pinnedItems"]["edges"]
     with open("tex/repos.tex", "w") as f:
         f.write("\n\n".join(map(format_repo, repos)))
