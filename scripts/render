@@ -81,6 +81,7 @@ def format_pub(args):
 def format_repo(repo):
     repo = repo["node"]
     for k in ["name", "description"]:
+        print(k, repo[k])
         repo[k] = utf8totex.utf8totex(repo[k])
     txt = "\\item \\href{{{repo[url]}}}{{{{\\bf {repo[name]}}}}} --- "
     txt += "{repo[stargazers][totalCount]} stars / "
