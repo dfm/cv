@@ -5,18 +5,34 @@ import re
 import json
 import requests
 
+# Google Scholar blocks datacenter IPs (e.g. GitHub Actions), so this script
+# is meant to be run by hand from a normal machine.
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
 
 def get_number_of_citations(url):
-    headers = {
-        "User-Agent": "DFM's CV updater",
-        "From": "foreman.mackey@gmail.com",
-    }
-    r = requests.get(url, headers=headers)
+    r = requests.get(url, headers=HEADERS)
     try:
         r.raise_for_status()
     except Exception as e:
         print(e)
         return None
+
+    # The "N results" header on Scholar's "cited by" pages is unreliable for
+    # non-browser clients, but the per-year histogram is embedded as
+    # data-year/data-count attributes and sums to the total. The page has two
+    # copies of the histogram (a sidebar preview of recent years and the full
+    # one), so dedupe by year before summing.
+    pairs = re.findall(r'data-year="([0-9]+)" data-count="([0-9]+)"', r.text)
+    if pairs:
+        return sum({y: int(c) for y, c in pairs}.values())
+
     results = re.findall("([0-9,]+) results", r.text)
     if not len(results):
         print("no results found")
