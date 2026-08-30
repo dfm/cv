@@ -256,7 +256,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 24,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -300,7 +300,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 22,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -448,7 +448,7 @@
       "NeutralKaon",
       "Czekala, Ian"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "software",
     "doi": "10.5281/zenodo.14209694",
     "page": null,
@@ -510,7 +510,7 @@
       "Shih, Yu-hsuan",
       "Barnett, Alex"
     ],
-    "citations": 10,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ad82cd",
     "page": 250,
@@ -588,7 +588,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 16,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -611,7 +611,7 @@
       "M{\\\"u}ller, T.",
       "Wilson, A. G."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1093/mnras/stae1474",
     "page": 3480,
@@ -635,7 +635,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 31,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -739,7 +739,7 @@
       "Mohammed",
       "Hoffimann, J{\\'u}lio"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "software",
     "doi": "10.5281/zenodo.10996751",
     "page": null,
@@ -770,7 +770,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 159,
+    "citations": 161,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -789,7 +789,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -884,7 +884,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 75,
+    "citations": 78,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -975,7 +975,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1006,7 +1006,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.10449846",
     "page": null,
@@ -1309,7 +1309,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 15,
+    "citations": 7,
     "doctype": "software",
     "doi": "10.5281/zenodo.8230430",
     "page": null,
@@ -1339,7 +1339,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.8217584",
     "page": null,
@@ -1356,7 +1356,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 155,
+    "citations": 160,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1397,7 +1397,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 53,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1488,7 +1488,7 @@
       "Patel, Ruskin",
       "Angus, Ruth"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "software",
     "doi": "10.5281/zenodo.7995596",
     "page": null,
@@ -1632,7 +1632,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1836,7 +1836,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 278,
+    "citations": 286,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -1864,11 +1864,11 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
-    "pub": "The Astrophysical Journal",
+    "pub": "The Astrophysical Journal Letters",
     "pubdate": "2023-02-00",
     "title": "A JWST NIRSpec Phase Curve for WASP-121b: Dayside Emission Strongest Eastward of the Substellar Point and Nightside Conditions Conducive to Cloud Formation",
     "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...943L..17M",
@@ -1935,7 +1935,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -2060,7 +2060,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2122,7 +2122,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 22,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -2531,7 +2531,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5443,
+    "citations": 5683,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2716,44 +2716,6 @@
     "year": "2022"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Powell, Brian P.",
-      "Kruse, Ethan",
-      "Montet, Benjamin T.",
-      "Feinstein, Adina D.",
-      "Lewis, Hannah M.",
-      "Foreman-Mackey, Daniel",
-      "Barclay, Thomas",
-      "Quintana, Elisa V.",
-      "Col{\\'o}n, Knicole D.",
-      "Kostov, Veselin B.",
-      "Boyd, Patricia",
-      "Smale, Alan P.",
-      "Mullally, Susan E.",
-      "Schlieder, Joshua E.",
-      "Schnittman, Jeremy D.",
-      "Carroll, Mark L.",
-      "Carriere, Laura E.",
-      "Salmon, Ellen M.",
-      "Strong, Savannah L.",
-      "Acks, Nicko D.",
-      "Pfaff, Bruce E.",
-      "Gerner, Lyn E.",
-      "Burch, Timothy M."
-    ],
-    "citations": 29,
-    "doctype": "article",
-    "doi": "10.3847/2515-5172/ac74c4",
-    "page": 111,
-    "pub": "Research Notes of the American Astronomical Society",
-    "pubdate": "2022-06-00",
-    "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
-    "volume": "6",
-    "year": "2022"
-  },
-  {
     "arxiv": "2110.10707",
     "authors": [
       "Johnson, Marshall C.",
@@ -2811,6 +2773,44 @@
     "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
     "volume": "932",
+    "year": "2022"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Powell, Brian P.",
+      "Kruse, Ethan",
+      "Montet, Benjamin T.",
+      "Feinstein, Adina D.",
+      "Lewis, Hannah M.",
+      "Foreman-Mackey, Daniel",
+      "Barclay, Thomas",
+      "Quintana, Elisa V.",
+      "Col{\\'o}n, Knicole D.",
+      "Kostov, Veselin B.",
+      "Boyd, Patricia",
+      "Smale, Alan P.",
+      "Mullally, Susan E.",
+      "Schlieder, Joshua E.",
+      "Schnittman, Jeremy D.",
+      "Carroll, Mark L.",
+      "Carriere, Laura E.",
+      "Salmon, Ellen M.",
+      "Strong, Savannah L.",
+      "Acks, Nicko D.",
+      "Pfaff, Bruce E.",
+      "Gerner, Lyn E.",
+      "Burch, Timothy M."
+    ],
+    "citations": 29,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/ac74c4",
+    "page": 111,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2022-06-00",
+    "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
+    "volume": "6",
     "year": "2022"
   },
   {
@@ -3148,11 +3148,11 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 28,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
-    "pub": "The Astrophysical Journal",
+    "pub": "The Astrophysical Journal Letters",
     "pubdate": "2022-01-00",
     "title": "V1298 Tau with TESS: Updated Ephemerides, Radii, and Period Constraints from a Second Transit of V1298 Tau e",
     "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F",
@@ -3404,7 +3404,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 141,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3425,7 +3425,7 @@
       "Zhao, Lily L.",
       "Hogg, David W."
     ],
-    "citations": 66,
+    "citations": 68,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2110.06271",
     "page": null,
@@ -3491,7 +3491,7 @@
       "Wright, Duncan J.",
       "Zhang, Hui"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2224",
     "page": 2220,
@@ -3585,7 +3585,7 @@
       "Hedges, Christina",
       "Hogg, David W."
     ],
-    "citations": 60,
+    "citations": 59,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfdb8",
     "page": 123,
@@ -3752,7 +3752,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 41,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -4125,7 +4125,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.4654522",
     "page": null,
@@ -4170,7 +4170,7 @@
       "Cui, Kaiming",
       "Ramos Carvalho, Nuno"
     ],
-    "citations": 57,
+    "citations": 35,
     "doctype": "software",
     "doi": "10.5281/zenodo.1181928",
     "page": null,
@@ -4195,7 +4195,7 @@
       "Gerold, Pierre",
       "Agrawal, Varun"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.4615289",
     "page": null,
@@ -4467,7 +4467,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 347,
+    "citations": 355,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -4624,7 +4624,7 @@
       "Anderson, Lauren",
       "Faherty, Jacqueline K."
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab91b2",
     "page": 90,
@@ -4952,7 +4952,7 @@
       "Zhang, Hui",
       "Zilberman, Perri"
     ],
-    "citations": 235,
+    "citations": 237,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2400-z",
     "page": 497,
@@ -5128,7 +5128,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 167,
+    "citations": 166,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab4fee",
     "page": 123,
@@ -5211,7 +5211,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -5398,7 +5398,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 284,
+    "citations": 289,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5424,7 +5424,7 @@
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
-    "pub": "The Astrophysical Journal",
+    "pub": "The Astrophysical Journal Letters",
     "pubdate": "2019-11-00",
     "title": "Four Newborn Planets Transiting the Young Solar Analog V1298 Tau",
     "url": "https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D",
@@ -5445,7 +5445,7 @@
       "Hogg, David W.",
       "Brewer, John"
     ],
-    "citations": 129,
+    "citations": 131,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab3c53",
     "page": 173,
@@ -5647,7 +5647,7 @@
       "Scolnic, Daniel",
       "Cardoso, Jos{\\'e} Vin{\\'\\i}cius de Miranda"
     ],
-    "citations": 257,
+    "citations": 259,
     "doctype": "article",
     "doi": "10.1088/1538-3873/ab291c",
     "page": 94502,
@@ -5666,7 +5666,7 @@
       "Luger, Rodrigo",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ab346b",
     "page": 11,
@@ -5966,7 +5966,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 125,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -6212,7 +6212,7 @@
       "Lustig-Yaeger, Jacob",
       "Deitrick, Russell"
     ],
-    "citations": 325,
+    "citations": 324,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aae8e5",
     "page": 64,
@@ -6238,7 +6238,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 243,
+    "citations": 248,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6457,11 +6457,11 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
-    "pub": "The Astrophysical Journal",
+    "pub": "The Astrophysical Journal Letters",
     "pubdate": "2018-11-00",
     "title": "Compact Multi-planet Systems are more Common around Metal-poor Hosts",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...867L...3B",
@@ -6579,7 +6579,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 57,
+    "citations": 32,
     "doctype": "software",
     "doi": "10.5281/zenodo.1419754",
     "page": null,
@@ -6599,7 +6599,7 @@
       "Agol, Eric",
       "Saunders, Nicholas"
     ],
-    "citations": 160,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aad230",
     "page": 99,
@@ -6616,7 +6616,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 147,
+    "citations": 149,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6760,7 +6760,7 @@
     "doctype": "article",
     "doi": "10.3847/2041-8213/aac6d7",
     "page": null,
-    "pub": "The Astrophysical Journal",
+    "pub": "The Astrophysical Journal Letters",
     "pubdate": "2018-06-00",
     "title": "A Kinematical Detection of Two Embedded Jupiter-mass Planets in HD 163296",
     "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...860L..12T",
@@ -6773,7 +6773,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 287,
+    "citations": 295,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6793,7 +6793,7 @@
       "Foreman-Mackey, Daniel",
       "Rajpaul, Vinesh"
     ],
-    "citations": 219,
+    "citations": 221,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2109",
     "page": 2094,
@@ -6809,7 +6809,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 246,
+    "citations": 249,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6825,7 +6825,7 @@
     "authors": [
       "Foreman-Mackey, Dan"
     ],
-    "citations": 4,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.1160614",
     "page": null,
@@ -6860,7 +6860,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 932,
+    "citations": 940,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7008,7 +7008,7 @@
       "Price-Whelan, Adrian M.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.21105/joss.00357",
     "page": 357,
@@ -7246,7 +7246,7 @@
       "Heng, Kevin",
       "Queloz, Didier"
     ],
-    "citations": 334,
+    "citations": 336,
     "doctype": "article",
     "doi": "10.1038/s41550-017-0129",
     "page": 129,
@@ -7283,7 +7283,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 145,
+    "citations": 146,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7338,7 +7338,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7563,7 +7563,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 261,
+    "citations": 264,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7670,7 +7670,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2163,
+    "citations": 2196,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7741,7 +7741,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 317,
+    "citations": 323,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -7909,7 +7909,7 @@
       "Hogg, David W.",
       "Brewer, Brendon J."
     ],
-    "citations": 57,
+    "citations": 56,
     "doctype": "software",
     "doi": "10.5281/zenodo.45906",
     "page": null,
@@ -8059,6 +8059,24 @@
   {
     "arxiv": null,
     "authors": [
+      "Angus, Ruth",
+      "Johnson, John",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258432,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Barclay, Thomas",
       "Quintana, Elisa",
       "Adams, Fred",
@@ -8080,24 +8098,6 @@
     "year": "2015"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Angus, Ruth",
-      "Johnson, John",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258432,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
     "arxiv": "1403.6015",
     "authors": [
       "Ambikasaran, Sivaram",
@@ -8106,7 +8106,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 592,
+    "citations": 601,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8125,7 +8125,7 @@
       "Foreman-Mackey, Daniel",
       "McQuillan, Amy"
     ],
-    "citations": 195,
+    "citations": 196,
     "doctype": "article",
     "doi": "10.1093/mnras/stv423",
     "page": 1787,
@@ -8146,7 +8146,7 @@
       "Wang, Dun",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 122,
+    "citations": 124,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/215",
     "page": 215,
@@ -8180,7 +8180,7 @@
       "Seth, Anil C.",
       "Skillman, Evan D."
     ],
-    "citations": 76,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1088/0004-637X/806/2/198",
     "page": 198,
@@ -8360,7 +8360,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 265,
+    "citations": 267,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -8378,7 +8378,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 161,
+    "citations": 162,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8604,7 +8604,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 12963,
+    "citations": 13207,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8628,7 +8628,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 205,
+    "citations": 209,
     "doctype": "software",
     "doi": null,
     "page": null,
