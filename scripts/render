@@ -79,6 +79,7 @@ def format_pub(args):
 
 
 def format_repo(repo):
+    print(repo)
     repo = repo["node"]
     for k in ["name", "description"]:
         print(k, repo[k])
