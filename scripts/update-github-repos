@@ -20,12 +20,7 @@ query = """
             url,
             homepageUrl
             forkCount
-            stargazers {
-              totalCount
-            }
-            watchers {
-              totalCount
-            }
+            stargazerCount
           }
         }
       }
@@ -39,5 +34,7 @@ r = requests.post(
 )
 r.raise_for_status()
 result = r.json()
+if "errors" in result:
+    raise RuntimeError(json.dumps(result["errors"], indent=2))
 with open("data/repos.json", "w") as f:
     json.dump(result, f, indent=2)

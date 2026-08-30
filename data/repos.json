@@ -11,12 +11,7 @@
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
               "forkCount": 3748,
-              "stargazers": {
-                "totalCount": 36225
-              },
-              "watchers": {
-                "totalCount": 329
-              }
+              "stargazerCount": 36225
             }
           },
           {
@@ -26,12 +21,7 @@
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
               "forkCount": 34,
-              "stargazers": {
-                "totalCount": 347
-              },
-              "watchers": {
-                "totalCount": 7
-              }
+              "stargazerCount": 347
             }
           },
           {
@@ -41,12 +31,7 @@
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
               "forkCount": 440,
-              "stargazers": {
-                "totalCount": 1597
-              },
-              "watchers": {
-                "totalCount": 81
-              }
+              "stargazerCount": 1597
             }
           },
           {
@@ -56,12 +41,7 @@
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 234,
-              "stargazers": {
-                "totalCount": 575
-              },
-              "watchers": {
-                "totalCount": 15
-              }
+              "stargazerCount": 575
             }
           },
           {
@@ -71,12 +51,7 @@
               "url": "https://github.com/exoplanet-dev/exoplanet",
               "homepageUrl": "https://docs.exoplanet.codes",
               "forkCount": 57,
-              "stargazers": {
-                "totalCount": 239
-              },
-              "watchers": {
-                "totalCount": 17
-              }
+              "stargazerCount": 239
             }
           },
           {
@@ -86,12 +61,7 @@
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
               "forkCount": 121,
-              "stargazers": {
-                "totalCount": 687
-              },
-              "watchers": {
-                "totalCount": 14
-              }
+              "stargazerCount": 687
             }
           }
         ]
