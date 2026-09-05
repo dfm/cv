@@ -1876,29 +1876,6 @@
     "year": "2023"
   },
   {
-    "arxiv": "2302.04703",
-    "authors": [
-      "Eadie, Gwendolyn M.",
-      "Speagle, Joshua S.",
-      "Cisewski-Kehe, Jessi",
-      "Foreman-Mackey, Daniel",
-      "Huppenkothen, Daniela",
-      "Jones, David E.",
-      "Springford, Aaron",
-      "Tak, Hyungsuk"
-    ],
-    "citations": 16,
-    "doctype": "eprint",
-    "doi": "10.48550/arXiv.2302.04703",
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2023-02-00",
-    "title": "Practical Guidance for Bayesian Inference in Astronomy",
-    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
-    "volume": null,
-    "year": "2023"
-  },
-  {
     "arxiv": "2210.03615",
     "authors": [
       "Dharmawardena, T. E.",
@@ -1919,6 +1896,29 @@
     "title": "The three-dimensional structure of galactic molecular cloud complexes out to 2.5 kpc",
     "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D",
     "volume": "519",
+    "year": "2023"
+  },
+  {
+    "arxiv": "2302.04703",
+    "authors": [
+      "Eadie, Gwendolyn M.",
+      "Speagle, Joshua S.",
+      "Cisewski-Kehe, Jessi",
+      "Foreman-Mackey, Daniel",
+      "Huppenkothen, Daniela",
+      "Jones, David E.",
+      "Springford, Aaron",
+      "Tak, Hyungsuk"
+    ],
+    "citations": 16,
+    "doctype": "eprint",
+    "doi": "10.48550/arXiv.2302.04703",
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2023-02-00",
+    "title": "Practical Guidance for Bayesian Inference in Astronomy",
+    "url": "https://ui.adsabs.harvard.edu/abs/2023arXiv230204703E",
+    "volume": null,
     "year": "2023"
   },
   {
@@ -2531,7 +2531,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5703,
+    "citations": 5702,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2704,7 +2704,7 @@
       "Curtis, Jason L.",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac625a",
     "page": 284,
@@ -6860,7 +6860,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 941,
+    "citations": 942,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7758,7 +7758,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1606.03757",
     "page": null,
@@ -8059,24 +8059,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Angus, Ruth",
-      "Johnson, John",
-      "Foreman-Mackey, Daniel"
-    ],
-    "citations": 0,
-    "doctype": "abstract",
-    "doi": null,
-    "page": 2258432,
-    "pub": "IAU General Assembly",
-    "pubdate": "2015-08-00",
-    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
-    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
-    "volume": "29",
-    "year": "2015"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Barclay, Thomas",
       "Quintana, Elisa",
       "Adams, Fred",
@@ -8094,6 +8076,24 @@
     "pubdate": "2015-08-00",
     "title": "The Five Planets in the Kepler-296 Binary System All Orbit the Primary: An Application of Importance Sampling",
     "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256208B",
+    "volume": "29",
+    "year": "2015"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Angus, Ruth",
+      "Johnson, John",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "abstract",
+    "doi": null,
+    "page": 2258432,
+    "pub": "IAU General Assembly",
+    "pubdate": "2015-08-00",
+    "title": "Systematics-insensitive periodograms with K2 and the detection of exoplanets orbiting evolved stars",
+    "url": "https://ui.adsabs.harvard.edu/abs/2015IAUGA..2258432A",
     "volume": "29",
     "year": "2015"
   },
