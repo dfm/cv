@@ -2531,7 +2531,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5710,
+    "citations": 5709,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -7563,7 +7563,7 @@
       "Foreman-Mackey, Daniel",
       "Deming, Drake"
     ],
-    "citations": 264,
+    "citations": 265,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/4/100",
     "page": 100,
@@ -7670,7 +7670,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2195,
+    "citations": 2193,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8604,7 +8604,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 13230,
+    "citations": 13227,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
