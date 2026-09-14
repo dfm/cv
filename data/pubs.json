@@ -677,7 +677,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -2531,7 +2531,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5709,
+    "citations": 5712,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -7670,7 +7670,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2193,
+    "citations": 2194,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7758,7 +7758,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1606.03757",
     "page": null,
@@ -8378,7 +8378,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 163,
+    "citations": 278,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
@@ -8604,7 +8604,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 13227,
+    "citations": 13226,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
