@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 <div class="list">
 
-[**jax**](https://github.com/jax-ml/jax) — 36367 stars / 3825 forks\
+[**jax**](https://github.com/jax-ml/jax) — 36370 stars / 3828 forks\
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -53,11 +53,11 @@ vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 The tiniest of Gaussian Process libraries
 [\[docs\]](https://tinygp.readthedocs.io)
 
-[**emcee**](https://github.com/dfm/emcee) — 1601 stars / 440 forks\
+[**emcee**](https://github.com/dfm/emcee) — 1602 stars / 440 forks\
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 575 stars / 234
+[**corner.py**](https://github.com/dfm/corner.py) — 576 stars / 234
 forks\
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -75,8 +75,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 112 / first author: 9 / citations: 33,288 / h-index: 55
-(2026-10-01)
+refereed: 112 / first author: 9 / citations: 33,302 / h-index: 55
+(2026-10-02)
 
 ### Refereed publications
 
@@ -298,7 +298,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[5780
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[5788
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -389,7 +389,7 @@ Van Eylen, V.; Astudillo-Defru, N.; Bonfils, X.; Livingston, J.;
 planets orbiting the nearby M dwarf L231-32 (TOI-270) and the M dwarf
 radius valley](http://dx.doi.org/10.1093/mnras/stab2143)*, Monthly
 Notices of the Royal Astronomical Society, **507**, 2154
-([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[144
+([arXiv:2101.01593](http://arxiv.org/abs/2101.01593)) \[[145
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.507.2154V)\]
 
 Gan, Tianjun; Bedell, Megan; Wang, Sharon Xuesong; **Foreman-Mackey,
@@ -919,7 +919,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[13284
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[13289
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
