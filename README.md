@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 <div class="list">
 
-[**jax**](https://github.com/jax-ml/jax) — 36370 stars / 3828 forks\
+[**jax**](https://github.com/jax-ml/jax) — 36370 stars / 3830 forks\
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -57,7 +57,7 @@ The tiniest of Gaussian Process libraries
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 576 stars / 234
+[**corner.py**](https://github.com/dfm/corner.py) — 576 stars / 235
 forks\
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -75,8 +75,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 112 / first author: 9 / citations: 33,302 / h-index: 55
-(2026-10-02)
+refereed: 112 / first author: 9 / citations: 33,317 / h-index: 55
+(2026-10-03)
 
 ### Refereed publications
 
@@ -133,7 +133,7 @@ Barnett, Alex, 2024, *[NIFTY-LS: Fast and Accurate Lomb–Scargle
 Periodograms Using a Non-uniform
 FFT](http://dx.doi.org/10.3847/2515-5172/ad82cd)*, Research Notes of the
 American Astronomical Society, **8**, 250
-([arXiv:2409.08090](http://arxiv.org/abs/2409.08090)) \[[13
+([arXiv:2409.08090](http://arxiv.org/abs/2409.08090)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..250G)\]
 
 Edwards, Thomas D. P.; Wong, Kaze W. K.; Lam, Kelvin K. H.; Coogan,
@@ -220,7 +220,7 @@ Rodrigo, 2023, *[Joint Modeling of Radial Velocities and Photometry with
 a Gaussian Process
 Framework](http://dx.doi.org/10.3847/1538-4357/acd05c)*, The
 Astrophysical Journal, **950**, 162
-([arXiv:2305.00988](http://arxiv.org/abs/2305.00988)) \[[14
+([arXiv:2305.00988](http://arxiv.org/abs/2305.00988)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023ApJ...950..162T)\]
 
 Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2023,
@@ -298,7 +298,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[5788
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[5794
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -329,7 +329,7 @@ Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
 Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
 Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
 The Astronomical Journal, **163**, 247
-([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[39
+([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
 
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
@@ -564,7 +564,7 @@ David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal Letters, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[161
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[162
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -691,14 +691,14 @@ Daniel**; & Rajpaul, Vinesh, 2018, *[Inferring probabilistic stellar
 rotation periods using Gaussian
 processes](http://dx.doi.org/10.1093/mnras/stx2109)*, Monthly Notices of
 the Royal Astronomical Society, **474**, 2094
-([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[222
+([arXiv:1706.05459](http://arxiv.org/abs/1706.05459)) \[[223
 citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 
 **Foreman-Mackey, Daniel**, 2018, *[Scalable Backpropagation for
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[250
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[251
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -706,7 +706,7 @@ Ruth, 2017, *[Fast and Scalable Gaussian Process Modeling with
 Applications to Astronomical Time
 Series](http://dx.doi.org/10.3847/1538-3881/aa9332)*, The Astronomical
 Journal, **154**, 220
-([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[948
+([arXiv:1703.09710](http://arxiv.org/abs/1703.09710)) \[[950
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....154..220F)\]
 
 Montet, Benjamin T.; Tovar, Guadalupe; & **Foreman-Mackey, Daniel**,
@@ -919,7 +919,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146....7B)\]
 Jonathan, 2013, *[emcee: The MCMC
 Hammer](http://dx.doi.org/10.1086/670067)*, Publications of the
 Astronomical Society of the Pacific, **125**, 306
-([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[13289
+([arXiv:1202.3665](http://arxiv.org/abs/1202.3665)) \[[13290
 citations](https://ui.adsabs.harvard.edu/abs/2013PASP..125..306F)\]
 
 Weisz, Daniel R.; Fouesneau, Morgan; Hogg, David W.; Rix, Hans-Walter;
