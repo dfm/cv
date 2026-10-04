@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 <div class="list">
 
-[**jax**](https://github.com/jax-ml/jax) — 36370 stars / 3830 forks\
+[**jax**](https://github.com/jax-ml/jax) — 36371 stars / 3833 forks\
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -62,7 +62,7 @@ forks\
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
 
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 239 stars
+[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 240 stars
 / 57 forks\
 Fast & scalable MCMC for all your exoplanet needs!
 [\[docs\]](https://docs.exoplanet.codes)
@@ -76,7 +76,7 @@ Render probabilistic graphical models using matplotlib
 ## Publications
 
 refereed: 112 / first author: 9 / citations: 33,317 / h-index: 55
-(2026-10-03)
+(2026-10-04)
 
 ### Refereed publications
 
