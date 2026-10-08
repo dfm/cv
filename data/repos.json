@@ -11,7 +11,7 @@
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
               "forkCount": 3841,
-              "stargazerCount": 36380
+              "stargazerCount": 36382
             }
           },
           {
@@ -20,7 +20,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 35,
+              "forkCount": 36,
               "stargazerCount": 349
             }
           },
