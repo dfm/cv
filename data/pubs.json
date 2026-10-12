@@ -677,7 +677,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -1356,7 +1356,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 163,
+    "citations": 162,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1836,7 +1836,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 290,
+    "citations": 291,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2531,7 +2531,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 5849,
+    "citations": 5851,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3404,7 +3404,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 145,
+    "citations": 144,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -6238,7 +6238,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 250,
+    "citations": 249,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -7758,7 +7758,7 @@
       "Brewer, Brendon J.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.1606.03757",
     "page": null,
@@ -8604,7 +8604,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 13352,
+    "citations": 13353,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
