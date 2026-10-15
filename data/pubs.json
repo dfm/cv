@@ -7806,22 +7806,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Foreman-Mackey, Dan"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": "10.5281/zenodo.49590",
-    "page": 16,
-    "pub": "Python in Astronomy 2016",
-    "pubdate": "2016-03-00",
-    "title": "Tools for probabilistic data analysis in Python",
-    "url": "https://ui.adsabs.harvard.edu/abs/2016pyas.confE..16F",
-    "volume": null,
-    "year": "2016"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Robitaille, Thomas",
       "Cruz, Kelle",
       "Greenfield, Perry",
@@ -7885,6 +7869,22 @@
     "pubdate": "2016-03-00",
     "title": "Python in Astronomy 2016 Unproceedings",
     "url": "https://ui.adsabs.harvard.edu/abs/2016pyas.confE..35R",
+    "volume": null,
+    "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Foreman-Mackey, Dan"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": "10.5281/zenodo.49590",
+    "page": 16,
+    "pub": "Python in Astronomy 2016",
+    "pubdate": "2016-03-00",
+    "title": "Tools for probabilistic data analysis in Python",
+    "url": "https://ui.adsabs.harvard.edu/abs/2016pyas.confE..16F",
     "volume": null,
     "year": "2016"
   },
