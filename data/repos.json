@@ -11,7 +11,7 @@
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
               "forkCount": 3855,
-              "stargazerCount": 36429
+              "stargazerCount": 36447
             }
           },
           {
@@ -40,7 +40,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 235,
+              "forkCount": 236,
               "stargazerCount": 577
             }
           },
