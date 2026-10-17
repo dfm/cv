@@ -10,8 +10,8 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3855,
-              "stargazerCount": 36447
+              "forkCount": 3861,
+              "stargazerCount": 36454
             }
           },
           {
@@ -30,7 +30,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 440,
+              "forkCount": 441,
               "stargazerCount": 1603
             }
           },
@@ -40,7 +40,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 236,
+              "forkCount": 237,
               "stargazerCount": 577
             }
           },
