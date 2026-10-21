@@ -10,8 +10,8 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3878,
-              "stargazerCount": 36468
+              "forkCount": 3888,
+              "stargazerCount": 36475
             }
           },
           {
@@ -20,7 +20,7 @@
               "description": "The tiniest of Gaussian Process libraries",
               "url": "https://github.com/dfm/tinygp",
               "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 36,
+              "forkCount": 37,
               "stargazerCount": 350
             }
           },
@@ -30,7 +30,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 444,
+              "forkCount": 445,
               "stargazerCount": 1603
             }
           },
@@ -41,7 +41,7 @@
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
               "forkCount": 237,
-              "stargazerCount": 577
+              "stargazerCount": 576
             }
           },
           {
