@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 <div class="list">
 
-[**jax**](https://github.com/jax-ml/jax) — 36487 stars / 3880 forks\
+[**jax**](https://github.com/jax-ml/jax) — 36492 stars / 3885 forks\
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -57,7 +57,7 @@ The tiniest of Gaussian Process libraries
 The Python ensemble sampling toolkit for affine-invariant MCMC
 [\[docs\]](https://emcee.readthedocs.io)
 
-[**corner.py**](https://github.com/dfm/corner.py) — 576 stars / 238
+[**corner.py**](https://github.com/dfm/corner.py) — 578 stars / 238
 forks\
 Make some beautiful corner plots
 [\[docs\]](http://corner.readthedocs.io)
@@ -75,8 +75,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 112 / first author: 9 / citations: 33,786 / h-index: 56
-(2026-10-23)
+refereed: 114 / first author: 9 / citations: 33,788 / h-index: 56
+(2026-10-24)
 
 ### Refereed publications
 
@@ -89,6 +89,21 @@ Models](http://dx.doi.org/10.3847/1538-3881/ae4d0b)*, The Astronomical
 Journal, **171**, 259
 ([arXiv:2601.02527](http://arxiv.org/abs/2601.02527)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..259R)\]
+
+Rubenzahl, Ryan A.; Hattori, Soichiro; Särkkä, Simo; Farr, Will M.;
+*et al.* (incl. **DFM**), 2026, *[Scalable Gaussian Processes for
+Integrated and Overlapping Measurements via Augmented State-space
+Models](http://dx.doi.org/10.3847/1538-3881/ae4d0b)*, The Astronomical
+Journal, **171**, 259
+([arXiv:2601.02527](http://arxiv.org/abs/2601.02527)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2026AJ....171..259R)\]
+
+Hapitas, Timothy; Widrow, Lawrence M.; Dharmawardena, Thavisha E.; &
+**Foreman-Mackey, Daniel**, 2025, *[Gaussian Process Methods for Very
+Large Astrometric Data
+Sets](http://dx.doi.org/10.3847/1538-4357/ae0d87)*, The Astrophysical
+Journal, **995**, 35
+([arXiv:2507.10317](http://arxiv.org/abs/2507.10317))
 
 Hapitas, Timothy; Widrow, Lawrence M.; Dharmawardena, Thavisha E.; &
 **Foreman-Mackey, Daniel**, 2025, *[Gaussian Process Methods for Very
