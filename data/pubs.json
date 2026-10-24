@@ -22,45 +22,44 @@
     "year": "2026"
   },
   {
-    "arxiv": "2601.02527",
+    "arxiv": null,
     "authors": [
-      "Rubenzahl, Ryan A.",
-      "Hattori, Soichiro",
-      "S{\\\"a}rkk{\\\"a}, Simo",
-      "Farr, Will M.",
-      "Luhn, Jacob K.",
-      "Bedell, Megan",
-      "Foreman-Mackey, Daniel"
+      "Hattori, S.",
+      "Angus, R.",
+      "Foreman-Mackey, D.",
+      "Lu, Y. (.",
+      "Colman, I."
     ],
-    "citations": 2,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ae4d0b",
-    "page": 259,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2026-04-00",
-    "title": "Scalable Gaussian Processes for Integrated and Overlapping Measurements via Augmented State-space Models",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026AJ....171..259R",
-    "volume": "171",
+    "citations": 0,
+    "doctype": "dataset",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2026-03-00",
+    "title": "VizieR Online Data Catalog: Rotation periods of 272 stars from TESS {\\&} ZTF (Hattori+, 2025)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026yCat..51700015H",
+    "volume": "517",
     "year": "2026"
   },
   {
-    "arxiv": "2507.10317",
+    "arxiv": null,
     "authors": [
-      "Hapitas, Timothy",
-      "Widrow, Lawrence M.",
-      "Dharmawardena, Thavisha E.",
-      "Foreman-Mackey, Daniel"
+      "Hattori, S.",
+      "Angus, R.",
+      "Foreman-Mackey, D.",
+      "Lu, Y. (.",
+      "Colman, I."
     ],
     "citations": 0,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ae0d87",
-    "page": 35,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2025-12-00",
-    "title": "Gaussian Process Methods for Very Large Astrometric Data Sets",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...995...35H",
-    "volume": "995",
-    "year": "2025"
+    "doctype": "dataset",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2026-03-00",
+    "title": "VizieR Online Data Catalog: Rotation periods of 272 stars from TESS {\\&} ZTF (Hattori+, 2025)",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026yCat..51700015H",
+    "volume": "517",
+    "year": "2026"
   },
   {
     "arxiv": "2507.10317",
@@ -100,6 +99,26 @@
     "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...992..131C",
     "volume": "992",
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Bartoli{\\'c}, Fran",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Howell, Robert R.",
+      "Rathbun, Julie A."
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2025-09-00",
+    "title": "volcano: Mapping exoplanet surfaces from one-dimensional time-series data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ascl.soft09021B",
+    "volume": null,
     "year": "2025"
   },
   {
