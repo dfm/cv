@@ -42,26 +42,6 @@
     "year": "2026"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Hattori, S.",
-      "Angus, R.",
-      "Foreman-Mackey, D.",
-      "Lu, Y. (.",
-      "Colman, I."
-    ],
-    "citations": 0,
-    "doctype": "dataset",
-    "doi": null,
-    "page": null,
-    "pub": "VizieR Online Data Catalog",
-    "pubdate": "2026-03-00",
-    "title": "VizieR Online Data Catalog: Rotation periods of 272 stars from TESS {\\&} ZTF (Hattori+, 2025)",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026yCat..51700015H",
-    "volume": "517",
-    "year": "2026"
-  },
-  {
     "arxiv": "2507.10317",
     "authors": [
       "Hapitas, Timothy",
@@ -90,7 +70,7 @@
       "David, Trevor J.",
       "Price-Whelan, Adrian M."
     ],
-    "citations": 12,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-4357/adfb68",
     "page": 131,
@@ -396,28 +376,6 @@
     "year": "2025"
   },
   {
-    "arxiv": "2501.13809",
-    "authors": [
-      "Sayeed, Maryum",
-      "Angus, Ruth",
-      "Berger, Travis A.",
-      "Lu, Yuxi(Lucy)",
-      "Christiansen, Jessie L.",
-      "Foreman-Mackey, Daniel",
-      "Ness, Melissa K."
-    ],
-    "citations": 7,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ada8a1",
-    "page": 112,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2025-02-00",
-    "title": "Exoplanet Occurrence Rate with Age for FGK Stars in Kepler",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....169..112S",
-    "volume": "169",
-    "year": "2025"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Garrison, Lehman H.",
@@ -552,7 +510,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 49,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -608,7 +566,7 @@
       "Koposov, Sergey",
       "Li, Zhaozhou"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "software",
     "doi": "10.5281/zenodo.13377376",
     "page": null,
@@ -676,7 +634,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 8,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -697,7 +655,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 8,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -904,7 +862,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 85,
+    "citations": 106,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -970,7 +928,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389737",
     "page": null,
@@ -1045,7 +1003,7 @@
       "Spergel, David N.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad05cc",
     "page": 258,
@@ -1177,7 +1135,7 @@
       "Willman, Beth",
       "Zhao, Lily"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2311.04272",
     "page": null,
@@ -1284,7 +1242,7 @@
       "Dong, Jiayin",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 54,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ace105",
     "page": 112,
@@ -1527,7 +1485,7 @@
       "Foreman-Mackey, Daniel",
       "Luger, Rodrigo"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-4357/acd05c",
     "page": 162,
@@ -1652,7 +1610,7 @@
       "Gabri{\\'e}, Marylou",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 49,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.21105/joss.05021",
     "page": 5021,
@@ -1930,7 +1888,7 @@
       "M{\\\"u}ller, T.",
       "Henshaw, J."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2790",
     "page": 228,
@@ -1955,7 +1913,7 @@
       "Nelson, Dylan",
       "Kim, Ji-hoon"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aca8fe",
     "page": 67,
@@ -2142,7 +2100,7 @@
       "Mikal-Evans, Thomas",
       "Morley, Caroline V."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac8b7e",
     "page": 197,
@@ -2615,7 +2573,7 @@
       "Bartoli{\\'c}, Fran",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 17,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac4017",
     "page": 4,
@@ -2776,6 +2734,26 @@
     "year": "2022"
   },
   {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 38,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
+    "year": "2022"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -2802,7 +2780,7 @@
       "Gerner, Lyn E.",
       "Burch, Timothy M."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.3847/2515-5172/ac74c4",
     "page": 111,
@@ -2811,26 +2789,6 @@
     "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
     "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
     "volume": "6",
-    "year": "2022"
-  },
-  {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 38,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
     "year": "2022"
   },
   {
@@ -3168,7 +3126,7 @@
       "Livingston, John H.",
       "Mann, Andrew W."
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ac4745",
     "page": null,
@@ -3222,7 +3180,7 @@
       "Vanderspek, Roland",
       "Winn, Joshua N."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2129",
     "page": 4132,
@@ -3784,6 +3742,81 @@
     "year": "2021"
   },
   {
+    "arxiv": "2104.01970",
+    "authors": [
+      "Dong, Jiayin",
+      "Huang, Chelsea X.",
+      "Dawson, Rebekah I.",
+      "Foreman-Mackey, Daniel",
+      "Collins, Karen A.",
+      "Quinn, Samuel N.",
+      "Lissauer, Jack J.",
+      "Beatty, Thomas",
+      "Quarles, Billy",
+      "Sha, Lizhou",
+      "Shporer, Avi",
+      "Guo, Zhao",
+      "Kane, Stephen R.",
+      "Abe, Lyu",
+      "Barkaoui, Khalid",
+      "Benkhaldoun, Zouhair",
+      "Brahm, Rafael",
+      "Bouchy, Fran{\\c{c}}ois",
+      "Carmichael, Theron W.",
+      "Collins, Kevin I.",
+      "Conti, Dennis M.",
+      "Crouzet, Nicolas",
+      "Dransfield, Georgina",
+      "Evans, Phil",
+      "Gan, Tianjun",
+      "Ghachoui, Mourad",
+      "Gillon, Micha{\\\"e}l",
+      "Grieves, Nolan",
+      "Guillot, Tristan",
+      "Hellier, Coel",
+      "Jehin, Emmanu{\\\"e}l",
+      "Jensen, Eric L. N.",
+      "Jord{\\'a}n, Andres",
+      "Kamler, Jacob",
+      "Kielkopf, John F.",
+      "M{\\'e}karnia, Djamel",
+      "Nielsen, Louise D.",
+      "Pozuelos, Francisco J.",
+      "Radford, Don J.",
+      "Schmider, Fran{\\c{c}}ois-Xavier",
+      "Schwarz, Richard P.",
+      "Stockdale, Chris",
+      "Tan, Thiam-Guan",
+      "Timmermans, Mathilde",
+      "Triaud, Amaury H. M. J.",
+      "Wang, Gavin",
+      "Ricker, George",
+      "Vanderspek, Roland",
+      "Latham, David W.",
+      "Seager, Sara",
+      "Winn, Joshua N.",
+      "Jenkins, Jon M.",
+      "Mireles, Ismael",
+      "Yahalomi, Daniel A.",
+      "Morgan, Edward H.",
+      "Vezie, Michael",
+      "Quintana, Elisa V.",
+      "Rose, Mark E.",
+      "Smith, Jeffrey C.",
+      "Shiao, Bernie"
+    ],
+    "citations": 52,
+    "doctype": "article",
+    "doi": "10.3847/1538-4365/abf73c",
+    "page": 6,
+    "pub": "The Astrophysical Journal Supplement Series",
+    "pubdate": "2021-07-00",
+    "title": "Warm Jupiters in TESS Full-frame Images: A Catalog and Observed Eccentricity Distribution for Year 1",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021ApJS..255....6D",
+    "volume": "255",
+    "year": "2021"
+  },
+  {
     "arxiv": "2102.01774",
     "authors": [
       "Luger, Rodrigo",
@@ -3976,7 +4009,7 @@
       "Grunblatt, Samuel K.",
       "Petigura, Erik A."
     ],
-    "citations": 60,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abf439",
     "page": 265,
@@ -4050,6 +4083,29 @@
       "Kipping, David"
     ],
     "citations": 56,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/abf63e",
+    "page": 70,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2021-05-00",
+    "title": "Stellar Rotation in the K2 Sample: Evidence for Modified Spin-down",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021ApJ...913...70G",
+    "volume": "913",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2101.07886",
+    "authors": [
+      "Gordon, Tyler A.",
+      "Davenport, James R. A.",
+      "Angus, Ruth",
+      "Foreman-Mackey, Daniel",
+      "Agol, Eric",
+      "Covey, Kevin R.",
+      "Ag{\\\"u}eros, Marcel A.",
+      "Kipping, David"
+    ],
+    "citations": 57,
     "doctype": "article",
     "doi": "10.3847/1538-4357/abf63e",
     "page": 70,
@@ -4525,7 +4581,7 @@
       "Agol, Eric",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbc16",
     "page": 240,
@@ -5231,7 +5287,7 @@
       "Tilbrook, Rosanna H.",
       "Vines, Jose I."
     ],
-    "citations": 63,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3251",
     "page": 1008,
@@ -5503,7 +5559,7 @@
       "Montet, Benjamin T.",
       "Luger, Rodrigo"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab40a7",
     "page": 164,
@@ -6477,7 +6533,7 @@
       "Fischer, Debra A.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 57,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.3847/2041-8213/aae710",
     "page": null,
@@ -6931,7 +6987,7 @@
       "Tovar, Guadalupe",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 96,
+    "citations": 98,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa9e00",
     "page": 116,
@@ -7011,7 +7067,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -7358,7 +7414,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 93,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7386,7 +7442,7 @@
       "Nidever, David L.",
       "Shetrone, Matthew"
     ],
-    "citations": 84,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.3847/1538-4357/833/2/262",
     "page": 262,
@@ -7620,7 +7676,7 @@
       "Foreman-Mackey, Daniel",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/967/094503",
     "page": 94503,
@@ -8029,7 +8085,7 @@
       "Montet, Benjamin T.",
       "Caldwell, Douglas"
     ],
-    "citations": 40,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.1088/0004-637X/809/1/7",
     "page": 7,
@@ -8245,7 +8301,7 @@
       "Rowe, Jason F.",
       "Quintana, Elisa V."
     ],
-    "citations": 75,
+    "citations": 77,
     "doctype": "article",
     "doi": "10.1088/0004-637X/800/1/46",
     "page": 46,
