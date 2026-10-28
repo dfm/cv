@@ -22,6 +22,28 @@
     "year": "2026"
   },
   {
+    "arxiv": "2601.02527",
+    "authors": [
+      "Rubenzahl, Ryan A.",
+      "Hattori, Soichiro",
+      "S{\\\"a}rkk{\\\"a}, Simo",
+      "Farr, Will M.",
+      "Luhn, Jacob K.",
+      "Bedell, Megan",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 2,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ae4d0b",
+    "page": 259,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2026-04-00",
+    "title": "Scalable Gaussian Processes for Integrated and Overlapping Measurements via Augmented State-space Models",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026AJ....171..259R",
+    "volume": "171",
+    "year": "2026"
+  },
+  {
     "arxiv": null,
     "authors": [
       "Hattori, S.",
@@ -40,6 +62,25 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2026yCat..51700015H",
     "volume": "517",
     "year": "2026"
+  },
+  {
+    "arxiv": "2507.10317",
+    "authors": [
+      "Hapitas, Timothy",
+      "Widrow, Lawrence M.",
+      "Dharmawardena, Thavisha E.",
+      "Foreman-Mackey, Daniel"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ae0d87",
+    "page": 35,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2025-12-00",
+    "title": "Gaussian Process Methods for Very Large Astrometric Data Sets",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...995...35H",
+    "volume": "995",
+    "year": "2025"
   },
   {
     "arxiv": "2507.10317",
