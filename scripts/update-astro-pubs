@@ -19,26 +19,39 @@ utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
 
+def iter_results(query):
+    # ads<=0.12.7 raises IndexError when ADS reports more results than it
+    # returns (andycasey/ads#135); treat an empty trailing page as the end.
+    it = iter(query)
+    while True:
+        try:
+            yield next(it)
+        except (StopIteration, IndexError):
+            return
+
+
 def get_papers(author):
     papers = list(
-        ads.SearchQuery(
-            author=author,
-            fl=[
-                "id",
-                "title",
-                "author",
-                "doi",
-                "year",
-                "pubdate",
-                "pub",
-                "volume",
-                "page",
-                "identifier",
-                "doctype",
-                "citation_count",
-                "bibcode",
-            ],
-            max_pages=100,
+        iter_results(
+            ads.SearchQuery(
+                author=author,
+                fl=[
+                    "id",
+                    "title",
+                    "author",
+                    "doi",
+                    "year",
+                    "pubdate",
+                    "pub",
+                    "volume",
+                    "page",
+                    "identifier",
+                    "doctype",
+                    "citation_count",
+                    "bibcode",
+                ],
+                max_pages=100,
+            )
         )
     )
     dicts = []
