@@ -10,8 +10,8 @@
               "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
-              "forkCount": 3948,
-              "stargazerCount": 36518
+              "forkCount": 3967,
+              "stargazerCount": 36526
             }
           },
           {
@@ -60,7 +60,7 @@
               "description": "Render probabilistic graphical models using matplotlib",
               "url": "https://github.com/daft-dev/daft",
               "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 122,
+              "forkCount": 123,
               "stargazerCount": 686
             }
           }
