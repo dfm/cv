@@ -45,7 +45,7 @@ Sagan Postdoctoral Fellow, University of Washington, 2015–2017.
 
 <div class="list">
 
-[**jax**](https://github.com/jax-ml/jax) — 36526 stars / 3967 forks\
+[**jax**](https://github.com/jax-ml/jax) — 36542 stars / 3979 forks\
 Composable transformations of Python+NumPy programs: differentiate,
 vectorize, JIT to GPU/TPU, and more [\[docs\]](https://docs.jax.dev)
 
@@ -75,8 +75,8 @@ Render probabilistic graphical models using matplotlib
 
 ## Publications
 
-refereed: 112 / first author: 9 / citations: 34,941 / h-index: 57
-(2026-10-30)
+refereed: 112 / first author: 9 / citations: 35,018 / h-index: 58
+(2026-10-31)
 
 ### Refereed publications
 
@@ -111,21 +111,21 @@ Periods (&gt;10 days) from TESS FFI Light Curves is Possible: An
 Investigation Using TESS and
 ZTF](http://dx.doi.org/10.3847/1538-3881/add0ab)*, The Astronomical
 Journal, **170**, 15
-([arXiv:2505.10376](http://arxiv.org/abs/2505.10376)) \[[9
+([arXiv:2505.10376](http://arxiv.org/abs/2505.10376)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...15H)\]
 
 Evans-Soma, Thomas M.; Sing, David K.; Barstow, Joanna K.; Piette,
 Anjali A. A.; *et al.* (incl. **DFM**), 2025, *[SiO and a super-stellar
 C/O ratio in the atmosphere of the giant exoplanet WASP-121
 b](http://dx.doi.org/10.1038/s41550-025-02513-x)*, Nature Astronomy,
-**9**, 845 ([arXiv:2506.01771](http://arxiv.org/abs/2506.01771)) \[[36
+**9**, 845 ([arXiv:2506.01771](http://arxiv.org/abs/2506.01771)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2025NatAs...9..845E)\]
 
 Sayeed, Maryum; Angus, Ruth; Berger, Travis A.; Lu, Yuxi(Lucy);
 *et al.* (incl. **DFM**), 2025, *[Exoplanet Occurrence Rate with Age for
 FGK Stars in Kepler](http://dx.doi.org/10.3847/1538-3881/ada8a1)*, The
 Astronomical Journal, **169**, 112
-([arXiv:2501.13809](http://arxiv.org/abs/2501.13809)) \[[8
+([arXiv:2501.13809](http://arxiv.org/abs/2501.13809)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....169..112S)\]
 
 Garrison, Lehman H.; **Foreman-Mackey, Daniel**; Shih, Yu-hsuan; &
@@ -133,7 +133,7 @@ Barnett, Alex, 2024, *[NIFTY-LS: Fast and Accurate Lomb–Scargle
 Periodograms Using a Non-uniform
 FFT](http://dx.doi.org/10.3847/2515-5172/ad82cd)*, Research Notes of the
 American Astronomical Society, **8**, 250
-([arXiv:2409.08090](http://arxiv.org/abs/2409.08090)) \[[14
+([arXiv:2409.08090](http://arxiv.org/abs/2409.08090)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..250G)\]
 
 Edwards, Thomas D. P.; Wong, Kaze W. K.; Lam, Kelvin K. H.; Coogan,
@@ -141,7 +141,7 @@ Adam; *et al.* (incl. **DFM**), 2024, *[Differentiable and
 hardware-accelerated waveforms for gravitational wave data
 analysis](http://dx.doi.org/10.1103/PhysRevD.110.064028)*, Physical
 Review D, **110**, 64028
-([arXiv:2302.05329](http://arxiv.org/abs/2302.05329)) \[[55
+([arXiv:2302.05329](http://arxiv.org/abs/2302.05329)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2024PhRvD.110f4028E)\]
 
 Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
@@ -166,7 +166,7 @@ transmission spectra? Application of a new fast and flexible 2D Gaussian
 process framework to transiting exoplanet
 spectroscopy](http://dx.doi.org/10.1051/0004-6361/202347613)*, Astronomy
 and Astrophysics, **686**
-([arXiv:2402.15204](http://arxiv.org/abs/2402.15204)) \[[10
+([arXiv:2402.15204](http://arxiv.org/abs/2402.15204)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...686A..89F)\]
 
 Lu, Yuxi(Lucy); Angus, Ruth; **Foreman-Mackey, Daniel**; & Hattori,
@@ -174,7 +174,7 @@ Soichiro, 2024, *[In This Day and Age: An Empirical Gyrochronology
 Relation for Partially and Fully Convective Single Field
 Stars](http://dx.doi.org/10.3847/1538-3881/ad28b9)*, The Astronomical
 Journal, **167**, 159
-([arXiv:2310.14990](http://arxiv.org/abs/2310.14990)) \[[43
+([arXiv:2310.14990](http://arxiv.org/abs/2310.14990)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..159L)\]
 
 Yahalomi, Daniel A.; Angus, Ruth; Spergel, David N.; & **Foreman-Mackey,
@@ -204,7 +204,7 @@ Aigrain, Suzanne; & **Foreman-Mackey, Daniel**, 2023, *[Gaussian Process
 Regression for Astronomical Time
 Series](http://dx.doi.org/10.1146/annurev-astro-052920-103508)*, Annual
 Review of Astronomy and Astrophysics, **61**, 329
-([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[181
+([arXiv:2209.08940](http://arxiv.org/abs/2209.08940)) \[[183
 citations](https://ui.adsabs.harvard.edu/abs/2023ARA&A..61..329A)\]
 
 Blunt, Sarah; Carvalho, Adolfo; David, Trevor J.; Beichman, Charles;
@@ -227,14 +227,14 @@ Wong, Kaze W. K.; Gabrié, Marylou; & **Foreman-Mackey, Daniel**, 2023,
 *[flowMC: Normalizing flow enhanced sampling package for probabilistic
 inference in JAX](http://dx.doi.org/10.21105/joss.05021)*, The Journal
 of Open Source Software, **8**, 5021
-([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[53
+([arXiv:2211.06397](http://arxiv.org/abs/2211.06397)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2023JOSS....8.5021W)\]
 
 Alderson, Lili; Wakeford, Hannah R.; Alam, Munazza K.; Batalha, Natasha
 E.; *et al.* (incl. **DFM**), 2023, *[Early Release Science of the
 exoplanet WASP-39b with JWST NIRSpec
 G395H](http://dx.doi.org/10.1038/s41586-022-05591-3)*, Nature, **614**,
-664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[305
+664 ([arXiv:2211.10488](http://arxiv.org/abs/2211.10488)) \[[306
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.614..664A)\]
 
 Mikal-Evans, Thomas; Sing, David K.; Dong, Jiayin; **Foreman-Mackey,
@@ -251,7 +251,7 @@ Dharmawardena, T. E.; Bailer-Jones, C. A. L.; Fouesneau, M.;
 structure of galactic molecular cloud complexes out to 2.5
 kpc](http://dx.doi.org/10.1093/mnras/stac2790)*, Monthly Notices of the
 Royal Astronomical Society, **519**, 228
-([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[20
+([arXiv:2210.03615](http://arxiv.org/abs/2210.03615)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..228D)\]
 
 Jo, Yongseok; Genel, Shy; Wandelt, Benjamin; Somerville, Rachel S.;
@@ -298,7 +298,7 @@ Sustaining and Growing a Community-oriented Open-source Project and the
 Latest Major Release (v5.0) of the Core
 Package](http://dx.doi.org/10.3847/1538-4357/ac7c74)*, The Astrophysical
 Journal, **935**, 167
-([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[6334
+([arXiv:2206.14220](http://arxiv.org/abs/2206.14220)) \[[6374
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A)\]
 
 Luger, Rodrigo; Agol, Eric; Bartolić, Fran; & **Foreman-Mackey,
@@ -322,14 +322,14 @@ Benjamin T.; *et al.*, 2022, *[The unpopular Package: A Data-driven
 Approach to Detrending TESS Full-frame Image Light
 Curves](http://dx.doi.org/10.3847/1538-3881/ac625a)*, The Astronomical
 Journal, **163**, 284
-([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[68
+([arXiv:2106.15063](http://arxiv.org/abs/2106.15063)) \[[70
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..284H)\]
 
 Johnson, Marshall C.; David, Trevor J.; Petigura, Erik A.; Isaacson,
 Howard T.; *et al.* (incl. **DFM**), 2022, *[An Aligned Orbit for the
 Young Planet V1298 Tau b](http://dx.doi.org/10.3847/1538-3881/ac6271)*,
 The Astronomical Journal, **163**, 247
-([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[40
+([arXiv:2110.10707](http://arxiv.org/abs/2110.10707)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..247J)\]
 
 Nagaraj, Gautam; Forbes, John C.; Leja, Joel; **Foreman-Mackey,
@@ -344,7 +344,7 @@ Powell, Brian P.; Kruse, Ethan; Montet, Benjamin T.; Feinstein, Adina
 D.; *et al.* (incl. **DFM**), 2022, *[The NASA GSFC TESS Full Frame
 Image Light Curve Data
 Set](http://dx.doi.org/10.3847/2515-5172/ac74c4)*, Research Notes of the
-American Astronomical Society, **6**, 111 \[[30
+American Astronomical Society, **6**, 111 \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P)\]
 
 Hitchcock, J. A.; Bramich, D. M.; **Foreman-Mackey, Daniel**; Hogg,
@@ -373,7 +373,7 @@ Feinstein, Adina D.; David, Trevor J.; Montet, Benjamin T.;
 Updated Ephemerides, Radii, and Period Constraints from a Second Transit
 of V1298 Tau e](http://dx.doi.org/10.3847/2041-8213/ac4745)*, The
 Astrophysical Journal Letters, **925**
-([arXiv:2111.08660](http://arxiv.org/abs/2111.08660)) \[[28
+([arXiv:2111.08660](http://arxiv.org/abs/2111.08660)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2022ApJ...925L...2F)\]
 
 Martin, David V.; El-Badry, Kareem; Hodžić, Vedad Kunovac; Triaud,
@@ -426,7 +426,7 @@ Luger, Rodrigo; **Foreman-Mackey, Daniel**; & Hedges, Christina, 2021,
 *[starry\_process: Interpretable Gaussian processes for stellar light
 curves](http://dx.doi.org/10.21105/joss.03071)*, The Journal of Open
 Source Software, **6**, 3071
-([arXiv:2102.01774](http://arxiv.org/abs/2102.01774)) \[[6
+([arXiv:2102.01774](http://arxiv.org/abs/2102.01774)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3071L)\]
 
 Hitchcock, James A.; Hundertmark, Markus; **Foreman-Mackey, Daniel**;
@@ -442,7 +442,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.504.3561H)\]
 exoplanet data & other astronomical time
 series](http://dx.doi.org/10.21105/joss.03285)*, The Journal of Open
 Source Software, **6**, 3285
-([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[244
+([arXiv:2105.01994](http://arxiv.org/abs/2105.01994)) \[[246
 citations](https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3285F)\]
 
 David, Trevor J.; Contardo, Gabriella; Sandoval, Angeli; Angus, Ruth;
@@ -472,7 +472,7 @@ Agol, Eric; Dorn, Caroline; Grimm, Simon L.; Turbet, Martin;
 Photometric Analysis of TRAPPIST-1: Masses, Radii, Densities, Dynamics,
 and Ephemerides](http://dx.doi.org/10.3847/PSJ/abd022)*, The Planetary
 Science Journal, **2**, 1
-([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[376
+([arXiv:2010.01074](http://arxiv.org/abs/2010.01074)) \[[377
 citations](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2....1A)\]
 
 Hedges, Christina; Luger, Rodrigo; Dotson, Jessie; **Foreman-Mackey,
@@ -542,7 +542,7 @@ Agol, Eric; Luger, Rodrigo; & **Foreman-Mackey, Daniel**, 2020,
 *[Analytic Planetary Transit Light Curves and Derivatives for Stars with
 Polynomial Limb Darkening](http://dx.doi.org/10.3847/1538-3881/ab4fee)*,
 The Astronomical Journal, **159**, 123
-([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[167
+([arXiv:1908.03222](http://arxiv.org/abs/1908.03222)) \[[168
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..123A)\]
 
 Gillen, Edward; Briegal, Joshua T.; Hodgkin, Simon T.; **Foreman-Mackey,
@@ -557,14 +557,14 @@ citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.1008G)\]
 Anne; *et al.*, 2019, *[emcee v3: A Python ensemble sampling toolkit for
 affine-invariant MCMC](http://dx.doi.org/10.21105/joss.01864)*, The
 Journal of Open Source Software, **4**, 1864
-([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[304
+([arXiv:1911.07688](http://arxiv.org/abs/1911.07688)) \[[305
 citations](https://ui.adsabs.harvard.edu/abs/2019JOSS....4.1864F)\]
 
 David, Trevor J.; Petigura, Erik A.; Luger, Rodrigo; **Foreman-Mackey,
 Daniel**; *et al.*, 2019, *[Four Newborn Planets Transiting the Young
 Solar Analog V1298 Tau](http://dx.doi.org/10.3847/2041-8213/ab4c99)*,
 The Astrophysical Journal Letters, **885**
-([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[166
+([arXiv:1910.04563](http://arxiv.org/abs/1910.04563)) \[[168
 citations](https://ui.adsabs.harvard.edu/abs/2019ApJ...885L..12D)\]
 
 Angus, Ruth; Morton, Timothy D.; **Foreman-Mackey, Daniel**; van Saders,
@@ -572,7 +572,7 @@ Jennifer; *et al.*, 2019, *[Toward Precise Stellar Ages: Combining
 Isochrone Fitting with Empirical
 Gyrochronology](http://dx.doi.org/10.3847/1538-3881/ab3c53)*, The
 Astronomical Journal, **158**, 173
-([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[137
+([arXiv:1908.07528](http://arxiv.org/abs/1908.07528)) \[[138
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..173A)\]
 
 Bedell, Megan; Hogg, David W.; **Foreman-Mackey, Daniel**; Montet,
@@ -631,7 +631,7 @@ Van Eylen, Vincent; Albrecht, Simon; Huang, Xu; MacDonald, Mariah G.;
 *et al.* (incl. **DFM**), 2019, *[The Orbital Eccentricity of Small
 Planet Systems](http://dx.doi.org/10.3847/1538-3881/aaf22f)*, The
 Astronomical Journal, **157**, 61
-([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[258
+([arXiv:1807.00549](http://arxiv.org/abs/1807.00549)) \[[259
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157...61V)\]
 
 Brewer, John M.; Wang, Songhu; Fischer, Debra A.; & **Foreman-Mackey,
@@ -698,7 +698,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2094A)\]
 Gaussian Processes using
 Celerite](http://dx.doi.org/10.3847/2515-5172/aaaf6c)*, Research Notes
 of the American Astronomical Society, **2**, 31
-([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[267
+([arXiv:1801.10156](http://arxiv.org/abs/1801.10156)) \[[270
 citations](https://ui.adsabs.harvard.edu/abs/2018RNAAS...2...31F)\]
 
 **Foreman-Mackey, Daniel**; Agol, Eric; Ambikasaran, Sivaram; & Angus,
@@ -947,7 +947,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240302489H)\]
 Cabezas, Alberto; Corenflos, Adrien; Lao, Junpeng; Louf, Rémi;
 *et al.* (incl. **DFM**), 2024, *[BlackJAX: Composable Bayesian
 inference in JAX](http://dx.doi.org/10.48550/arXiv.2402.10797)*, ArXiv
-([arXiv:2402.10797](http://arxiv.org/abs/2402.10797)) \[[107
+([arXiv:2402.10797](http://arxiv.org/abs/2402.10797)) \[[111
 citations](https://ui.adsabs.harvard.edu/abs/2024arXiv240210797C)\]
 
 Blanton, Michael R.; Evans, Janet D.; Norman, Dara; O’Mullane, William;
