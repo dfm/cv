@@ -24,6 +24,31 @@
   {
     "arxiv": null,
     "authors": [
+      "Foreman-Mackey, Daniel",
+      "Yu, Weixiang",
+      "Yadav, Sachin",
+      "Reynolds Becker, McCoy",
+      "Caplar, Neven",
+      "Huppenkothen, Daniela",
+      "Killestein, Thomas",
+      "Tronsgaard, Ren{\\'e}",
+      "Rashid, Theo",
+      "Schmerler, Steve"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.19035246",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2026-03-15",
+    "title": "dfm/tinygp: The tiniest of Gaussian Process libraries",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026zndo..19035246F",
+    "volume": null,
+    "year": "2026"
+  },
+  {
+    "arxiv": null,
+    "authors": [
       "Hattori, S.",
       "Angus, R.",
       "Foreman-Mackey, D.",
@@ -493,7 +518,7 @@
       "NeutralKaon",
       "Czekala, Ian"
     ],
-    "citations": 12,
+    "citations": 10,
     "doctype": "software",
     "doi": "10.5281/zenodo.14209694",
     "page": null,
@@ -995,7 +1020,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 5,
+    "citations": 4,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389737",
     "page": null,
@@ -1020,7 +1045,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 27,
+    "citations": 28,
     "doctype": "software",
     "doi": "10.5281/zenodo.10463641",
     "page": null,
@@ -1729,7 +1754,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 12,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.7646759",
     "page": null,
@@ -2209,7 +2234,7 @@
       "Schmerler, Steve",
       "Killestein, Thomas"
     ],
-    "citations": 11,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.7269074",
     "page": null,
@@ -2939,7 +2964,7 @@
       "Schmerler, Steve",
       "Theorashid"
     ],
-    "citations": 6,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.6473662",
     "page": null,
@@ -3068,7 +3093,7 @@
       "Tronsgaard, Ren{\\'e}",
       "Theorashid"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.6389738",
     "page": null,
@@ -4240,7 +4265,7 @@
       "Gerold, Pierre",
       "Agrawal, Varun"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.4615289",
     "page": null,
@@ -8423,7 +8448,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 168,
+    "citations": 170,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
