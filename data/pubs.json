@@ -140,7 +140,7 @@
       "David, Trevor J.",
       "Price-Whelan, Adrian M."
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-4357/adfb68",
     "page": 131,
@@ -954,7 +954,7 @@
       "Wang, Xi",
       "Zinkov, Rob"
     ],
-    "citations": 114,
+    "citations": 115,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2402.10797",
     "page": null,
@@ -1467,7 +1467,7 @@
       "Van Zandt, Judah",
       "Weiss, Lauren"
     ],
-    "citations": 61,
+    "citations": 62,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acde78",
     "page": 62,
@@ -1934,7 +1934,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 52,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2601,7 +2601,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 6400,
+    "citations": 6428,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -2826,26 +2826,6 @@
     "year": "2022"
   },
   {
-    "arxiv": "2202.05102",
-    "authors": [
-      "Nagaraj, Gautam",
-      "Forbes, John C.",
-      "Leja, Joel",
-      "Foreman-Mackey, Daniel",
-      "Hayward, Christopher C."
-    ],
-    "citations": 40,
-    "doctype": "article",
-    "doi": "10.3847/1538-4357/ac6c80",
-    "page": 54,
-    "pub": "The Astrophysical Journal",
-    "pubdate": "2022-06-00",
-    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
-    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
-    "volume": "932",
-    "year": "2022"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Powell, Brian P.",
@@ -2881,6 +2861,26 @@
     "title": "The NASA GSFC TESS Full Frame Image Light Curve Data Set",
     "url": "https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..111P",
     "volume": "6",
+    "year": "2022"
+  },
+  {
+    "arxiv": "2202.05102",
+    "authors": [
+      "Nagaraj, Gautam",
+      "Forbes, John C.",
+      "Leja, Joel",
+      "Foreman-Mackey, Daniel",
+      "Hayward, Christopher C."
+    ],
+    "citations": 40,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ac6c80",
+    "page": 54,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2022-06-00",
+    "title": "A Bayesian Population Model for the Observed Dust Attenuation in Galaxies",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022ApJ...932...54N",
+    "volume": "932",
     "year": "2022"
   },
   {
@@ -4537,7 +4537,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 378,
+    "citations": 379,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5468,7 +5468,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 308,
+    "citations": 309,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -5490,7 +5490,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 168,
+    "citations": 169,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -6879,7 +6879,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 265,
+    "citations": 268,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aaaf6c",
     "page": 31,
@@ -6930,7 +6930,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 998,
+    "citations": 1001,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7408,7 +7408,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7740,7 +7740,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2288,
+    "citations": 2290,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8176,7 +8176,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 630,
+    "citations": 632,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8430,7 +8430,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 278,
+    "citations": 279,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -8674,7 +8674,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 13983,
+    "citations": 13991,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
