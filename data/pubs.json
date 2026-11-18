@@ -1,5 +1,28 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Johnson, Benjamin",
+      "Foreman-Mackey, Dan",
+      "Sick, Jonathan",
+      "Leja, Joel",
+      "Walmsley, Mike",
+      "Tollerud, Erik",
+      "Leung, Henry",
+      "Park, Minjung"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.21778582",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2026-08-03",
+    "title": "dfm/python-fsps: v0.5.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026zndo..21778582J",
+    "volume": null,
+    "year": "2026"
+  },
+  {
     "arxiv": "2601.02527",
     "authors": [
       "Rubenzahl, Ryan A.",
@@ -35,7 +58,7 @@
       "Rashid, Theo",
       "Schmerler, Steve"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "software",
     "doi": "10.5281/zenodo.19035246",
     "page": null,
@@ -112,6 +135,40 @@
     "year": "2026"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Price-Whelan, Adrian",
+      "Garrison, Lehman",
+      "Wagg, Tom",
+      "Souchereau, Harrison",
+      "Sip{\\'{o}}cz, Brigitta",
+      "Starkman, Nathaniel",
+      "Chen, Yingtian",
+      "Lenz, Daniel",
+      "Greco, Johnny",
+      "Hart, Akeem",
+      "AlexKurek",
+      "Robert, Cl{\\'e}ment",
+      "Foreman-Mackey, Dan",
+      "HNLala",
+      "Lim, P. L.",
+      "Oh, Semyeong",
+      "Koposov, Sergey",
+      "Lilleengen, Sophia",
+      "Li, Zhaozhou"
+    ],
+    "citations": 1,
+    "doctype": "software",
+    "doi": "10.5281/zenodo.17890972",
+    "page": null,
+    "pub": "Zenodo",
+    "pubdate": "2025-12-11",
+    "title": "adrn/gala: v1.11.0",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025zndo..17890972P",
+    "volume": null,
+    "year": "2025"
+  },
+  {
     "arxiv": "2507.10317",
     "authors": [
       "Hapitas, Timothy",
@@ -149,6 +206,26 @@
     "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...992..131C",
     "volume": "992",
+    "year": "2025"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Bartoli{\\'c}, Fran",
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Howell, Robert R.",
+      "Rathbun, Julie A."
+    ],
+    "citations": 0,
+    "doctype": "software",
+    "doi": null,
+    "page": null,
+    "pub": "Astrophysics Source Code Library",
+    "pubdate": "2025-09-00",
+    "title": "volcano: Mapping exoplanet surfaces from one-dimensional time-series data",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025ascl.soft09021B",
+    "volume": null,
     "year": "2025"
   },
   {
@@ -228,7 +305,7 @@
       "Lilleengen, Sophia",
       "Li, Zhaozhou"
     ],
-    "citations": 12,
+    "citations": 6,
     "doctype": "software",
     "doi": "10.5281/zenodo.593786",
     "page": null,
@@ -348,7 +425,7 @@
       "Degen, David",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 20,
     "doctype": "software",
     "doi": "10.5281/zenodo.10736936",
     "page": null,
@@ -705,7 +782,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "software",
     "doi": "10.5281/zenodo.12447779",
     "page": null,
@@ -840,7 +917,7 @@
       "Price-Whelan, Adrian M.",
       "Savel, Arjun B."
     ],
-    "citations": 165,
+    "citations": 166,
     "doctype": "software",
     "doi": "10.5281/zenodo.1998447",
     "page": null,
@@ -1317,7 +1394,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "software",
     "doi": "10.5281/zenodo.8384410",
     "page": null,
@@ -1379,7 +1456,7 @@
       "Scott, Spencer",
       "Park, Minjung"
     ],
-    "citations": 16,
+    "citations": 8,
     "doctype": "software",
     "doi": "10.5281/zenodo.8230430",
     "page": null,
@@ -2130,7 +2207,7 @@
       "Ruskin23",
       "Angus, Ruth"
     ],
-    "citations": 60,
+    "citations": 39,
     "doctype": "software",
     "doi": "10.5281/zenodo.7388523",
     "page": null,
@@ -2409,7 +2486,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 9,
+    "citations": 5,
     "doctype": "software",
     "doi": "10.5281/zenodo.7113363",
     "page": null,
@@ -2601,7 +2678,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 6452,
+    "citations": 6484,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3747,7 +3824,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "software",
     "doi": "10.5281/zenodo.5057630",
     "page": null,
@@ -4076,7 +4153,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 29,
+    "citations": 28,
     "doctype": "software",
     "doi": "10.5281/zenodo.4737461",
     "page": null,
@@ -4402,7 +4479,7 @@
       "Leung, Henry",
       "Scott, Spencer"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "software",
     "doi": "10.5281/zenodo.4577191",
     "page": null,
@@ -4620,7 +4697,7 @@
       "Koposov, Sergey",
       "Major, Syrtis"
     ],
-    "citations": 72,
+    "citations": 73,
     "doctype": "software",
     "doi": "10.5281/zenodo.4159870",
     "page": null,
@@ -5468,7 +5545,7 @@
       "Pashchenko, Ilya",
       "Pla, Oriol"
     ],
-    "citations": 309,
+    "citations": 310,
     "doctype": "article",
     "doi": "10.21105/joss.01864",
     "page": 1864,
@@ -8448,7 +8525,7 @@
       "Sick, Jonathan",
       "Johnson, Ben"
     ],
-    "citations": 172,
+    "citations": 174,
     "doctype": "software",
     "doi": "10.5281/zenodo.12157",
     "page": null,
