@@ -197,7 +197,7 @@
       "David, Trevor J.",
       "Price-Whelan, Adrian M."
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-4357/adfb68",
     "page": 131,
@@ -206,26 +206,6 @@
     "title": "paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries",
     "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...992..131C",
     "volume": "992",
-    "year": "2025"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Bartoli{\\'c}, Fran",
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Howell, Robert R.",
-      "Rathbun, Julie A."
-    ],
-    "citations": 0,
-    "doctype": "software",
-    "doi": null,
-    "page": null,
-    "pub": "Astrophysics Source Code Library",
-    "pubdate": "2025-09-00",
-    "title": "volcano: Mapping exoplanet surfaces from one-dimensional time-series data",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025ascl.soft09021B",
-    "volume": null,
     "year": "2025"
   },
   {
@@ -403,7 +383,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -803,7 +783,7 @@
       "Feliz, Dax L.",
       "Pozuelos, Francisco J."
     ],
-    "citations": 12,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3cd6",
     "page": 284,
@@ -824,7 +804,7 @@
       "Maguire, Cathal",
       "Ramkumar, Swaetha"
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347613",
     "page": null,
@@ -994,7 +974,7 @@
       "Stello, Dennis",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "eprint",
     "doi": "10.48550/arXiv.2403.02489",
     "page": null,
@@ -1503,7 +1483,7 @@
       "Aigrain, Suzanne",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 184,
+    "citations": 185,
     "doctype": "article",
     "doi": "10.1146/annurev-astro-052920-103508",
     "page": 329,
@@ -1983,7 +1963,7 @@
       "Wheatley, Peter J.",
       "Zhang, Xi"
     ],
-    "citations": 309,
+    "citations": 308,
     "doctype": "article",
     "doi": "10.1038/s41586-022-05591-3",
     "page": 664,
@@ -2678,7 +2658,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 6484,
+    "citations": 6509,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3551,7 +3531,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 148,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3899,7 +3879,7 @@
       "Smith, Jeffrey C.",
       "Shiao, Bernie"
     ],
-    "citations": 51,
+    "citations": 52,
     "doctype": "article",
     "doi": "10.3847/1538-4365/abf73c",
     "page": 6,
@@ -4614,7 +4594,7 @@
       "Triaud, Amaury H. M. J.",
       "Van Grootel, Valerie"
     ],
-    "citations": 379,
+    "citations": 380,
     "doctype": "article",
     "doi": "10.3847/PSJ/abd022",
     "page": 1,
@@ -5567,7 +5547,7 @@
       "Mamajek, Eric E.",
       "Hillenbrand, Lynne A."
     ],
-    "citations": 169,
+    "citations": 170,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ab4c99",
     "page": null,
@@ -6385,7 +6365,7 @@
       "Snellen, Ignas",
       "Winn, Joshua N."
     ],
-    "citations": 256,
+    "citations": 258,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaf22f",
     "page": 61,
@@ -6763,7 +6743,7 @@
       "Teague, Richard",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.3847/2515-5172/aae265",
     "page": 173,
@@ -6920,7 +6900,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 310,
+    "citations": 308,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -7007,7 +6987,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 1002,
+    "citations": 1003,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7817,7 +7797,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2290,
+    "citations": 2292,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -7888,7 +7868,7 @@
       "Wittenmyer, Robert A.",
       "Wright, Jason T."
     ],
-    "citations": 334,
+    "citations": 335,
     "doctype": "article",
     "doi": "10.1088/1538-3873/128/964/066001",
     "page": 66001,
@@ -8751,7 +8731,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 14003,
+    "citations": 14023,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8775,7 +8755,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 230,
+    "citations": 232,
     "doctype": "software",
     "doi": null,
     "page": null,

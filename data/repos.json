@@ -11,7 +11,7 @@
               "url": "https://github.com/jax-ml/jax",
               "homepageUrl": "https://docs.jax.dev",
               "forkCount": 4010,
-              "stargazerCount": 36644
+              "stargazerCount": 36651
             }
           },
           {
@@ -30,7 +30,7 @@
               "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
               "url": "https://github.com/dfm/emcee",
               "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 447,
+              "forkCount": 448,
               "stargazerCount": 1606
             }
           },
@@ -40,7 +40,7 @@
               "description": "Make some beautiful corner plots",
               "url": "https://github.com/dfm/corner.py",
               "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 238,
+              "forkCount": 239,
               "stargazerCount": 579
             }
           },
