@@ -197,7 +197,7 @@
       "David, Trevor J.",
       "Price-Whelan, Adrian M."
     ],
-    "citations": 18,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-4357/adfb68",
     "page": 131,
@@ -383,7 +383,7 @@
       "Hattori, Soichiro",
       "Marley, Mark S."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1038/s41550-025-02513-x",
     "page": 845,
@@ -513,7 +513,7 @@
       "Foreman-Mackey, Daniel",
       "Ness, Melissa K."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ada8a1",
     "page": 112,
@@ -532,7 +532,7 @@
       "Shih, Yu-hsuan",
       "Barnett, Alex"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "software",
     "doi": null,
     "page": null,
@@ -659,7 +659,7 @@
       "Isi, Maximiliano",
       "Zimmerman, Aaron"
     ],
-    "citations": 59,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1103/PhysRevD.110.064028",
     "page": 64028,
@@ -916,7 +916,7 @@
       "Foreman-Mackey, Daniel",
       "Hattori, Soichiro"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad28b9",
     "page": 159,
@@ -1991,7 +1991,7 @@
       "Christie, Duncan A.",
       "Rustamkulov, Zafar"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.3847/2041-8213/acb049",
     "page": null,
@@ -2658,7 +2658,7 @@
       "Zonca, Andrea",
       "Astropy Project Contributors"
     ],
-    "citations": 6589,
+    "citations": 6631,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac7c74",
     "page": 167,
@@ -3531,7 +3531,7 @@
       "Vanderspek, R.",
       "Zapatero Osorio, M. R."
     ],
-    "citations": 149,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2143",
     "page": 2154,
@@ -3705,24 +3705,6 @@
     "year": "2021"
   },
   {
-    "arxiv": "2102.01697",
-    "authors": [
-      "Luger, Rodrigo",
-      "Foreman-Mackey, Daniel",
-      "Hedges, Christina"
-    ],
-    "citations": 42,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/abfdb9",
-    "page": 124,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2021-09-00",
-    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
-    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
-    "volume": "162",
-    "year": "2021"
-  },
-  {
     "arxiv": "2102.00007",
     "authors": [
       "Luger, Rodrigo",
@@ -3738,6 +3720,24 @@
     "pubdate": "2021-09-00",
     "title": "Mapping Stellar Surfaces. I. Degeneracies in the Rotational Light-curve Problem",
     "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..123L",
+    "volume": "162",
+    "year": "2021"
+  },
+  {
+    "arxiv": "2102.01697",
+    "authors": [
+      "Luger, Rodrigo",
+      "Foreman-Mackey, Daniel",
+      "Hedges, Christina"
+    ],
+    "citations": 42,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/abfdb9",
+    "page": 124,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2021-09-00",
+    "title": "Mapping Stellar Surfaces. II. An Interpretable Gaussian Process Model for Light Curves",
+    "url": "https://ui.adsabs.harvard.edu/abs/2021AJ....162..124L",
     "volume": "162",
     "year": "2021"
   },
@@ -6093,7 +6093,7 @@
       "Walkowicz, Lucianne M.",
       "Youngblood, Allison"
     ],
-    "citations": 127,
+    "citations": 128,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab2459",
     "page": 32,
@@ -6900,7 +6900,7 @@
       "Hogg, David W.",
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 311,
+    "citations": 313,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aab76e",
     "page": 11,
@@ -6987,7 +6987,7 @@
       "Ambikasaran, Sivaram",
       "Angus, Ruth"
     ],
-    "citations": 1007,
+    "citations": 1008,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aa9332",
     "page": 220,
@@ -7410,7 +7410,7 @@
       "Foreman-Mackey, Daniel",
       "Rix, Hans-Walter"
     ],
-    "citations": 155,
+    "citations": 156,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aa5e50",
     "page": 20,
@@ -7465,7 +7465,7 @@
       "Agol, Eric",
       "Sch{\\\"o}lkopf, Bernhard"
     ],
-    "citations": 95,
+    "citations": 96,
     "doctype": "article",
     "doi": "10.3847/0004-6256/152/6/206",
     "page": 206,
@@ -7797,7 +7797,7 @@
     "authors": [
       "Foreman-Mackey, Daniel"
     ],
-    "citations": 2304,
+    "citations": 2311,
     "doctype": "article",
     "doi": "10.21105/joss.00024",
     "page": 24,
@@ -8233,7 +8233,7 @@
       "Hogg, David W.",
       "O'Neil, Michael"
     ],
-    "citations": 633,
+    "citations": 636,
     "doctype": "article",
     "doi": "10.1109/TPAMI.2015.2448083",
     "page": 252,
@@ -8487,7 +8487,7 @@
       "Hogg, David W.",
       "Morton, Timothy D."
     ],
-    "citations": 281,
+    "citations": 284,
     "doctype": "article",
     "doi": "10.1088/0004-637X/795/1/64",
     "page": 64,
@@ -8731,7 +8731,7 @@
       "Lang, Dustin",
       "Goodman, Jonathan"
     ],
-    "citations": 14087,
+    "citations": 14126,
     "doctype": "article",
     "doi": "10.1086/670067",
     "page": 306,
@@ -8755,7 +8755,7 @@
       "Sanders, Jeremy",
       "Zuntz, Joe"
     ],
-    "citations": 234,
+    "citations": 235,
     "doctype": "software",
     "doi": null,
     "page": null,
